@@ -1,0 +1,142 @@
+﻿Default Mode, Executive Function, and Language Functional Connectivity Networks are Compromised in Mild Alzheimer ́s Disease
+Alzheimer’s disease, cognition, default mode network, functional connectivity, functional networks, resting-state networks.
+Alzheimer's disease (AD) is a clinical syndrome characterized by multiple cognitive problems, including difficulties in memory, language, visuospatial skills (VS), and executive functions (EF) as a result of a slow and progressive degeneration of brain structures.
+ Besides these anatomical degen- erations, recent advances in the neuroimaging of dementia have highlighted concurrent dysfunctions in functional connectivity networks (FCNs), which may also be involved with the main clinical symptoms of the disease.
+ In fact, most dementia processes are described as having specific network degeneration or deregulation [
+ FCNs can be described as groups of cortical and subcor- tical regions that are spatially distinct but functionally re- lated.
+ These FCNs can be obtained by the analysis of spontaneous modulation of the BOLD ("blood oxygenation level
+*Address correspondence to this author at the Department of Neurology, FCM, University of Campinas (UNICAMP), Cidade Universitária, Campi- nas-SP, Brazil, 13083-970; Tel/Fax: +55 (19) 3521-9217; Email: E-mail: 
+ 1567-2050/14 $58.00+.
+00
+dependent") signal, in the absence of an experimental para- digm or any other explicit stimulus.
+ This analysis is known as intrinsic functional connectivity or "resting-state” fMRI and this method can detect interregional fluctuations of the spontaneous BOLD signal.
+ Some studies suggest that AD is in part caused by a disconnection within cognitive networks and a failure to integrate the functionality of some regions into an efficient network [ 
+ Such disconnectivity, in fact, has been demonstrated using either structural or functional MRI [
+ The default mode network (DMN) is the most studied FCN in AD and there are several studies showing a break- down in the DMN connectivity, even during mild stages of the disease [
+ This is possibly due to an overlap occur- ring between its areas and amyloid plaques deposition, an early pathologic feature of the disease [
+ The DMN's function is not completely understood, but it is generally consid- ered that this network increases its activity when a person is not focused on activities directed at the external environ- ment.
+ Also, its key anatomical regions, which include the precuneus, posterior cingulate cortex (PCC), inferior parietal, hippocampus and medial prefrontal cortex (MPFC), may play an important role in episodic memory functions [
+ Little is known, however, about the integrity and the clinical significance of other FCNs that also process cogni-
+ There- fore, in this study, we aimed to map different FCNs – the DMN, language, EF, and VS – in mild AD patients, by ana- lyzing low-frequency fluctuations in resting-state functional connectivity MRI.
+ In addition, we also verified if there were any significant correlations between these FCNs and cognitive scores.
+ We hypothesized that mild AD patients would already present connectivity alterations in the FCNs described above, when compared with the healthy elderly, and also that FCNs would be related to changes in cognition.
+© 2014 Bentham Science Publishers
+Participants were recruited in the Neuropsychology and Dementia outpatient clinic (UNICAMP University Hospital).
+ Twenty-six healthy elderly subjects (20 women) and 22 mild AD patients (16 women) were evaluated in this study.
+ Expe- rienced attending doctors and neuropsychologists diagnosed the patients who met the National Institute of Neurological and Communicative Disease and Stroke and Alzheimer’s disease (NINCDS-ADRDA) criteria for a diagnosis of prob- able AD [
+ Examination of each subject included medical history, neurological examination, neuropsychological assessment, Clinical Dementia Rating (CDR) [
+ We only included patients who were classified as CDR 1.
+ The exclusion criteria included a history of other neurological or psychiatric diseases, previous head injury with loss of consciousness, drug or alcohol addiction, prior chronic exposure to neurotoxic substances, and a Hachinski ischemic score > 4.
+ All patients were using anticholines- therasics: donepezil (11 patients), rivastigmine (7 patients), and galantamine (4 patients).
+ Eight patients were using low doses of selective serotonin reuptake inhibitors (fluoxetine, sertraline, or citalopram).
+ Controls were identified as cognitively normal individuals who did not have any neurological or psychiatric disorders.
+ These individuals did not take psychoactive medication and they had normal Mini Mental Status Examination (MMSE) scores and structural images without any abnor- malities, considering age and education.
+ Memory complaints or neurological deficits were not observed in the healthy elderly.
+An experienced neuropsychologist, blinded to the MRI data, performed the neuropsychological evaluations.
+ Global cognitive status was measured using the MMSE [ 
+ Visual perception was assessed with the following tests: subtests of Luria’s Neuropsychological Investigation (LNI) [
+ EF was assessed by Trail Making Test B
+ Language tests included the Boston Naming Test (BNT) [
+ Statistical data analysis was performed using the SPSS software (version 20).
+ We performed independent sample t- tests for inter-group comparisons of the demographic and cognitive scores.
+ On occasions where data violated the as- sumptions of parametric tests, we performed the Mann- Whitney test.
+ Results were considered to be statistically significant when p < 0.05.
+All imaging was performed on a 3.0 T MRI Philips Achieva scanner.
+ Functional MRI were acquired while at rest, where subjects were instructed to keep their eyes closed and to avoid initiating attention-demanding activity.
+ The following protocol was applied to each subject: a) structural: sagittal high-resolution, T1-weighted, gradient-echo images were acquired with TR/TE=7/3.2 ms, a field of view (FOV) of 240 240, and isotropic voxels of 1 mm 3 and b) functional images were acquired during rest: axial T2*-weighted images had TR/TE=2000/30 ms, a FOV of 240 240, and isotropic voxels set to 3 3 3 mm 3 .
+ For each participant, we acquired 10 minutes of Echo Planar Image data.
+ The total of all the remaining images was equal to 300 volumes with 40 axial slices each.
+ All subjects underwent MRI scanning in the same week that the neuropsychological assessment was performed.
+Functional images were pre-processed by applying slice- time and motion-correcting algorithms and removing linear trends.
+ Data pre-processing also included smoothing with a 6 mm FWHM Gaussian kernel, bandpass filtering (0.008-0.1 Hz) and spatially normalized to standard space (MNI152).
+ Six parameters of head motion, three related to head transla- tion, and three associated to the head rotation (yaw, pitch, and roll), as well as cerebrospinal fluid and white matter time series, were regressed with the functional data to re- move variance associated with these variables.
+ All of these steps were performed with AFNI (
+ In this study, we performed a seed-based analysis, placing a seed (radius = 3mm) in: a) the PCC to identify the DMN (MNI coordinates: 0,-51,15), b) the left hemisphere: Broca ́s (-48,15,0) and Wernicke ́s (-48,-36,12) areas, to identify language networks, c) right (45,18,48) and left (- 45,18,48) dorsolateral prefrontal cortices (DLPFC) to identify EF networks, and d) right (36,-84,-3) and left (-36,-84,- 3) secondary associative visual cortices, to identify VS.
+ Spe- cifically, for each subject, the average time-course of voxels within each seed was extracted by generating a reference time series.
+ Each time series was then correlated with all the voxels for each subject.
+ Subsequently, r-scores of each voxel where then transformed using Fisher’s r-to-z method, so that these data could be used in parametric statistical analyses.
+Differences in connectivity between controls and patients regarding the different FCNs were estimated by using FSL's Randomize software [
+ For all analyses, the null distribu- tions of the non-parametric t-values were estimated using a permutation-based method (1,000 permutations) [
+ We used randomize’s Threshold-Free Cluster Enhancement method and p values were corrected for multiple comparisons by using family-wise error rates.
+ We also used FSL's Randomise to verify if there were positive or negative correlations between FCN maps and cognitive performance: DMN x episodic memory tests (RAVLT's encoding, delayed recall, and recognition), language network x language tests (BNT, FAS, and SVF), EF networks x EF tests (TMT B and the Stroop test), and VS network x visuospatial tests (LNI visuospatial subitems and the Rey-Osterrieth Complex Figure Test).
+ Since the groups were not matched for education, we included the number of years of formal study as a nuisance variable.
+ For these multiple regressions, we considered the two groups together (normal aging and mild AD) to increase our data variance and enhance the correlation between functional connectivity and cognitive function; we assumed that the more connected the network was, the better the cognitive performance and vice versa.
+ Statistical significance was set at a threshold of p < 0.05 and the false discovery rate was corrected for multiple comparisons.
+ All subjects who participated in this study provided written informed consent.
+ This study was approved by the Medi- cal Research Ethics Committee of UNICAMP University Hospital.
+ Local ethical committee approval and written informed consent (either from the subjects or from their responsible guardians, if incapable) were obtained before study initiation, according to the Declaration of Helsinki.
+There were no significant differences in gender (p = 0.83) and age (p=0.19) between mild AD and control subjects, but AD patients were less educated than controls (p < 0.05) ( 
+ AD patients performed worse than the healthy elderly in all cognitive tests.
+ Regarding differences in connectivity between the groups, we found that mild AD patients showed decreased connectivity in DMN and Language Networks (Wernicke ́s area) (
+ The opposite pattern was found in the EF network (right DLPFC), which showed increased connectivity in the mild AD group in relation to controls (
+ We did not find differences in connectivity between the groups regarding VS network (right or left), Broca’s area and left DLPFC.
+ Concerning the correlation between cognition and FCNs, statistically significant results were only observed between DMN connectivity and episodic memory (delayed recall) scores (
+ Other RAVLT’s episodic memory subitems such as encoding and recognition were not related to DMN connectivity.
+ All the other analyses showed no significant correlations (language networks x BNT, FAS and SVF; right and left DLPFC x TMT B and the Stroop test;
+In this study, we sought to investigate the possible alterations in different brain FCNs in mild AD patients and to verify if these alterations were correlated with cognitive performance.
+ We hypothesized that some FCNs would already be altered in AD, even at a mild phase.
+ Indeed, our findings showed that: (1) mild AD patients demonstrate alterations in some FCNs: increased connectivity in the EF network and decreased connectivity in the DMN and language networks, (2) the connectivity of the VS network, however, did not differ between mild AD patients and the control patients, and (3) DMN connectivity was correlated with episodic memory performance (delayed recall).
+ These results show that connectivity problems are one of the most prominent characteristics of mild AD and that these connectivity disruptions are not only restricted to the DMN.
+ However, we did not find significant correlations between other FCNs and the previously hypothesized cognitive function tests such as naming, semantic and phonemic fluency, VS, and EF.
+ In the light of these results, we discuss the relevance of connectivity breakdown in AD, especially in the DMN, and the consequent disruption of the complex interactions between these different networks, which could be partly responsible for these clinical symptoms.
+ Among all FCNs investigated in the AD field, the DMN is undoubtedly the most studied.
+ One reason is because this network includes cerebral regions affected early in the course of the disease like the PCC, the medial temporal lobes, and MPFC.
+ Atrophy, amyloid deposition [ 
+ In our study, mild AD patients had decreased connectivity in the DMN and this finding is in agreement with other studies stating diminished connectivity in this network [
+ In fact, individuals who are mildly cognitively impaired already present reduced network-related activity (while the respective volumes remained unaffected), suggesting effects of early degeneration [
+ Consequently, DMN functional connectivity alteration has been proposed as a biomarker for mild AD, adding to findings of gray-matter atrophy.
+ Regarding cognitive issues, it is known that the DMN mediates cognitive functions.
+ However, despite the amount of knowledge about the DMN’s physiology and anatomy specifically, the cognitive functions of this network are still poorly understood.
+ It has been said that it is not only the DMN that contributes to cognitive performance, but also the interaction among different networks (i.e., internetwork connectivity) [
+ In our study, we found that DMN connectivity was related to a delayed recall subitem of RAVLT, suggesting further evidence of the DMN’s role in episodic memory performance.
+ In other words, mild AD patients’ difficulties in memory processing could be explained by DMN connectivity loss, in addition to medial temporal lobe atrophy commonly found.
+ The activity of the entire network activity is associated with the absence of spontaneous speech and a propensity for mind wandering [
+ For example, PCC activity is associated with self-referential process and autobiographical memory, the MPFC is associated with social functions, the medial temporal lobe relates to episodic memory, and the inferior parietal cortex is associated with semantic processing and attention [
+ The fact that this network is deactivated by memory tasks and some of its components are targeted by amyloid deposition in AD highlights the role of the DMN in episodic memory.
+ In fact, AD patients show problems deactivating this network prop- erly [
+ An- other interpretation that has been proposed to explain the
+ Either way, the relationship of the DMN and memory processing is once more supported by our results, where hypoconnectivity was correlated with lower delayed recall scores in mild AD patients.
+ The DMN is one of the first FCNs affected by the dis- ease, as stated above, which causes cognitive damage and possibly behavioral alterations.
+ However, the DMN is not the only network affected and the mechanism in which the pathology advances to other FCNs is not known.
+ In this study, the DMN showed alterations in connectivity, but the language and EF networks did as well.
+ Although we did not find significant correlations with the respective cognitive tests, such alterations could be clinically observed in neuro- psychological assessments, where patients performed worse in both language and EF tests.
+ Two different hypotheses have been proposed to explain the spread of the pathology
+ According to our results, this fact is also observed in AD patients.
+ Whereas the DMN, language, and EF networks all showed alterations in connectivity – either hypo or hyperconnection – the VS network did not differ
+ Areas of significant decrease in functional connectivity in mild AD patients in comparison to normal aging: A) DMN; B) Wernicke's area. p < 0.05, family-wise error corrected.
+ Areas of increased functional connectivity in mild AD patients in relation to controls in EF network (seed placed at Right DLPFC). p < 0.05, family-wise error corrected.
+ Areas of significant correlation between DMN functional connectivity and RAVLT's delayed recall subitem. p < 0.01, false discovery rate corrected.
+between controls and patients.
+ The progression of symptoms in AD has been related to the topographic progression of neurofibrillary tangles composed of hyperphosphorylated tau, which first affects the medial temporal lobe and PCC and lastly affects the sensorimotor and occipital cortex [ 
+ Such progression has been supported by the theory of retro- genesis, which says that early myelinating regions are less susceptible to damage, due to the presence of larger diameter axons and a higher oligodendrocyte-to-axon ratio [
+ The visual cortex in the occipital lobe is an early myelinating area and therefore is not affected until the late stages of the disease, whereas the medial temporal lobe is affected in the earlier stages of the disease.
+ In our study, the VS network was the only network that was not affected in mild AD patients, further supporting the idea that the associative visual areas are affected late by the physiopathology, as opposed to the other networks that are affected at an earlier stage of the disease.
+ It is important to state that in this study we did not include the visual variant of AD, or posterior cortical atrophy patients.
+ If we had, we would probably have found alterations in VS network connectivity.
+ Despite this fact, our AD patients performed worse than the controls in visual percep- tion and constructive praxis, which could mean they may have problems in other aspects of VS, possibly mediated by parietal structures such as angular or supra marginal gyri.
+ Possibly, if we had put the seed in these regions, we might have found different results.
+ The failure of the DMN regions to interact at a high level of coordination and efficiency could establish the cognitive deficits presented in our AD patients.
+ In other words, the whole network activity and integration plays a fundamental role in cognitive functioning, not only within specific network areas.
+ Negative connectivity between the DMN and EF networks (which showed hyperconnection) is an interesting phenomenon and has already been observed in other studies (see, for example, [
+ These FCNs interact in a complex way that is not yet fully understood.
+ Disruptions of these networks and the complex relationships among them con- tribute to specific patterns of cognitive and behavioral im- pairments clearly observed in AD.
+ For example, some authors suggest a close interaction between the DMN, the Salience network, and the EF network.
+ The Salience network, composed of structures such as the fronto-insular cor-
+ This network is functionally related to the DMN and some authors have proposed that the salience network plays a role in switching brain states from the DMN to the external task- related activity mode [
+ In contrast, the EF network is equipped to operate on identified salience.
+ Such operations require directing attention to pertinent stimuli as behavioral choices are weighed against shifting conditions, background homeostatic demands, and context [
+ Some authors have showed an anticorrelation in connectivity between the DMN and the Salience network in AD [
+ Although we did not evaluate the salience network in the present study, a previous paper of our group including mild to moderate AD patients also found similar results.
+ In addition, that study also showed that these patients have an enhanced detection of environmental stimuli [
+ In the present study, we found an increased connectivity in the EF network that may represent a way to deal with the dysfunc- tional salient stimuli detected by a hyperconnected salience network.
+ Although we did not find significant correlations between executive tests and EF network as other authors did [
+ Finally, the limitations of our work have to be acknowl- edged.
+ We did not adjust our data to gray-matter measures.
+ The question whether cortical atrophy could be responsible for alterations in connectivity is not completely known.
+ An- other issue without conclusive outcomes is whether connectivity problems precede or are a consequence of atrophy.
+ Some authors demonstrated that disconnection precedes atrophy in the PCC [
+ In addition, other studies showed that functional connectivity alterations could not be explained by atrophy alone, suggesting that both mechanisms either occur inde- pendently [
+ Moreover, our data were corrected for multiple comparisons in a conservative way, a method that reinforces our results.
+ Other FCNs related to language and EF are hypoconnected or hyperconnected (an alteration that possibly reflects a compensatory mechanism).
+ However, we found in this group of subjects that DMN connectivity and episodic memory performance are significantly related.
+The author(s) confirm that this article content has no con- flicts of interest.

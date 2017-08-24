@@ -1,0 +1,603 @@
+﻿Resting activity in visual and corticostriatal pathways in Parkinson's disease with hallucinations
+Background: Visual hallucinations are an important non-motor complication of Parkinson's disease (PD) and carry a negative prognosis.
+ Their biological basis is uncertain, but may relate to the activity of resting state networks in brain.
+ We therefore aimed to investigate functional activity of brain in patients with visual hallucinations (PDVH) in resting state compared to patients without hallucinations (PDnonVH) and a healthy control group (HC).
+ Methods: Resting state functional MRI was acquired and the primary analysis compared the amplitude of low-frequency fluctuations (ALFF) across groups.
+ This informed a secondary analysis, in the PD groups only, comparing functional connectivity between a ‘seed’ region in the occipital lobe and the rest of the brain.
+ Results: Individuals with PDVH showed lower ALFF in bilateral lingual gyrus and cuneus and greater ALFF in temporo-parietal regions, medial temporal gyrus and cerebellum than PDnonVH and HC.
+ PDnonVH also had lower ALFF in occipitoparietal region and greater ALFF in medial temporal gyrus, temporo- parietal and cerebellum regions than HC.
+ Functional connectivity analysis revealed that, although both PD groups had lower occipital functional connectivity relative to the HC group, occipital e corticostriatal connectivity was significantly higher in those with PDVH compared with PDnonVH.
+ Conclusion: Our study reveals widespread hemodynamic alterations in PD.
+ However, within a func- tionally abnormal occipital lobe, those with PDVH have even lower ALFF than non-hallucinators, but have higher occipital functional connectivity with cortical-striatal regions.
+ These findings suggest disruption of pathways underpinning both primary visual perceptual and intrinsic visual integration may contribute to visual hallucinations in PD. © 2014 Elsevier Ltd. All rights reserved.
+* Corresponding author.
+ Department of Forensic and Neurodevelopmental Science, Institute of Psychiatry, King's College London, London SE5 8AZ, UK.
+ Tel.: þ44 (0)20 78480831. ** Corresponding author.
+ Tel.: þ852 22553315.
+ E-mail addresses: grainne.mcalonan@kcl.ac.uk (G. McAlonan), slho@hku.hk (S.-L.
+ Ho).
+Parkinson's Disease (PD) is classically regarded as a motor disorder, but non-motor manifestations also occur [ 1].
+ One of the most common and striking features is visual hallucinations [2].
+ Visual hallucinations affect 20e75% of patients with PD, and predict de- mentia and mortality [3].
+ The underlying biology of visual hallucinations in PD remains poorly understood but is thought to involve functional abnormalities in primary visual cortex along with altered activity in visual associative cortices [4].
+ Altered task- dependent hemodynamic activity has also been observed in frontal and subcortical regions in individuals with PD and visual hallucinations (PDVH) [5, 6], suggesting that top-down regulatory processes may contribute [7].
+ However, the direction of findings reported in functional studies has not always been consistent.
+ This is likely to be at least partly due to the distinct demands of different task designs, therefore an investigation of baseline function is of potential clinical value.
+ We previously examined activity within the default mode network in PDVH.
+ We found that PDVH had greater coactivation within this network compared to PD patients without visual hallucinations (PDnonVH) [8].
+ We also reported disrupted functional connectivity between frontal regions and the hippocampus in PDVH [9].
+ We interpreted these findings as supporting the hypothesis of interrupted top-down processing in PDVH [7].
+ However, we did not examine whole brain functional activity in PDVH.
+ Amplitude of low-frequency fluctuation (ALFF) has been developed by Zang et al. [10] to measure whole-brain resting-state (rs)-fMRI.
+ ALFF has been linked to neuronal glucose metabolism [11] and correlates with local field potential activity [12].
+ Alter- ations in ALFF have described in a number of disorders including schizophrenia and major depressive disorder [13, 14], making the patterns of ALFF alterations potentially useful biomarkers for complex neuropsychiatric conditions.
+ In this study, we first compared resting whole brain activity in individuals with PD with and without visual hallucinations and an unaffected elderly control (HC) group.
+ We then examined resting state functional connectivity between a ‘seed’ region, defined by result of the ALFF analysis, and the rest of the brain.
+ We hypothesized that the PDVH would have altered ALFF in visual cortices reflecting a deficit in visual processing.
+ In addition, we predicted that there would be functional connectivity abnormalities between primary visual cortex and ‘higher-order’ brain regions in PDVH.
+http://dx.doi.org/10.1016/j.parkreldis.2014.11.020 1353-8020/© 2014 Elsevier Ltd. All rights reserved.
+
+        
+      
+2.
+ Materials and methods 2.1.
+ Participants Eligible patients were referred by the Movement Disorders Clinic by the attending neurologist, whilst HC were recruited from the patient's social network or the local community by advertisement.
+ Parkinson's disease was diagnosed accord- ing to the criteria of the UK Parkinson's Disease Society Brain Bank.
+ The assessments included the following: Hoehn and Yahr Scale [15] to assess stage of illness; Unified Parkinson's Disease Rating Scale (UPDRS; Fahn et al., 1987), part III to evaluate motor symptom severity; MontgomeryeÅsberg Depression Rating Scale e Self-assessment (MADRS-S) [16] to rate depressive symptoms; Mini-Mental State Examination (MMSE) [17] to assess cognitive impairment; and the Parkinson Psychosis Rating Scale (PPRS) [18] to assess psychosis.
+ The PPRS includes a detailed description of visual hallucinations recorded from patients and caregivers.
+ Patients were recruited who experienced repetitive and complex visual hallucinations usually reporting seeing these as well-formed persons, animals or objects, lasting for at least 4 weeks and occurring at least once every 4 weeks.
+ Exclusion criteria were: neurological disorders other than Parkinson's disease; other psychiatric disorders; mild to moderate depressive symptoms (MADRS >6); severe cognitive impairment if the MMSE <24.
+ All participants were right handed.
+ A levodopa equivalent dose (levodopa and dopaminergic agonists) was calculated as described in the literature [19].
+ All participants were reimbursed for travel expenses and signed informed consent for participation.
+ The study was ethically approved by the local Institutional Review Board.
+ Demographic and clinical characteristics are described in Table 1.
+ 2.2.
+ MRI data acquisition Resting functional MRI data were acquired by a 3T scanner (Achieva; Philips Healthcare, Hong Kong) using the 8-channel phased-array head coil with patients in the supine position.
+ The functional imaging data were acquired using a gradient- echo echo-planar imaging (EPI) sequence sensitive to BOLD contrast.
+ Acquisition parameters were: TR 1⁄4 1800 ms; TE 1⁄4 30 ms; flip angle 1⁄4 90 ; 220 volumes; 45 axial slices; anterior-posterior acquisition; in-plane resolution 1⁄4 3.75 Â 3.75 mm; slice thickness 1⁄4 4 mm; field of view 1⁄4 240 Â 180 Â 240 mm; acquisition time 1⁄4 6.6 min.
+ Slice acquisition order was contiguous.
+ Earplugs were used to reduce scanner noise and head motion was restricted by a foam pillow as well as extendable padded head clamps.
+ Participants were asked to simply rest in the scanner with their eyes closed before each resting state scan and not fall asleep while remaining as still as possible.
+Table 1 Demographic and clinical profile of HC, PDnonVH and PDVH.
+      
+Demographics HC (SD) PDnonVH PDVH (SD) p-value (n 1⁄4 14) (SD) (n 1⁄4 12) (n 1⁄4 12) Age 64.1 (4.0) 63.4 (7.4) 67.6 (7.4) 0.234 Gender (females/males) 8/6 8/4 9/3 0.631 Duration of illness (years) n/a 8.4 (5.1) 10.0 (3.5) 0.400 Duration of VH (months) n/a n/a 22.6 ± 17.3 n/a Hoehn and Yahr stage n/a 2.8 (0.9) 3.2 (0.7) 0.160 UPDRS-III score n/a 18.0 (12.9) 20.9 (10.6) 0.553 Levodopa dose (mg) n/a 704.9 (519.4) 978.7 (361.3) 0.148 Affected body side (R/B/L) n/a 6/1/5 4/3/5 0.497 MMSE score 29.1 (0.7) 28.5 (1.7) 27.6 (2.4) 0.092 MADRS-S score 0.4 (0.7) 1.2 (1.8) 2.2 (2.0) 0.025 a PPRS score (6e24) 6.1 (0.3) 6.4 (0.6) 8.7 (1.2) <0.001 b Continues data are presented in mean ± SD.
+ MMSE, Mini-Mental State Examination; MADRS-S, MontgomeryeÅsberg Depression Rating Scale e Self-assessment; UPDRS, Unified Parkinson's Disease Rating Scale; PPRS, Parkinson Psychosis Rating Scale; PANSS, The positive and negative syndrome scale; HC, healthy control; PDnonVH, Parkinson's disease without visual hallucination; PDVH, Parkinson's Disease with visual hallucination.
+ R, right side; L, left side; B, both. n/a 1⁄4 not applicable; p values of two group comparisons were calculated using Independent-Samples t-tests (chi-squared test for gender and affected body side); p values of three group comparisons were calculated using one- way ANOVA. a p < 0.05. b p < 0.01.
+ Three-dimensional T1-weighted anatomical MRI were also acquired with fast field echo sequence (Magnetization Prepared Rapid Gradient Echo, MPRAGE), with the parameters: TR 1⁄4 6895 ms; TE 1⁄4 3.16 ms; FA 1⁄4 8 ; 1 Â 1 Â 1 mm voxels; FOV 1⁄4 250 Â 250 Â 155 mm; number of slices 1⁄4 155.
+ 2.3.
+ Functional imaging analysis 2.3.1.
+ Image preprocessing of resting fMRI Preprocessing was performed using SPM8 (http://www.fil.ion.ucl.ac.uk/spm). First, all functional images were corrected for slice timing and head movement.
+ Functional scans with excessive head movement >2.5 mm of displacement or >2.5 of rotation in any direction were discarded.
+ Prior to band-pass filtering (0.01e0.08 Hz), the following nuisance covariates were regressed from the BOLD signal: six rigidebody parameters; white matter signal; cerebrospinal fluid signal.
+ After generation of ALFF and functional connectivity, all functional data were normalized to the Montreal Neurological Institute (MNI) space by applying the transformation parameters obtained from the structural images (see the following “structural image analysis” section for details) to those time and motion corrected and nuisance covaried images, resampled (3 Â 3 Â 3 voxels) and smoothed (4-mm full width at half maximum (FWHM) Gaussian kernel).
+ 2.4.
+ ALFF calculations At each voxel the BOLD time series was first converted to the frequency domain using a Fast Fourier Transform and the square root of the power spectrum was computed and then averaged across a specified frequency range (0.01e0.08 Hz) to remove residual low and high frequency noise in resting state.
+ Once transformed by Fisher's Z to reduce the global effects of variability across participants, this value is referred to as the ALFF for a given voxel [10].
+ Calculations were made using REST software version 1.8 (www.restfmri.net) [20].
+ 2.5.
+ Functional connectivity of the occipital seed Functional connectivity was based on a seed-region approach and conducted in MNI space.
+ The area in occipital lobe with a significantly lower ALFF signal in the PDVH compared to PDnonVH was selected as the seed region.
+ For all participants, mean occipital time series extracted from the seed region were correlated with the time series at all other brain voxels using Pearson's coefficient of correlation fol- lowed by Fisher's r-to-z transformation.
+ 2.6.
+ Structural image analysis Individual structural T1-weighted images were co-registered to the mean motion-corrected functional images using a linear transformation.
+ They were then segmented into gray matter, white matter (WM), and cerebrospinal fluid (CSF) in MNI space by using “New Segment” in SPM8.
+ DARTEL [21] was then used to create a study-specific template.
+ GM, WM and CSF were then normalized to MNI space and smoothed with an 8-mm FWHM Gaussian kernel.
+ Mean modulated and smoothed GM maps (intensity threshold 1⁄4 0.2) were used to generate a group GM mask and
+applied as a mask for analyzing ALFF differences in the comparisons, specific to the groups involved in a particular test.
+ 2.7.
+ Statistical analysis Between-group voxel-wise comparisons were performed using two sample t- test.
+ The ALFF and functional connectivity comparisons were restricted within the corresponding GM mask generated as described above.
+ All the statistical tests were corrected for multiple comparisons to a significance level of p < 0.05 using Monte Carlo simulations (uncorrected single voxel significance level of p < 0.05 and a minimum cluster size based on the size of the gray matter mask of each load) [22].
+ Independent two sample t-tests were used to compare demographic factors between groups, using Statistical Package for Social Sciences (version 15.0.1) (SPSS for Windows, 2006), a chi-squared test was used to compare gender and affected body side among groups.
+ The relationship between levodopa-equivalent dosage and ALFF/functional connectivity results in PDVH group was assessed with Pearson correlation analysis.
+ A similar analysis between PD severity (UPDRS-III score)/MMSE scores and ALFF/functional connectivity results in the PD group was also undertaken.
+Thirty-eight (38) individuals had useable data; 24 were patients with Parkinson's Disease idiopathic type (comprising 12 with visual hallucinations and 12 without) and 14 unaffected healthy controls.
+ The characteristics of the study participants are shown in Table 1.
+ All participants were matched for age (>50 years), gender and MMSE score.
+ PD participants were matched for duration of PD illness, motor symptom severity, PD stage, levodopa-equivalent dosage.
+ All were described as in the “on” state during the assessment.
+ In the group of PDVHs, four reported having visual hallucinations about 1e3 times per month, five had hallucinations 1e2 times per week, and three reported having hallucinations every day.
+ Nine participants experienced hallucinations of people, 1 participant of animals and objects, 1 of only objects, and 1 experienced ‘presence of a person’ hallucinations.
+ Two patients reported visual illusions in addition to visual hallucinations.
+ Three patients with visual hallucinations were on antipsychotic medication.
+ The visual hallucinations were benign in all patients, with insight intact.
+ Participants were asked if they experienced hallucinations in the scanner e none were reported.
+ Moreover, participants were asked not to fall asleep during scan at the beginning of scan and in the middle of each scan session.
+Table 2 Group difference in ALFF and functional connectivity.
+            
+               Direction of Number x y z Side difference of voxels
+              
+                
+                  
+                     ALFF
+                     HC vs PDnonVH
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                  
+                
+                
+                  
+                    
+                     Lower in PDnonVH
+                     153
+                     À3
+                     À72
+                     54
+                     L
+                     Occipital lobe/parietal lobe/precuneus/cuneus
+                     7/19
+                     À3.8072
+                  
+                  
+                    
+                    
+                     85
+                     À18
+                     À42
+                     75
+                     L
+                     Superior parietal lobe/precuneus
+                     5/7
+                     À4.1417
+                  
+                  
+                    
+                     Greater in PDnonVH
+                     335
+                     18
+                     À57
+                     À57
+                     L
+                     Cerebellum posterior lobe
+                     n/a
+                     4.8279
+                  
+                  
+                    
+                    
+                     115
+                     À24
+                     0
+                     À33
+                     L
+                     Medial temporal lobe/temporal lobe/fusiform gyrus/parahippocampal gyrus
+                     38/36
+                     3.9782
+                  
+                  
+                    
+                    
+                     218
+                     À42
+                     À36
+                     À27
+                     L
+                     Cerebellum anterior Lobe
+                     n/a
+                     4.0852
+                  
+                  
+                    
+                    
+                     181
+                     57
+                     6
+                     À39
+                     R
+                     Middle temporal gyrus/inferior temporal gyrus
+                     20
+                     3.7508
+                  
+                  
+                    
+                    
+                     97
+                     57
+                     À21
+                     36
+                     R
+                     Postcentral gyrus/inferior parietal lobe
+                     40
+                     3.432
+                  
+                  
+                    
+                     HC vs PDVH
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                  
+                  
+                    
+                     Lower in PDVH
+                     1124
+                     À6
+                     À78
+                     6
+                     R/L
+                     Occipital lobe/cuneus/lingual gyrus
+                     18/19/17
+                     À4.6954
+                  
+                  
+                    
+                    
+                     89
+                     24
+                     30
+                     39
+                     R
+                     Superior frontal gyrus/middle frontal gyrus
+                     8
+                     À3.7472
+                  
+                  
+                    
+                     Greater in PDVH
+                     3060
+                     18
+                     À60
+                     À60
+                     R/L
+                     Cerebellum/temporal lobe/medial temporal lobe/ inferior parietal lobe/hippocampus/fusiform gyrus/ parahippocampal lobe
+                     n/a
+                     6.4999
+                  
+                  
+                    
+                    
+                     106
+                     À66
+                     À24
+                     À27
+                     L
+                     Inferior temporal gyrus/middle temporal gyrus
+                     21/20
+                     3.8531
+                  
+                  
+                    
+                    
+                     236
+                     51
+                     À21
+                     À12
+                     R
+                     Inferior temporal gyrus/middle temporal gyrus
+                    
+                     4.4654
+                  
+                  
+                    
+                     PDnonVH vs PDVH
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                  
+                  
+                    
+                     Lower in PDVH
+                     115
+                     6
+                     À84
+                     À12
+                     R
+                     Occipital lobe/lingual gyrus
+                     18
+                     À3.9327
+                  
+                  
+                    
+                    
+                     282
+                     À9
+                     À78
+                     6
+                     L/R
+                     Occipital lobe/cuneus/lingual gyrus
+                     18
+                     À3.6261
+                  
+                  
+                    
+                     Greater in PDVH
+                     178
+                     36
+                     À81
+                     À33
+                     R
+                     Cerebellum posterior lobe
+                     n/a
+                     3.5551
+                  
+                  
+                    
+                    
+                     143
+                     36
+                     À21
+                     À21
+                     R
+                     Medial temporal lobe/parahippocampal gyrus/ hippocampus/fusiform gyrus
+                     36
+                     3.7831
+                  
+                  
+                    
+                    
+                     127
+                     54
+                     À57
+                     15
+                     R
+                     Inferior parietal lobe/superior temporal lobe
+                     40/39
+                     3.7015
+                  
+                  
+                     Functional
+                     PDnonVH vs PDVH
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                  
+                  
+                     Connectivity
+                     Greater in PDVH
+                     141
+                     À6
+                     15
+                     À21
+                     L/R
+                     Inferior/superior/middle/medial frontal gyrus/superior temporal lobe
+                     11/47
+                     3.7766
+                  
+                  
+                    
+                    
+                     116
+                     45
+                     À18
+                     6
+                     R
+                     Superior temporal gyrus
+                     38/13
+                     3.4025
+                  
+                  
+                    
+                    
+                     190
+                     21
+                     6
+                     18
+                     R
+                     Caudate/thalamus
+                     n/a
+                     3.6125
+                  
+                  
+                    
+                    
+                     191
+                     3
+                     0
+                     39
+                     R
+                     Dorsal anterior cingulate cortex/ventral medial prefrontal cortex
+                     24/32
+                     3.8263
+                  
+                  
+                     Group ALFF differences
+                     are shown at p < 0.05
+                     of multiple
+                     comparison
+                     correction
+                     extending
+                     (cluster size
+                     1⁄4 2160 mm 3 , t > 2.05 (or t < À2.05)). x, y, z: coordinates
+                     in the MNI atlas
+                     extending extending
+                  
+                  
+                     from z 1⁄4 À60 mm to
+                     þ85 mm. BA: Brodmann
+                     area. T
+                     values from
+                     a t-test of
+                     the peak
+                     voxel
+                     (showing greatest statistical difference within a cluster),
+                     a negative T
+                     value means
+                  
+                  
+                     decreased ALFF in
+                     PDVH. L, R: left and right.
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                  
+                  
+                     Group differences in
+                     functional connectivity
+                     are shown
+                     at p < 0.05
+                     corrected
+                     for
+                     multiple
+                     comparisons (cluster size 1⁄4 2160 mm 3 , t > 2.07 (or t <
+                     À2.07)). x, y, z
+                     coordinates are
+                  
+                  
+                     the MNI atlas. BA:
+                     Brodmann area. T values
+                     from a
+                     t-test of the
+                     peak
+                     voxel
+                     (showing
+                     greatest statistical difference within a cluster), a negative
+                     T value means
+                     decreased decreased
+                  
+                  
+                     functional connectivity
+                     in PDVH group. L, R:
+                     left and
+                     right. n/a 1⁄4
+                     not
+                     applicable.
+                    
+                    
+                    
+                    
+                  
+                
+              
+            
+            Direction of Number x y z Side difference of voxels ALFF HC vs PDnonVH Lower in PDnonVH 153 À3 À72 54 L Occipital lobe/parietal lobe/precuneus/cuneus 7/19 À3.8072 85 À18 À42 75 L Superior parietal lobe/precuneus 5/7 À4.1417 Greater in PDnonVH 335 18 À57 À57 L Cerebellum posterior lobe n/a 4.8279 115 À24 0 À33 L Medial temporal lobe/temporal lobe/fusiform 38/36 3.9782 gyrus/parahippocampal gyrus 218 À42 À36 À27 L Cerebellum anterior Lobe n/a 4.0852 181 57 6 À39 R Middle temporal gyrus/inferior temporal gyrus 20 3.7508 97 57 À21 36 R Postcentral gyrus/inferior parietal lobe 40 3.432 HC vs PDVH Lower in PDVH 1124 À6 À78 6 R/L Occipital lobe/cuneus/lingual gyrus 18/19/17 À4.6954 89 24 30 39 R Superior frontal gyrus/middle frontal gyrus 8 À3.7472 Greater in PDVH 3060 18 À60 À60 R/L Cerebellum/temporal lobe/medial temporal lobe/ n/a 6.4999 inferior parietal lobe/hippocampus/fusiform gyrus/ parahippocampal lobe 106 À66 À24 À27 L Inferior temporal gyrus/middle temporal gyrus 21/20 3.8531 236 51 À21 À12 R Inferior temporal gyrus/middle temporal gyrus 4.4654 PDnonVH vs PDVH Lower in PDVH 115 6 À84 À12 R Occipital lobe/lingual gyrus 18 À3.9327 282 À9 À78 6 L/R Occipital lobe/cuneus/lingual gyrus 18 À3.6261 Greater in PDVH 178 36 À81 À33 R Cerebellum posterior lobe n/a 3.5551 143 36 À21 À21 R Medial temporal lobe/parahippocampal gyrus/ 36 3.7831 hippocampus/fusiform gyrus 127 54 À57 15 R Inferior parietal lobe/superior temporal lobe 40/39 3.7015 Functional PDnonVH vs PDVH Connectivity Greater in PDVH 141 À6 15 À21 L/R Inferior/superior/middle/medial frontal 11/47 3.7766 gyrus/superior temporal lobe 116 45 À18 6 R Superior temporal gyrus 38/13 3.4025 190 21 6 18 R Caudate/thalamus n/a 3.6125 191 3 0 39 R Dorsal anterior cingulate cortex/ventral 24/32 3.8263 medial prefrontal cortex Group ALFF differences are shown at p < 0.05 of multiple comparison correction (cluster size 1⁄4 2160 mm 3 , t > 2.05 (or t < À2.05)). x, y, z: coordinates in the MNI atlas extending from z 1⁄4 À60 mm to þ85 mm. BA: Brodmann area. T values from a t-test of the peak voxel (showing greatest statistical difference within a cluster), a negative T value means decreased ALFF in PDVH. L, R: left and right. Group differences in functional connectivity are shown at p < 0.05 corrected for multiple comparisons (cluster size 1⁄4 2160 mm 3 , t > 2.07 (or t < À2.07)). x, y, z coordinates are in the MNI atlas. BA: Brodmann area. T values from a t-test of the peak voxel (showing greatest statistical difference within a cluster), a negative T value means decreased functional connectivity in PDVH group. L, R: left and right. n/a 1⁄4 not applicable.
+          
+ALFF results for the between-group comparisons are shown in Table 2.
+ The result between PDnonVH and PDVH are also shown in Fig. 1.
+ The group comparison between HC and the two PD groups (PDVH and PDnonVH) are shown in Supplementary Fig. 1.
+ PDVH participants had lower ALFF in bilateral lingual gyrus and cuneus than PD non-hallucinators.
+ This joint occipital seed region was used for analysis of functional connectivity, please see panel A of Fig. 2.
+ Higher ALFF was observed in medial temporal lobe (including parahippocampus and hippocampus) and fusiform gyrus, inferior parietal gyrus and superior temporal gyrus (temporo- parietal gyrus), and right cerebellum in PDVH group compared to PDnonVH.
+ When depression scores were introduced as covariates, the difference between PD groups remained.
+ There was no significant correlation between levodopa-equivalent dosage and ALFF results in PDVH group, and no significant correlation between PD severity/cognitive ability and ALFF results in PD patients.
+ Compared to HC, the PDVH group had lower ALFF in cuneus, lingual gyrus and superior/middle frontal gyrus, and greater ALFF in medial and inferior temporal gyrus, inferior parietal gyrus and cerebellum.
+ PDnonVH group had a similar pattern of differences compared to HC; namely, lower ALFF in cunues and precuneus, and greater ALFF in medial temporal lobe, temporo-parietal lobe and cerebellum.
+ Functional connectivity results of between-group comparisons are displayed in Table 2.
+ The comparison between PDnonVH and PDVH is shown in Fig. 2.
+ The group comparison between HC and the two PD groups (PDVH and PDnonVH) is shown in Supplementary Fig. 2.
+ Both PD groups had lower occipital functional connectivity with widespread brain regions compared to HCs.
+ However, within the PD groups, occipital functional connectivity with inferior/superior/ middle and ventral medial prefrontal cortex, superior temporal gyrus, caudate, thalamus and anterior cingulate cortex (ACC) was greater in PDVH compared to the PDnonVH group.
+ No instances of lower functional connectivity were observed in PDVH participants compared to PDnonVH.
+ There was no significant correlation between levodopa-equivalent dosage and functional connectivity results in the PDVH group (see supplementary table), and no significant correlation between PD severity and functional connectivity in the PD group.
+Brain regions
+BA
+T value
+
+            Fig. 1. ALFF differences between PDnonVH and PDVH. The difference map corrected for multiple comparisons.Green indicates decreased ALFF in the PDVH group compared to PDnonVH group, while the red indicates the converse. The column bars show average ALFF z scores (±standard error) of the joint occipital clusters (cuneus and lingual gyrus) with significant difference between PDVH and PDnonVH groups. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)
+          
+3.3.
+ Functional connectivity
+The current study showed that PDVH had lower ALFF (or intrinsic resting-state brain activity fluctuation) in the primary visual cortex and higher ALFF in visual associative cortices and cerebellum, relative to both PDnonVH and HC.
+ PDnonVH also had less ALFF in primary visual cortex and superior parietal cortex compared to HCs.
+ In a subsidiary investigation of functional connectivity between occipital region and other brain areas, PDVH showed greater occipital functional connectivity in bilateral frontal cortex and right superior temporal gyrus, caudate and thalamus, and right dorsal anterior cingulate cortex (dACC) compared to PDnonVH.
+The results support our hypothesis that there is abnormal resting activity in visual cortices in PDVH.
+ The results are consistent with the prevailing literature in Parkinson's disease with visual hallucinations, which has reported functional abnormalities in primary visual cortex [23].
+ The functional deficit observed in occipital cortex here may be a consequence of intrinsic visual cortical pathology, and is consistent with reports of other visual processing anomalies in PDVH such as double vision [24] and disturbance of visual accuracy [25].
+Visual associative cortices such as temporo-parietal cortices and medial temporal gyrus had greater hemodynamic fluctuation in PDVH compared to PDnonVH.
+ The dual stream hypothesis of visual  processing [26] places the parietal regions in the dorsal visual pathway, whereas the temporal regions belong to the ventral visual pathway.
+ Both pathways originate in occipital regions then project through inferior parietal and inferior temporal gyri respectively to the perirhinal-hippocampal cortices.
+ Dual pathway disruption has been postulated to underlie visual hallucinations in Parkinson's Disease [27], and our result of higher ALFF in temporo-parietal and hippocampal regions might support this notion.
+ In contrast to our result of higher ALFF in temporo-parietal regions, Boecker et al., 2007 reported reduced regional cerebral metabolic rate for glucose consumption in visual associative cortices in PDVH [28].
+ The discrepant directions of effect reported in our two studies may be due to differences in the sample characteristics - our participants with visual hallucinations were relatively less impaired.
+ Alternatively, the indices used may have different physiological bases that ALFF reflects neuronal energy consumption [11].
+ Our observation of high ALFF in visual associative cortex is also at variance with reports of lower task-dependent functional activity in these regions in PDVH [4].
+ We speculate that higher ALFF in visual associative cortices implies greater neuronal energy consumption at rest [11] possibly leaving limited ‘reserve’ for the demands of a task-dependent design.
+ This aberrant resting state activation in PDVH may constitute the physiological signature of inappropriate intrinsic visual memory processes as proposed by the ‘disinhibition hypothesis’ of PDVH [27].
+ The occipital region (cuneus and lingual gyrus) which had lower ALFF in PDVH compared to PDnonVH was used as seed region of interest to investigate functional connectivity across the entire brain (see Fig. 2).
+ Compared with PDnonVH, PDVH showed increased occipital functional connectivity with the prefrontal gyrus, dACC, superior temporal gyrus and midbrain including caudate and thalamus.
+ This is in line with our previous findings of ‘top-down’ anomalies in this cohort, namely greater functional connectivity within the default mode network (including prefrontal cortex) [8] and greater functional connectivity between hippocampus and bilateral frontal cortex [9] in PDVH compared to PDnonVH.
+ Our observation of pathology within this cortico-striato- thalamic circuitry is also a feature of other psychotic conditions [29].
+ Thus, in psychosis, altered functional activity in this network may disrupt the cognitive control to overcome distractions or competing responses [29].
+ Specifically in PDVH, greater occipital- corticostriatal connectivity could signal a failure to regulate visual processing, including filtering distracting information.
+ Placed together, lower ALFF in the occipital cortex, higher ALFF in visual associative cortices and altered functional connectivity with cortico-striatal systems in PDVH, fits well with the theory that visual hallucinations result from limited “bottom-up” peripheral sensory input from primary visual cortex and unconstrained “top- down” processing of endogenous images and attentional cognitive control from frontal regions.
+ ALFF was greater in cerebellum in the PDVH compared to the PDnonVH.
+ Hemodynamic change in cerebellum has been little investigated in PDVH, possibly because of task design or scan coverage.
+ Increasingly, studies have substantiated the view that the human cerebellum not only subserves motor control but also supports cognitive processes including visual processing [30].
+ It is also thought that the cerebellum helps predict visual perceptual events through a cerebrocerebellar loop consisting of posterior parietal cortex, V5 and the cerebellum in a top-down processing network [30].
+ Therefore, the altered cerebellar hemodynamic oscillation in PDVH might imply cerebellar recruitment perhaps in compensation for higher-order cortical anomalies.
+ We acknowledge our study has limitations.
+ One is our relatively modest sample size.
+ However, given the practical difficulty in recruiting and scanning this population, our numbers compare favorably to the existing literature; also, our results survived multiple comparison correction, which reduces the risk of false-positive results.
+ Another limitation is that the PD patients recruited in our study were scanned in the “on” medication state to facilitate scanning.
+ In the “off” state scanning would be challenging given the likelihood of movement which leads to decreased signal-to noise ratio, discomfort, and abortive scanning.
+ Although it could be argued that dopaminergic medication differences contribute to visual hallucinations, the levodopa-equivalent dosage is balanced in our study, and our study showed no correlation between levodopa-equivalent dosage and ALFF/functional connectivity results in PDVH.
+ Moreover, 3 patients with hallucinations also received antipsychotic medication, and while it is possible that our results could potentially be influenced by this treatment, if anything this should minimize the relationship between hallucination severities and altered functional activity.
+ Finally, we acknowledge that although we reminded participants not to sleep before and during the scan session, it is still possible that PD patients fell asleep through fatigue, despite prompts [1].
+ However, the PDnonVH group could just as easily have fallen asleep as PDVH, making sleep unlikely to explain the findings specific to PDVH.
+
+            Fig. 2. Functional connectivity differences between groups. (A) The occipital seed for functional connectivity analysis. (B)Time series of spontaneous functional magnetic resonance imaging signal fluctuations in occipital seed over 6.3 min from one participant. (C) The difference maps were corrected for multiple comparisons. Red/yellow indicates that PDVH participants had greater functional connectivity compared with PDnonVH. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)
+          
+4.3.
+ Functional connectivity in PDVH group
+4.4.
+ Cerebellum's role in PDVH
+4.5.
+ Limitations
+Our study suggests that visual hallucinations in Parkinson's disease are associated with disrupted hemodynamic activity at rest in primary visual cortex.
+ However, we also observed greater ALFF in the visual associative cortices and right cerebellum, together with greater functional connectivity between primary visual cortex and frontal, temporal and midbrain regions in the PDVH.
+ Taken together, these findings indicate that both primary visual perceptual and intrinsic integration deficits may collectively contribute to visual hallucinations in PD.
+Drs.
+ Chua and McAlonan were supported by the Research Grant Council of Hong Kong, General Research Fund.
+Dr.
+ Nailin Yao, Dr.
+ Shirley Pang, Dr.
+ Charlton Cheung, Dr.
+ Richard Shek-kwan Chang, Dr.
+ Kui Kai Lau, Dr.
+ Kevin Yu, Dr.
+ Henry Ka-Fung Mak, Prof.
+ SL Ho report no disclosures.
+ Study is not industry-sponsored.
+Dr Nailin Yao takes responsibility for the integrity of the data and the accuracy of the data analysis.
+Nil.
+Nil.
+Dr.
+ Nailin Yao e Study concept, design, acquisition of data, analysis and interpretation, drafting/revising the manuscript for content, including medical writing for content.
+ Dr.
+ Shirley Pang e Acquisition of data, manuscript preparation.
+ Dr.
+ Charlton Cheung e Analysis and interpretation, manuscript preparation.
+ Dr.
+ Richard Shek-kwan Chang e Acquisition of data, manuscript preparation.
+ Dr.
+ Kui Kai Lau e Acquisition of data, manuscript preparation.
+ Prof.
+ John Sucking e Study concept, critical revision.
+ Kevin Yu e Acquisition of data, manuscript preparation.
+ Dr.
+ Henry Ka-Fung Mak e Design, Acquisition of data, interpretation, manuscript preparation.
+ Dr.
+ Grainne McAlonan e Study concept, design, critical revision of the manuscript for important intellectual content, study supervision, obtaining funding.
+ Prof.
+ SL Ho e Study concept, design, critical revision of the manuscript for important intellectual content, Acquisition of data, study supervision.
+ Dr.
+ Siew-eng Chua e Study concept, design, critical revision of the manuscript for important intellectual content, study supervision, obtaining funding.
+This research was funded by the Research Grant Council of Hong Kong (Project No. 10208954), General Research Fund awarded to Dr Chua and Dr McAlonan.
+ Dr McAlonan is in part supported by Na- tional Institute for Health Research, Biomedical Research Centre for Mental Health at South London and Maudsley NHS Foundation Trust and [Institute of Psychiatry] King's College London.8

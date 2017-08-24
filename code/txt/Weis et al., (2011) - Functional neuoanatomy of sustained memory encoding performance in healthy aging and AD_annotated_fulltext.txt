@@ -1,0 +1,516 @@
+﻿Functional Neuroanatomy of Sustained Memory Encoding Performance in Healthy Aging and in Alzheimer's Disease
+To cite this article: Susanne Weis, Dirk Leube, Michael Erb, Reinhard Heun, Wolfgang Grodd & Tilo Kircher (2011) Functional Neuroanatomy of Sustained Memory Encoding Performance in Healthy Aging and in Alzheimer's Disease, International Journal of Neuroscience, 121:7, 384-392, DOI: 10.3109/00207454.2011.565892 To link to this article: http://dx.doi.org/10.3109/00207454.2011.565892
+A variety of functional imaging studies, which were mainly conducted in healthy young subjects, indi-  cated that successful encoding into declarative memory critically depends on specific patterns of activation changes in medial temporal and inferior prefrontal areas (Brewer, Zhao, Desmond, Glover, & Gabrieli, 1998; Wagner et al., 1998; Weis, Klaver, Reul, Elger, & Fernandez, 2004a, 2004b).
+ Although the exact contribution of different subregions of the medial temporal lobes (MTLs) is not yet fully clear, a dissociation of the contribution of the hippocampus and surrounding rhinal and parahippocampal cortex has been suggested (Diana, Yonelinas, & Ranganath, 2007; Ranganath et al., 2003).
+ While activation during the study of the hippocampus and the posterior parahippocampal gyrus is associated with subsequent recollection, activation of the rhinal cortex is assumed to rather predict familiarity- based recognition (Diana et al., 2007; Ranganath et al., 2003).
+ It has generally been found that the performance on episodic memory tasks declines with increasing age, resulting from anatomical and physiological degradation of the brain as a consequence of the aging process (Coleman & Flood, 1987).
+ Episodic memory impairments in older adults appear to derive at least to some extent from difficulties in encoding the to-be-remembered material, although factors operating during retrieval are also thought to play a role (e.g., Light, 1991).
+ The involvement of encoding in age-related memory decline has also been indicated by studies showing that young subjects benefit more than elderly subjects from the level of processing of words to be remembered (Burke & Light, 1981; Craik & Lockhart, 1972).
+ Several studies have identified changes in functional neuroanatomy that may underlie age-related decline in episodic memory function, but the findings were in- consistent.
+ While few investigations found a general increase of activation in older adults during encoding of words or equivalent levels of activity in young and older subjects (e.g., Madden et al., 1999), the majority of studies have shown that elderly subjects demonstrate reduced activity in the MTL regions during memory encoding (Cabeza et al., 1997; Grady et al., 1995).
+ Thus, it has been suggested that age-related impairments in episodic encoding are, at least partly, due to an under- recruitment of the MTL memory system (Daselaar, Veltman, Rombouts, Raaijmakers, & Jonker, 2003).
+ On the other hand, it has been found that older adults compensate for declining memory performance with the recruitment of resources not typically recruited by young adults (for a review, see Dennis & Cabeza, 2008).
+ A disturbance of regular memory functions, exceed- ing memory decline related to normal aging, occurs in patients with Alzheimer’s disease (AD).
+ Patients with AD characteristically show a profound anterograde am- nesia that becomes evident during the early stages of the disease (Flicker, Ferris, & Reisberg, 1991).
+ This con- dition is thought to be related to the early occurring pathologic alterations in the MTL system, especially in parahippocampal gyrus and areas surrounding the hippocampus (Braak & Braak & Braak, 1991 The prominence of medial temporal abnormalities in early AD has been confirmed by structural MRI studies, which have reported significant gray matter atrophy in the hippocampal region in Alzheimer patients relative to healthy controls (Krasuski et al., 1998), often in direct proportion to the degree of memory impairment (Petersen et al., 2000).
+ Just like healthy elderly subjects, AD patients have been found to employ compensatory activation of additional brain regions to improve memory performance in spite of structural changes (Sperling et al., 2003).
+ The aim of our study was to examine compensation mechanisms for declining memory performance in healthy aging and in AD.
+ Since different brain regions are affected by degradation in these two conditions, it might be conceivable that different compensation mechanisms occur to keep up memory performance in aging and in AD.
+ Subjects studied visually presented words.
+ Accord- ing to the task performance in a subsequent recognition memory test, all learned items were then separated into those that were later remembered (subsequent hits) and those that were later forgotten (subsequent misses), in- dividually for each subject.
+ Individual memory performance was then quantified by the use of the d index, a measure derived from the number of hits and the number of false alarms that assesses the participants’ ability to distinguish between old and new items during a memory test.
+ To delineate the relationship between memory performance and brain activation, we employed a correlation analysis across the group of healthy subjects and across AD patients, where the d index was correlated with the strength of brain activations during successful encoding.
+ The validity of this approach for the study of episodic memory in AD has been described earlier (Corkin, 1998).
+Received 7 May 2010 The study was supported by grants from the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG Nr.
+ HE 2318/4–1 and GR 833/7–1).
+ Susanne Weis was supported by the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG Nr.
+ WE 2793/2–1).
+ Address correspondence to Dr.
+ Susanne Weis, Department of Psychology, Durham University, South Road, Durham DH1 3LE, UK.
+ E-mail: Susanne.Weis@durham.ac.uk
+Eight participants with AD (4 female) and 29 (17 female) elderly control subjects with unimpaired memory participated in the study.
+ Sociodemographic and clini- cal characteristics are shown in Table 1.
+ All subjects had normal or corrected-to-normal vision and were right handed according to the Edinburgh Handedness Index (Oldfield, 1971).
+ Subjects were excluded if they were diagnosed with a psychiatric, neurological, or medical disease.
+ Subjects further underwent a neuropsychological screening procedure including the SIDAM (Structured Interview for the Diagnosis of dementia of the Alzheimer type, multiinfarct dementia, and dementia of other eti- ology according to ICD-10 and DSM-IV) to exclude the presence of dementia and evaluate global cognitive func- tioning.
+ Additionally, the Verbal Learning and Memory Test (VLMT; Helmstaedter, Lendt, & Lux, 2001) was administered to account for verbal encoding/immediate recall, delayed recall, and recognition deficits in all participants.
+ In a consensus conference comprising three psychiatrists and one neuropsychologist, subjects were a Structured Interview for the Diagnosis of dementia of the Alzheimer type, multiinfarct dementia, and dementia of other eti- ology according to ICD-10 and DSM-IV, scores may range from 0 to 55. b Mini-Mental State Examination, scores may range from 0 to 30. c Immediate recall/sum of five learning trials à 15 words, scores may range from 0 to 75. d Delayed recall of the 15-word list after 20 min, scores may range from 0 to 15. e Correct recognitions of the 15 words out of a 50-word list less the false alarms.
+ diagnosed with Mild Cognitive Impairment (MCI) if they fulfilled the criteria according to Petersen et al. (1999).
+ The study was approved by the local ethical commit- tee.
+ All participants signed a written informed consent prior to participation and were paid a small fee.
+TABLE 1. Demographic data and neuropsychological screening results
+            
+              
+                
+                  
+                    
+                     Elderly controls
+                     Subjects with AD
+                  
+                
+                
+                  
+                    
+                     (n = 29)
+                     (n = 8)
+                  
+                  
+                     Female: male
+                     17:12
+                     4:4
+                  
+                  
+                     Age (SD; range)
+                     67.8 (5.4; 60–81)
+                     69.6 (6.6; 63–80)
+                  
+                  
+                     SIDAM (SD; range) a
+                     52.1 (2.0; 46–55)
+                     40.2 (6.43; 30–47)
+                  
+                  
+                     MMSE (SD; range) b
+                     28.8 (1.2; 27–30)
+                     23.7 (3.0; 19–26)
+                  
+                  
+                     Verbal learning/
+                     48.5 (6.6; 38–60)
+                     26.0 (9.8; 12–37)
+                  
+                  
+                     immediate recall
+                    
+                    
+                  
+                  
+                     (SD; range) c
+                    
+                    
+                  
+                  
+                     Delayed recall (SD;
+                     9.9 (2.3; 5–15)
+                     4.3 (2.4; 2–8)
+                  
+                  
+                     range) d
+                    
+                    
+                  
+                  
+                     Recognition (SD;
+                     12.0 (2.4; 5–15)
+                     8.3 (6.2; 6–10)
+                  
+                  
+                     range) e
+                    
+                    
+                  
+                
+              
+            
+            Elderly controls Subjects with AD (n = 29) (n = 8) Female: male 17:12 4:4 Age (SD; range) 67.8 (5.4; 60–81) 69.6 (6.6; 63–80) SIDAM (SD; range) a 52.1 (2.0; 46–55) 40.2 (6.43; 30–47) MMSE (SD; range) b 28.8 (1.2; 27–30) 23.7 (3.0; 19–26) Verbal learning/ 48.5 (6.6; 38–60) 26.0 (9.8; 12–37) immediate recall (SD; range) c Delayed recall (SD; 9.9 (2.3; 5–15) 4.3 (2.4; 2–8) range) d Recognition (SD; 12.0 (2.4; 5–15) 8.3 (6.2; 6–10) range) e
+          
+Stimuli consisted of 360 German nouns that were matched for imagery, concreteness, and meaningfulness (Baschek, Bredenkamp, Oehrle, & Wippich, 1977).
+ During each of the six encoding runs, 90 randomly selected words were presented for 2,000 ms each at a randomized interstimulus interval (ISI) of 4–12 s.
+ During the ISI, a string of eight x was presented as a low- level baseline.
+ In addition, 20 null events, again consist- ing of a string of eight x presented for 4–12 s, were in- cluded per block (string of eight x for another 4–12 s).
+ Subjects were instructed to memorize the words for later recognition and to press a response button once for ev- ery word.
+ No button presses were required during the baseline task.
+ Each encoding run was followed by two recognition runs, during which 45 words from the preceding encoding run were randomly intermixed with 45 words that had not been presented earlier.
+ Words were presented visually at the same presentation rate as during the study phase.
+ The subjects were required to make an old/new decision for each word by pressing one of two keys with two fingers of the right hand.
+ Each of the six functional runs lasted for 15 min and 24 s, resulting in a total experimental length of about 1.5 hr.
+ The task was explained and practiced outside a scanner, until the subjects fully understood the procedures.
+ In this report, we focus on the data from the encoding sessions only.
+All scans were performed on a 1.5 T whole-body scanner (Siemens Sonata, Erlangen, Germany) using standard gradients and an eight-channel head coil.
+ Words were projected on a transparent screen, which could be seen via a mirror attached to the head coil in front of the subjects’ head.
+ If necessary, participants wore fMRI- compatible glasses to ensure optimal visual acuity.
+ For each subject, we acquired six series of EPI scans, cover- ing the whole brain, including five initial dummy scans parallel to the AC/PC line with the following parameters: number of slices (NS): 25; slice thickness (ST): 4.5 mm; interslice gap (IG): 1.00 mm; matrix size (MS): 64 × 64; field of view (FOV): 192 × 192 mm; repetition time (TR): 2 s; echo time (TE): 40 ms; flip angle (FA): 90 ◦ .
+ Each of the six runs comprised 462 scans.
+ For each participant, we also acquired a high- resolution image with a T1-weighted 3D turbo flash se- quence (MPRAGE; TR = 1,300 ms; TE = 3.22 ms; NS = 176 (sagital); MS: 256 × 256; ST = 1 mm; IG = 0 mm; FOV = 256 × 256 mm; voxel size = 1 × 1 × 1 mm).
+Data analysis was performed by the use of the Sta- tistical Parametric Mapping (SPM2) analysis software package (Wellcome Department of Cognitive Neurology, London, UK; http://www.fil.ion.ac.uk) run under MATLAB6.5 (Mathworks, Inc., Sherborn, MA, USA).
+From each subjects’ individual recognition performance during the test phase, the number of hits, misses, correct rejections (correctly identified new items), and false alarms (new items misclassified as old) was computed.
+ From these data, d was calculated as a measure of dis- criminability for each subject.
+ The factor d stems from signal detection theory (Green & Swets, 1996).
+ A d of 0 means no difference between the number of yes responses for old and new items, i.e., the subject is only guessing.
+ The more accurate the subject differentiates between old and new items, the higher d becomes.
+All images were realigned to the first image to correct for head movement.
+ Unwarping was used to correct for the interaction of susceptibility artifacts and head movement.
+ After realignment and unwarping, the signal measured in each slice was shifted relative to the acquisition time of the middle slice using a sinc inter- polation in time to correct for their different acquisition times.
+ Volumes were then normalized into standard stereotaxic anatomical Montreal Neurological Institute (MNI) space by using the transformation matrix calculated from the first EPI scan of each subject and the EPI template.
+ Afterward, the normalized data with a resliced voxel size of 3 × 3 × 3 mm were smoothed with a 10-mm FWHM isotropic Gaussian kernel to accommo- date intersubject variation in brain anatomy.
+ The time series data were band-pass filtered to remove artifacts due to cardiorespiratory and other cyclical influences.
+ The expected hemodynamic response at stimulus on- set was modeled by two response functions: a canonical hemodynamic response function (HRF; Friston et al., 1998) and its temporal derivative.
+ The functions were convolved with the event train of stimulus onsets to cre- ate covariates in a general linear model.
+ Subsequently, parameter estimates of the HRF regressor for each of the conditions (subsequent hits, subsequent misses) were calculated from the least mean squares fit of the model to the time series.
+ Single-subject contrast maps were de- termined for each subject for the main effect of brain activation for subsequent hits (compared to the baseline) during encoding.
+ For each voxel, these contrast images contain the parameter estimates for the increase of brain activation during subsequent hits as compared to the baseline.
+ To identify brain regions showing a correlation with the degree of successful encoding into episodic memory, these contrast images were entered into a SPM2 regression analysis with the factor d as a regressor to identify regions showing an increase (resp. decrease) of brain activity with increasing d .
+ In other words, for each voxel, a correlation analysis was computed between the factor d and the parameter estimates in this voxel.
+ Results of the functional data analysis in the healthy group are presented at a voxel-wise threshold of p < .
+001.
+ We chose to employ a Monte Carlo simulation of the brain volume to establish an appropriate voxel con- tiguity threshold.
+ This correction has the advantage of higher sensitivity, while still correcting for multiple comparisons across the whole brain volume (Slotnick, Moo, Segal, & Hart, 2003; Slotnick & Schacter, 2004).
+ As- suming an individual voxel type I error of p < .
+001, a cluster extent of 23 contiguous resampled voxels was indicated as necessary to correct for multiple voxel comparisons across the whole brain at p < .
+05 (based on 10,000 simulations).
+ Since the group of AD patients was relatively small, we chose a more liberal value of p < .
+01.
+ For this individual voxel type I error, the Monte Carlo simulation indicated a cluster extent of 30 contiguous resampled voxels as necessary to correct for multiple comparisons at p < .
+05 (based on 10,000 simulations).
+ The reported voxel coordinates of activation peaks were transformed from MNI space to Talairach and Tournoux atlas space (Talairach & Tournoux, 1988) by nonlinear transformations (www.mrc-cbu.cam.ac.uk/ Imaging/ mnis- pace.html).
+TABLE 2. Behavioral data
+            
+              
+                
+                  
+                    
+                     Elderly controls
+                     Subjects with AD
+                  
+                
+                
+                  
+                     Percentage of
+                     70.71 (15.72)
+                     47.78 (16.10)
+                  
+                  
+                     subsequent hits
+                    
+                    
+                  
+                  
+                     (SD)
+                    
+                    
+                  
+                  
+                     Percentage of
+                     28.14 (15.38)
+                     39.72 (17.55)
+                  
+                  
+                     subsequent misses
+                    
+                    
+                  
+                  
+                     (SD)
+                    
+                    
+                  
+                  
+                     d (SD)
+                     1.52 (0.43)
+                     0.21 (0.39)
+                  
+                  
+                     RT subsequent hits
+                     1, 299.64 (381.07)
+                     1, 446.84 (615.12)
+                  
+                  
+                     (SD)
+                    
+                    
+                  
+                  
+                     RT subsequent
+                     1, 309.89 (423.25)
+                     1, 408.16 (432.88)
+                  
+                  
+                     misses (SD)
+                    
+                    
+                  
+                  
+                     Note: RT, reaction time;
+                     SD, standard
+                    
+                  
+                
+              
+            
+            Elderly controls Subjects with AD Percentage of 70.71 (15.72) 47.78 (16.10) subsequent hits (SD) Percentage of 28.14 (15.38) 39.72 (17.55) subsequent misses (SD) d (SD) 1.52 (0.43) 0.21 (0.39) RT subsequent hits 1, 299.64 (381.07) 1, 446.84 (615.12) (SD) RT subsequent 1, 309.89 (423.25) 1, 408.16 (432.88) misses (SD) Note: RT, reaction time; SD, standard derivation.
+          
+Table 2 shows the behavioral data of both groups during the fMRI experiment.
+ As expected, the percentage of hits (t = 2.03, df = 35, p < .
+02), the percentage of false alarms (t = 4.45, p < .
+001), and the d index (t = 7.62, df = 35, p < .
+0001) differed significantly between healthy controls and AD patients.
+ In healthy subjects, no brain region showing a negative correlation with d was identified.
+ In the left temporal lobe, a large cluster showing a positive correlation between the accuracy of subsequent memory and brain activation was found.
+ This cluster was located mainly in the left middle temporal gyrus, but extended into inferior temporal and fusiform gyri
+Further clusters were identified in bilateral precentral gyri (BA 6, 13) and the right anterior cingulate cortex (BA 32) [ Figure 1(c)].
+ The location of the activations is shown in Figure 1, and all cluster peaks are reported in Table 3.
+ Also in AD patients, no area was identified showing a negative correlation with subsequent memory performance.
+ A variety of regions showed a positive correlation with d , indicating that these regions are activated more with better subsequent memory performance.
+ The activations are shown in Figure 2 and the details of the activation peaks are given in Table 4.
+ They were located in the right middle, medial, and inferior frontal gyri as well as in the anterior cingulate gyrus (BA 10, 11, 32) [Figure 2(d)], right posterior temporal lobe, including the parahippocampal gyrus (BA 30), left posterior temporal lobe (BA 19, 22, 39) [Figure 2(b)], and bilateral cingulate gyri (BA 31).
+ Furthermore, we found a positive correlation of subsequent memory performance and the activation of the left posterior hippocampus in AD patients [Figure 2(c)].
+ The activation cluster seems to extend slightly into the ventricle due to the spatial smoothing employed in the preprocessing of the fMRI data.
+ Still, the activation peak [located at Talairach and Tournoux coordinates (−36, −32, −8)] is clearly located in the left hippocampus.
+ It should be noted that there appear to be some activation clusters extending into white matter regions, both in healthy subjects and in AD patients.
+ To date, the no- tion of fMRI activation in white matter regions remains contentious and the majority of blood oxygen level dependent (BOLD) fMRI studies focus on highly per- fused gray matter (Gawryluk, Brewer, Beyea, & D’Arcy, 2009), as the BOLD contrast signal is highly dependent on cerebral blood flow and volume, which have been shown to be much lower in white matter than in gray matter (Gawryluk et al., 2009; Helenius et al., 2003).
+ Thus, standard EPI sequences as used here are not optimal for detecting white matter activations and the risk of artifacts is augmented.
+ For these reasons, we are reluctant to interpret activations in white matter and will focus on discussing gray matter activations only.
+ Finally, we computed a regression analysis between d and the mean parameter estimates in the temporal activation cluster in healthy subjects relative to the hippocampal activation cluster in AD patients.
+ These parameter estimates, which comprise a measure of activation strength, were extracted from a sphere around the activation peak in each individual subject.
+ The factor d significantly correlated with the strength of the temporal activation in healthy subjects (r = 0.703, p < .
+001) and with the hippocampal activation in AD patients (r = 0.903, p < .
+005).
+ The scatter plots of the regression analysis are depicted in Figure 3.
+
+          FIGURE 1. Healthy controls: correlation analysis with subsequent memory performance (d ). Brain regions showing an increase of activation with better memory encoding performance (d index) in the healthy elderly group. The activations are shown overlaid onto (a) a canonical brain rendered in three dimensions and superimposed onto selected coronal slices of the mean high-resolution T1-weighted volume of the healthy controls [(b) posterior part of the left temporal cluster, (c) anterior part of the left temporal cluster, (d) right cingulate cortex]. The activation is shown at p < .05, corrected. Slices are numbered according to the coordinates of Talairach and Tournoux (1988).
+        
+TABLE 3. Peak of the activations in the healthy controls showing a correlation with the index d . Activation peaks with their localization, significance level, and the size of the respective activation cluster (number of voxels) at p < .05, corrected
+          
+             Coordinates
+            
+              
+                
+                   Effect
+                   Anatomical region
+                   BA
+                   x
+                   y
+                   z
+                   Z-value
+                   No. of voxels
+                
+              
+              
+                
+                   Correlation with d
+                   Left middle temporal gyrus
+                   21
+                   −53
+                   −32
+                   −8
+                   4.29
+                   124
+                
+                
+                  
+                   Left precentral gyrus
+                   6
+                   −30
+                   −7
+                   31
+                   3.93
+                   24
+                
+                
+                  
+                   Right precentral gyrus
+                   6
+                   27
+                   4
+                   27
+                   4.31
+                   163
+                
+                
+                  
+                   Right anterior cingulate
+                   32
+                   15
+                   35
+                   9
+                   4.07
+                   34
+                
+                
+                   Note: Coordinates are
+                   listed in Talairach and Tournoux
+                   (1988) atlas
+                   space. BA is the
+                   Brodmann
+                   area nearest
+                   to the
+                   coordinate and should
+                
+                
+                   be considered approximate.
+                   The anatomical label refers
+                   to the anatomical
+                   region
+                   containing the
+                   largest
+                   part of the
+                   activation cluster.
+                
+              
+            
+          
+          Coordinates Effect Anatomical region BA x y z Z-value No. of voxels Correlation with d Left middle temporal gyrus 21 −53 −32 −8 4.29 124 Left precentral gyrus 6 −30 −7 31 3.93 24 Right precentral gyrus 6 27 4 27 4.31 163 Right anterior cingulate 32 15 35 9 4.07 34 Note: Coordinates are listed in Talairach and Tournoux (1988) atlas space. BA is the Brodmann area nearest to the coordinate and should be considered approximate. The anatomical label refers to the anatomical region containing the largest part of the activation cluster.
+        
+
+          FIGURE 2. Patients with AD: correlation analysis with subsequent memory performance (d ). Brain regions showing an increase of activation with better memory encoding performance (d index) in the group of AD patients. The activations are shown overlaid onto (a) a canonical brain rendered in three dimensions and superimposed onto selected coronal slices of the mean high-resolution T1-weighted volume of the group of AD patients [(b) left posterior temporal lobe, (c) left hippocampus, (d) right cingulate cortex]. The activation is shown at p < .05, corrected. Slices are numbered according to the coordinates of Talairach and Tournoux (1988).
+        
+TABLE 4. Peak of the activations in the patients with AD showing a correlation with the index d . Activation peaks with their localization, significance level, and the size of the respective activation cluster (number of voxels) at p < .05, corrected
+          
+             Coordinates
+            
+              
+                
+                   Effect
+                   Anatomical region
+                   BA
+                   x
+                   y
+                   z
+                   Z-value
+                   No. of voxels
+                
+              
+              
+                
+                   Correlation with d
+                   Left hippocampus
+                  
+                   −36
+                   −32
+                   −8
+                   3.47
+                   35
+                
+                
+                  
+                   Right middle frontal gyrus
+                   11
+                   36
+                   43
+                   −10
+                   3.66
+                   76
+                
+                
+                  
+                   Left cingulate gyrus
+                   32
+                   −21
+                   7
+                   33
+                   3.36
+                   60
+                
+                
+                  
+                   Right parahippocampal gyrus
+                   30
+                   21
+                   −29
+                   7
+                   3.35
+                   75
+                
+                
+                  
+                   Left superior temporal gyrus
+                   22
+                   −39
+                   −52
+                   16
+                   3.29
+                   36
+                
+                
+                  
+                   Right medial frontal gyrus/right
+                   32
+                   9
+                   44
+                   −2
+                   3.27
+                   32
+                
+                
+                  
+                   anterior cingulate
+                  
+                  
+                  
+                  
+                  
+                  
+                
+                
+                  
+                   Right cingulate gyrus
+                   31
+                   24
+                   −28
+                   21
+                   2.99
+                   50
+                
+                
+                   Note: Coordinates
+                   listed in Talairach and Tournoux (1988)
+                   atlas space.
+                   BA is the
+                   Brodmann
+                   area nearest
+                   to the
+                   coordinate and should
+                
+                
+                   be considered approximate.
+                   The anatomical label refers to the
+                   anatomical
+                   region
+                   containing the
+                   largest
+                   part of the
+                   activation cluster.
+                
+              
+            
+          
+          Coordinates Effect Anatomical region BA x y z Z-value No. of voxels Correlation with d Left hippocampus −36 −32 −8 3.47 35 Right middle frontal gyrus 11 36 43 −10 3.66 76 Left cingulate gyrus 32 −21 7 33 3.36 60 Right parahippocampal gyrus 30 21 −29 7 3.35 75 Left superior temporal gyrus 22 −39 −52 16 3.29 36 Right medial frontal gyrus/right 32 9 44 −2 3.27 32 anterior cingulate Right cingulate gyrus 31 24 −28 21 2.99 50 Note: Coordinates are listed in Talairach and Tournoux (1988) atlas space. BA is the Brodmann area nearest to the coordinate and should be considered approximate. The anatomical label refers to the anatomical region containing the largest part of the activation cluster.
+        
+Our study aimed at delineating compensatory mechanisms employed during memory encoding in normal aging and in patients with AD.
+ Since it is generally not possible to match healthy elderly subjects and AD patients with respect to performance, we used a paramet- ric approach across a group of older adults and a group  of AD patients.
+ Participants were examined while they intentionally studied a list of words.
+ On the basis of a subsequent recognition test, individual memory performance of each participant was established and brain regions showing an increase of activation with increasing memory performance were identified.
+ It has to be critically remarked that the sample of AD patients was quite small, resulting from difficulties in finding AD patients whose memory performance was sufficient to be able to accomplish our memory task in the scanner.
+ Still, the regression analysis clearly shows that our results are not driven by outliers.
+ Both in healthy elderly subjects and in patients with AD, we identified networks of cortical and subcorti- cal brain regions showing an increase of activation with better memory performance, while no brain areas were found whose activation was negatively correlated with performance.
+ While the activation of the left temporal lobe was related to better memory performance in both groups, the exact location within the temporal lobe showed an interesting dissociation between healthy elderly subject and AD patients.
+ In healthy elderly subjects, better subsequent memory performance was achieved when brain activation during the study was increased in an extensive cluster including parts of the inferior and middle temporal and fusiform gyri and parahippocampal cortex.
+ These findings suggest that in elderly subjects, successful memory formation relies on an increased effort in encoding item-specific semantic and contextual information.
+ Inferior temporal re- gions have been shown to be important for semantic and other types of linguistic processing (Wise et al., 1991).
+ Our data indicate that a more pro- nounced semantic processing in the temporal lobe is associated with better verbal encoding performance in elderly subjects.
+ Also, there has been some evidence that visual regions mediating stimulus processing support accurate memory for these stimuli (Cansino, Maquet, Dolan, & Rugg, 2002; Kensinger & Schacter, 2006).
+ Our data confirm that an increased level of processing in these higher-order visual areas leads to an improvement of subsequent memory.
+ This finding is also in line with previous comparisons of high- performing and low-performing old adults, which suggested that increases in activation among older adults may reflect a need to compensate for age-related decline in memory systems (Dennis, Daselaar, & Cabeza, 2007; Morcom, Good, Frackowiak, & Rugg, 2003).
+ Age-related reductions in specific regions of the visual processing stream along the inferior temporal lobe (e.g., the parahippocampal place area for scenes and the fusiform face area for faces) have been demonstrated earlier (Dennis et al., 2007; Gutchess et al., 2005), suggesting that older adults may experience age-related reductions in encoding or differentiating fine details necessary for later memory.
+ Our data show that those elderly subjects, who still keep up a relative high level of processing in these areas that are related to verbal and linguistic processing, show an advantage of subsequent memory.
+ In AD patients, on the other hand, we found a positive correlation between the level of memory performance and left hippocampal activity.
+ This finding might indicate that because of structural changes in the MTL, which especially involve the degeneration of brain structures surrounding the hippocampus (Braak & Braak & Braak, 1996 an increase of stimulus-specific encoding through increasing activation of temporal areas related to stimulus processing along the inferior temporal gyrus might no longer be possible and a compensatory increase of hippocampal activation might be employed to maintain some memory capacity.
+ In healthy young subjects, the hippocampus proper is often found to be involved with relational memory encoding (Tendolkar et al., 2007), although some studies also found an involvement of the hippocampus with no-relational encoding (Kircher et al., 2008).
+ In AD patients, an increase of hippocampal activation might al- ready be necessary for single-item encoding, because mechanisms based on the degraded surrounding temporal cortex fail.
+ Similar results have been found for patients with MCI, who demonstrated the evidence of paradoxically increased activation in the hippocampus and functionally connected neocortical regions (Celone et al., 2006).
+ These findings suggest a dissociation of processes involved with compensation for declining memory performance in healthy subjects and AD patients.
+ Still, there also seem to be some common mechanisms, as we found an increase of right frontal activation with increased memory performance both in healthy adults and in patients with AD.
+ Right frontal activations during memory tasks have mostly been related to monitoring and control processes during memory encoding and retrieval (Fletcher & Henson, 2001).
+ In line with studies showing that young subjects benefit more than elderly subjects from the level of processing of words to be remembered (Burke & Light, 1981; Craik & Lockhart, 1972), our finding might indicate that both in healthy adults and in AD patients, more cognitive control is needed to achieve successful memory encoding.
+ Also, these findings are in accordance with a variety of studies which have shown that in comparison to younger subjects, older adults tend to demonstrate a pattern of “overrecruitment,” such that additional brain areas are activated (Cabeza et al., 1997; Morcom et al., 2003).
+ Since this pattern is often accompanied by reduced memory-related activity in other regions activated in the young, it has been argued that overrecruitment reflects a compensatory response to an age-related decline in the functional integrity of these regions (e.g., Cabeza et al., 1997).
+ While we did not directly compare activations between young and older adults, we did not find any brain area whose activity is negatively correlated with d , indicating that the increase of activation in our sample did not go along with activity decreases in other areas.
+ In AD patients, a number of further cortical regions were related to increased memory performance.
+ In both hemispheres, these regions were located in areas also found to be activated in younger adults during memory encoding, namely, the frontal and the posterior temporal cortex (Weis et al., 2004a, 2004b).
+ In this network, the frontal cortex might execute working memory operations on the incoming information (Fletcher & Henson, 2001) while the posterior temporal cortex might be involved with support operations like phonological rehearsal to aid memory encoding (Davachi, Maril, & Wagner, 2001).
+ The more bilateral and more extended network of activation increases in patients as opposed to healthy controls might indicate the need for more extensive compensatory mechanisms in the patient group.
+ In conclusion, both in healthy aging and in patients with AD, an increased level of monitoring and control processes mediated by the (right) frontal lobe seems to be necessary to maintain a certain level of memory performance.
+ In addition, memory performance in healthy older subjects seems to rely on an increased effort in encoding item-specific semantic and contextual information in lateral areas of the (left) temporal lobe.
+ In AD patients, on the other hand, the maintenance of memory performance is related to an increase of activation of the (left) hippocampus in conjunction with a bilateral network of cortical areas that might be involved with phonological and visual rehearsal of the incoming information.
+
+          FIGURE 3. The correlation of subsequent memory performance (d ) and activation levels. The correlation of d and activation level is significant both in the temporal cluster in the healthy subjects (r = 0.703, p < .001; shown as white circles) and in the hippocampal cluster in the AD patients (r = 0.903, p < .005; shown as black circles). As a measure for the strength of the activation, we used the size of the parameter estimates, which were extracted from activation clusters. The parameter estimates are given in arbitrary units (a.u.).

@@ -1,0 +1,339 @@
+﻿Perfusion fMRI detects deficits in regional CBF during memory-encoding tasks in MCI subjects
+Objective: To determine how memory-encoding tasks elicit functional perfusion change in subjects with amnestic mild cognitive impairment (aMCI).
+ Methods: Twelve subjects with aMCI and 14 age-matched cognitively normal (CN) subjects were recruited for this study.
+ Arterial spin-labeling perfusion MRI (ASL-MRI) was employed to measure regional cerebral blood flow (CBF) during both control and encoding task conditions.
+ Results: Experimental results demonstrated that hypoperfusion occurred in the right precuneus and cuneus in the aMCI group, and not the CN group, during the control state.
+ During the memory- task performance, the difference in these regional hypoperfusion areas extended to the posterior cingulate.
+ These regional perfusion rates correlated with the Mini-Mental State Examination and the Rey Auditory Verbal Learning Test scores.
+ In addition, a CBF percentage increase (22.7%) occurred in the right parahippocampus region during the memory-encoding task performance in the CN group, with approximately no change in the aMCI group.
+ Conclusion: Subjects with amnestic mild cognitive impairment had significant regional cerebral hypoperfusion and lacked the dynamic capability to modulate their regional cerebral blood flow responses to the challenge of the functional tasks.
+ Neurology ® 2007;69:1650–1656
+AD Alzheimer disease; aMCI amnestic mild cognitive impairment; ASL-MRI arterial spin-labeling perfusion MRI; BOLD blood oxygenation level-dependent; CBF cerebral blood flow; CDR Clinical Dementia Rating; CERAD Consortium to Establish a Registry for Alzheimer’s Disease; CN cognitively normal; GDS Geriatric Depression Scale; MMSE Mini-Mental State Examination; NART-R National Adult Reading Test; PCC right precuneus, cuneus, and posterior cingulate; PHPG parahippocampal gyrus; RAVLT Rey Auditory Verbal Learning Test; ROIs regions of interest; TI inversion time; WRAT3 Wide Range Achievement Test.
+ In examining the molecular, structural, and functional characteristics of Alzheimer disease (AD), it is clear that the posterior cingulate gyrus, retrosplenial and lateral parietal cortices are involved in the early stages of disease progression.
+ 1 As recently reported, 2,3 regional hypoperfusion at the multiple cortices in subjects with AD has been observed.
+ These regional characteristics enhance our understanding of the disease neurophysiology.
+ Despite continued advances in the area of neuroimaging methods and AD research, it is not well understood how the neuropathologic regions relate to AD symptoms, especially to the memory impairment in amnestic MCI (aMCI).
+ No study has examined the dynamic characteristics of perfusion functions in the posterior cingulate gyrus, retrosplenial and lateral parietal cortices when cognitively normal (CN) subjects and subjects with aMCI perform episodic memory-encoding tasks.
+ In the present study, our goal is to investigate the dynamic characteristics of regional functional perfusion by utilizing the arterial spin-labeling (ASL) method in subjects with aMCI.
+ 4,5 By using a functional perfusion paradigm with subjects with aMCI, we will test
+e-Pub ahead of print on September 26, 2007, at www.neurology.org.
+ From the Departments of Biophysics (G.X., Y.X., G.W., D.W., S.-J.
+L.) and Neurology (P.G.A., J.J.), Medical College of Wisconsin, Milwaukee.
+ Supported by NIH grant AG20279, General Clinical Research Center RR00058, the DANA Foundation, and Extendicare Foundation.
+ Disclosure: The authors report no conflicts of interest.
+2007;69:1650–1656
+
+        
+Table 1
+        
+Demographic and neuropsychological data referencing who successfully completed the ASL-MRI scans
+
+            
+              
+                
+                   Characteristic aMCI (n 10), average SD
+                   Controls (n 12), average SD
+                
+              
+              
+                
+                   Age, y 77 4.47
+                   70 3.90*
+                
+                
+                   Education, y 13.7 2.72
+                   15.6 2.07
+                
+                
+                   Male/female 5/5
+                   7/5
+                
+                
+                   CDR 0.5
+                   0
+                
+                
+                   MMSE 27.8 1.50
+                   29.6 0.79
+                
+                
+                   Boston Naming Test (raw score) 14 1.04
+                   14.8 0.40
+                
+                
+                   RAVLT raw total (trial 1–5, raw score) 33 8.62†
+                   51 8.45†
+                
+                
+                   Memory recognition test accuracy (%) 69.3 11.1%*
+                   80.4 12.9%*
+                
+                
+                   Significance between aMCI and control groups withtwo-tailed group t test: * p 0.05; †p
+                   0.01.
+                
+                
+                   ASL-MRI arterial spin-labeling perfusion MRI; aMCI mild cognitive impairment; CDR
+                   Clinical Dementia Rating;
+                
+                
+                   Mini-Mental State Examination; RAVLT Rey Auditory Verbal Learning Test.
+                  
+                
+                
+                   a hypothesis that subjects with aMCI not
+                  
+                
+                
+                   only show regional cerebral hypoperfusion
+                  
+                
+                
+                   but also lack the dynamic capability to
+                  
+                
+                
+                   modulate their CBF responses to func-
+                  
+                
+                
+                   tional challenges. In addition, we will test a
+                  
+                
+                
+                   hypothesis that regional CBF perfusions
+                  
+                
+                
+                   are correlated with the cognitive neuropsy-
+                  
+                
+                
+                   chological test scores.
+                  
+                
+              
+            
+          
+          Characteristic aMCI (n 10), average SD Controls (n 12), average SD Age, y 77 4.47 70 3.90* Education, y 13.7 2.72 15.6 2.07 Male/female 5/5 7/5 CDR 0.5 0 MMSE 27.8 1.50 29.6 0.79 Boston Naming Test (raw score) 14 1.04 14.8 0.40 RAVLT raw total (trial 1–5, raw score) 33 8.62† 51 8.45† Memory recognition test accuracy (%) 69.3 11.1%* 80.4 12.9%* Significance between aMCI and control groups withtwo-tailed group t test: * p 0.05; †p 0.01. ASL-MRI arterial spin-labeling perfusion MRI; aMCI mild cognitive impairment; CDR Clinical Dementia Rating; MMSE Mini-Mental State Examination; RAVLT Rey Auditory Verbal Learning Test.
+          a hypothesis that subjects with aMCI not only show regional cerebral hypoperfusion but also lack the dynamic capability to modulate their CBF responses to functional challenges. In addition, we will test a hypothesis that regional CBF perfusions are correlated with the cognitive neuropsychological test scores.
+        
+Subjects.
+Twelve subjects (six men, six women, age range 67 to 82 years) with aMCI were recruited through the neurologic memory clinic of Froedtert Memorial Lutheran Hospital.
+ Fourteen CN subjects (eight men, six women, age range 66 to 78 years) were recruited from the local community through advertisements and mailings.
+ These subjects exhibited neuropsychological evidence of normal cognitive function at the time of the study.
+ All subjects were provided with written informed consent in accor- dance with the Institutional Review Board of the Medical College of Wisconsin.
+ All CN and aMCI subjects had a reliable informant who could accompany them to each clinic visit, adequate visual and auditory acuity to allow cognitive testing, and good health with no significant cerebral vascular disease.
+ All subjects had a modified Hachinski Ischemic Scale score 4, and a Geriatric Depression Scale (GDS) score within normal range.
+ The following were exclusionary: history of neurologic disease (AD, Parkinson disease, multiple sclerosis), sei- zures, or head injury with loss of consciousness within the past 5 years; stroke or TIA within the past 2 years; drug or alcohol abuse within the past 5 years.
+ All subjects had average or above-average intelligence, as assessed by the Wide Range Achievement Test (WRAT3) and National Adult Reading Test (NART-R).
+ Control subjects were required to have a CDR score of 0 and a Mini-Mental State Examination (MMSE) score 24.
+ 6 Subjects were diagnosed with aMCI according to the published criteria 4 : 1) subjective memory complaint, corrob- orated by an informant; 2) objective evidence of impaired memory, as determined by the Rey Auditory Verbal Learning Test (RAVLT) 7 score or the Consortium to Establish a Registry for Alzheimer’s Disease (CERAD) 8 word list recall score 1 SD below the mean for age and education; 3) nor-  mal general cognitive function as identified by the following: global CDR score of 0.5 with memory box scores of 0.5 or 1; no more than two box scores other than memory rated as high as 1; no box score rated greater than 1; and an MMSE score 24; 4) intact activities of daily living was illustrated by Blessed Dementia Rating Scale 3.5 9 ; and 5) not de- mented, according to National Institute of Neurological and Communicative Disorders and Stroke–Alzheimer’s Disease and Related Disorders Association criteria.
+ 10 All subjects were evaluated by a neurologist with dementia expertise.
+ Complete neurologic and physical examinations were performed.
+ Because there is no consensus regarding the specific tests proposed for MCI diagnostic criteria, 4 the final diagnosis of aMCI in this study was based on clinical judgment.
+ More specifically, the medical, neurologic, functional, and neuropsychological data were reviewed by two neurologists with expertise in evaluating persons with and without dementia, and consensus diagnoses were reached.
+ The demographic characteristics and neuropsychological data for all the subjects are shown in table 1.
+ Functional memory-encoding tasks.
+ A well-known memory-encoding task for eliciting hippocampal formation activations was implemented in a continuous paradigm.
+ The hippocampal and parahippocampal gyrus activations are based on the cognitive contrast of encoding novel scenes relative to a familiar photograph.
+ 11 Such a task is well suited in examining potential differences in hippocampal activation between normal subjects and people at risk for dementia, as demonstrated by several previous fMRI studies.
+ 12,13 The task was compiled on a laptop computer using E-Prime software (Psychology Software Tools, Inc., Pittsburgh, PA).
+ With a computer-controlled projector (Epson ELP 5000), the pictures were shown on a screen placed at the end of the patient table at the scanner.
+ In each functional perfusion scan there were 40 novel photo stimuli (CorelDraw Graphics, Inc.) presented in the whole-screen area with a 5 seconds per photo display rate.
+ Each functional perfusion scan included two blocks: one block for the control task, which lasted 3 minutes 20 seconds (watching a visual fixation image), and the other novel scene for the encoding task, also lasting 3 minutes 20 seconds.
+ Each functional perfusion scan lasted for 6 minutes 40 seconds.
+ Each subject was instructed to memo- rize each photograph and a follow-up recognition test was performed out of the magnet after the MR scan.
+ The subjects saw the screen via a prism mirror that was positioned inside the head coil (10° visual angle) and vacuum-foam padding was used to reduce head movement.
+ Task instructions were given prior to the MR scan and subjects were given practice to ensure task compliance.
+ Visual acuity was checked and correction provided if needed.
+ Post-MR scan memory recognition test.
+ Thirty minutes after the memory-encoding task, each subject took a “yes/no” recognition test outside of the scanner room.
+ The test included 25 random selected photographs that had been shown during the memory-encoding task and another 25 images that had not been shown.
+ All 50 photographs were ar- ranged pseudorandomly and the participants were asked to answer “Yes” if they recognized the photograph or “No” if they had not.
+ The recognition accuracy rate is defined as the correct recognition number divided by the total trial number (n 50).
+ MR imaging data acquisition.
+ All MRI data were acquired on a GE 3.0 T Signa whole-body scanner (General Electric, Milwaukee, WI) with a standard transmit-receive head coil.
+ An automated high-order shimming protocol was used on each subject to improve the field homogeneity and reduce image distortion and signal dropout.
+ High-resolution anatomic images were acquired as the image template for image registration with a three-dimensional SPGR sequence with the following parameters: 256 192 matrix, 140 continuously axial slices, 1-mm thickness, repetition time/echo time/inversion time (TI) 10/4/450 msec, and a flip angle of 12°.
+ Each of the functional perfusion scans lasted for 6 minutes 40 seconds, acquiring seven axial slices with a slice thickness of 7 mm and 1-mm interslice gap by QUIPSS-II method.
+ 14 Specifically, a PICORE tagging mode provided high-labeling efficiency 15 with a 20-cm tagging slab and 1-cm gap between the distal edge of the tagging region and the proximal edge of the imaging slice.
+ The EPI pulse sequence was employed for image acquisition (field of view 24 cm, 64 64 matrix, repetition time 2.5 s, echo time 25 msec, TI1/TI2 0.6/1.6 s).
+ TI2 of 1,600 msec was chosen to minimize the artifacts due to the flow speed and transit time.
+ In order to optimize the perfusion signal measurement with whole- brain coverage, each subject had two identical functional perfusion scans.
+ One covered the superior area of the brain and the other covered the inferior part.
+ The two functional perfusion scans were then combined to have a total of 14 axial slices yielding whole-brain coverage.
+ Data analysis.
+ All image data were processed with AFNI 16 and FSL 17 software packages.
+ A six-direction motion correction program (3dVolreg, AFNI) was used to correct motion artifacts during task performance.
+ It was also used to discard the datasets if the motion was larger than two voxels in- plane or one voxel through-plane.
+ Two control and two aMCI subjects were excluded from further analysis due to excessive motion artifacts.
+ Registered MR images were smoothed in space with a three-dimensional 10-mm full width at half maximum Gaussian kernel.
+ Perfusion weighted images were generated by pairwise subtraction of two adja- cent tagged/nontagged images and then converted to an absolute CBF image series based on a single-compartment pulse arterial spin labeling perfusion model.
+ 18 The resulting CBF image sets contained a total of 80 images in each functional perfusion scan, with 40 images representing the encoding-task group.
+ The control group had 40 images.
+ Voxelwise CBF values were calculated by temporal averag- ing the first 40 CBF images related to the control task and the second 40 images related to the memory-encoding task.
+ No temporal filtering or smoothing was employed because the ASL signal is free of any substantial autocorrelation.
+ 19 The quality of CBF images obtained with the ASL method is presented in figure 1 from a representative CN subject and a subject with aMCI.
+ The voxelwise CBF percentage change was calculated by subtracting the averaged absolute CBF values during the control task from the values during the encoding task.
+ This was then divided by the averaged CBF value during the control task.
+ Because there is an age difference between the CN and aMCI groups, the voxelwise CBF values were regressed by the age factor with the following model:
+
+          Figure 1
+        
+Quality of cerebral blood flow (CBF) images from a representative cognitively normal subject (A) and a subject with amnestic mild cognitive impairment (B)
+
+        
+CBF(s) a*Ic(s) b*Id(s) c*Age(s)
+where a is the constant offset for control subjects, b is the constant offset for aMCI subjects, c is the dependence of flow on age (same for each group), Ic(s) equals to 1 if the subject s is in the CN group, 0 otherwise, Id(s) equals to 1 if subject s is in the aMCI group, 0 otherwise, Age(s) is the age of subjects.
+ The regression was calculated with the 3dDecon- volve command line in the AFNI software.
+ For group analysis, voxelwised CBF values or CBF percentage changes during the control and encoding tasks were first registered to the individual’s own anatomic images  (flirt, FSL) and then converted to the Talairach space with a 1 1 1 mm 3 cubic interpolation (adwarp, AFNI).
+ The unpaired group t tests between the aMCI and CN groups were utilized during the control or encoding tasks.
+ Brain areas of difference were identified at the voxel level for p value 0.005 (uncorrected) and the cluster extend size 1,250 voxels (voxel size of 1 1 1 mm 3 ), resulting in a cluster- corrected threshold of p 0.05 (Alphasim, AFNI).
+ Regions of interest (ROIs) were generated based on the above clusters (3dclust, AFNI) and their centroid voxel locations were identified with the standard Talairach coordinate (whereami, AFNI).
+ The relationship between neuropsychological scores and functional perfusion CBF values were investigated using the linear-regression analysis.
+ More specifically, each subject’s Mini-Mental State Examination (MMSE) and Rey Auditory Verbal Learning Test (RAVLT) scores were correlated with his or her CBF values within the ROIs identified above.
+
+          Figure 2
+        
+of group baseline cerebral blood flow (CBF) images amnestic mild cognitive impairment (aMCI) and normal (CN) groups
+
+        
+in the right precuneus and cuneus in the aMCI group during linear regression analyses demonstrated that the mean CBF with aMCI (red dots) and CN subjects (blue dots) were State Examination (MMSE) (B) and Rey Auditory Verbal Learning the encoding task, the difference in the functional perfusion region as shown in (D) and the averaged CBF values over the MMSE (E) and RAVLT (F) scores.
+ The more severe the MMSE and RAVLT scores.
+Neuropsychological and behavioral re-
+sults.
+t
+Table 2
+          
+Comparison of CBF values between CN and aMCI groups under different conditions
+
+               Talairach coordinates (mm) Averaged CBF (mL/100 g/min)
+              
+                
+                  
+                    
+                     Brain region in
+                    
+                    
+                     Cluster size
+                    
+                    
+                    
+                    
+                     Region Z
+                  
+                  
+                     CBF condition
+                     the clusters
+                     X, Y, Z
+                    
+                     (voxels)
+                     CN
+                    
+                     aMCI
+                    
+                     score
+                  
+                
+                
+                  
+                     Resting
+                     Right precuneus cuneus
+                     14, 56,
+                     25
+                     2,565
+                     72.90
+                     27.74
+                     60.75
+                     30.95
+                     2.693
+                  
+                  
+                     Memory encoding
+                     PCC
+                     12, 56,
+                     23
+                     5,682
+                     74.06
+                     20.52
+                     61.35
+                     30.76
+                     2.882
+                  
+                  
+                     CBF (%)
+                     Right PHPG
+                     32, 27,
+                     12
+                     1,249
+                     22.7
+                     18.4%
+                     5.2
+                     8.8%
+                     3.055
+                  
+                  
+                     CBF cerebral blood
+                     flow; CN cognitively
+                     normal;
+                     aMCI
+                     amnestic mild
+                     cognitive cognitive
+                     impairment;
+                     PHPG
+                    
+                     parahippocampal
+                  
+                  
+                     gyrus; PCC right
+                     precuneus, cuneus, and
+                     posterior
+                     cingulate. cingulate.
+                    
+                    
+                    
+                    
+                    
+                    
+                  
+                
+              
+            
+            Talairach coordinates (mm) Averaged CBF (mL/100 g/min) Brain region in Cluster size Region Z CBF condition the clusters X, Y, Z (voxels) CN aMCI score Resting Right precuneus cuneus 14, 56, 25 2,565 72.90 27.74 60.75 30.95 2.693 Memory encoding PCC 12, 56, 23 5,682 74.06 20.52 61.35 30.76 2.882 CBF (%) Right PHPG 32, 27, 12 1,249 22.7 18.4% 5.2 8.8% 3.055 CBF cerebral blood flow; CN cognitively normal; aMCI amnestic mild cognitive impairment; PHPG parahippocampal gyrus; PCC right precuneus, cuneus, and posterior cingulate.
+          
+Differences in the baseline CBF between aMCI and CN groups.
+2 p 2 p Differences in activation CBF between aMCI and CN groups.
+2
+p
+2
+p
+
+            Figure 3
+          
+cerebral blood flow (CBF) percentage changes between congnitively normal (CN) and amnestic mild cognitive impairment
+
+          
+percent increase occurred in the region of the right parahippocam- period in the CN group, but not in the aMCI group. utilizing a through-mode three-dimensional rendering.
+ In (B), each subjects and red dots for subjects with aMCI, represented the CBF over the region.
+ The differences in CBF percentage aMCI groups were p 0.0003.
+Differences in the CBF percentage change between aMCI and CN groups.
+20
+21
+12,22-24
+25 26
+13,27,28
+28 29
+
+          
+14
+30
+31
+3
+0
+30
+11
+32
+that the perfusion deficits in these brain regions are consistent with the symptoms of AD. It is important to note that the ASL-MRI method has several limitations. First, the QUIPSII method provides limited brain coverage. In order to cover the whole human brain, two scans have to be acquired, thereby increasing scan time and possibly generating motion artifacts. In future studies, recently developed pseudo- continuous ASL and three-dimensional acquisition technology will measure CBF with whole-brain coverage. The second limitation is the omission of the measurement of the blood transit time or T1 relaxation time from each subject. The omission shortens the scan time, keeping high image quality and reducing subject discom- fort. A longer scan time is necessary to acquire the T1 relaxation time. In the present study, CBF quantification was established by using published T1 values. It is possible that subjects with aMCI could have different blood transit or T1 relaxation times. To alleviate this potential confound- ing factor, it is clearly important to establish these data beforehand. The third possible challenge might be the lack of atrophy correction in CBF data-processing procedures, as noted by a previous study. Since the correcting procedures did not alter the CBF calculation, it is unlikely that the lack of the atrophy correction will alter our results. In addition, atrophy is less evident in subjects with aMCI than patients with AD. Never- theless, in order to minimize the atrophy effects, we chose each voxel’s own M as the normaliza- tion factor in order to quantify the perfusion signal. Another disadvantage is that the CBF method has a weaker signal-to-noise ratio and is less sensitive than the BOLD method, resulting in limited brain regions activated by this task, in comparison with a previous study that used the BOLD method. Further detailed discussion on the ASL and BOLD methods is beyond the scope of this study and a recent publication on the topic is provided for reference. Besides the low signal-to-noise ratio sensitivity of the ASL method, it is observed that the different data analysis methods yield different results. For example, the right parahippocampus gyrus showed activation by the memory-encoding task. Also evident was the group difference between the CN and the aMCI groups when using the CBF percent changes (figure 3). However, when using the absolute CBF values to analyze the group difference between the CN and the aMCI groups, the parahippocampus gyrus region showed no difference statistically (figure 2D). This discrep-
+        
+ancy may result from high intersubject variances in the elderly or diseased subjects when using the CBF value method. Such high variances may be reduced when the CBF percent change method is employed because each subject’s CBF percent change was calculated by dividing the subject’s own resting CBF value (see Data analysis).

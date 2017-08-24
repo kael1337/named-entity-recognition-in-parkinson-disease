@@ -1,0 +1,115 @@
+﻿Patterns of brain activation in patients with mild Alzheimer’s disease during performance of subtraction An fMRI study
+We performed a functional MRI (fMRI) study to compare the difference of activation between healthy aged people and patients with mild Alzheimer’s disease (AD) during performance of subtraction.
+ Nine patients with mild AD and nine healthy aged volunteers were recruited in this study.
+ The analysis of fMRI data revealed that brain activation is decreased in several regions in AD patients in comparison with healthy participants.
+ But in the right inferior prefrontal lobe, activation is greater in patients than in the controls.
+ We believe that our findings will help the understanding mechanism of neuronal activity in AD.
+ D 2005 Elsevier Inc.
+ All rights reserved.
+1. Introduction
+      
+Alzheimer’s disease (AD) is one of the most severe and cognitively devastating chronic, degenerative diseases encountered in the older population.
+ Clinically, one of the hallmarks of AD during its initial stages is a disturbance in memory function.
+ In addition, patients with mild AD may have problems in balancing their check- books, reflecting their arithmetic processing deficits.
+ In a survey, 94% patients with mild AD exhibited impaired arithmetic ability [1].
+ Functional MRI (fMRI) shows blood oxygen level dependent change following neuronal activation, which measures the change of deoxyhemoglobin concentrations.
+ To our knowledge, there are few papers in AD that use fMRI to investigate their arithmetic process.
+ We designed a subtraction fMRI experiment to investigate difference between AD patients and healthy aged controls.
+2. Materials and methods
+      
+Nine right-handed patients with mild AD (four men and five women; ages 69–79 years, mean 73 years) were  recruited in this study.
+ The diagnosis of AD was made according to the criteria for dementia in the Diagnostic and Statistical Manual for Mental Disorders, 3rd Edition, Revised (DSM-III-R).
+ The severity of dementia was rated as 1, with the Clinical Dementia Rating score individu- ally.
+ MMSE score ranged from 20 to 27, mean 23.4.
+ They were all highly educated.
+ Nine healthy, right- handed aged volunteers (five men and four women; ages 61–80 years, mean 72 years) participated in our study.
+ They were matched with the patients for education and age.
+ Informed consent for participation was obtained from every participant.
+ The Human Subjects Committee at Peking University approved all the protocols used in this study.
+ The experiment began with a 27-s epoch of rest followed by six alternating 30-s epochs of experimental trials and 27-s epochs of control epochs.
+ During the control epochs, the participants passively viewed the b+Q on the screen.
+ Experimental epochs consisted of 10 subtraction problems with either a correct or an incorrect resultant (e.g., 87À83 = 4 or 76À73 = 4).
+ Half of the results were correct and half were incorrect.
+ The difficulty of subtraction operations was manipulated using three levels of arithmetic complexity.
+ The easy task consisted of two epochs of equations with the given resultants being 0.
+ The subtraction of two epochs in the difficult task should
+* Corresponding author.
+ Tel.: +86 10 6655 1122x2976.
+ E-mail address: xiao_jiangxi@163.com (J.X. Xiao).
+
+      
+Table 1 RTs of volunteers and AD patients for the three subtraction conditions Intermediate Difficult
+Volunteers 1677F461 1857F472 2105F523 Patients 1856F573 2015F503 2147F733  use backward computation rules (e.g., 83À79 = 4).
+ The complexity of the other two epochs of the intermediate task is between the easy and difficult tasks.
+ The six epochs were randomly arranged.
+ The participants were instructed to press the right or the left button in their hands based on their judgements byesQ or bnoQ.
+ Images were acquired on a 1.5-Tesla GE Signa Twin- speed scanner with echospeed gradients using a custom- built whole-head coil that provides a 50% advantage in signal-to-noise ratio over that of standard GE coil.
+ A custom-built head holder was used to prevent head movement.
+ Sixteen axial slices (5 mm thick, 1.5 mm skip) parallel to the anterior and posterior commissure covering the whole brain were imaged with a temporal resolution of 3s using an EPI sequence (TR = 3000 ms, TE = 40 ms, flip angle 908).
+ The field of view was 240 mm, and the effec- tive in-plane spatial resolution was 4.35 mm.
+ To aid in the localization of functional data, high-resolution T1-weighted spoiled grass gradient recalled 3D MRI sequence with the following parameters were used: TR = 11.3 ms, TE = 4.2 ms, flip angle 358, 24-cm field of view, 1.6 mm thick, 0 mm skip, and 256 Â 192 matrix.
+ The images were reconstructed as a 256 Â 256 matrix with a 1.6 Â 0.9 Â 0.9-mm spatial resolution.
+ The experiment was programmed on a notebook computer.
+ Stimuli were presented visually at the center of a screen using an LCD projection system connected to the computer.
+ The participant can view the images injected on the screen through the mirror overhead.
+ The button box was made manually and connected to the computer, thus, the reaction time (RT) and percentage of correct responses of the participants were recorded.
+ The RT and correct ratio of AD patients and healthy participants were compared with statistical software, SPSS.
+ The fMRI data were processed with the Analysis of Functional NeuroImages (AFNI) software package.
+ Functional images were first corrected for movement using least-square minimization and were corregistered with T1- weighted anatomical images, then resampled every 2 mm using sinc interpolation, and then smoothed with a Gaussian function (FWHM = 8 mm) to decrease spatial noise.
+ A temporal smoothing function (Gaussian kernel corresponding to dispersion of 8 s) was applied to the fMRI time series to enhance the temporal signal-to-noise ratio.
+ For each participant, the data were deconvolved, and a multivariate regression analysis was used to get the F value of each voxel.
+ A statistical parametric map was generated as a pseudocolor map superposing on the corresponding T1-weighted anatomical slices.
+ Only activation foci larger than 100 mm 3 were depicted ( P b 1.0EÀ7).
+ The values were then normalized spatially.
+ Independent samples t test was performed between controls and patients to investigate the activation area ( P b.
+05).
+The RTs of healthy participants and AD patients for the three experimental conditions are shown in Table 1.
+ RTs were analyzed using univariate ANOVA with variables of participants and trial type.
+ The analysis of RTs revealed a significant main effect of trial type ( P = .
+012) and participants ( P = .
+001).
+ The main effect of trial type indicates that RTs are shortest for the easy subtraction trials and longest for the difficult subtraction trials.
+ The main effect of participants indicates that AD patients need more time than healthy participants do to respond to the trial.
+ The mean percentage correct overall of volunteers is 58 F 29% and that of patients is 32 F 28%.
+ The mean percentage correct was compared using Mann–Whitney U test in the nonparametric tests.
+ The analysis revealed that the mean percentage correct of healthy participants is higher than that of AD patients significantly.
+ Brain activation of healthy participants was observed in the bilateral inferior frontal gyri (IFG), middle frontal gyri (MFG; mainly in the left IFG and MFG), left superior temporal gyrus, middle temporal gyrus, bilateral fusiform gyri, bilateral superior parietal lobules, inferior parietal lobules (mainly in the left), and occipital lobes.
+ As the task became more difficult, the brain map showed greater activation.
+ Brain activation of AD patients was observed in the identical regions to those of volunteers.
+ Compared with healthy participants, the brain of AD patients showed decreased activation in the left inferior prefrontal lobe, left superior temporal gyrus, and bilateral fusiform gyri ( P b.
+05).
+ In the difficult task, brain activation in the right inferior prefrontal lobe is greater in the AD patients than in healthy participants ( P b.
+05).
+ In the right inferior prefrontal lobe, left superior temporal gyrus, and left inferior parietal lobule, the spatial extension of brain activation is greater in the AD patients. Fig. 1 provides a precise localization of the activation superimposed on high-resolution structural images for three different subtraction conditions in healthy participants, and Fig. 2 is for AD patients.
+
+          Fig. 1. Brain areas that showed significantly greater activation during three subtraction conditions in healthy participants. Significant activation was observed in a number of regions in the inferior and middle frontal gyri as well as the angular and supramarginal gyri in the parietal cortices. Brain activation was greater and more extensive in the difficult task.
+        
+
+          Fig. 2. Brain areas that showed significantly greater activation during three subtraction conditions in AD patients. Compared with healthy participants, AD patients exhibited weaker activation, except in the right inferior prefrontal lobe.
+        
+Consistent with previous imaging studies, we found activation related to arithmetic processing in the inferior and middle prefrontal gyri, the angular and supramarginal gyri, and a number of other discrete brain regions [ 2, 3, 4].
+ In recent years, observations have led to the view that human arithmetic processing rests on the integration of two distinct systems, a verbal system of number words, and nonsymbolic representations of approximate quanti- ties [5, 6].
+ In one-digit subtraction, numbers were first transformed into internal representations to be manipulated in bilateral inferior parietal lobules.
+ As to more complex calculation, the cognitive processes usually assumed to be involved include storage and manipulation of numbers on a short-term intermediate, as well as selection and application of a dedicated resolution strategy.
+ The steps leading to the solution must be found, and their sequence controlled; arithmetic facts constituting intermediate results must be retrieved from memory.
+ In this context, the specificity of complex calculation corresponds to working memory mechanisms [7, 8, 9].
+ Significant activation observed in healthy participants reflects the fact that the left inferior prefrontal lobe and left superior temporal gyri are involved in complex computation.
+ Our data reveals decreased activation in those regions in AD patients, and together with their prolonged RTs, thus provides the best evidence of impairment of their arithmetic ability.
+ Dyscalculia is an early sign of AD.
+ Patients show mathematical deficits both on calculation and number processing skills.
+ Some authors proposed that AD patients’ difficulties in complex calculation arise from a monitoring deficit and not from incomplete or distorted calculation algorithms [10].
+ Although in mild AD, there is less involvement in the frontal lobes than in the temporal lobes, some PET examinations revealed decreased metabolism in the frontal lobes and anterior cingulate gyrus [11].
+ Because the left prefrontal lobe is in charge of working memory and executive processes, decreased activation in AD patients suggested that impairment of its function is responsible for their arithmetic processing deficits.
+ These results are consistent with previous studies about impairment of working memory in AD [12].
+ In contrast, our data revealed no amplitude difference of brain activation in the parietal lobe between AD patients and healthy participants.
+ It indicates that the number sense of parietal lobes is relatively preserved in the early stage of AD.
+ Besides the working memory network described above, computation involved the left superior and middle temporal gyri, areas corresponding to retrieving arithmetic facts.
+ Compared with healthy participants, AD patients showed decreased activation, suggesting the underlying damage of linguistic circus.
+ Some authors found a significant reduction of N-acetylaspartate/Creatine and N- acetylaspartate/(Creatine+Choline) ratios in the temporal and occipital cortices in AD patients, and it may explain the underlying reason of the dysfunction of the temporal lobe [13].
+ These results conflicted with a PET study, which found that regional glucose metabolism in the left inferior parietal lobule and in the left inferior temporal gyrus was significantly correlated with the calculation performance in AD patients [14].
+ The author attributed dyscalculia in patients with AD to the dysfunction of the inferior parietal lobule.
+ As demonstrated by other authors, we also found more extensive activation in the difficult task in AD patients than in healthy participants [15, 16].
+ In a previous fMRI study, the author considered that the hemodynamic response after the neuronal task would be changed in patients with AD.
+ We suggested that such regions are recruited by compute network to compensate for its impaired function, but how it works remains open.
+ In conclusion, the activation of most of the cerebral networks was weaker in patients with mild AD than in normally aging people during the performance of subtraction tasks, which may be due to substantive loss of neurons.
+ The more intensive and extensive activation in the right prefrontal lobe and left parietal lobule might play a painstaking role to make up for the deficits..

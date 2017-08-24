@@ -1,0 +1,856 @@
+Neural correlates of the DemTect in Alzheimer's disease and frontotemporal lobar degeneration – A combined MRI & FDG-PET study ☆ a,b, ⁎ a,c,d a,e c,f c,f
+Valid screening devices are critical for an early diagnosis of dementia.
+ The DemTect is such an internationally accepted tool.
+ We aimed to characterize the neural networks associated with performance on the DemTect's subtests in two frequent dementia syndromes: early Alzheimer's disease (AD) and frontotemporal lobar degeneration (FTLD).
+ Voxel-based group comparisons of cerebral glucose utilization (as measured by F-18-fluorodeoxyglucose positron emission tomography) and gray matter atrophy (as measured by structural magnetic resonance imaging) were performed on data from 48 subjects with AD (n = 21), FTLD (n = 14) or subjective cognitive impairment (n = 13) as a control group.
+ We performed group comparisons and correlation analyses between multimodal imaging data and performance on the DemTect's subtests.
+ Group comparisons showed regional patterns consistent with previous findings for AD and FTLD.
+ Interestingly, atrophy dominated in FTLD, whereas hypometabolism in AD.
+ Across diagnostic groups performance on the “wordlist” subtest was positively correlated with glucose metabolism in the left temporal lobe.
+ The “number transcoding” subtest was significantly associated with glucose metabolism in both a predominantly left lateralized frontotemporal network and a parietooccipital network including parts of the basal ganglia.
+ Moreover, this subtest was associated with gray matter density in an extensive network including frontal, temporal, parietal and occipital areas.
+ No significant correlates were observed for the “supermarket task” subtest.
+ Scores on the “digit span reverse” subtest correlated with glucose metabolism in the left frontal cortex, the bilateral putamen, the head of caudate nucleus and the anterior insula.
+ Disease-specific correlation analyses could partly verify or extend the correlates shown in the analyses across diagnostic groups.
+ Correlates of gray matter density were found in FTLD for the “number transcoding” subtest and the “digit span reverse” subtest.
+ Correlates of glucose metabolism were found in AD for the “wordlist” subtest and in FTLD for the “digit span reverse” subtest.
+ Our study contributes to the understanding of the neural correlates of cognitive deficits in AD and FTLD and supports an external validation of the DemTect providing preliminary conclusions about disease-specific correlates. © 2013 The Authors.
+ Published by Elsevier Inc.
+ All rights reserved.
+Abbreviations: AD, Alzheimer's disease; ANOVA, Analysis of variance; BA, Brodmann area; CDR, Clinical dementia rating scale; DARTEL, Diffeomorphic anatomical registration through exponentiated lie algebra; FDG-PET, F-18-fluorodeoxyglucose positron emission tomography; FTLD, Frontotemporal lobar degeneration; MMSE, Mini-Mental State Examination; MNI, Montreal Neurological Institute; MRI, Magnetic resonance imaging; PVE, Partial volume effects; SPM, Statistical parametric mapping. ☆ This is an open-access article distributed under the terms of the Creative Commons Attribution-NonCommercial-No Derivative Works License, which permits non-commercial use, distribution, and reproduction in any medium, provided the original author and source are credited. ⁎ Corresponding author at: Max Planck Institute for Human Cognitive and Brain Sciences, Stephanstr.
+ 1A, 04103 Leipzig, Germany.
+ Tel.: +49 341 9724962.
+ E-mail address: woost@cbs.mpg.de (T.B. Woost).
+ 1 Both senior authors contributed equally to this study.
+Today, dementia disorders are a major health problem — affecting about 35.6 million people worldwide in 2010 (World Health Organisation, 2012).
+ An early diagnosis is crucial to identify dementia-related diseases and administer appropriate therapeutic interventions; valid clinical screening and treatment progression devices are necessary to investigate specifically impaired cognitive domains.
+ One of the most important and frequently used clinical dementia screening devices is the DemTect (Kalbe et al., 2004), which has obtained international acceptance as a neuropsychological
+2213-1582/$ – see front matter © 2013 The Authors.
+ Published by Elsevier Inc.
+ All rights reserved. http://dx.doi.org/10.1016/j.nicl.2013.05.008
+Demographic and clinical characteristics of the patient groups.
+AD
+FTLD
+Control
+Group difference
+Whole group N Age Sex (f/m) Education (years) CDR MMSE c
+21 14 13 – 61.1 ± 6.7 60.8 ± 6.4 53.9 ± 6.0 5.8, 2, 0.006 a 12/9 7/7 6/7 0.4, 2, 0.809 b 10.7 ± 3.1 11.6 ± 3.8 12.3 ± 3.1 1.0, 2, 0.368 a 0.7 ± 0.3 0.8 ± 0.4 0.2 ± 0.3 13.9, 2, 0.000 a 23.2 ± 3.9 24.4 ± 4.2 28.8 ± 1.3 4.5, 2, 0.019 a
+DemTect group N 14 9 6 – Age 61.5 ± 7.6 59.3 ± 7.4 51.2 ± 7.6 3.9, 2, 0.032 a Sex (f/m) 9/5 5/4 2/4 1.6, 2, 0.443 b Education (years) 11.1 ± 3.2 10.9 ± 3.5 13.0 ± 3.3 0.9, 2, 0.427 a CDR 0.8 ± 0.3 0.8 ± 0.3 0.3 ± 0.3 10.3, 2, 0.001 a MMSE c 24.3 ± 3.8 23.8 ± 4.3 28.0 ± 1.0 1.4, 2, 0.263 a DemTect sum score 7.9 ± 3.4 7.3 ± 5.8 15.5 ± 2.9 8.3, 2, 0.002 a DemTect subscores d Wordlist 1.43 ± 1.22 1.11 ± 1.05 2.67 ± 0.52 4.1, 2, 0.028 a Number transcoding 1.64 ± 0.93 1.67 ± 1.32 2.50 ± 0.55 1.7, 2, 0.209 a Supermarket task 1.71 ± 1.27 1.00 ± 1.41 4.00 ± 0.00 12.0, 2, 0.000 a Digit span reverse 2.21 ± 0.98 1.89 ± 0.93 2.50 ± 0.84 0.8, 2, 0.462 a Wordlist 0.86 ± 0.77 1.67 ± 2.06 3.83 ± 1.84 8.3, 2, 0.002 a (delayed recall)
+dementia screening test in recent years ( Jacova et al., 2007).
+ The FDG-PET.
+ We hypothesized that performance in the DemTect subtests DemTect consists of five subtests: learning of a ten item wordlist in is associated with temporoparietal regions in AD and frontotemporal two trials (“wordlist”), transcoding numbers in numerals and regions in FTLD.
+ After correlating DemTect scores with MRI and vice-versa (“number transcoding”), a semantic word fluency task (“su- FDG-PET data in the whole cohort to isolate the neural correlates of permarket task”), a task in which the patient has to repeat sequences of this test per se, we combined results with group comparisons be- numbers in backward order (“digit span reverse”), and finally the tween AD or FTLD patients and the control cohort in a conjunction wordlist's delayed recall (“wordlist, delayed recall”).
+ In comparison to analysis, and calculated disease-specific correlation analyses to iden- the more established Mini-Mental State Examination (MMSE) tify neural correlates of the DemTect for AD and FTLD.
+ (Folstein et al., 1975), the DemTect has been shown to be superior in several studies (Kalbe et al., 2004; Perneczky, 2003), especially concerning the detection of mild dementia, which is a well-known weakness of the MMSE (Simard, 1998).
+ Although the neural correlates of the MMSE have been investigated in studies with magnetic resonance imaging (MRI) (Apostolova et al., 2006; Baxter et al., 2006; Ferrarini et al., 2008; Jack et al., 2002; Nickl-Jockschat et al., 2011) and We included 48 right-handed subjects from age 40 to 74 (25 females, F-18-fluorodeoxyglucose positron emission tomography (FDG-PET) 23 males), who were admitted to the Clinic of Cognitive Neurology at the (Mielke et al., 1994), these studies described neural correlates of total University of Leipzig (Table 1; (Dukart et al., 2011)).
+ They had presented MMSE scores only.
+ In order to link dementia syndromes to underlying with complaints of cognitive and/or behavioral alterations, by their own impairments in neural networks, investigation of subtests addressing account and/or by the account of caregivers.
+ Upon admittance, subjects specific cognitive domains is necessary. underwent a high-quality FDG-PET and structural MRI scan; a compre- The neural networks affected by neurodegenerative diseases, hensive neurological and psychiatric history and examination; neuropsy- especially Alzheimer's disease (AD) (Barnes et al., 2007; Baron et al., 2001; chological rating of behavioral deficits (Hughes et al., 1982); and testing Boxer et al., 2003; Buckner et al., 2005; Chetelat et al., 2008; of memory, executive function, attention and language.
+ Details of the Frisoni et al., 2002; Rabinovici et al., 2007; Schroeter et al., 2009; test batteries involved in our assessment are described in Frisch et al. (2013) Seeley et al., 2009) and frontotemporal lobar degeneration (FTLD) and Schroeter et al. (2011, 2012).
+ Inclusion criteria were a diagno- (Barnes et al., 2007; Boxer et al., 2003; Chetelat et al., 2008; sis of either probable AD, according to the revised NINCDS–ADRDA Desgranges et al., 2007; Ishii et al., 1998; Jeong et al., 2005; criteria (McKhann et al., 1984), FTLD, in accordance to criteria proposed Mummery et al., 2000; Rabinovici et al., 2007; Rosen et al., 2002; by Neary et al. (1998), or subjective cognitive impairment, characterized Schroeter et al., 2008, 2011; Seeley et al., 2009), have been described by complaints of cognitive impairment that could not be confirmed thoroughly in recent years in several studies and meta-analyses by neuropsychological testing.
+ The last group was chosen as a control (Schroeter et al., 2008; Schroeter et al., 2009).
+ Underlying different group (please see also Discussion).
+ Patients were excluded if structural etiologies and pathomechanisms (Finder, 2010; Rabinovici and Miller, 2010), imaging revealed lesions due to stroke, traumatic head injury, brain AD and FTLD have been related to specific metabolic tumor or inflammatory diseases.
+ All data were acquired for diagnostic and atrophic brain changes.
+ MRI provides information about gray purposes.
+ Within the whole group, 29 subjects from age 40 to 74 (16 matter atrophy, whereas glucose metabolism is investigated with FDG-PET.
+ However, results of FDG-PET analyses may be biased by gray matter atrophy if they are not corrected for partial volume effects (PVE) (Rousset et al., 1998).
+ Accordingly, the correction for partial volume effects is a state-of-the-art step in preprocessing of FDG-PET imaging data (see also Baete et al., 2004).
+ Recently, PVE- correction has been successfully applied when comparing atrophy and hypometabolism in AD (Chetelat et al., 2008).
+ Although one study has investigated glucose metabolism and amyloid plaque density in subjects with AD and semantic dementia (Drzezga et al., 2008), to date, no study using FDG-PET has integrated other FTLD subtypes into a PVE corrected group comparison.
+ Firstly, our study aimed at investigating differences in FDG metabolism and gray matter atrophy with regard to their localization, as well as their extent in subjects suffering from AD or FTLD, using data corrected for PVE.
+ Second, we intended to contribute to the external validation of the DemTect as a diagnostic tool capable of detecting cognitive deficits and linking them to morphological and glucose metabolic changes in the brain.
+ Although the DemTect has already been conceptually validated as a sensitive and specific screening tool for AD by the use of FDG-PET as an in-vivo reference method (Scheurich et al., 2005), and there are studies that have investigated the neural networks involved in cognitive paradigms similar to those used in the DemTect in healthy subjects and dementia patients (Andreasen et al., 1995; Awh et al., 1996; Cabeza et al., 2002; Demonet et al., 1992; Fiez et al., 1996; Grasby et al., 1993; Henson et al., 2000; Note.
+ All values given in mean ± standard deviation.
+ AD = Alzheimer's disease, CDR = Jonides et al., 1998; Peters et al., 2009; Sato et al., 1999; clinical dementia rating scale (Hughes et al., 1982), f = female, FTLD = frontotemporal Schroeter et al., 2012; Smith and Jonides, 1997; Smith et al., 1996, lobar degeneration, m = male, MMSE = Mini-Mental State Examination (Folstein et al., 1975), 1998), no study has systematically examined the neural correlates n = total number. a As tested with One-Way ANOVA: F, degrees of freedom (df), p. of the subtests of the DemTect.
+ Accordingly, our study aimed to inves- b As tested with two-tailed chi-square test: chi-square, df, p. tigate the DemTect in relation to two neurodegenerative diseases (AD c For twelve/four subjects MMSE was not available. and FTLD) using a multimodal imaging study including MRI and d Transformed scores.
+ females, 13 males) had valid psychometric data from the German version of the DemTect-A (Table 1).
+ We obtained informed consent from all patients.
+ The research protocol was approved by the local ethics committee and was in accordance with the Declaration of Helsinki.
+For each patient, a high resolution T1-MRI dataset was recorded on a 3 T Siemens TRIO (Siemens, Erlangen, Germany) or a Bruker Medspec 30/100 (Bruker, Ettlingen, Germany) scanner.
+ Therefore either a magnetization-prepared rapid gradient echo sequence or a modified driven equilibrium Fourier transform imaging technique was used, recording 128 anterior–posterior, commissure line adjusted partitions in sagittal orientation and providing a spatial resolution of 1 × 1 × 1.5 mm (TR = 1300 ms, TI = 650 ms, TE = 3.93 ms, TE = 10 ms; FOV 25 × 25 respectively 25 × 24 cm; matrix = 256 × 256 or 256 × 240 voxels).
+We conducted MRI and FDG-PET imaging within a period of a few weeks from admittance.
+ Patients fasted for one night before PET imaging and were injected with 370 MBq of the radiotracer 18 F-FDG immediately before the scanning procedure, which was conducted in 2-dimensional mode using a Siemens ECAT EXACT HR + PET device (CTI/Siemens, Knoxville, TN, USA).
+ A dynamic scan was performed for 60 min under standard resting-state conditions with eyes open, recording 63 transaxial slices simultaneously with an axial resolution of 5 mm full width at half maximum (FWHM) and an in-plane resolution of 4.6 mm.
+ Each collected slice had a thickness of 2.45 mm and a matrix size of 128 × 128 voxels.
+ After correction for attenuation, scatter, decay and scanner-specific dead-time, the PET data were reconstructed by filtered back-projection using a Hann filter (4.9 mm full width at half maximum).  Preprocessing was performed using the Statistical Parametric Mapping software package (SPM5, www.fil.ion.ucl.ac.uk/spm/) run with Matlab 7.7 (The MathWorks Inc., Natick, MA).
+ Data preprocessing consisted of co-registration of FDG-PET and MRI data, segmenta- tion of MRI data into different tissue classes (only the gray matter tissue class is used for further analyses), convolution-based voxel- wise PVE correction of FDG-PET data using the modified Müller– Gärtner method (Müller-Gärtner et al., 1992; Rousset et al., 1998) implemented in the PVElab software package (Quarantelli et al., 2004) and spatial normalization using Diffeomorphic Anatomical Registration Through Exponentiated Lie Algebra (DARTEL, Ashburner, 2007).
+ The PVE procedure uses the segmented MR images to account for PVE and for potential atrophy effects in FDG-PET.
+ The same deformation matri- ces used to normalize gray matter images were applied to FDG-PET images.
+ Gray matter images were additionally modulated to preserve the total amount of signal from each region.
+ As modulated gray matter maps identify differences in local volume they are commonly considered as measurements of atrophy (Mechelli et al., 2005).
+ Non-gray matter voxels were masked before and after smoothing.
+ Smoothing was performed using a Gaussian kernel of 12 mm FWHM.
+ FDG-PET data were normalized to cerebellar mean uptake values (Dukart et al., 2010).
+ Additionally, prior to smoothing, we normalized all obtained images to Montreal Neurological Institute (MNI) space using affine only transformations.
+ We retrieved anatomical descriptions of correlating brain regions by consensus, supported by FSLView 3.1 software (http://www.fmrib.ox.ac.uk/fsl/fslview/index. html).
+ The obtained modulated and smoothed gray matter probability maps are further referred to as MRI data.
+2.3.
+ Preprocessing of neuroimaging data
+We performed group comparisons for demographic and clinical characteristics, as well as the transformed (age-adjusted) DemTect subscores, in SPSS 19.0 (http://www-01.ibm.com/software/de/analytics/ spss/) by means of an analysis of variance (ANOVA) and two-tailed chi-square tests (p b 0.05).
+ Post-hoc analyses were performed with two-tailed post-hoc t-tests (p b 0.05 Bonferroni-corrected for multiple comparisons).
+ A voxel-based whole brain analysis of all 48 subjects' FDG-PET and MRI data was applied for group comparisons of the AD and FTLD patients, and the control subjects.
+ Age and sex were included as covariates in all analyses (Kalpouzos et al., 2009).
+ MR scanner types and sequences were not included as covariates because their distribution of use was even across subjects and did not differ significantly between diagnostic groups (Dukart et al., 2011).
+ Results were displayed as t-maps.
+ The extension of hypometabolic and atrophic brain regions for different contrasts was calculated by the sum of all clusters (in voxels) exceeding an uncorrected threshold of p b 0.001 on the voxel level and p b 0.05 (corrected) on the cluster level.
+ After the group comparisons, we conducted whole brain correlation analyses between the neuroimaging data and the subscores of the DemTect in the 29 patients with neuropsychological test scores.
+ We included patients with neurodegenerative dementia of different etiology (AD and FTLD), as well as control subjects, to gain a high variance in correlation analyses, as suggested in previous studies (Schroeter et al., 2011, 2012).
+ In this subgroup, age, type of scanner, and protocol were added as covariates in the MRI analyses to correct for an unequal distribution between diagnostic groups.
+ Results were displayed as t-maps.
+ A threshold of p b 0.001 on voxel-level and of p b 0.05 (corrected) on cluster- level was administered.
+ Finally, we conducted a conjunction analysis relating the neural correlates of the DemTect subscores across the different diagnostic groups to the specifically impaired brain regions in AD and FTLD, for glucose utilization and gray matter density.
+ Moreover, to draw further disease-specific conclusions we conducted a correlation analysis within the dementia subgroups under the same conditions mentioned for the correlation analysis across diagnostic groups.
+Demographic and clinical data for the whole group involved in the group comparison, and for the DemTect subgroup involved in the correlation analysis, are described in Table 1.
+ If there were category-specific, significant, between-group effects in an ANOVA, post-hoc t-tests were carried out (Bonferroni-corrected for multiple comparisons, significance threshold p b 0.05, based on directed hypotheses one-tailed p for comparisons of dementia subgroups vs. control group for Clinical Dementia Rating (CDR)-score, DemTect scores and MMSE score, for age two-tailed p reported).
+ For the whole group, significant group differences in age could be shown between the AD and control subgroups, and between the FTLD and control subgroups, whereas there were no differences between the AD and FTLD subgroups (AD vs. control: p = 0.008, t = 3.181, df = 32; FTLD vs. control: p = 0.024, t = 2.861, df = 25; AD vs. FTLD: p =1.000, t = − 0.157, df = 33).
+ In the DemTect group, a significant difference in age could be shown between the AD and control subgroups, but not between the other subgroups (AD vs. control: p = 0.029, t = 2.767, df = 18; FTLD vs. control: p = 0.154, t = 2.064, df = 13; AD vs. FTLD: p = 1.000, t = −0.669, df = 21).
+ Accordingly, age was included as a covariate in the subsequent analyses of imaging data.
+3.3.1. Wordlist “wordlist”
+          
+3.3.2. Number transcoding “number
+          
+3.3.3. Supermarket task fluency
+          
+3.3.4. Digit span reverse “digit
+          
+3.3.5. Wordlist, delayed recall “wordlist
+          
+As expected, CDR-scores were lower in the control group than in both dementia subgroups for both, the whole group (AD vs. control: p b 0.001, t = 5.357, df = 32; FTLD vs. control: p b 0.001, t = 4.347, df = 25; AD vs. FTLD: p = 0.977, t = 0.942, df = 33) and for the Fig. 2 and Tables 2 & 3 show the results of the correlation analysis.
+ DemTect group (AD vs. control: p = 0.001, t = 3.888, df = 18; FTLD In the following, we describe the results for each DemTect subtest vs. control: p b 0.001, t = 4.266, df = 13; AD vs. FTLD: p = 1.000, score separately. t = 0.762, df = 21).
+ As expected, in the whole group MMSE was higher in controls than in both dementia subgroups; significant differences could be shown particularly between AD and control subgroups (AD vs. control: p = 0.008, t = −3.143, df = 23; FTLD vs. control: Impairment in the subtest (sum of both trials) was p = 0.055, t = −2.298, df = 14; AD vs. FTLD: p = 1.000, t = 0.809, associated with lower glucose metabolism in the left superior and df = 29).
+ For the DemTect group, no significant MMSE differences middle temporal gyrus.
+ Evaluation of the first trial (not displayed) were observed between subgroups (probably due to reductions in sta- revealed a correlation in the same regions but spreading further to the tistical power), however the mean values showed the same descriptive left angular gyrus and the temporal pole.
+ No results were obtained for differences. correlation with gray matter density.
+ The DemTect sum score and subscores for the three cohorts are reported in Table 1.
+ In accordance with the hypothesis, the DemTect sum score was higher in the control group than in the patients Impairment in transcoding” subtest was significantly with dementia syndromes (AD vs. control: p = 0.002, t = −4.831, correlated with hypometabolism in a left lateralized network includ- df = 18; FTLD vs. control: p = 0.002, t = −3.155, df = 13; AD vs. ing the middle and inferior temporal gyri, the posterior angular gyrus, FTLD: p = 1.000, t = −0.274, df = 21).
+ Group comparisons in the the middle occipital gyrus, parts of the middle and inferior frontal DemTect subtests revealed lower scores in both dementia groups in gyrus, the posterior and lateral orbital gyrus, the putamen and the comparison with the control subjects for the “wordlist” subtest with no head of caudate nucleus.
+ There was also a significant correlation in the differences between AD and FTLD (AD vs. control: p = 0.038, right middle temporal gyrus.
+ Furthermore we could show a correlation t = −3.184, df = 18; FTLD vs. control: p = 0.016, t = −3.328, df = with gray matter density in the right angular gyrus and adjacent poste- 13; AD vs. FTLD: p = 1.000, t = −0.640, df = 21).
+ Significant differ- rior, superior and middle temporal gyri, bilaterally in the posterior ences between both dementia groups and control subjects were also inferior precuneus, the dorsal posterior cingulate, the retrosplenial observed for “wordlist, delayed recall” (AD vs. control: p b 0.001, cortex, the left inferior frontal gyrus, parts of the lateral sulcus, the t = −3.831, df = 5.8; FTLD vs. control: p = 0.017, t = −2.079, df = head of caudate nucleus, the putamen and the anterior insular cortex.
+ 13; AD vs. FTLD: p = 0.654, t = 1.128, df = 9.5) and for the “supermarket task” (AD vs. control: p = 0.001, t = −6.752, df = 13; FTLD vs. control: p b 0.001, t = −6.364, df = 8; AD vs. FTLD: p = 0.516, t = −1.262, df = 21).
+ There were no between-group effects for the Impairments in the semantic word subtest (“supermarket subtests “number transcoding” and “digit span reverse”. task”) did not correlate with either hypometabolism or gray matter In summary, dementia cohorts were characterized by lower density at the chosen significance threshold.
+ MMSE/DemTect sum scores and three of the five DemTect subtest scores, and higher CDR scores in comparison with control subjects.
+ Remarkably, we did generally not find statistical significant differences between dementia cohorts and relatively low impairment in both Impairments in the span reverse” subtest correlated with dementia groups indicating comparable stages of early dementia. hypometabolism in the left frontal cortex (including the superior, middle and inferior frontal gyri, the frontomedian cortex, the gyrus rectus and the medial and anterior orbital gyri), and bilaterally in the putamen, the heads of the caudate nucleus and the anterior insula.
+ No significant Results for the comparisons of glucose metabolism and gray results were obtained for correlation with gray matter density. matter density between groups are illustrated in Fig. 1.
+ Voxel-based group comparisons showed bilateral parietotemporal, retrosplenial and left-hemispheric prefrontal hypometabolic and atrophic regions Impairments in the delayed recall” subtest were associated in AD compared to control subjects.
+ FTLD subjects had a lower glucose with hypometabolism in the left middle and superior temporal gyri and metabolism than control subjects in the bilateral prefrontal, left tempo- posterior temporal sulcus.
+ Again, no significant results were obtained for ral and parieto-occipito-temporal junction regions.
+ In the same contrast correlation with gray matter density. for MRI, we further observed gray matter atrophy in a bilateral, mainly left-sided prefrontal and a large lefthemispherial temporal region.
+ Subjects with AD showed reduced glucose metabolism in bilateral retrosplenial cortex compared to FTLD subjects.
+ We consecutively calculated the sum of all significant clusters The analysis compared glucose utilization and gray matter atro- (in voxels) found in group comparisons (Fig. 1).
+ We observed substan- phy in the dementia syndromes AD and FTLD with the control group, tially more pronounced gray matter atrophy in FTLD than in AD patients whereas the second correlation analysis related test performance in the when comparing them to control subjects.
+ In contrast, hypometabolism DemTect's subtests to both of the imaging measures taken, across the was more pronounced in AD than in FTLD patients, both when compar- whole cohort.
+ Finally, a conjunction analysis between both analyses ing them to control subjects and when comparing them directly with aimed to relate results of the DemTect correlation to the dementia sub- each other.
+ In the comparison AD vs. control subjects, hypometabolism groups AD and FTLD. Fig. 3 shows almost similar results for glucose utili- extended gray matter atrophy.
+ Gray matter atrophy extended zation, whereas gray matter atrophy was related to performance in the hypometabolism if FTLD was compared with control subjects.
+ In AD “number transcoding” subtest differently in AD and FTLD, in particular vs. FTLD we found no significant gray matter atrophy.
+ No significant to gray matter atrophy in the retrosplenial/precuneal/posterior cingulate differences in the extent of gray matter atrophy or hypometabolism cortex and the right posterior middle temporal gyrus in AD, and to atro- could be found in the contrast FTLD vs. AD. phy in the left anterior insula, the caudate head and the putamen in FTLD.
+
+            Fig. 1. A: Reductions in glucose utilization (red) and gray matter density (blue) in dementia syndromes in comparison with control subjects and each other, rendered onto MNI template. Overlap is in purple. Only clusters with p b 0.05 (corrected) are displayed. Color spectrum represents t values. Left is left. B: The bar chart illustrates the extension of hypometabolic and atrophic brain regions (sum of all clusters in voxels exceeding an uncorrected threshold of p b 0.001 on the voxel level, and p b 0.05 corrected on the cluster level). AD = Alzheimer's disease, C = control subjects, FTLD = frontotemporal lobar degeneration, MNI = Montreal Neurological Institute, n.s. = not significant.
+          
+
+            Fig. 2. Correlation between DemTect raw scores and glucose utilization (red-yellow) and gray matter density (blue) rendered onto MNI template. Only clusters with p b 0.05 (corrected) are displayed. Color spectrum represents t values. Left is left. MNI = Montreal Neurological Institute.
+          
+Table 2 Correlation between glucose metabolism and DemTect raw scores across diagnostic groups.
+            
+              
+                
+                  
+                     Anatomical regions
+                     Lat.
+                     Coordinates
+                    
+                    
+                     T score
+                     Z score
+                     Cluster size
+                  
+                
+                
+                  
+                    
+                    
+                     x
+                     y
+                     z
+                    
+                    
+                    
+                  
+                  
+                     Wordlist
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                  
+                  
+                     Left superior and middle temporal gyrus (BA 21/22)
+                     L
+                     −62
+                     −34
+                     −4
+                     6.14
+                     4.79
+                     16,396***
+                  
+                  
+                    
+                     L
+                     −57
+                     −15
+                     −10
+                     5.32
+                     4.34
+                    
+                  
+                  
+                    
+                     L
+                     −48
+                     −27
+                     0
+                     4.94
+                     4.11
+                    
+                  
+                  
+                     Number transcoding
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                  
+                  
+                     Left inferior and middle temporal gyrus (BA 20/21)
+                     L
+                     −65
+                     −35
+                     −4
+                     6.03
+                     4.73
+                     14,356***
+                  
+                  
+                    
+                     L
+                     −59
+                     −17
+                     −30
+                     4.55
+                     3.87
+                    
+                  
+                  
+                    
+                     L
+                     −49
+                     −48
+                     −13
+                     4.54
+                     3.86
+                    
+                  
+                  
+                     Left posterior angular gyrus, BA 39, middle occipital gyrus (BA 19)
+                     L
+                     −43
+                     −51
+                     31
+                     5.80
+                     4.60
+                     11,135**
+                  
+                  
+                    
+                     L
+                     −38
+                     −57
+                     22
+                     5.29
+                     4.32
+                    
+                  
+                  
+                    
+                     L
+                     −44
+                     −61
+                     51
+                     5.25
+                     4.30
+                    
+                  
+                  
+                     Left middle frontal gyrus (BA 9/46)
+                     L
+                     −33
+                     12
+                     37
+                     4.93
+                     4.11
+                     4798*
+                  
+                  
+                    
+                     L
+                     −33
+                     35
+                     43
+                     4.33
+                     3.72
+                    
+                  
+                  
+                    
+                     L
+                     −42
+                     26
+                     34
+                     3.96
+                     3.47
+                    
+                  
+                  
+                     Right middle temporal gyrus (BA 21)
+                     R
+                     51
+                     −41
+                     −7
+                     4.88
+                     4.07
+                     4844*
+                  
+                  
+                    
+                     R
+                     39
+                     −36
+                     −12
+                     4.69
+                     3.96
+                    
+                  
+                  
+                    
+                     R
+                     53
+                     −32
+                     −9
+                     4.45
+                     3.80
+                    
+                  
+                  
+                     Left putamen and head of caudate nucleus, left inferior frontal gyrus,
+                     L
+                     −21
+                     11
+                     7
+                     4.60
+                     3.90
+                     17,307***
+                  
+                  
+                     pars orbitalis and triangularis, anterior, posterior and lateral
+                     L
+                     −36
+                     37
+                     −6
+                     4.57
+                     3.88
+                    
+                  
+                  
+                     orbital gyrus (BA 11–13/45–47)
+                     L
+                     −43
+                     35
+                     3
+                     4.39
+                     3.76
+                    
+                  
+                  
+                     Supermarket task
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                  
+                  
+                    
+                     No
+                     significant suprathreshold
+                     clusters
+                    
+                    
+                    
+                    
+                  
+                  
+                     Digit span reverse
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                  
+                  
+                     Left superior, middle and inferior frontal gyrus (BA 20/21),
+                     L
+                     −34
+                     9
+                     58
+                     7.26
+                     5.32
+                     45,506***
+                  
+                  
+                     frontomedian cortex (BA 9/10/32), anterior insula
+                     L
+                     −43
+                     19
+                     35
+                     5.56
+                     4.47
+                    
+                  
+                  
+                     (BA 15–16), putamen and head of caudate nucleus
+                     L
+                     −55
+                     33
+                     9
+                     5.08
+                     4.20
+                    
+                  
+                  
+                     Right putamen and head of caudate nucleus, anterior insula (BA 15–16)
+                     R
+                     23
+                     18
+                     5
+                     4.85
+                     4.06
+                     6717*
+                  
+                  
+                    
+                     R
+                     18
+                     27
+                     1
+                     4.76
+                     4.00
+                    
+                  
+                  
+                    
+                     R
+                     27
+                     29
+                     11
+                     4.71
+                     3.97
+                    
+                  
+                  
+                     Left frontal pole (BA 10/11), left gyrus rectus,
+                     L
+                     −28
+                     63
+                     −5
+                     4.27
+                     3.68
+                     7379**
+                  
+                  
+                     medial and anterior orbital gyrus
+                     L
+                     −16
+                     37
+                     −22
+                     4.22
+                     3.65
+                    
+                  
+                  
+                    
+                     L
+                     −28
+                     57
+                     20
+                     4.19
+                     3.63
+                    
+                  
+                  
+                     Wordlist (delayed recall)
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                  
+                  
+                     Left middle and superior temporal gyrus (BA 21/22),
+                     L
+                     −53
+                     −14
+                     −7
+                     4.92
+                     4.10
+                     6887*
+                  
+                  
+                     left posterior temporal sulcus
+                     L
+                     −46
+                     −48
+                     8
+                     4.17
+                     3.61
+                    
+                  
+                  
+                    
+                     L
+                     −60
+                     −33
+                     −10
+                     4.12
+                     3.58
+                    
+                  
+                  
+                     Note. Age included as covariate. Cluster size in voxels, voxel size = 1 × 1
+                     × 1 mm. p
+                     (voxel-level
+                     uncorrected) b
+                     0.001. *p b
+                     0.05, **p b 0.01,
+                     ***p b 0.001,
+                     corrected for multiple
+                  
+                  
+                     comparisons on cluster-level. Cluster size threshold of 30 voxels. Coordinates
+                     in MNI
+                     space. BA =
+                     Brodmann area,
+                     Lat. = laterality,
+                     L = left, R
+                     = right.
+                    
+                  
+                
+              
+            
+            Anatomical regions Lat. Coordinates T score Z score Cluster size x y z Wordlist Left superior and middle temporal gyrus (BA 21/22) L −62 −34 −4 6.14 4.79 16,396*** L −57 −15 −10 5.32 4.34 L −48 −27 0 4.94 4.11 Number transcoding Left inferior and middle temporal gyrus (BA 20/21) L −65 −35 −4 6.03 4.73 14,356*** L −59 −17 −30 4.55 3.87 L −49 −48 −13 4.54 3.86 Left posterior angular gyrus, BA 39, middle occipital gyrus (BA 19) L −43 −51 31 5.80 4.60 11,135** L −38 −57 22 5.29 4.32 L −44 −61 51 5.25 4.30 Left middle frontal gyrus (BA 9/46) L −33 12 37 4.93 4.11 4798* L −33 35 43 4.33 3.72 L −42 26 34 3.96 3.47 Right middle temporal gyrus (BA 21) R 51 −41 −7 4.88 4.07 4844* R 39 −36 −12 4.69 3.96 R 53 −32 −9 4.45 3.80 Left putamen and head of caudate nucleus, left inferior frontal gyrus, L −21 11 7 4.60 3.90 17,307*** pars orbitalis and triangularis, anterior, posterior and lateral L −36 37 −6 4.57 3.88 orbital gyrus (BA 11–13/45–47) L −43 35 3 4.39 3.76 Supermarket task No significant suprathreshold clusters Digit span reverse Left superior, middle and inferior frontal gyrus (BA 20/21), L −34 9 58 7.26 5.32 45,506*** frontomedian cortex (BA 9/10/32), anterior insula L −43 19 35 5.56 4.47 (BA 15–16), putamen and head of caudate nucleus L −55 33 9 5.08 4.20 Right putamen and head of caudate nucleus, anterior insula (BA 15–16) R 23 18 5 4.85 4.06 6717* R 18 27 1 4.76 4.00 R 27 29 11 4.71 3.97 Left frontal pole (BA 10/11), left gyrus rectus, L −28 63 −5 4.27 3.68 7379** medial and anterior orbital gyrus L −16 37 −22 4.22 3.65 L −28 57 20 4.19 3.63 Wordlist (delayed recall) Left middle and superior temporal gyrus (BA 21/22), L −53 −14 −7 4.92 4.10 6887* left posterior temporal sulcus L −46 −48 8 4.17 3.61 L −60 −33 −10 4.12 3.58 Note. Age included as covariate. Cluster size in voxels, voxel size = 1 × 1 × 1 mm. p (voxel-level uncorrected) b 0.001. *p b 0.05, **p b 0.01, ***p b 0.001, corrected for multiple comparisons on cluster-level. Cluster size threshold of 30 voxels. Coordinates in MNI space. BA = Brodmann area, Lat. = laterality, L = left, R = right.
+          
+Table 3 Correlation between gray matter density and DemTect raw scores across diagnostic groups.
+          
+Anatomical regions Lat.
+ Coordinates T score Z score Cluster size x y z Wordlist No significant suprathreshold clusters Supermarket task No significant suprathreshold clusters Number transcoding Right angular gyrus (BA 39), posterior superior R 56 −53 21 6.57 4.92 8931** and middle temporal gyrus (BA 22/37) R 60 −46 9 6.51 4.89 R 49 −40 23 4.75 3.95 Bilateral posterior inferior precuneus (BA 7/31), R 8 −57 32 6.23 4.76 10,168** dorsal posterior cingular cortex (BA 23, 31) L −11 −56 26 5.65 4.46 and retrosplenial cortex (BA 30) L −2 −59 33 5.45 4.35 Left inferior frontal gyrus, pars opercularis (BA 44), L −42 11 13 4.48 3.78 11,967** triangularis (BA 45) and orbitalis (BA 47), pars L −12 3 7 4.44 3.75 ascendens and horicontalis of lateral sulcus, head L −28 4 12 4.43 3.75 of caudate nucleus, putamen, anterior insular cortex (BA 15/16), posterior orbital gyrus (BA 12, 47) Digit span reverse No significant suprathreshold clusters Wordlist (delayed recall) No significant suprathreshold clusters Note.
+ Age, scanner type and protocol included as covariates.
+ Cluster size in voxels, voxel size = 1 × 1 × 1 mm. p (voxel-level, uncorrected) b 0.001. **p b 0.01, corrected for multiple comparisons on cluster-level.
+ Cluster size threshold of 30 voxels.
+ Coordinates in MNI space.
+ Lat. = laterality, L = left, R = right.
+
+            Fig. 3. Conjunction analysis for group comparisons (patients with dementia syndromes vs. control subjects) and correlation analysis of the DemTect subscores rendered onto MNI template. A: Conjunction analysis for AD b control subjects. B: Conjunction analysis for FTLD b control subjects. Glucose utilization (red) and gray matter density (blue). Only clusters with p b 0.05 (corrected) are displayed. Left is left. AD = Alzheimer's disease, FDG-PET = F-18-fluorodeoxyglucose positron emission tomography, FTLD = frontotemporal lobar degeneration, MNI = Montreal Neurological Institute, MRI = magnetic resonance imaging.
+          
+Fig. 4 and Tables 4 & 5 show the results of the correlation analysis within the two dementia subgroups.
+ In the following, we describe the results for AD and FTLD separately.
+In the AD sample we detected correlates between performance in the wordlist task and glucose metabolism in the left superior temporal gyrus.
+ No correlates concerning other tests or gray matter density could be shown.
+In the FTLD group, we detected correlates both concerning glucose utilization and atrophy.
+ In the “number transcoding” subtest, performance was associated with gray matter density bilaterally in the angular gyrus and rectal gyrus, and in the right superior temporal sulcus.
+ For the “digit span reverse” task we found neural correlates for glucose metabolism in the posterior left middle frontal gyrus  and correlates for gray matter density in the posterior right middle frontal gyrus.
+In our study, we aimed to identify regional hypometabolism and gray matter atrophy in AD and FTLD patients using PVE corrected data.
+ Based on these data, we intended to discover the neural correlates of performance in the DemTect with multimodal imaging.
+ Note that both dementia cohorts involved clinically comparable early stages of the disease as shown by similar CDR, MMSE and DemTect scores.
+ Concerning the inclusion of subjects with subjective cognitive impairment as a control group in our study, one could raise the point that this potentially would not be a healthy population, as there are several studies in individuals with subjective memory impairment showing a progression to mild cognitive impairment or dementia (e.g. Heun et al., 2006; Luck et al., 2010; Scheef et al., 2012; van Harten et al., in press).
+ Hence, such a control group with subjective cognitive impairment could potentially reduce the extent of conclusions that can be drawn from comparisons with AD and FTLD relevant measures compared to age-matched healthy cohorts.
+ Note subjects.
+ Nevertheless, we think that such a control group is justified that normal imaging findings in our control cohort with subjective cog- and actually has several advantages in comparison with healthy nitive impairment make beginning AD very unlikely, because a recent subjects: First, memory or cognitive complaint is also known to study has shown precuneal hypometabolism and hippocampal atrophy occur in healthy aging as a discrepancy between demands and normal already in persons with subjective memory impairment (Scheef et al., 2012). decline of cognitive abilities (see also Frisch et al., 2013).
+ In Second, the differentiation between patients with subjective recent studies, cognitive complaint could not differentiate between cognitive impairment and patients with dementia syndromes is most memory-declining and cognitively normal older adults and it could important in clinical practice (Dukart et al., 2010, 2011; Schroeter et al., 2011). not be shown as a predictor for the development of dementia (Mol et al., 2006; Third, for ethical reasons (exposure to radiation) FDG-PET Weaver Cargin et al., 2008).
+ In our control subjects, mild cognitive impairment or dementia were excluded by thorough examination, neuropsychological testing and comprehensive multi- Correlation between gray matter density and DemTect raw scores in dementia modal neuroimaging with MRI and FDG-PET.
+ These subjects with subgroups. subjective cognitive impairment did not show abnormalities on Anatomical regions Lat.
+ Coordinates T Z Cluster size score score x y z
+
+          Fig. 4. Correlation between glucose utilization (red-yellow)/gray matter density (blue) and DemTect raw scores within dementia subgroups rendered onto MNI template. Only clusters with p b 0.05 (corrected) are displayed. Color spectrum represents t values. Left is left. A: Correlation between DemTect raw scores and glucose utilization/gray matter density in AD. B: Correlation between DemTect raw scores and glucose utilization/gray matter density in FTLD. AD = Alzheimer's disease, FTLD = frontotemporal lobar degeneration, MNI = Montreal Neurological Institute.
+        
+Table 4 Correlation between glucose metabolism and DemTect raw scores in dementia
+        
+AD
+
+             subgroups. No significant suprathreshold clusters
+            
+              
+                
+                   Anatomical regions
+                   Lat. Coordinates T Z
+                   Cluster
+                   FTLD Wordlist
+                   No significant suprathreshold clusters
+                  
+                
+                
+                  
+                   x y z score score
+                   size
+                   Supermarket task
+                   No significant suprathreshold clusters
+                  
+                
+              
+              
+                
+                   AD
+                  
+                  
+                   Number transcoding
+                  
+                  
+                
+                
+                  
+                  
+                  
+                   Right angular gyrus
+                   R 53 −49 22 31.24 4.52
+                   2486***
+                
+                
+                   Wordlist Left superior temporal
+                   L −55 −14 −1 5.49 3.73
+                   3909*
+                   (BA 39)
+                   R 57 −50 30 28.96 4.45 R 48 −41 26 8.05 3.22
+                  
+                
+                
+                   Number gyrus (BA transcoding 22)
+                   L No significant −46 −7 suprathreshold −13 4.97 clusters 3.53
+                  
+                   Right superior
+                   R 48 −32 −4 20.39 4.14
+                   901**
+                
+                
+                   Supermarket task
+                   No significant suprathreshold clusters
+                  
+                   temporal sulcus
+                   R 42 −34 6 10.22 3.47
+                  
+                
+                
+                   Digit span reverse
+                   No significant suprathreshold clusters
+                  
+                   (BA Left 21/22) angular gyrus
+                   R L −40 42 −38 −63 13 33 17.45 8.56 3.28 4.00
+                   686*
+                
+                
+                   Wordlist (delayed recall)
+                   No significant suprathreshold clusters
+                  
+                   (BA 39)
+                   L −54 −61 46 7.95 3.20
+                  
+                
+                
+                   FTLD
+                  
+                  
+                   Bilateral gyrus rectus
+                   R 1 33 −26 16.47 3.95
+                   1290**
+                
+                
+                   Wordlist
+                   No significant suprathreshold clusters
+                  
+                   (BA 11)
+                   L −12 40 −25 13.76 3.77
+                  
+                
+                
+                   Number transcoding
+                   No significant suprathreshold clusters
+                  
+                  
+                   L −4 47 −19 7.77 3.18
+                  
+                
+                
+                   Supermarket task
+                   No significant suprathreshold clusters
+                  
+                   Digit span reverse
+                  
+                  
+                
+                
+                   Digit span reverse
+                  
+                  
+                   Right posterior middle
+                   R 37 18 41 135.22 5.63
+                   1221**
+                
+                
+                   Left posterior middle
+                   L −35 18 56 12.77 4.34
+                   2785**
+                   frontal gyrus (BA 9)
+                   R 41 11 58
+                  
+                
+                
+                   frontal gyrus (BA 9)
+                  
+                  
+                  
+                   R 41 19 54
+                  
+                
+                
+                   Wordlist (delayed recall)
+                   no significant suprathreshold clusters
+                  
+                   Wordlist (delayed recall)
+                   No significant suprathreshold clusters
+                  
+                
+              
+            
+          
+          subgroups. No significant suprathreshold clusters Anatomical regions Lat. Coordinates T Z Cluster FTLD score score size Wordlist No significant suprathreshold clusters x y z Supermarket task No significant suprathreshold clusters AD Number transcoding Wordlist Right angular gyrus R 53 −49 22 31.24 4.52 2486*** Left superior temporal L −55 −14 −1 5.49 3.73 3909* (BA 39) R 57 −50 30 28.96 4.45 gyrus (BA 22) L −46 −7 −13 4.97 3.53 R 48 −41 26 8.05 3.22 Number transcoding No significant suprathreshold clusters Right superior R 48 −32 −4 20.39 4.14 901** Supermarket task No significant suprathreshold clusters temporal sulcus R 42 −34 6 10.22 3.47 Digit span reverse No significant suprathreshold clusters (BA 21/22) R 42 −38 13 8.56 3.28 Wordlist (delayed recall) No significant suprathreshold clusters Left angular gyrus L −40 −63 33 17.45 4.00 686* (BA 39) L −54 −61 46 7.95 3.20 FTLD Bilateral gyrus rectus R 1 33 −26 16.47 3.95 1290** Wordlist No significant suprathreshold clusters (BA 11) L −12 40 −25 13.76 3.77 Number transcoding No significant suprathreshold clusters L −4 47 −19 7.77 3.18 Supermarket task No significant suprathreshold clusters Digit span reverse Digit span reverse Right posterior middle R 37 18 41 135.22 5.63 1221** Left posterior middle L −35 18 56 12.77 4.34 2785** frontal gyrus (BA 9) R 41 11 58 frontal gyrus (BA 9) R 41 19 54 Wordlist (delayed recall) no significant suprathreshold clusters Wordlist (delayed recall) No significant suprathreshold clusters
+        
+Note.
+ Age included as covariate.
+ Cluster size in voxels, voxel size = 1 × 1 × 1 mm.
+ Note.
+ Age, scanner type and protocol included as covariates.
+ Cluster size in voxels, p (voxel-level uncorrected) b 0.001. *p b 0.05, **p b 0.01, corrected for multiple voxel size = 1 × 1 × 1 mm. p (voxel-level, uncorrected) b 0.001. *p b 0.05, **p b 0.01, comparisons on cluster-level.
+ Cluster size threshold of 30 voxels.
+ Coordinates in MNI ***p b 0.001, corrected for multiple comparisons on cluster-level.
+ Cluster size threshold of space.
+ AD = Alzheimer's disease, BA = Brodmann area, FTLD = frontotemporal 30 voxels.
+ Coordinates in MNI space.
+ AD = Alzheimer's disease, FTLD = frontotemporal lobar degeneration, Lat. = laterality, L = left, R = right. lobar degeneration, Lat. = laterality, L = left, R = right.
+should not be applied without clinical justification.
+ Fourth, we want to emphasize that our control cohort consisted of individuals with subjective cognitive impairment reporting complaints in one or more of all possible cognitive domains (memory, attention, executive functions) and not only memory such as in subjective memory complainers.
+ Hence, our control cohort does not show a specific pattern of subjective complaints possibly indicating prestages of Alzheimer's disease and exhibits rather unspecific subjective complaints.
+ Furthermore, note that in our group comparisons between FTLD or AD patients and control subjects the same control group was involved, making systematic biases very unlikely.
+ We hold the view that – due to the mentioned reasons – in the context of our study sufficient conclusions can be drawn from subjects seeking for diagnostic evaluation of subjective cognitive complaint.
+ Accordingly, we consider subjects with subjective cognitive impairment not only an acceptable, but also an ideal control group from a clinical point of view.
+ There are several current studies including subjects with subjective cognitive impairment as a control group in the literature (e.g. Schroeter et al., 2012).
+ We also want to discuss an interesting point of our analysis of clinical data.
+ As described we did generally not find significant differences between performances of AD and FTLD groups in the subtests of the DemTect.
+ However, on a descriptive level the DemTect subscores show subtle differences between AD and FTLD, which are generally in accordance with the traditional concept of neuropsychological profiles of these diseases (see for example Thompson et al., 2005): AD subjects performed worse than FTLD subjects in delayed recall of the wordlist, a finding which would be predicted by several studies assuming a poorer memory consolidation in AD.
+ In contrast, AD subjects performed better in the supermarket task and in digit span reverse, which could partly be related to frontal lobe functions which have been assumed to be more impaired in FTLD (at least FTD).
+ We cannot exclude that the absence of significant subscore differences between the groups is due to the relatively small number of subjects and the heterogeneity of the FTLD cohort.
+ Nevertheless, these findings are also in correspondence with recent data in the literature.
+ These studies question the specificity of the neuropsychological profile for both neurodegenerative diseases, rather showing overlapping deficits for instance for memory and executive functions (see meta-analysis by Hutchinson and Mathis, 2007; and Frisch et al., 2013; Schroeter et al., 2012).
+ This has been discussed in the context of large distributed networks contributing to the different cognitive functions which break down in dementing illnesses (see Sporns, 2010 among others for an overview).
+In our study, we performed group comparisons between AD, FTLD and control subjects with subjective cognitive impairment using a mor- phometric approach.
+ Results for the group comparisons were in agreement with previous studies, showing mainly impaired parietotemporal networks, including the posterior cingulate cortex for AD ( Barnes et al., 2007; Baron et al., 2001; Boxer et al., 2003; Buckner et al., 2005; Chetelat et al., 2008; Frisoni et al., 2002; Rabinovici et al., 2007; Schroeter et al., 2009; Seeley et al., 2009) and alterations in mainly anterior frontotemporal regions, including the anterior cingulate cortex for FTLD, when compared to healthy subjects (Barnes et al., 2007; Boxer et al., 2003; Chetelat et al., 2008; Desgranges et al., 2007; Ishii et al., 1998; Jeong et al., 2005; Mummery et al., 2000; Rabinovici et al., 2007; Rosen et al., 2002; Schroeter et al., 2008, 2011; Seeley, 2010; Seeley et al., 2009).
+ In both cases, alterations occurred predominantly in the left hemisphere and included parts of the basal ganglia.
+ Most interestingly, metabolic decline appeared greater than gray matter loss in AD compared to control subjects, whereas the opposite was the case in the FTLD cohort (see Fig. 1).
+ For AD, this is consistent with previous findings (Chetelat et al., 2008) and attributable to the fact that the metabolic decline is known to antecede morphological decline in the course of AD (Jack et al., 2010).
+ Apart from cytoplasmic inclusions of neurofibrillary tangles due to ag- gregation of hyperphosphorylated tau protein, the extracellular accumu- lation of beta-amyloid has been discussed to play an important role in initiating synaptic dysfunction, which may represent the main cause of hypometabolism in FDG-PET (Chetelat et al., 2008; Jack et al., 2010).
+ The localization of these beta-amyloid deposits has been investigated in several studies and supports the correctness of hypometabolic regions in our AD cohort (Barthel et al., 2011; Forsberg et al., 2008; Kemppainen et al., 2006; Klunk et al., 2004; Li et al., 2008; Rowe et al., 2007).
+ Histo- pathological correlates of FTLD differ from those of AD, including three different types of cytoplasmic inclusions – FTLD-tau, FTLD-TDP43 and FTLD-FUS due to a number of possible mutations, especially in the tau and the progranulin gene (Rabinovici and Miller, 2010).
+ However, the exact succession of pathological changes has not yet been elucidated satisfactorily.
+ Our results may hint on pathomechanisms in FTLD, with gray matter loss being less dependent on a wide-ranging decline of glucose metabolism.
+ Multimodal follow-up studies investigating different stages of FTLD and its subtypes might provide further answers to this question.
+ Interestingly, we did not observe differences concerning atrophy in direct comparison of AD and FTLD in our study.
+ This missing finding might be related to early disease stage for both dementia subgroups, the heterogeneity of the FTLD cohort and correction of imaging data for multiple comparisons, finally leading to insufficient statistical power.
+ However, there are significant differences comparing AD and FTLD groups directly with respect to FDG metabolism in typical regions (precuneus) underlining the relevance of FDG-PET for early diagnosis and differential diagnosis of dementia syndromes with a higher reliabil- ity than MRI (Dukart et al., 2011).
+ As PET data was corrected for partial volume effects, one would even expect larger clusters in uncorrected data.
+The second focus of our study was the correlation between dementia specific networks and performance in the DemTect's subtests.
+ Correlation analyses firstly were performed across diagnostic groups with early dementia syndromes and including control subjects to increase variances in exploring the neural correlates of the DemTect as a screening instrument in early dementia.
+ The same approach was used likewise in several other studies to increase statistical power ( Rankin et al., 2006; Rosen et al., 2005; Schroeter et al., 2012).
+ The dilemma between disease specificity and statistical power could be solved in the future by recruiting very large patient groups, and investigating patients with a further progression of disease.
+ Nevertheless, we also performed a correlation analysis within the relatively small dementia subgroups to draw further disease-specific conclusions.
+ In our correlation analyses across diagnostic groups, we could characterize functional neural correlates using FDG-PET in four out of the five subtests.
+ Further, for one subtest, structural neural correlates were established.
+ The DemTect's subtests examine the cognitive domains of verbal short term memory and learning, processing of language and numbers in combination with executive functions, semantic word fluency, verbal working memory and verbal long term memory.
+ In the following we discuss results for each of the DemTect's subtests.
+ The “wordlist” paradigm with immediate recall (sum of two trials) is applied to detect impairments in auditory verbal short-term memory (Kessler et al., 2010) and learning.
+ Impairments in explicit memory are known as a striking clinical sign of AD in particular, whereas impairment of language processing plays an important role in FTLD.
+ In our groups of early AD and FTLD subjects, performance in this task was significantly impaired compared to healthy subjects.
+ The correlation analysis with the scores of the wordlist subtest and imaging data identified metabolic correlates in the left medial and superior temporal gyri, including Wernicke's Region (BA 22).
+ Concerning the first trial of this mentioned regions.
+ We also found correlates bilaterally in the putamen subtest (not displayed), these areas spread slightly to the angular and the head of caudate nucleus, in agreement with the proposed in- gyrus and the temporal pole.
+ These regions have been related to audito- volvement of the basal ganglia in learning and memory (Packard and Knowlton, 2002). ry, memory and language information processing (Sato et al., 1999) and Furthermore, metabolic correlates were found in our results support prior findings about the neural correlates of verbal the left and right anterior insula, known to be involved in auditory span in short-term memory in AD subjects (Collette et al., 1997; and phonological processing (Bamiou et al., 2003). Desgranges et al., 1998).
+ Posterior parts of the predominantly left The “supermarket task” subtest addresses cognitive flexibility, temporal lobe have been discussed to play a role in recoding visual into semantic word fluency, cognitive speed and imaginative abilities phonological verbal material (Henson et al., 2000), the left temporal (Kessler et al., 2010).
+ Recent studies have shown semantic or pole, the posterior temporal lobe and the angular gyrus are mentioned categorial word fluency to be related to hypometabolism in the left in the context of semantic processing of verbal items (Price et al., 1997). prefrontal cortex, in particular the inferior frontal junction (Raczka et al., 2010; Although there also are other regions known to be related to ver- Schroeter et al., 2012), the temporal and inferior frontal re- bal recall in healthy subjects, such as the anterior cingulate cortex (BA 24, gions, the fusiform gyrus, the posterior cingulate cortex, the middle oc- BA 32), the hippocampus, and the prefrontal cortex (BA 9, BA 10), in the cipital gyrus and the precuneus (Collette et al., 1997; Melrose et al., 2009). case of supraspan tasks (Baron et al., 2001), and in AD for example parts Although dementia patients performed less efficiently in our co- of frontal and parietal lobes, putamen and posterior cingulate gyrus hort in comparison with control subjects (see Table 1), we did not de- (Desgranges et al., 1998), an involvement of these regions could not be tect associations of performance with regional glucose metabolism or shown in our cohort.
+ The “wordlist, delayed recall” subtest is designed gray matter atrophy on the chosen level of significance.
+ This absence to address auditory verbal long term memory (Kessler et al., 2010). might be related to a very low variance in the control cohort, the diver- Our correlates in regions similar to, but smaller than those in the imme- sity of cognitive domains involved in this task, and the overrepresenta- diate recall, support the assumption that short-term memory strongly tion of early AD subjects in comparison with FTLD subjects that are limits long-term performance, as has been discussed in the literature predominantly characterized by executive and language deficits for a long time (Atkinson and Shiffrin, 1968; Baddeley et al., 1988).
+ (Raczka et al., 2010; Schroeter et al., 2012) finally leading to a low The cognitive functions needed for the “number transcoding” signal-to-noise ratio. subtest are cognitive flexibility, reading, writing and number pro- Focusing on the DemTect as a screening instrument for different cessing (Kessler et al., 2010), suggesting a large neural network. diseases with dementia syndromes we may cautiously assume that One region, which emerged with a correlation in gray matter loss, neural correlates of the DemTect correspond to typically impaired included the precuneus, the retrosplenial cortex and the posterior regions both in AD and FTLD as illustrated by overlapping regions of cingulate cortex.
+ The precuneus, which fulfills different integrative correlations and group comparison in a descriptive conjunction functions, has been proposed to be divided into heterogeneous analysis.
+ In recent studies, the DemTect has been shown to be a highly anatomical and functional subregions (Cavanna and Trimble, 2006; sensitive diagnostic tool for mild cognitive impairment, early AD, Margulies et al., 2009) — an anterior region is involved in sensori- dementia with Lewy bodies and vascular dementia (Kalbe et al., 2004; motor processes, a central region is involved in cognitive processes Perneczky, 2003; Scheurich et al., 2005).
+ Our conjunction analysis and a posterior region is involved in visual integrative processes. shows wide overlaps with pathological patterns in both our AD and Functional resting-state connectivity analyses (Margulies et al., 2009) FTLD cohort, especially concerning glucose metabolism, suggesting have previously shown connections between the central (cognitive) the DemTect as an appropriate tool in the detection of both of these parts of the precuneus and the angular gyrus, as well as dorsal pre- dementia types.
+ Interestingly, the conjunction of contrasts suggests frontal areas, a network that is identified also in our study.
+ Moreover, that hypometabolism in almost identical brain regions in both dementia the precuneus, concerted with the posterior cingulate/retrosplenial syndromes was correlated with the performance in the DemTect's cortex, the predominantly left-lateralized lateral parietal cortex and a subtests, whereas for gray matter atrophy we observed a dissociation frontal region near premotor cortex, have been discussed as parts of between AD and FTLD in case of the number transcoding subtest.
+ As the memory retrieval network (Buckner et al., 2005).
+ As for the angu- the shown conjunction of contrasts provides descriptive, though not lar and supramarginal gyrus, their integrative involvement in reading, statistical results, we may very carefully assume that there are specifi- writing and mathematical processes has been known for long time cally affected networks related to the DemTect performance in both dis- (Seghier, 2013).
+ Interestingly, we not only observed metabolic eases, AD and FTLD.
+ Although an involvement of quite comparable correlates in the left hemisphere, but also correlates with atrophy in neural networks in both diseases seems to be suggestive, a correlation the right hemisphere.
+ We also found an involvement of the occipital analysis within diagnostic groups allowed further conclusions about cortex, which is explainable by the necessity of integration of visually disease-specific correlates and supports the hypothesis of different net- presented material.
+ Metabolic correlates in the temporal lobe account works in both dementia cohorts driving the results of the analysis across for verbal processing, as already discussed for the wordlist subtest. groups.
+ Of most interest we could verify the correlates of performance The involvement of a prefrontal dorsolateral network refers to the in the “wordlist” subtest from our approach across diagnostic groups involvement of verbal working memory (Baddeley, 1986).
+ This has in the AD cohort.
+ In AD subjects, we would traditionally expect prob- also been observed in the “digit span reverse” subtest and is discussed lems with learning a wordlist due to deficits in memory consolidation. in the following section, as well as correlates of the anterior insula, the Correlates of the “number transcoding” and the “digit span reverse” putamen and the head of caudate nucleus. subtest could partly be verified in the FTLD cohort.
+ In the “number “Digit span reverse” is a test which demands memorizing verbal transcoding” subtest, we again observed the correlation of performance presentations of numbers and manipulating them in their order.
+ This with loss of gray matter density in the right angular gyrus.
+ This was also is a typical function of working memory (Kessler et al., 2010) and the case in the left angular gyrus, where we could only show correlates according to Baddeley (1986), of the so called phonological loop and with respect to glucose metabolism in the correlation analysis across di- the central executive especially.
+ As has been described by Smith and Jonides (1997), agnostic groups.
+ The results of our disease-specific correlation analysis the dorsolateral prefrontal cortex is involved in the of the “digit span reverse” task verify the correlates of glucose metabo- neural representation of verbal working memory.
+ Moreover, this area lism from analyses across diagnostic groups in the left dorsolateral fron- has been suggested to participate in retrieval, together with the inferior tal lobe and additionally show correlates of gray matter density in the frontal cortex, among other areas, and to play a role in storage of contralateral area.
+ These correlates fit very well to the frontal lobe phonologically coded verbal information (Jonides et al., 1998).
+ As was functions that are required to solve this subtest and that are impaired predictable for this task, we found metabolic correlates in the in FTLD.
+Although distinguishing between subjective cognitive impairment and AD respectively FTLD subjects is of most clinical interest, the inclusion of a subjective cognitive impairment cohort as a control group might have reduced effects observed in the group comparisons and could be seen as a weakness of this study with respect to recent literature discussing subjective cognitive impairment as a prodromal stage of mild cognitive impairment or dementia.
+ To perform a correlation analysis, it is important to investigate a group exhibiting a preferably high variance.
+ Accordingly, we decided to involve patients with AD and FTLD, and control subjects and performed correlation analyses across diagnostic groups to increase statistical power as suggested previously (Rankin et al., 2006; Rosen et al., 2005; Schroeter et al., 2011, 2012).
+ Conclusions about disease- specific correlates are limited by this approach, the illustration of overlapping regions of the group comparison and the correlation analysis across diagnostic groups in a conjunction analysis provides descriptive, but not statistical information.
+ Hence, disease-specific conclusions should be drawn very cautiously at best.
+ To further investigate different associated networks in the two dementia subgroups, we conducted a correlation analysis within the dementia subgroups.
+ However, probably due to small sample sizes, we could not detect all disease-specific correlates.
+ Accordingly, our findings should be seen as preliminary.
+ Our study should be replicated within a larger cohort to provide more information about the subtests of the DemTect.
+ We would also suggest correlation analyses within different FTLD subtypes and of other neurodegenerative diseases with dementia syndromes to further establish the DemTect as a screening instrument for these diseases.
+ Furthermore, it would be an interesting approach in future studies to perform correlation analyses within diagnostic groups by inclusion of patients with different stages of dementia syndromes to investigate the DemTect in rating the progression of dementia syndromes.
+Using brain MRI and PVE-corrected brain FDG-PET data, our study shows structural and functional neural correlates of the subtests of the DemTect in two very frequent dementia syndromes — early AD and FTLD.
+ Results support an external validation of this frequently used screening device.
+ Interestingly, the DemTect's subtests did not appear to correlate exclusively for AD, but also showed correlations in regions known as typically afflicted in FTLD.
+ Moreover, this study contributes to a better understanding of cognitive impairments in dementia on a neural level.
+ In this sense, it may be conducive to facilitate a stronger integration of neuroimaging findings in dementia diagnostic criteria, as suggested previously.
+ Finally we showed inversed relations between gray matter loss and hypometabolism in AD and FTLD, hinting at the pathomechanisms which are still not completely understood.
+Conceived and designed the experiments: TBW JD SF HB OS KM MLS Performed the experiments: TBW JD SF HB KM MLS Analyzed the data: TBW JD SF KM MLS Contributed reagents/materials/analysis tools: SF HB OS KM MLS Wrote the paper: TBW JD SF HB OS KM MLS
+Juergen Dukart, Henryk Barthel, Osama Sabri and Matthias L. Schroeter have been supported by LIFE — Leipzig Research Center for Civilization Diseases at the University of Leipzig.
+ LIFE is funded by means of the European Union, by the European Regional Development Fund (ERFD) and by means of the Free State of Saxony within the  framework of the excellence initiative.
+ Matthias L. Schroeter has further been supported by the German Consortium for Frontotemporal Lobar Degeneration, funded by the German Federal Ministry of Education and Research, MaxNet Aging, and by the Parkinson's Disease Founda- tion (Grant No. PDF-IRG-1307) together with Karsten Mueller.
+2.2.1. MRI scanning
+        

@@ -1,0 +1,337 @@
+﻿Decoding Concrete and Abstract Action Representations During Explicit and Implicit Conceptual Processing
+Action understanding requires a many-to-one mapping of perceived input onto abstract representations that generalize across concrete features.
+ It is debated whether such abstract action concepts are encoded in ventral premotor cortex (PMv; motor hypothesis) or, alternatively, are represented in lateral occipitotemporal cortex (LOTC; cognitive hypothesis).
+ We used fMRI- based multivoxel pattern analysis to decode observed actions at concrete and abstract, object-independent levels of representation.
+ Participants observed videos of 2 actions involving 2 different objects, using either an explicit or implicit task with respect to conceptual action processing.
+ We decoded concrete action representations by training and testing a classifier to discriminate between actions within each object category.
+ To identify abstract action representations, we trained the classifier to discriminate actions in one object and tested the classifier on actions performed on the other object, and vice versa.
+ Region- of-interest and searchlight analyses revealed decoding in LOTC at both concrete and abstract levels during both tasks, whereas decoding in PMv was restricted to the concrete level during the explicit task.
+ In right inferior parietal cortex, decoding was significant for the abstract level during the explicit task.
+ Our findings are incompatible with the motor hypothesis, but support the cognitive hypothesis of action understanding.
+ Key words: action observation, action understanding, concepts, embodied cognition, multivariate pattern analysis
+Introduction
+      
+Understanding actions of others requires the matching of perceived input with action memory.
+ Because actions can be carried out in multiple ways, a neural architecture enabling action understanding must realize many-to-one mappings onto abstract action representations.
+ Previous studies aiming to identify such representations—and to thereby investigate the neural basis of action understanding—defined the sensitivity to goals, that is, the outcome of an action, and generalization across the precise implementation (e.g., kinematics, grip type, actor identity, or viewpoint) of the action, as necessary criteria for such representations.
+ Macaque and human studies that followed this approach found inconsistent results, pointing toward goal representations in inferior frontal (Gallese et al. 1996; Hamilton and Grafton 2008),
+© The Author 2015.
+ Published by Oxford University Press.
+ All rights reserved.
+ For Permissions, please e-mail: journals.permissions@oup.com
+doi: 10.1093/cercor/bhv169 Original Article
+premotor ( Majdandzic et al. 2009; Cattaneo et al. 2010), inferior parietal (Hamilton and Grafton 2008; Cattaneo et al. 2010; Oosterhof et al. 2010), and lateral occipitotemporal cortex (LOTC; Kable and Chatterjee 2006; Wiggett and Downing 2011; Oosterhof et al. 2012).
+ Notably, these results are inconclusive regarding the predictions of motor and cognitive theories.
+ According to motor theories, action understanding is based on motor representations necessary for executing the observed action (Rizzolatti and Craighero 2004).
+ Critically, motor theories typically claim that abstract goal representations are coded in premotor and inferior parietal, but not in higher-level perceptual, regions, for example, in LOTC (Rizzolatti et al. 2014).
+ In a similar vein, motor theories on action semantics typically suggest abstract action concepts to be coded in premotor and/or other prefrontal areas (Pulvermuller 2013).
+ In contrast, cognitive theories suggest that action understanding relies on access to conceptual knowledge encoded in non-motor memory systems in closer relation to perceptual systems, for example, in LOTC and/or inferior parietal cortex (Mahon and Caramazza 2008; Hickok 2009; Buxbaum and Kalenine 2010; Caramazza et al. 2014; Leshinskaya and Caramazza 2015).
+ A potential reason for the inconsistent results of studies that disentangled goals from perceptual features could be the experimental usage of actions that involve the same object (e.g., open- ing vs. closing one and the same box with different kinematics).
+ Critically, neural representations with the capacity to enable an observer to understand that someone is “opening a box” should generalize not only across parameters such as kinematics, grip type, or viewpoint, but also across concrete object exemplars, for example, different boxes.
+ Studies involving the same objects cannot differentiate between abstract, object-independent action representations and concrete perceptual features of an action like the particular configurations of an object, (e.g., an opened vs. closed box).
+ Hence, in the category of object-directed actions, object independency is a crucial criterion for abstract, “conceptual” representations necessary for action understanding that has not been considered in previous studies (cf. Fig. 1A).
+ Here, we used cross-conditional multivariate pattern analysis (MVPA) of fMRI data to distinguish between concrete and more abstract (object-independent) action representations.
+ Participants observed 2 types of actions (cutting and peeling) performed on 2 different objects (apple and potato).
+ In different blocks, participants performed a one-back task on either the action irrespective of the involved object (“action task,” explicit with respect to conceptual action processing) or the object irrespective of the action (“object task,” implicit with regard to conceptual action processing).
+ This allowed us to test if processing of actions at concrete and abstract levels occurs automatically during action observation or depends on explicit task demands.
+ We identified concrete action representations by training a classifier to discriminate between cutting versus peeling an apple and testing it with a separate dataset of the same actions (cutting vs. peeling an apple).
+ In contrast, we identified abstract action representations by training a classifier on cutting versus peeling an apple but testing it with data of the actions involving the other object (cutting vs. peeling a potato).
+ Hence, above-chance classification of actions on an abstract level can rely on object-independent action information only.
+ Following motor theories, abstract action representations should be decodable in premotor but not in occipitotemporal cortex, whereas cognitive theories predict the opposite pattern of results.
+ Note that we also analyze the generalization capacities of inferior parietal cortex, but we do not explicitly formulate hypotheses for or against motor and cognitive theories, respectively, as they do not necessarily differ in their predictions regarding action abstraction in parietal cortex.
+
+        Figure 1. Study design. (A) Hierarchical organization of many-to-one mappings from concrete to abstract action representations. (B) A 2 × 2 factorial stimulus design. Video clips (2 s) consisted of 2 actions (cutting and peeling) performed by 2 different actors (one male actor and one female actress) on 2 different objects (apple and potato). (C) Time course of the experiment. Sixteen actions (4 per stimulus condition, counterbalanced) were presented per block. In different blocks, participants performed a one-back task on either the action (action task) or the object (object task). Responses were delivered on a button box with the right index (same action/object) or middle finger (different action/object). Task instructions were presented before each block. Four blocks were presented per run; 10 runs were used per participant (80 trials per condition). I, instruction; A, anatomical scan.
+      
+Twenty-nine healthy adult volunteers (19 females; mean age, 23 years; age range, 19–35 years) participated in the experiment.
+ Eight participants also took part in a control experiment (see Supplementary Materials).
+ All participants were right-handed with normal or corrected-to-normal vision and no history of neurological or psychiatric disease.
+ Participants gave written informed consent prior to participation in the study.
+ The experimental procedures were approved by the Ethics Committee for research involving human subjects at the University of Trento, Italy, and the University of Regensburg, Germany.
+ One participant was excluded from the analysis because of poor behavioral performance (error rate for both action and object tasks greater than 2 SDs below the group mean).
+Stimuli consisted of 2 s long videos of 2 actions (cutting and peeling) involving 5 different exemplars of 2 different objects (apple and potato).
+ To increase the stimulus variations, we recorded 5 different exemplars of each combination of action and object from an actress and an actor, using a different object exemplar in each single video, for a total of 40 action videos.
+ The actors were instructed to perform both actions with similar kinematics, that is, actions differed only in terms of the cut applied (either along the surface or medial, see Fig. 1B).
+ The final outcome ( peeled apple or potato, two halves of an apple or potato) was not shown (Fig. 1C).
+ Action videos were filmed from a third-person perspective using a Canon 5D Mark II camera and edited in iMovie (Apple) and Matlab (MathWorks).
+ Videos were in color, had a length of 2 s (30 frames per second), and had a resolution of 400 × 300 pixels.
+ In the scanner, stimuli were back-projected via an LCD video projector (JVC, DLA-G20, Yokohama, Japan; min/mean/max luminance: 0.3/100/193 cd/m 2 ) onto a translucent circular screen (60 Hz frame rate, 800 × 600 pixels) and viewed through a mirror mounted on the head coil (stimulus presentation ∼15° visual angle).
+ Stimulus presentation, response collection, and synchronization with the scanner were controlled with a simple framework (Schwarzbach 2011) and the Matlab Psychtoolbox-3 for Windows (Brainard 1997).
+Participants performed a one-back task on either the action (irrespective of the involved object) or the object (irrespective of the action).
+ They were asked to indicate whether the action (or object) shown in the current trial was same or different from the action (or object) shown in the previous trial (by button press with the right index or middle finger, respectively).
+ Participants were instructed to deliver responses either during the movie or during the fixation phase after the movie.
+ To ensure that participants followed the instructions correctly, they completed a practice run outside the scanner.
+ To examine if decoding could be explained by activation of lexical, phonetic, or motor representations of the action verbs, participants were asked to rate their tendency to verbalize after the fMRI experiment.
+ Using a Likert scale (from 1 = not at all, to  6 = very much), they were asked to indicate how much they internally generated words for (1) actions in the action task, (2) objects in the object task, (3) actions in the object task, and (4) objects in the action task.
+Stimuli were presented in an event-related mini-block design (Fig. 1C).
+ In each trial, videos (2 s) were followed by a 1-s fixation period.
+ Sixteen trials were shown per block.
+ Each of the 4 actions was presented 4 times and each actor was presented twice per block.
+ In each block, the order of actions was randomized with the constraint that the order was first-order counterbalanced (Aguirre 2007).
+ Before each block, a short (2 s) written instruction informed participants about the upcoming task (“action task” and “object task”).
+ Four blocks were presented per run, separated by 12 s fixation periods.
+ In 2 blocks, participants performed the action task, and in the other 2 blocks, they performed the object task.
+ The block order was balanced across runs.
+ Each run started with a 10-s fixation period and ended with a 16-s fixation period.
+ Each participant was scanned in a single session consisting of 10 runs and 1 anatomical scan, which was acquired before the functional runs.
+ There was a total of 4 (trials per stimulus condition and block) × 2 (blocks per task and run) × 10 (runs per session) = 80 trials per condition.
+Functional and structural data were collected using a 3-T Siemens Allegra (Erlangen, Germany) MR scanner and a one- channel head coil.
+ Functional images were acquired with a T 2 *-weighted gradient echo-planar imaging sequence with fat suppression.
+ Acquisition parameters were a repetition time of 2 s, an echo time of 30 ms, a flip angle of 90°, a field of view of 192 mm, a matrix size of 64 × 64, and voxel resolution of 3 × 3 × 3 mm.
+ Each acquisition consisted of 34 slices, acquired in an as- cending interleaved order, with a thickness of 3 mm and 10% gap (0.3 mm).
+ Slices were tilted to run approximately parallel to the axis between the anterior and posterior commissure.
+ In each run, 133 images were acquired.
+ Structural T 1 -weigthed images were acquired with an magnetization prepared rapid gradient echo sequence (160 sagittal slices, repetition time = 2.25 s, echo time = 2.6 ms, flip angle = 9°, no interslice gap, 240 × 256 mm field of view, 1 × 1 × 1 mm resolution).
+Data were analyzed using BrainVoyager QX 2.4 (BrainInnovation) in combination with the BVQX Toolbox and custom software written in Matlab (MathWorks).
+ The first 4 volumes were removed to avoid T 1 saturation.
+ The first volume of the first run was aligned to the high-resolution anatomy (6 parameters).
+ We performed 3D motion correction (trilinear interpolation, with the first volume of the first run of each participant as reference), followed by slice time correction, and high-pass filtering (cutoff frequency of 3 cycles per run).
+ Spatial smoothing was applied with a Gaussian kernel of 8-mm full- width half maximum.
+ For group analysis, both anatomical and functional data were transformed into Talairach space using trilinear interpolation.
+For each hemisphere and participant, surface meshes of the border between gray and white matter were segmented and  reconstructed.
+ Resulting surfaces were smoothed and inflated.
+ In addition, spherical surface meshes were generated and morphed to a standard spherical surface.
+ On the basis of multiscale surface curvature maps (which reflect the gyral/sulcal folding pattern) with 4 coarse-to-fine levels of smoothing, the standardized spherical surfaces of all participants were aligned to an average spherical surface using a coarse-to-fine moving target approach (Fischl et al. 1999; Goebel et al. 2006).
+ Transformation matrices of the established correspondence mapping were used to align surface maps entering statistical group analyses.
+ In addition, average folded group surfaces of both hemispheres were created.
+ Statistical maps were plotted onto these group surfaces.
+MVPA was performed using a linear support vector machine (SVM) classifier as implemented by LIBSVM ( Chang and Lin 2011).
+ Both region-of-interest (ROI)- and searchlight-based MVPA were performed.
+ The ROI analysis was used to directly investigate the involvement of dorsal stream regions [ventral premotor cortex (PMv) and anterior intraparietal sulcus (aIPS)] and the posterior middle temporal gyrus ( pMTG) in the processing of action concepts.
+ The whole-brain searchlight analysis was carried out to identify putative additional regions representing concrete and abstract action information.
+ ROI Definition In the ROI MVPA, we focused on regions typically recruited during observation of object-related actions.
+ These are the ventro-dorsal stream regions, PMv, and aIPS, as well as LOTC (Rizzolatti and Matelli 2003; Buxbaum and Kalenine 2010).
+ ROIs were defined separately for each participant on the basis of univariate statistical maps using a similar approach, as described in Oosterhof et al. (2010).
+ In brief, to constrain peak cluster identification in individual contrast maps and thus to avoid possibly arbitrary selection decisions of the experimenter (Oosterhof et al. 2012), individual ROIs were defined in Talairach space as the peak of individual statistical maps within a sphere of 12 mm radius centered around the group peak.
+ To this end, we first computed a group random-effects general linear model (GLM) using design matrices based on the full session (all runs together).
+ Design matrices contained predictors of the 8 experimental conditions (action × object × task) and of 6 parameters resulting from 3D motion correction (x, y, z translation and rotation).
+ Each predictor was con- volved with a dual-gamma hemodynamic impulse response function (Friston et al. 1998).
+ Each trial was modeled as an epoch lasting from video onset to offset (2 s).
+ The resulting reference time courses were used to fit the signal time courses of each voxel.
+ To identify the group peak within anatomically defined cortical regions in both hemispheres (ventral precentral gyrus, anterior intraparietal sulcus, and posterior middle temporal gyrus), we contrasted all 8 conditions versus baseline (i.e., all time points not modeled in the design matrix).
+ The resulting statistical maps were corrected for multiple comparisons at P = 0.05 at the cluster level, using a cluster-size algorithm (Forman et al. 1995) based on Monte Carlo simulations (1000 iterations).
+ An initial voxelwise threshold of P < 0.005 and an estimate of the spatial correlation of voxels of the statistical maps were used as input in the simulations.
+ To identify individual peaks within a sphere of 12 mm radius centered around the group peak, we computed single-subject GLM contrasts (all conditions vs. baseline) using design matrices as described above.
+ Finally, spherical ROIs (12 mm radius) were defined around the individual peak of each subject.
+ ROI MVPA The following steps were done for each participant and ROI separately.
+ Within each individual ROI (382 voxels), beta weights were estimated for each block (i.e., on the basis of 4 trials per condition) resulting in 2 beta estimates per condition and run (20 beta estimates per condition in total).
+ We used the same design matrices as in the univariate analysis.
+ This procedure resulted in 20 multivoxel beta patterns per condition.
+ Classification accuracies were computed using leave-one-out cross validation, that is, the classifier was trained using the data of 19 patterns and tested on its accuracy at classifying the unseen data from the re- maining pattern.
+ This procedure was carried out in 20 iterations, using all possible combinations of train and test patterns.
+ The classification accuracies from the 20 iterations were averaged to give a mean accuracy score per test.
+ To decode concrete actions, the classifier was trained to discriminate between cutting versus peeling an apple and tested on cutting versus peeling an apple (action discrimination within object, red arrows in Fig. 2).
+ The same classification procedure was repeated for the other object ( potato) and the mean of the 2 tests was computed.
+ To decode abstract action representations, the classifier was trained to discriminate between cutting versus peeling an apple and tested on cutting versus peeling a potato (action discrimination across object, blue arrows in Fig. 2).
+ The classification procedure was repeated for the reverse object pairing (i.e., cutting versus peeling a potato for classification training and cutting versus peeling an apple for classification testing), and the mean of the 2 tests was computed.
+ For the decoding of abstract actions, we also used the leave-one-out cross validation procedure to ensure that the results are comparable with the results of the concrete action decoding.
+ Concrete and abstract action information was decoded for each task separately (4 tests in total).
+ The mean classification accuracy for each test, ROI, and participant was entered into a one-tailed one-sample t-test against the classification expected by chance (50%).
+ Significant classification accuracies for decoding of abstract action representations (action discrimination across object) were only interpreted if cor- responding accuracies for decoding of concrete actions (action discrimination within object) were also significant.
+ Statistical results were FDR-corrected for the number of ROIs (Benjamini and Yekutieli 2001).
+ Surface-Based Searchlight MVPA To identify any additional regions containing concrete or abstract action representations, we carried out a searchlight pattern classification (Kriegeskorte et al. 2006).
+ The searchlight was restricted to the gray matter by including voxels from −1 to 3 mm along the vertex normal of the gray/white matter boundary.
+ The searchlight radius was 12 mm.
+ MVPA classification was carried out using identical parameters and procedures as the ROI MVPA.
+ For each classification, the resulting mean accuracy was assigned to the center voxel.
+ Resulting accuracy maps were projected onto a group-averaged cortical surface.
+ Individual surface accuracy maps were anatomically aligned using the transformation parameters of the cortex-based alignment and were then entered into a one-sample t-test to identify vertices where classification was significantly above chance.
+ As with the univariate contrast, statistical maps were corrected for multiple comparisons at P = 0.05 at the cluster level, using a cluster-size algorithm (Forman et al. 1995) based on Monte Carlo simulations (1000 iterations).
+ An initial voxelwise threshold of P < 0.005 and an estimate of the spatial correlation of voxels of the statistical maps were used as input in the simulations.
+
+          Figure 2. Schematic overview of the MVPA. ROI selection was based on peak activations in the individual contrast (all conditions vs. baseline). From each voxel within spheres of 12 mm radius around the peak voxel, beta estimates for each of the conditions were extracted (4 trials per beta estimate, 20 beta estimates per condition). SVM classification was performed using leave-one-out cross validation for both concrete (within object) and abstract (across object) action decoding. For concrete action decoding, the classifier was trained to discriminate between cutting versus peeling an apple and tested on cutting versus peeling an apple (red arrows). For abstract action decoding, the classifier was trained to discriminate between cutting versus peeling an apple and tested on cutting versus peeling a potato (blue arrows). Classification accuracies were averaged across iterations and entered into the group statistics.
+        
+Participants performed both one-back tasks (same action, same object as on the last trial) with high accuracy.
+ Mean error rates were 3.5 ± 0.6% (SEM) for the action task and 3.4 ± 0.8% for the object task.
+ This ensured that participants consistently attended to the videos and were able to perform both tasks in a comparable manner.
+ Using repeated-measures ANOVA with the factors ACTION × OBJECT × TASK, we examined whether there were systematic effects on error rates and reaction times for correct responses (measured with respect to video onset).
+ Of particular importance was to check if behavioral performance differed between cutting and peeling (factor ACTION), which could represent potential confounds in our MVP decoding analysis.
+ For error rates, we did not find any significant main effects or interactions (all P > 0.5).  For reaction times, we found a significant effect of TASK (F 1,223 = 5.33, P = 0.022).
+ No other main effects or interactions were observed (all P > 0.7).
+ Reaction times were shorter in the object task (1746 ± 122 ms) compared with the action task (1919 ± 86 ms).
+ This is not surprising given that the object could be recognized already in the first frame, whereas the action could be recognized unambiguously only after several frames in the first half of the video.
+ Hence, in the object task, participants could already respond from the first frame onwards, whereas in the action task, participants had to wait for the action to unfold.
+ Importantly, the reaction time difference between tasks does not represent any potential confound in the decoding of the actions.
+ Using a post fMRI questionnaire, we investigated to which degree participants verbalized the actions in the action and the object task.
+ To this end, participants estimated on a Likert scale (1 = not at all, 6 = very much) how much they internally generated verbal descriptions of the actions in the 2 tasks.
+ For both actions in the action task and objects in the object task, participants moderately verbalized the actions and the objects [4.3 ± 0.23 and 4.1 ± 0.24 (SEM), respectively].
+ Across tasks, that is, for actions in the object task and objects in the action task, participants did not verbalize at all [1.6 ± 0.23 and 1.6 ± 0.24 (SEM), respectively].
+ Hence, if decoding was due to verbalization, one would expect above-chance decoding accuracies for concrete and abstract action decoding in the action task, while concrete and abstract action decoding in the object task should be at chance.
+ This pattern of decoding results was not observed in any of our ROIs (see the section ROI MVPA).
+To determine ROIs for subsequent MVPA, we computed a group contrast of all action conditions versus baseline (see the section ROI Definition).
+ This revealed widespread activations of left and right PMv and dorsal premotor cortex (PMd), IPS/superior parietal lobe (SPL), occipitotemporal cortex extending dorsally into posterior IPS and ventrally into middle and inferior temporal gyrus, supplementary motor area (SMA), and left insula (see Supplementary Fig. 1 and also Fig. 2).
+ Peak Talairach coordinates identified in the group contrast for the ROI MVPA were: −46/0/27 (left PMv), 47/3/23 (right PMv), −47/−31/36 (left aIPS), 47/−35/50 (right aIPS), −46/−68/−4 (left LOTC), and 44/−64/0 (right LOTC).
+ For an supplementary ROI analysis, we investigated also regions be- longing to the dorso-dorsal stream, that is, PMd (left: −34/−11/ 49 and right: 29/−10/48) and IPS/SPL (left: −37/−44/45 and right: 32/−47/45), as well as the SMA (left: −4/1/51 and right: 3/3/52).
+ In addition, we computed univariate contrasts for the factors “action” (cutting vs. peeling), “object” (apple vs. potato), and “task” (action task vs. object task) to test for putative univariate effects.
+ None of the contrasts revealed any significant effects (even after applying very liberal correction thresholds).
+ The lack of significant differences in the univariate contrasts suggests that the activation levels were comparable over the factors ACTION, OBJECT, and TASK.
+In the ROI MVPA, we tested regions recruited during action observation for sensitivity to concrete and abstract action representations.
+ To this end, actions were decoded within and across the involved objects, respectively.
+ Hence, in concrete action decoding, we trained the classifier with exemplars that display the peeling of an apple and tested it on exemplars from the same conditions, that is, within the same object category.
+ In the abstract  action decoding, we trained the classifier with exemplars that display the peeling of an apple and tested it with exemplars that display the peeling of a potato, that is, across object category.
+ In addition, we tested if action decoding is top-down modulated by the task, which was either explicit (action task) or implicit (object task) with respect to conceptual processing of actions.
+ During the action task, that is, when participants were explicitly instructed to pay attention to the actions, we were able to decode concrete actions, with decoding accuracies significantly above chance, in bilateral PMv, aIPS, and LOTC (Fig. 3).
+ During the object task, in contrast, we were able to decode concrete actions in bilateral aIPS and LOTC but not in PMv.
+ We were able to decode abstract action representations in bilateral LOTC, both in the action and the object task.
+ We also found a significant effect for abstract action decoding in the action task in the right aIPS.
+ In a second step, we analyzed the difference between concrete and abstract action decoding and the effect of task in PMv, aIPS, and LOTC.
+ A repeated-measures three-way ANOVA [ABSTRACTION LEVEL (concrete, abstract) × TASK (action task, object task) × HEMISPHERE (left, right)] revealed a main effect of TASK in aIPS (F 1,223 = 3.955; P = 0.048), and main effect of HEMISPHERE in LOTC (F 1,223 = 12.066; P < 0.001), and an interaction of ABSTRACTION LEVEL and TASK in PMv (F 1,223 = 4.447; P = 0.036).
+ No other significant main effects or interactions were observed (all P > 0.1).
+ As no main effects of HEMISPHERE and interactions of HEMISPHERE with ABSTRACTION LEVEL and TASK were found in PMv and aIPS, we collapsed decoding accuracies across HEMISPHERE.
+ Post hoc one-tailed paired samples t-tests revealed that, in PMv, decoding of concrete actions in the action task differed significantly from decoding of (1) concrete actions in the object task (t (27) = 2.287, P = 0.015), (2) abstract actions in the action task (t (27) = 2.42, P = 0.011), and (3) abstract actions in the object task (t (27) = 2.011, P = 0.027).
+ In aIPS, decoding of concrete actions in the action task differed significantly from that of abstract actions in the object task (t (27) = 1.826, P = 0.039).
+ We also tested if dorso-dorsal stream regions (PMd and SPL) or SMA code actions at the abstract level.
+ This was not the case (Supplementary Fig. 2A).
+ We found significant above-chance decoding for concrete actions in right PMd and left SPL in the action task and right SPL both for the action task and for the object task.
+ We also found a significant effect in right SPL for abstract actions in the object task.
+ Since, however, no equivalent effect was observed for concrete action decoding in the object task, the effect did not meet our criteria for interpretation (see the section ROI MVPA) and will not be discussed further.
+ Finally, as the spherical ROIs not always fully covered activated regions (i.e., also included voxels that were not significantly activated in the univariate baseline contrast), we repeated the ROI MVPA including only voxels that were significantly activated at P < 0.05.
+ This had no substantial effect, but slightly decreased decoding accuracies (Supplementary Fig. 2B).
+ This is in line with the observation that voxels showing no univariate effects may still contain information that can contribute to multivariate decoding whereas adding voxels, even when containing no decodable information, do not necessarily weaken multivariate decoding (Etzel et al. 2013).
+
+          Figure 3. ROI MVPA results. Mean classification accuracies for concrete (red and pink) and abstract action (dark blue and light blue) decoding in action task (one-back action task, and thus explicit with regard to action concept processing) and object task (one-back object task, and thus implicit with regard to action concept processing). Error bars indicate standard error of mean across subjects. Asterisks indicate statistical significance with one-tailed t-tests across subjects (different from 50% = chance) surviving FDR correction for the number of tests.
+        
+To substantiate the results of the ROI MVPA and to seek for additional regions that represent concrete or abstract action representations, we conducted a searchlight analysis using the same procedure as in the ROI MVPA.
+ Resulting mean accuracy and statistical maps corroborated the findings of the ROI MVPA (Fig. 4 and Table 1).
+ We found significant classification of concrete action in the action task throughout bilateral occipitotemporal cortex and a cluster spanning right postcentral sulcus to PMv.
+ For the object task, we found extended clusters in left and right occipitotemporal cortex.
+ Abstract action decoding revealed a cluster in left LOTC at the junction of lateral occipital cortex and pMTG as well as a more extended cluster in right LOTC for both action and object tasks.
+ In addition, significant clusters for abstract action decoding were found in right aIPS, left lateral occipital gyrus, left transverse occipital sulcus, and left lingual gyrus for the action task, as well as left lateral occipital gyrus, left transverse occipital sulcus, and left fusiform gyrus for the object task.
+ We also ran all searchlight analyses in the full brain to test if decoding is restricted to the cortex or can also be found in subcor- tical structures.
+ We found no decoding in regions other than cortex, even when applying very liberal thresholds (P < 0.05) without correction for multiple comparisons.
+Both ROI and searchlight analyses revealed hemispheric differences, with generally stronger decoding in the right hemisphere.
+ To rule out that decoding in LOTC could be due to low-level visual differences between cutting and peeling that even persist in the abstract decoding across the different objects, we conducted a control experiment.
+ N = 8 new participants (6 females; age  range: 19–25) performed the experiment both in the original version (original orientation of the videos) and in a vertically flipped version (i.e., left becomes right, third-person perspective re- mains).
+ We reasoned that if decoding is due to visual differences that are more present in the left side of the original videos (thus processed by visual cortex in the right hemisphere), effects should be stronger in the left hemisphere for the flipped videos.
+ The order of sessions was balanced (4 participants started with the original version and the other 4 participants started with the flipped version).
+ We then conducted ROI analyses separately for both sessions using the identical procedure as reported for the main experiment (Supplementary Fig. 3A,B).
+ A repeated- measures ANOVA with the factors ABSTRACTION LEVEL (concrete, abstract) × TASK (action, object) × HEMISPHERE (left, right) × ORIENTATION (original, flipped) revealed main effects of TASK and HEMISPHERE in aIPS (F 1,127 = 5.296; P = 0.023 and F 1,127 = 7.862; P = 0.006, respectively).
+ Notably, the critical interaction of HEMISPHERE and ORIENTATION in LOTC was not significant (F 1,112 = 3.2, P = 0.07).
+ However, given the small sample size of 8 participants, we cannot entirely rule out that decoding is—at least in part—driven by perceptual features of the actions.
+ To pro- vide positive evidence that LOTC contains action information independent of hemifield-specific visual features, we decoded the actions across ORIENTATION (i.e., we trained the classifier with the original, non-flipped actions and tested the classifier with the flipped actions, and vice versa).
+ Crucially, we were able to
+
+          Figure 4. Mean accuracy and statistical maps of the searchlight MVPA for concrete (A, B) and abstract (C, D) action decoding in the action task (one-back action task, and thus explicit with regard to action concept processing; A, C) and in the object task (one-back object task, and thus implicit with regard to action concept processing; B, D). Individual accuracy maps were cortex-based aligned, averaged, and projected onto a common group surface (both flat maps and lateral views of inflated hemispheres). Decoding accuracy at chance is 50%. For t statistics across subjects, cortex-based aligned maps were used. Resulting statistical maps were corrected for multiple comparisons (P = 0.005, corrected cluster threshold P = 0.05). CS, central sulcus; IFS, inferior frontal sulcus; IPS, intraparietal sulcus; ITS, inferior temporal sulcus; PrCS, precentral sulcus; PoCS, postcentral sulcus; SFS, superior frontal sulcus; STS, superior temporal sulcus.
+        
+Table 1 Clusters identified in the searchlight MVPA for concrete (within object) and abstract (across object) action decoding in the action and object tasks Region Cluster t P Accuracy size Actions (concrete, action task) Left LOTC 3.584 0.005 57.3 23 907 Right LOTC 3.564 0.013 57.8 44 334 Right PoCs/PMv 2.986 0.029 54.7 12 040 Actions (concrete, object task) Left LOTC 3.911 0.003 58.3 24 696 Right LOTC 3.401 0.008 56.6 27 456 Actions (abstract, action task) Left pMTG 2.957 0.011 55.8 1055 Left LG 3.383 0.005 56.5 4978 Left LOG 2.752 0.027 55.8 1908 Left TOS 2.946 0.024 54.5 765 Right LOTC 3.374 0.008 57.6 22 007 Right aIPS 3.238 0.006 55.3 1231 Actions (abstract, object task) Left LOG 3.267 0.009 55.5 3633 Left FG 2.81 0.014 53.4 679 Left pMTG 2.529 0.029 53.7 721 Left TOS 2.623 0.023 54.3 1377 Right LOTC 3.32 0.009 56.7 21 161 Note: Decoding accuracy at chance is 50%. aIPS, anterior intraparietal sulcus; FG, fusiform gyrus; LG, lingual gyrus; LOG, lateral occipital gyrus; PMv, ventral premotor cortex; LOTC, lateral occipitotemporal cortex; pMTG, posterior middle temporal gyrus; PoCS, postcentral sulcus; TOS, transverse occipital sulcus.
+significantly decode abstract action representations across ORIENTATION in both left and right LOTC (Supplementary Fig. 3C).
+ In line with our main analysis, the effects were more ro- bust in the right LOTC.
+ The three-way ANOVA revealed no significant main effects or interactions (all P > 0.07).
+ A searchlight analysis corroborated the results of the ROI MVPA (Supplementary Fig. 4).
+For comparison with the action decoding, we conducted a searchlight analysis for object decoding (apple vs. potato).
+ A comparison between action and object decoding is helpful to ensure that the results of the action decoding are indeed action-specific and to rule out the possibility of residual object-related differences between cutting and peeling at the abstract level.
+ A possible object-related difference between the actions could be the visibility of the knife’s blade, which is more occluded in cutting but less so for peeling.
+ Although this explanation seems rather unlikely because this object-related difference is rather subtle (cf. Fig. 1B), such a difference could drive decoding in regions that are sensitive to object information.
+ Object decoding was performed both within the action (train and test with cutting apple vs. cutting potato, and vice versa) and across the action (train with cutting apple vs. cutting potato, test with peeling apple vs. peeling potato, and vice versa).
+ As searchlight results did not reach statistical significance in task-separate analyses, we collapsed the data across tasks.
+ We found significant above-chance accuracies for within-action decoding in bilateral visual cortex extending into occipitotemporal cortex and for across-action decoding in bilateral fusiform gyrus (see Supplementary Fig. 5 and Table 1).
+ Concrete object decoding in visual and occipitotemporal cortex overlapped with the concrete action decoding and is easiest
+Peak t P Accuracy x y z 6.793 1E−07 64.1 −5 −83 −7 7.385 1E−07 65.2 6 −78 −1 6.888 1E−07 58.8 53 −27 24 5.878 3E−06 61.9 −16 −97 −10 7.081 1E−07 64.8 40 −76 −5 3.955 5E−04 57.6 −47 −62 2 5.295 1E−04 59.1 −22 −68 −9 4.278 2E−04 57.9 −33 −83 −4 4.521 1E−04 56.9 −4 −72 7 5.472 9E−06 62.2 14 −84 −12 4.631 8E−05 57.3 41 −33 40 5.935 3E−06 58.4 −26 −75 −14 4.275 2E−04 54.1 −40 −45 −18 4.236 2E−04 55.6 −43 −69 3 4.725 8E−05 56.5 −25 −83 11 6.238 1E−06 61.1 40 −55 −9
+explained by unspecific low-level visual differences, similar to the effects found in visual cortex for concrete action decoding ( Fig. 4).
+ More interestingly, the searchlight decoding pattern for abstract object decoding differed clearly from the pattern found for abstract action decoding.
+ The only overlap between abstract object and action decoding was found in fusiform gyrus.
+ The differential decoding patterns for abstract action and object decoding suggest that abstract action decoding in lateral cortical regions, that is, LOTC and IPL, indeed relied on action-specific information: If a region was sensitive to the relatively subtle visual difference between a more versus less occluded blade, then this region should be also sensitive to the more evident visual difference between apple versus potato, which was clearly not the case (Supplementary Fig. 5).
+ Only action decoding in fusiform gyrus might be due to object-related information that differed between cutting and peeling independently of the object (apple vs. potato), although it is also possible that fusiform cortex codes both action and object-related information.
+ To test with higher sensitivity that the regions investigated in our experiment selectively encode action information rather than object information, we conducted an additional ROI analysis for object decoding in the same ROIs as for the action decoding (LOTC, PMv, and aIPS).
+ Crucially, we did not find significant above-chance abstract object decoding in any of these regions (Supplementary Fig. 6B).
+ Again, a region coding object information should reveal significant above-chance decoding independently of the action, that is, in both concrete and abstract object decoding.
+ The absence of abstract object decoding in our ROIs therefore demonstrates that the analyzed ROIs do not code object representations, suggesting that decoded information in the abstract action decoding was action-specific and not due to object- related differences between cutting and peeling.
+ Interestingly, we found significant effects for concrete object decoding in right PMv, left aIPS, and left and right LOTC, but—strikingly—only during the action task.
+ The absence of significant decoding during the object task makes it unlikely that these regions simply code concrete object information.
+ Instead, the pattern of results is compatible with the view that the decoded classes—“cutting apple” and “cutting potato” (and same for peeling)—actually represent 2 concrete ( perceptually different but conceptually similar) actions.
+ In other words, these regions appear to code concrete representations of the actions “cutting an apple” and “cutting a potato” but not action-independent representations of “apple” and “potato”.
+ This interpretation would be in line with the observation that decoding was only significant in the action task, and that we find significant effects in regions typically not associated with object coding such as PMv.
+ A repeated-measures three-way ANOVA (ABSTRACTION LEVEL × TASK × HEMISPHERE) revealed a main effect of abstraction level (F 1,223 = 5.329; P = 0.022) and an interaction of task and abstraction level in aIPS (F 1,223 = 5.027; P = 0.026).
+ No other significant main effects or interactions were observed (all P > 0.05).
+ These results are in line with the ROI MVPA results of the action decoding.
+We used cross-conditional MVPA to identify neural correlates of concrete and more abstract, object-independent action representations.
+ Specifically, we tested if the premotor region PMv, the parietal region aIPS, and the lateral occipitotemporal region LOTC differentially encode actions on a concrete versus an abstract level of representation.
+ Additionally, we tested if activation of concrete and abstract action information depends on whether the task requires processing the action or the object on which the action is performed.
+ We report 5 main findings: (1) Patterns of activation in left and right LOTC discriminated between actions independently of the object involved in the actions.
+ This suggests that LOTC encodes action information on an abstract, object-independent level of representation.
+ (2) In LOTC, the accuracy of abstract action information decoding was equally high in the action and object tasks, which are explicit and implicit with respect to conceptual action processing, respectively.
+ This suggests that, in LOTC, abstract action information is activated in a bottom-up manner during action observation, independently of whether access of abstract, object-independent action information is required for the task or not.
+ (3) Patterns of activation in left and right PMv discriminated concrete actions, but did not distinguish object-independent action information.
+ This finding suggests that these regions encode action information on a concrete, object-dependent, but not an abstract, object-independent, level of representation.
+ (4) In PMv, we found an interaction of abstraction level and task: We could decode concrete action information only in the explicit action task.
+ This suggests that the identified concrete action representations in PMv were top-down modulated toward action information.
+ (5) In aIPS, we found more com- plex results: Both left and right aIPS encode concrete action information independently of the task.
+ But, whereas left aIPS showed significant decoding of concrete actions only, right aIPS showed significant decoding also at the abstract level, but only in the action task.
+ This pattern of results (involvement in processing abstract action information when relevant for the task) could be interpreted as an “intermediate” role between PMv (only concrete action processing, task-dependent) and LOTC (concrete and abstract, task-independent).
+ Results of the searchlight analysis corroborated the ROI analysis and ruled out other regions potentially coding abstract action representations, for example, prefrontal cortex.  Taken together, our findings are in conflict with motor theories of action understanding that predict (1) abstract, object-independent action representations to be encoded in premotor but not in occipitotemporal cortex (Gallese and Lakoff 2005; Pulvermuller 2013; Rizzolatti et al. 2014), and (2) automatic (task-independent) activation of action information in premotor cortex (Rizzolatti and Craighero 2004).
+ Instead, the pattern of our results supports the view that LOTC encodes neural action representations that generalize across perceptual features, whereas PMv processes concrete (object-dependent) but not abstract action information (Kilner 2011; Cook and Bird 2013).
+ Processing concrete perceptual action features should be particularly enhanced when attention toward subtle action details is explicitly required by the task, which is in line with our finding that concrete action decoding in PMv was only significant in the action task.
+ From a motor theorist’s position, one might argue that abstract action decoding in aIPS is actually predicted by, and thus supports, motor theory.
+ However, also cognitive positions may predict aIPS to code abstract action concepts (Buxbaum and Kalenine 2010; Leshinskaya and Caramazza 2015).
+ The finding in aIPS is hence theory-neutral, that is, it neither favors nor dis- misses motor and cognitive theories of action understanding.
+ Crucially, however, a central claim of motor theories is that LOTC codes “low-level pictorial representations,” whereas only frontoparietal regions code “more abstract representations” (Ferrari and Rizzolatti 2014; Rizzolatti et al. 2014).
+ The denial of abstract action representations in LOTC is hence clearly ques- tioned by the positive counter-evidence provided by our results.
+ Only few, moderate positions within the motor-centric framework that emphasize the importance of simulation in action observation, but do not explicitly deny the possibility of high action abstraction in LOTC, are not necessarily contradicted by our findings (Wolpert et al. 2003; Grush 2004; Jeannerod 2006).
+ In addition, it is unclear whether the action representations found in aIPS are actually “motor” and thus have the defining properties that motor theorists are referring to.
+ Instead, recent evidence demonstrates that inferior parietal cortex codes action intentions that are independent of sensory and motor information (Leshinskaya and Caramazza 2015), in line with cognitive positions (Buxbaum and Kalenine 2010; Leshinskaya and Caramazza 2015).
+A recent meta-analysis identified left and right LOTC as regions most consistently activated during tasks requiring conceptual processing of action verbs and static action images ( Watson et al. 2013).
+ Our findings are in line with this observation and cor- roborate the notion that LOTC encodes conceptual action information that generalizes across perceptually variant action instantiations involving different objects.
+ Crucially, our findings go beyond univariate blood oxygen level-dependent (BOLD) sub- traction studies that cannot differentiate between activation of action concepts and activation of concrete action information triggered by conceptual action processing.
+ In particular, it is discussed that processing abstract stimuli like action verbs triggers the simulation (Jeannerod 2001) of a concrete instantiation of that action verb (Mahon and Caramazza 2008).
+ According to this view, motor simulation of concrete actions might account for the occasionally observed activation of premotor and motor regions during conceptual action processing.
+ Likewise, LOTC activation during processing of verbally or pictorially presented actions could reflect the activation of concrete visual action information triggered by visual simulation.
+ Our study eliminates such ambiguities as within- and cross-conditional decoding of our study allowed us to disentangle concrete action information from more abstract action representations and thus to character- ize regions involved in action understanding with respect to their relative capacities to generalize action-relevant information across perceptual features.
+ Notably, the 2 actions were performed with highly similar kinematics and differed only by the position where the apple or potato was cut or peeled (cf. Fig. 1B).
+ Likewise, the outcomes of actions are perceptually different across the object, minimizing the risk that actions were classified based on low-level perceptual cues.
+ In line with this view, action representations in LOTC also generalized across the orientation of the action (i.e., whether the action was carried out with the left or with the right hand; see the Results section “Decoding Actions Across Orientation” and Supplementary Figs 3C and 4).
+ Hence, the classifier most likely picked up information that is preserved across the objects (re- moving the peel vs. halving) and across low-level perceptual and/ or concrete effector-related information.
+ This decoded information appears to be action-specific, as we did not find evidence for action-independent object decoding in LOTC.
+ It is hence unlikely that decoding was due to object-related differences between cutting and peeling, for example, differences in visibility of the knife’s blade (slightly more occluded in case of cutting).
+ If LOTC was sensitive to the relatively subtle visual difference between a more versus less occluded blade in peeling versus cutting, respectively, then it should be also sensitive to the more evident perceptual difference between apple versus potato, which was not the case.
+ Another objection could be that decoding apple versus potato targets representations sensitive to vegeta- bles/fruits, whereas the difference between a more versus less visible blade would rather target representations sensitive to tools.
+ Hence, could the absence of object decoding in LOTC be explained by the difference in object category?
+ We consider this hypothesis unlikely because, in both cutting and peeling, the knife and its blade can easily be recognized and thus the conceptual representation of the tool should be activated in both actions to a similar degree.
+ This interpretation is supported by a recent decoding study on non-tool-related actions (open vs. close) at different abstraction levels (Wurm and Lingnau forthcoming).
+ Notably, that study revealed a cluster for abstract actions in exactly the same location of pMTG/LOTC as in the present study ( peak Talairach coordinate: −41/−76/−4).
+ Taken together, our results suggest that LOTC encodes action information on a more abstract, object-, and orientation-independent level of representation.
+ Note that the searchlight analysis also revealed decoding in more posterior regions.
+ For cross-orientation decoding, posterior effects disappeared; high decoding accuracies were only found in LOTC at y-planes between −60 and −70.
+ This suggests that decoding in posterior visual areas was affected by visual differences between cutting and peeling that persisted also for the cross- decoding, whereas the more anterior clusters in left and right LOTC are most likely to encode perceptually invariant action information.
+ In a similar vein, the overlap of abstract action and object decoding in fusiform gyrus suggests that action decoding in this region was not necessarily action-specific, but possibly due to object-related differences between cutting and peeling that are persistent across objects, for example, differences in visibility of the knife’s blade or object states on a category-general level, that is, a halved versus a peeled fruit/vegetable.
+ In the following, we therefore focus on the anterior clusters in pMTG/LOTC when referring to action-specific searchlight decoding of the abstract level.
+ We cannot fully disentangle whether we decoded the actions on a purely semantic level or on a high perceptual level, similar to, for example, exemplar/viewpoint invariance in object recognition.
+ However, a comparison of cluster locations with the meta-analysis by Watson et al. (2013), which included studies that used both action verbs and action images, allows some spec- ulations.
+ Generally, the peak coordinates of action concept processing in left and right LOTC (Tal x/y/z: −51/−48/−5 and 55/−69/ 6, respectively) reported in the overall meta-analysis (collapsing across-action verbs and images) lie within the LOTC clusters found in our searchlight analysis for abstract action decoding (cf. Table 1).
+ More interestingly, however, when studies using verbs were contrasted with studies using images, only left temporal regions were found, and the left hemispheric cluster was located more anteriorly in pMTG (x/y/z: −48/−32/−12).
+ Instead, the contrast for images versus verbs revealed both left and right hemispheric posterior occipitotemporal regions, all located in y-planes between −68 and −86.
+ All LOTC clusters found in our study are in that latter range.
+ This observation is compatible with the idea that our study indeed targeted action representations on a high perceptual rather than on a lexicosemantic level.
+ Notably, even though subjects tended to report some form of subvocal verbalization of actions in the action tasks or objects in the object task, this tendency could not explain the pattern of decoding results in any of the areas under investigation (see the Result section “Behavioral Results”).
+ Neurophysiological studies mostly report left temporal damage to correlate with im- paired processing of action semantics (Kalenine et al. 2010).
+ However, these studies usually use tasks that require verbal and/or relational processing (e.g., matching action pictures with action words), which was not required in the one-back task used in the present study.
+ Instead, the one-back task could be solved by drawing onto non-verbal action concepts that generalize high- level visual aspects of the action independent of the objects involved.
+ In line with this view, tasks that require a perceptual analysis of actions, for example, matching-to-sample tasks on point light displays of human and animal motion, reveal deficits for damage in both left and right occipitotemporal cortex (Han et al. 2013).
+ Most interestingly, selective deficits for human and tool motion compared with animal motion were found for damage in right superior temporal cortex only, highlighting the importance for right occipital and temporal cortex in visual analysis and recognition of actions.
+ Taken together, we conclude that both left and right LOTC is involved in non-verbal generalization of perceptual features of actions, possibly with a bias toward the right hemisphere, whereas left anterior LOTC/pMTG might be more concerned with verbal and relational processing of semantic action knowledge.
+We did not find evidence for abstract, object-independent action representations in premotor cortex.
+ In addition, the searchlight analysis did not reveal any other regions in motor or prefrontal regions that could decode action representations that generalize across objects.
+ This finding challenges the view that neural populations in premotor or prefrontal cortex generalize across concrete instantiations of actions ( Pulvermuller 2013; Rizzolatti et al. 2014).
+ Instead, we found that only concrete actions could be decoded in premotor cortex.
+ This positive result is also import- ant because it shows that it is generally possible to decode action information in premotor cortex.
+ Importantly, the dissociation between concrete and abstract action decoding is in line with predictions of alternative accounts.
+ One possibility is that concrete representations in premotor cortex are activated as a result of (and hence following) conceptual processing, for example, via sensorimotor associations (Mahon and Caramazza 2008; Lingnau and Petris 2012; Hickok 2013; Caramazza et al. 2014; Papeo et al. 2014).
+ Alternatively, it has been argued that mirror neuron activity in monkeys and premotor activation in humans during action observation reflects the activation of generative models to antici- pate concrete perceptual consequences, for example, the final end state, of the observed action (Csibra 2007; Kilner et al. 2007).
+ Following the latter viewpoint, such anticipation of perceptual feedback would be mostly independent of conceptual processing and may run in parallel or even precede activation of the action concept.
+ In line with our results, anticipation of forthcoming action states should be particularly useful when fast action recognition is explicitly demanded by the task.
+Besides lateralization of abstract decoding effects in right LOTC and aIPS, decoding accuracies for concrete action information also tended to be higher in right hemispheric regions.
+ This is in- sofar unusual because action observation usually activates both left and right hemispheres to an equal extent (Caspers et al. 2010).
+ In the present study, univariate BOLD responses were bilateral as well.
+ Importantly, by repeating the ROI and searchlight analyses using vertically flipped videos, we can exclude that lateralization effects, at least in higher visual and non-visual regions, are due to idiosyncratic differences in the presented actions.
+ MVPA studies that decoded actions across visual and motor modality (Oosterhof et al. 2010) or across perspectives (Oosterhof et al. 2012) show comparably strong effects in left and right occipitotemporal cortex and stronger effects in the left inferior parietal cortex.
+ This rules out the possibility that right hemispheric neural populations coding actions are more widespread and heterogeneously distributed across voxels, whereas in the left hemisphere the populations are encoded on the subvoxel level or homogeneously distributed across voxels.
+ However, in the present study, the 2 actions were perceptually much more similar compared with the studies by Oosterhof et al. (2010, 2012).
+ It could be that—although both hemispheres were equally involved in processing the actions—the right hemisphere was more sensitive to resolve the relatively small differences between the actions.
+ In this view, the left hemisphere might have a preference for processing action information on a coarse-grained level, whereas the right hemisphere processes action information on a more fine-grained level.
+ Such a division of labor would be compatible with the observed pattern of results, that is, equally strong univariate effects but more accurate decoding in the right compared with the left hemisphere.
+Object invariance is a necessary prerequisite for understanding object-related actions: Neural representations that do not generalize across specific objects cannot enable an observer to understand the peeling of a previously unfamiliar fruit or vegetable.
+ Our findings support the view that LOTC contains such abstract, object-independent action representations.
+ The presence of abstract action information in LOTC as well as the absence of significant decoding of abstract action information in premotor cortex is not compatible with motor theories of action understanding.
+ In contrast, decoding of concrete, object-dependent, action information in premotor cortex is in line with the hypothesis that  premotor areas are recruited following, or in parallel to, action understanding, in particular when action information is relevant for the task.
+Supplementary Material can be found at: http://www.cercor. oxfordjournals.org/.
+This work was supported by the Provincia Autonoma di Trento and the Fondazione Cassa di Risparmio di Trento e Rovereto.
+We thank Anna Leshinskaya for helpful comments on the manu- script, Sandra Petris for assistance in preparing the stimulus ma- terial, Nick Oosterhof for useful discussions on data analysis, and Wilhelm Malloni, Susanne Hammer, Daniel Kaiser, and Carolin Schmalhofer for assistance in data acquisition.
+ Conflict of Interest: None declared.

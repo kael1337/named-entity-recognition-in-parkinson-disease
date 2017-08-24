@@ -1,0 +1,447 @@
+﻿Functional Connectivity Underpinnings of Fatigue in “Drug-Na € ıve” Patients With Parkinson’s Disease
+cortices within the default mode network (P < 0.05 corrected).
+ Fatigue severity was correlated with both sensorimotor and default mode networks connectivity changes.
+ Voxel-based morphometry analysis did not reveal any significant volume differences between all patients with PD and healthy controls and between patients with PD with and without fatigue (P < 0.05; family-wise error).
+ C o n c l u s i o n s : Our findings revealed that primary PD- related fatigue is associated with an altered default mode network and sensorimotor network connectivity in drug-na € ıve patients.
+ We hypothesize that these divergent motor and cognitive networks connectivity changes and their adaptive or maladaptive functional outcome may play a prominent role in the pathophysiology of fatigue in PD.
+ V C 2016 International Parkinson and Movement Disorder Society K e y W o r d s : fatigue; early-stage Parkinson’s disease; functional connectivity; resting state networks
+Fatigue is a common problem in the general population 1 as well as in patients with chronic disorders 2 such as Parkinson’s disease (PD).
+ 3 Approximately 50% of patients with PD have significant fatigue in the course of the disease 4 and one third of them report fatigue to be one of the most disabling symptoms affecting quality of life.
+ 5 Patients with PD could refer to have fatigue either in the early 6,7 or later stage of PD, 3 and it may also predate the disease onset.
+ 8 Fatigue is difficult to describe and measure, and despite its clinical relevance, the underlying pathophysiology is largely unknown, also due to the frequent overlap with both motor and other  confounding nonmotor symptoms, such as depression, apathy, sleep disturbances, and cognitive impairment.
+ 8 Recent brain metabolism studies have demonstrated that whereas nigrostriatal denervation 6 is not different between patients with and without fatigue, a decreased frontal lobe perfusion 9 and a reduced serotoninergic activity within the basal ganglia and limbic structures 10 have been detected in patients with PD and fatigue.
+ All these studies have assessed patients while on dopaminergic treatment and in a relatively advanced stage of the disease.
+ Furthermore, neurophysiological evidences 11,12 support the hypothesis that an abnormal connectivity between premotor and primary motor cortex may contribute to the pathophysiology of fatigue in PD.
+ On the other side, previous reports have revealed a cross-sectional relationship between fatigue and cognition.
+ 13,14 Therefore, the aim of the present study was to directly address, using resting-state functional MRI (RS-fMRI), the potential contribution of different motor and nonmotor neural networks to the pathogenesis of fatigue in a cohort of drug-na€ ıve patients with early PD.
+ To our knowledge, no previous MRI reports have investigated functional or structural correlates of fatigue in PD.
+ We hypothesize that a disrupted connectivity within motor- and cognitive-related networks may underlie this disabling nonmotor symptom in the early stage of the disease.
+ In addition, we used voxel-based morphometry (VBM) to assess whether potential connectivity changes were dependent on structural brain differences.
+We screened 84 consecutive “drug-na€ ıve” patients with PD according to the clinical diagnostic criteria of the UK PDS Brain Bank, 15 attending the movement disorders unit of the First Division of Neurology at the Second University of Naples (Naples, Italy).
+ Inclu- sion criteria were: ( 1) PD onset after the age of 40 years; (2) diagnosis of PD within 2 years before enroll- ment; and (3) rating of less than stage 2 on the modi- fied H & Y. Disease severity was assessed by means of UPDRS part III (UPDRS-III).
+ 16 Presence of fatigue in patients with PD was defined based on the 16-item Parkinson fatigue scale (PFS-16), which was developed for use in routine clinical practice and has been rec- ommended for screening and rating the severity of fatigue in PD.
+ 17 In the original article, 18 an average score greater than 2.9 distinguished those who experi- enced fatigue from those who did not with a sensitivity of 81.0% and specificity of 85.7%.
+ Moreover, a slightly higher cutpoint of 3.3 identified those perceiv- ing fatigue to be a disabling problem (distressing fatigue) with a sensitivity of 84.7% with a specificity of 82.1%.
+ In accord with this finding, we used a PFS- 16 threshold of 3.3 to define the presence of distressing fatigue in our study.
+ In order to exclude potential confounding factors, the following exclusion criteria were included: (1) major depression according to Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, criteria for current major depression 19 and the Beck Depression Inventory Scale (BDI) scores (>9) 20 ; (2) sleep disturbances, specifically excessive daytime sleepiness according with the Epworth Sleepiness Scale (ESS) scores (>10) 21 ; and (3) presence of cognitive impairment according to current diagnostic criteria for mild cognitive impairment in PD (level I).
+ 22 Moreover, presence of rapid eye movement sleep behavior disorder (RBD) was clinically evaluated by means of the RBD Single-Question screen (RBD1Q).
+ 23 Finally, apathy symptoms were investigated with the 14 item self-administered Apathy Scale (AS) 24 ; subjects with a total score greater than 13 were considered to have significant apathy.
+ 25 According to presence or absence of fatigue and following inclusion and exclusion criteria, 40 of a previous 84 drug-na€ ıve patients with PD were enrolled in the study; 20 with distressing fatigue (f-PD) and 20 without (nf-PD) fatigue.
+ All patients were compared with a group of 20 age- and sex-matched healthy controls (HCs), consecutively recruited from individuals who volunteered to participate in scientific studies at the Second University of Naples.
+ Presence of fatigue in HCs was assessed using both the PFS-16 scale and the Fatigue Severity Scale (FSS), a nine-item scale most commonly used in general population.
+ 8 As already demonstrated, 26 a cutoff of 4 is able to discriminate subjects suffering with fatigue.
+ The following cognitive tests have been performed in both patients and HCs: the Montreal Cognitive Assessment (MoCA) 27 to assess global cognitive abil- ities and the Frontal Assessment Battery (FAB) 28 for executive/attentional frontal lobe functions.
+ A clinical investigator (A.G.) evaluated presence of fatigue by means of the PFS-16 scale, whereas motor, behavioral, and cognitive functions were evaluated by another clinical investigator (R.D.M), blind to the presence of fatigue in patients with PD.
+ Finally, both clinical and imaging statistical analyses were subsequently con- ducted by two other investigators (A.T. and F.E).
+ It is noteworthy that none of the patients were under treatment with antidepressants, other centrally acting drugs, or statins and blood pressure medications, which may have fatigue as a potential side effect.
+ 2 Moreover, patients and HCs did not suffer from any heart, liver, renal, or respiratory illnesses, as revealed by their clinical history, routine blood examinations, and cardiologi- cal and pneumological careful evaluations.
+ All participants gave written informed consent, which was approved by the local ethical committee according to the Helsinki Declaration.
+MR images were acquired on a 3T GE scanner (General Electric, Little Chalfont, UK) equipped with an eight-channel parallel head coil. fMRI data consisted of 240 volumes of a repeated gradient-echo echo planar imaging T2*-weighted sequence (repeti- tion time [TR] 5 1,508 ms; axial slices 5 29; matrix 5 64 3 64; field of view [FOV] 5 256 mm; thickness 5 4 mm; interslice gap 5 0 mm).
+ During the functional scan, subjects were asked to simply stay motionless and awake with their eyes closed.
+ Moreover, in order to minimize the potential sleep-induced effects on resting-state networks, we set the RS-fMRI scan duration to 6 minutes and scanned all our subjects for this study in the morning.
+ Three-dimensional high-resolution T1-weighted sag- ittal images (GE sequence IR-FSPGR: TR 5 6,988 ms; inversion time [TI] 5 1,100 ms; echo time [TE] 5 3.9 ms; flip angle 5 10; voxel size 5 1 3 1 3 1.2 mm 3 ) were acquired for registration and normalization of the functional images and structural analyses.
+ A T2 fluid-attenuated inversion recovery sequence (TR 5 9,000 ms; TE 5 1,200 ms; TI 5 2,500; axial slices 5 44; matrix 5 224 3 448; FOV 5 240 mm; thickness 5 3 mm; interslice gap 5 0 mm) was also acquired in all subjects.
+Demographic and clinical features of patients with and without fatigue were compared by the t test for independent samples or by v2, as appropriate.
+ Given the small number of subjects in each group and to avoid type 1 error, between-group comparisons on cognitive measures were evaluated by nonparametric analysis, namely, the Mann–Whitney U test.
+ Compu- tation was supported by the Statistical Package for the Social Sciences (SPSS 16.0; SPSS, Inc., Chicago, IL) software.
+ Significance threshold was set to P 5 0.05.
+Image data preprocessing and statistical analysis were performed with BrainVoyager QX (Brain Innova- tion BV, Maastricht, The Netherlands).
+ Before statistical analyses, individual functional data were coregistered to their own anatomical data and spa- tially normalized to the standard Talairach space.
+ Single-subject and group-level independent component analysis (ICA) was carried out respectively with the fastICA 29 and the self-organizing group ICA (sogICA) algorithms.
+ 30 For each subject, 40 independent components were extracted.
+ All single-subject component maps from all subjects were then “clustered” at the group level, resulting in 40 single-group average maps  that were visually inspected to recognize the major physiological resting-state networks (RSNs).
+ Selection of the clusters of interest implied identifying in each group component map the presence of anatomically relevant areas that, jointly and consistently across subjects, reproduced the layouts of the major physiological RSNs.
+ The most reported and investigated RSNs are the default mode network (DMN), the left and right fron- toparietal networks, the salience network, the sensorimotor network (SMN), and the visual and auditory networks.
+ 31 For homolog components corresponding to a given RSN, a multisubject random effects analysis was carried out that treated the individual subject map values as random observations at each voxel.
+ Single-group one-sample t tests were used to map the whole-brain distribution of the components of interest (P 5 0.05, cluster-level corrected) in each patient group and in the control group.
+ An inclusive mask was created from the single-group component maps to define the search volume for within-network group comparisons (i,e., f-PD vs. nf-PD).
+ Then, a two-sample t test was computed at each voxel of the mask to pro- duce a t map of the differences that was applied a minimum threshold of P 5 0.05 (corrected for multiple comparisons).
+ To correct for multiple comparisons, regional effects were only accepted for clusters exceeding a minimum size determined with a nonparametric randomization approach.
+ Namely, an initial voxel-level threshold was set to P 5 0.01 (uncor- rected), and a minimum cluster size was estimated after 1,000 Monte Carlo simulations that protected against false-positive clusters up to 5%.
+ 32 Individual ICA z-scores for both the patient groups and control group were extracted from regions identified in the above analyses and used for all between- group comparisons and for linear correlation analyses with clinical parameters (i.e.
+ UPDRS-III, 16-PFS, and MoCA scores).
+ Besides whole-brain analyses, statistical inference was also performed on a region of interest (ROI) based on our and other previous functional studies in patients with PD.
+ 33-35 More precisely, we considered the supplementary motor area (SMA), as previously found to be functionally altered in drug-na€ ıve patients with PD, 33 here we extracted and averaged individual ICA z-score data in the present sample of both patients and HCs.
+ The ICA z-score data used for second-level statistics were analyzed as in conventional analyses, that is, with covariates for the age and sex of subjects.
+VBM data were processed and examined using SPM8 software (Wellcome Trust Center for Neuroi- maging, London, UK; http://www.fil.ion.ucl.ac.uk/ spm).
+ We applied VBM implemented in the VBM8 toolbox (http://dbm.neuro.uni-jena.de/vbm.html) with default parameters incorporating the DARTEL toolbox, which was used to obtain a high-dimensional normalization protocol.
+ Images were bias-corrected, tissue-classified, and registered using linear (12-param- eter affine) and nonlinear transformations (warping) within a unified model.
+ 36 Subsequently, the warped gray matter (GM) segments were affine-transformed into MNI space and were scaled by the Jacobian determinants of the deformations to account for the local compression and stretching that occurs as a con- sequence of the warping and affine transformation (modulated GM volumes).
+ Finally, the modulated volumes were smoothed with a Gaussian kernel of 8-mm full width at half maximum.
+ The GM volume maps were statistically analyzed using the general linear model based on Gaussian random field theory.
+ Statistical analysis consisted of an analysis of covariance with total intracranial volume and age as covariates of no interest.
+ Statistical inference was performed at the voxel level, with a family-wise error (FWE) correction for multiple comparisons (P < 0.05).
+TABLE 1. Demographic, clinical, cognitive, a and imaging parameters of patients with PD with and without fatigue and HCs
+            
+              
+                
+                  
+                    
+                     HCs
+                     f-PD
+                     nf-PD
+                    
+                  
+                
+                
+                  
+                    
+                     (n 5 20)
+                     (n 5 20)
+                     (n 5 20)
+                    
+                  
+                  
+                    
+                     Mean 6 SD
+                     Mean 6 SD
+                     Mean 6 SD
+                     P Value
+                  
+                  
+                     Age
+                     60.3 6 2.1
+                     62.1 6 1.5
+                     61.5 6 1.2
+                     0.8 b ; 0.7 c
+                  
+                  
+                     Sex (M/F)
+                     9/11
+                     10/10
+                     10/10
+                     0.9 b ; 1 c
+                  
+                  
+                     Education (years)
+                     10 6 2
+                     10 6 2
+                     9 6 2
+                     0.9 b ; 0.8 c
+                  
+                  
+                     Disease duration
+                     —
+                     1.3 6 0.6
+                     1.4 6 0.6
+                     0.7
+                  
+                  
+                     UPDRS-III
+                     —
+                     14.9 6 5.7
+                     15.6 6 5.5
+                     0.6
+                  
+                  
+                     AR/TD
+                    
+                     11/9
+                     10/10
+                     0.7
+                  
+                  
+                     H & Y stage
+                     —
+                     1.1 6 0.2
+                     1.2 6 0.4
+                     0.2
+                  
+                  
+                     FSS
+                     0.4 6 0.5
+                     —
+                     —
+                    
+                  
+                  
+                     PFS-16
+                     0.8 6 0.4
+                     3.8 6 0.3
+                     2.1 6 0.4
+                     <0.001 b,c
+                  
+                  
+                     MoCA
+                     27.3 6 1.2
+                     26.2 6 2.7
+                     27.1 6 2.6
+                     0.5 b ; 0.6 c
+                  
+                  
+                     FAB
+                     17.7 6 0.4
+                     14.5 6 0.5
+                     15.8 6 0.9
+                     0.2 b ; 0.4 c
+                  
+                  
+                     AS
+                     8.2 6 2.9
+                     8.4 6 5.1
+                     9.3 6 4.8
+                     0.8 b ; 0.6 c
+                  
+                  
+                     BDI
+                     6.0 6 0.7
+                     6.5 6 1.0
+                     6.7 6 1.0
+                     0.1 b ; 0.3 c
+                  
+                  
+                     ESS
+                     —
+                     4.9 6 2.2
+                     2 6 1.5
+                     <0.001
+                  
+                  
+                     WMH volume (mL)
+                     0.1 (0–0.6)
+                     0.2 (0–1.3)
+                     0.2 (0–1.4)
+                     0.4 b ; 0.8 c
+                  
+                  
+                     GM volume (mL)
+                     599.8 6 41.7
+                     599.0 6 65.2
+                     575.42 6 54.0
+                     0.5 b ; 0.3 c
+                  
+                  
+                     WM volume (mL)
+                     506.4 6 78.2
+                     491.2 6 78.2
+                     546.0 6 78.8
+                     0.6 b ; 0.1 c
+                  
+                  
+                     CSF volume (mL)
+                     252.7 6 24.7
+                     260.4 6 56.1
+                     263.4 6 51.6
+                     0.5 b ; 0.8 c
+                  
+                  
+                     a Scores are age and education
+                     adjusted.
+                    
+                    
+                    
+                  
+                  
+                     b HCs vs. PD patients.
+                    
+                    
+                    
+                    
+                  
+                  
+                     c f-PD patients vs. nf-PD patients
+                    
+                    
+                    
+                    
+                  
+                  
+                     AR/TD, akinetic-rigid/tremor-dominant
+                     PD subtype.
+                    
+                    
+                    
+                  
+                
+              
+            
+            HCs f-PD nf-PD (n 5 20) (n 5 20) (n 5 20) Mean 6 SD Mean 6 SD Mean 6 SD P Value Age 60.3 6 2.1 62.1 6 1.5 61.5 6 1.2 0.8 b ; 0.7 c Sex (M/F) 9/11 10/10 10/10 0.9 b ; 1 c Education (years) 10 6 2 10 6 2 9 6 2 0.9 b ; 0.8 c Disease duration — 1.3 6 0.6 1.4 6 0.6 0.7 UPDRS-III — 14.9 6 5.7 15.6 6 5.5 0.6 AR/TD 11/9 10/10 0.7 H & Y stage — 1.1 6 0.2 1.2 6 0.4 0.2 FSS 0.4 6 0.5 — — PFS-16 0.8 6 0.4 3.8 6 0.3 2.1 6 0.4 <0.001 b,c MoCA 27.3 6 1.2 26.2 6 2.7 27.1 6 2.6 0.5 b ; 0.6 c FAB 17.7 6 0.4 14.5 6 0.5 15.8 6 0.9 0.2 b ; 0.4 c AS 8.2 6 2.9 8.4 6 5.1 9.3 6 4.8 0.8 b ; 0.6 c BDI 6.0 6 0.7 6.5 6 1.0 6.7 6 1.0 0.1 b ; 0.3 c ESS — 4.9 6 2.2 2 6 1.5 <0.001 WMH volume (mL) 0.1 (0–0.6) 0.2 (0–1.3) 0.2 (0–1.4) 0.4 b ; 0.8 c GM volume (mL) 599.8 6 41.7 599.0 6 65.2 575.42 6 54.0 0.5 b ; 0.3 c WM volume (mL) 506.4 6 78.2 491.2 6 78.2 546.0 6 78.8 0.6 b ; 0.1 c CSF volume (mL) 252.7 6 24.7 260.4 6 56.1 263.4 6 51.6 0.5 b ; 0.8 c a Scores are age and education adjusted. b HCs vs. PD patients. c f-PD patients vs. nf-PD patients AR/TD, akinetic-rigid/tremor-dominant PD subtype.
+          
+Severity of the cerebrovascular disease was measured using MIPAV software.
+ 37 All functional analyses were rerun with the inclusion of white matter (WM) hyper- intensity (WMH) volume as an additional covariate, given that WMH may contribute to clinical and cognitive dysfunction in neurodegenerative disorders.
+Demographic, clinical data, cognitive features, and global imaging details (i.e., WM lesion load, global GM, WM, and cerebrospinal fluid [CSF]) of patients and HCs are shown in Table 1.
+ No significant differences were observed between patients with PD and HCs and between f-PD versus nf-PD patients in age, sex, education, handedness, and global imaging parameters.
+ Moreover, no significant differences were detected between f-PD versus nf-PD patients in motor, cognitive, and behavioral scores (i.e., UPDRS III, BDI, AS, MoCA, and FAB scores).
+ Following the protocol inclu- sion/exclusion criteria, patients with depression and excessive daytime sleepiness according with BDI and ESS scores respectively were excluded from the study.
+ It is should be noted that, although statistically different between the two patient subgroups, ESS scores were within the normal range in both f-PD and nf-PD (rec- ommended ESS cut-off score is 10).
+ 21 Finally, in our cohort of 40 drug-na€ ıve PD patients, 14 had a positive RBD1Q (8 f-PD and 6 nf-PD patients; P 5 0.68).
+By visually inspecting ICA-derived components of RS-fMRI data for each group (f-PD, nf-PD, and HCs), we identified RSN components using similar method- ology as that of previous studies.
+ 31 Statistically significant connectivity differences were identified only in the DMN and SMN components.
+ To  visualize the DMN and SMN regions with maximal consistency within groups, we report the group-level random-effects t-maps for both components separately for each group (Fig. 1).
+
+            FIG. 1. Group-level random-effects t maps for SMN and DMN separately for each group. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com.]
+          
+Significant functional connectivity changes were identified within the following RSNs (Table 2; Fig. 2): 1.
+ SMN: The ROI analysis revealed a significant reduced connectivity within the SMA (BA6)
+TABLE 2. Functional connectivity changes in the comparison between f-PD with nf-PD
+            
+               CONTRAST 1) f-PD < nf-PD
+              
+                
+                
+                  
+                    
+                    
+                    
+                    
+                     Sensorimotor
+                     network
+                    
+                    
+                  
+                  
+                    
+                    
+                    
+                    
+                     Talairach
+                     coordinates
+                    
+                    
+                  
+                  
+                    
+                     Region
+                     x
+                     y
+                     z
+                     BA
+                     t
+                     p
+                  
+                  
+                    
+                     SMA
+                     24
+                     213
+                     42
+                     6
+                     3.26 a
+                     <0.001
+                  
+                  
+                     2) f-PD > nf-PD
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                  
+                  
+                    
+                    
+                    
+                    
+                     Default
+                     mode network
+                    
+                    
+                  
+                  
+                    
+                    
+                    
+                    
+                     Talairach
+                     coordinates
+                    
+                    
+                  
+                  
+                    
+                     Region
+                     x
+                     y
+                     z
+                     BA
+                     t
+                     p
+                  
+                  
+                    
+                     L-LPFC
+                     231
+                     52
+                     15
+                     1.0
+                     3.81
+                     <0.001
+                  
+                  
+                    
+                     PCC-PrC
+                     5
+                     268
+                     30
+                     31
+                     4.41
+                     <0.001
+                  
+                  
+                     a ROI analysis. analysis.
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                  
+                  
+                     BA, Brodmann Brodmann area; L,
+                     left.
+                    
+                    
+                    
+                    
+                    
+                    
+                  
+                
+              
+            
+            CONTRAST 1) f-PD < nf-PD Sensorimotor network Talairach coordinates Region x y z BA t p SMA 24 213 42 6 3.26 a <0.001 2) f-PD > nf-PD Default mode network Talairach coordinates Region x y z BA t p L-LPFC 231 52 15 1.0 3.81 <0.001 PCC-PrC 5 268 30 31 4.41 <0.001 a ROI analysis. BA, Brodmann area; L, left.
+          
+(P < 0.001) when f-PD where compared with nf- PD (Fig. 2A,B).
+ 2.
+ DMN: An increased connectivity in the l-LPFC (BA10) and in the PCC-precuneus (BA31) was observed in f-PD patients when compared to nf- PD patients (P < 0.001; Fig. 2A,B).
+No functional connectivity changes were identified in the remaining RSNs.
+ Correlation analyses revealed that PFS-16 scores were negatively correlated with SMA connectivity changes (r 5 20.48; P 5 0.02) and positively correlated with  l-LPFC (r 5 0.58; P < 0.001) and PCC-precuneus (r 5 0.68; P < 0.001) connectivity changes only in f-PD patients (Fig. 2C).
+ No other correlations were detected between SMA and DMN region connectivity changes and UPDRS III, MoCA, FAB, BDI, and ESS scores.
+ VBM analysis did not reveal any significant GM volume differences between f-PD and nf-PD patients (P < 0.05, FWE).
+
+            FIG. 2. SMN and DMN connectivity changes. (A) ROI analysis within the SMA cluster and whole-brain significant connectivity differences within LPFC and PCC-PrC clusters between f-PD and nf-PD patients (P < 0.05 corrected) overlaid on the standard “Colin-27” brain T1 template. (B) Bar graphs of the ROI-averaged ICA z-scores (6SD) for HCs, f-PD, and nf-PD patients (SMA: HCs, 1.4 6 0.2; nf-PD, 1.3 6 0.2; f-PD, 0.8 6 0.2; # P 5 0.7; § *P < 0.001; LPFC: HCs, 1.6 6 0.4; f-PD, 1.5 6 0.4; nf-PD, 0.5 6 0.3; § P 5 0.8; # *P < 0.001; PCC-PrC: HCs, 2.8 6 0.3; f-PD, 2.6 6 0.5; nf-PD, 1.1 6 0.6; § P 5 0.6; # *P < 0.001). (C) Positive and negative correlations between PFS-16 scores and SMA and DMN average ICA z-scores in f-PD. # HCs vs. nf-PD; § HCs vs. f-PD; *f-PD vs. nf-PD. R, right. [Color figure can be viewed in the online issue, which is available at wileyonlinelibrary.com.]
+          
+Our findings demonstrate that distressing fatigue, in drug-na€ ıve patients with early PD, is associated with a decreased connectivity within the SMA and an increased connectivity within the prefrontal and posterior cingulate hubs of the DMN.
+ Fatigue severity is correlated with these divergent DMN and SMA connectivity changes.
+ Importantly, the observed functional abnormalities are independent from both dopamine- induced connectivity and structural changes and seem not to be influenced by motor disability or other confounding nonmotor symptoms.  Fatigue is present as early as the motor signs in over one third of subjects recently diagnosed with PD.
+ 6,7 Sev- eral cross-sectional studies have not found a direct relationship between fatigue and PD motor severity, especially in the early stage 8,38 of the disease as also revealed by our data (i.e., patients with and without fatigue had similar UPDRS-III scores).
+ Based on previous studies showing a reduced activation 34 or connectivity 33,35 of the SMA, related with motor planning impairment, rather than to actual motor execution, 39 we hypothesize that the appearance of fatigue in a sub- set of patients with PD might be associated with a greater SMA hypoconnectivity as observed in the comparison between f-PD and nf-PD patients.
+ Our findings are in line not only with previous neurophysiological studies 11,12 in PD, which have already hypothesized a correlation between an abnormal premotor and primary motor cortices connectivity and fatigue, but also with previous imaging reports, 40,41 despite in patients with multiple sclerosis (MS), which have detected an association between fatigue and a dysfunction of brain regions involved in motor planning and control.
+ On the other side, the increased connectivity of DMN, specifically involved in the ability to redirect attentional processes from self-reflection to goal-directed behavior, 42 may suggest that a higher attention level could represent an initial cognitive compensatory response to the motor connectivity changes associated with fatigue in PD.
+ Therefore, f-PD patients, when internally oriented, have to increase mental effort expenditure to maintain the same level of motor planning performance in order to switch more easily to externally oriented processing.
+ Our correlation analyses seem to corroborate this hypothesis by showing a positive and negative association between PFS-16 scores and DMN and SMA connectivity changes, respectively (i.e., fatigue severity is associated with both an increased cognitive and a decreased motor networks connectivity).
+ A functional compensatory phenomenon, as a manifestation of a cognitive cortical plasticity, has been already demonstrated not only in PD, 43 but also in other neurodegenerative disorders such as Alzheimer’s disease 44 and amyotrophic lateral sclerosis.
+ 45 However, it does not necessarily follow that all attempts at self-generated thought may really lead to a successful compensatory mechanism.
+ 42 Indeed, we cannot rule out the possibility that DMN functional changes may also reflect a maladaptive phenomenon, rather than a compensatory event, as suggested in previous reports.
+ 46,47 The increased DMN connectivity causing an inability to control the occurrence of excessive or distracting self-generated thoughts may lead to impairment in motor ongoing tasks and thus may exacerbate the feeling of fatigue in PD.
+ Based on recent reports confirming a close association between local metabolic activity and connectivity changes, 48 our data are also consistent with previous PET studies demonstrating that a prefrontal, basal ganglia, and limbic dysfunction involving serotoninergic pathways is associated with fatigue in patients with PD 10 and chronic fatigue syndrome, 49 providing strong evidence in support of a serotoninergic model of fatigue in patients with and without PD.
+ Moreover, a selective involvement of limbic regions, such as PFC and PCC-precuneus, could also lead to a lack of moti- vation, its dissociation from executive motor movement and thus reluctance to act.
+ This is demonstrated to be a significant predictor of fatigue in patients with PD 50 and has been implicated in its pathophysiology also in other neurological diseases.
+ 51 However, although fatigue has been reported to correlate with apathy, 52,53 their relationship, especially in early unmedicated PD patients, needs to be further investigated.
+ To our knowledge, no systematic assessment with validated scales has been yet performed, and a recent study 54 has demonstrated that apathy and fatigue did not cluster in the same nonmotor symptoms clinical categories (i.e., mood-related cluster for apathy and cognition-related cluster for fatigue) in early unmedicated PD.
+ In line with this finding, our fatigue-related connectivity changes seem not be influenced by the presence of apathy, which was not statistically different between the two PD subgroups.
+ It is noteworthy that in the present study, connectivity changes were detected in the absence of significant GM changes in PD.
+ However, future longitudinal studies are needed to clarify the relationship between fatigue and structural or microstructural abnormalities in patients with PD.
+ We believe that the strength of our study is repre- sented by the stringent inclusion criteria of the PD population.
+ Indeed, by enrolling drug-na€ ıve, cognitively unimpaired patients with no depression or excessive daytime sleepiness and clinical RBD, we were able to investigate the functional correlates of a primary PD-related fatigue, ruling out the impact of comorbid confounders.
+ However, we are also aware that the our study is not exempt from some limitations.
+ First, the absence of an extensive neuropsychological evaluation did not allow us to disentangle the complex interplay between fatigue, cognition, and functional connectivity in patients with PD.
+ Nevertheless, we believe that our findings are not influenced by a potential underesti- mated cognitive impairment in our f-PD patients given that this should result in a decreased, rather than increased DMN connectivity, as already demonstrated in previous studies.
+ 43,55,56 Second, despite that the relationship between fatigue and sleep disturbances is still debated, 57,58 an accurate clinical and instrumental evaluation (i.e., polysomnography examination) would provide more information on nocturnal sleep problems other than clinical RBD, that may impact on fatigue.
+ Finally, it would be interesting to explore the basal ganglia connectivity in patients with PD with fatigue, as already done, although with a seed-based approach, in patients with MS.
+ 59 However, ICA did not allow us to directly explore the role of basal ganglia connectivity in the pathophysiology of fatigue.
+ These limitations notwithstanding, our data demonstrate, for the first time, that divergent motor and cognitive networks connectivity changes and their adaptive or maladaptive functional outcome may play a prominent role in the pathophysiology of fatigue in PD.
+ Future studies are needed to corroborate our pathophysiological hypotheses.

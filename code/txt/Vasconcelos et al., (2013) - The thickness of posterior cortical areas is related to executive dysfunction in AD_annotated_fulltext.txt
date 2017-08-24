@@ -1,0 +1,242 @@
+﻿The thickness of posterior cortical areas is related to executive dysfunction in Alzheimer’s disease
+OBJECTIVE: To establish whether alterations of brain structures in Alzheimer’s disease are associated with executive dysfunction.
+ METHODS: Nineteen patients with Alzheimer’s disease and 22 older control subjects underwent a comprehensive evaluation.
+ The clock drawing test, digit span test, executive motor function test, Behavioral Assessment of the Dysexecutive Syndrome battery (Rule Shift Cards test), and Stroop test were used to evaluate executive dysfunction.
+ A multiparametric approach using the FreeSurfer image analysis suite provided a description of volumetric and geometric features of the gray matter structures.
+ RESULTS: The cortical thickness maps showed a negative correlation between the Behavioral Assessment of the Dysexecutive Syndrome battery (Rule Shift Cards test) and the right middle frontal gyrus; a positive correlation between the executive motor function test and the left superior parietal gyrus, left middle temporal gyrus, bilateral supramarginal gyri, right middle frontal gyrus, and right precuneus; a negative correlation between the Stroop test (part III) and the right superior parietal gyrus; and a negative correlation between the Stroop test (part III) and the right middle temporal gyrus.
+ CONCLUSION: Executive dysfunction in Alzheimer’s disease is correlated with alterations not only in the frontal areas but also within many temporal and parietal regions.
+ KEYWORDS: Executive Functions; Alzheimer’s Disease; Magnetic Resonance Imaging.
+ Vasconcelos LG, Jackowski AP, Oliveira MO, Ribeiro Flor YM, Souza AA, Bueno OF, et al. The thickness of posterior cortical areas is related to executive dysfunction in Alzheimer’s disease.
+ Clinics.
+ 201):28-37.
+ Received for publication on May 20, 2013; First review completed on June 14, 2013; Accepted for publication on July 17, 2013 E-mail: goisvasconcelos@hotmail.com Tel.: 55 11 5084 0505
+Maira Okada de Oliveira, Yona  ́ Mayara Ribeiro
+        
+Although the prevailing concept of Alzheimer’s disease (AD) as an episodic memory disorder is well supported, there are many examples of clinical heterogeneity (1).
+ Several non-amnestic presentations of the pathophysiologi- cal process of AD exist, and probable AD is diagnosed even if executive function is the main cognitive deficit (2).
+ Executive function is a multidimensional cognitive domain that includes attention, sequencing, goal formation, planning, execution of goal-directed plans, effective performance, insight, will, abstraction, and judgment (3).
+ Executive dysfunctions have heterogeneous manifestations, and they occur almost universally in all stages of dementia
+Copyright ß 2014 CLINICS – This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http:// creativecommons.org/licenses/by-nc/3.0/) which permits unrestricted non- commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+ No potential conflict of interest was reported.
+ DOI: 10.6061/clinics/2014(01)05
+
+      
+II III I III
+( 4).
+ Furthermore, these dysfunctions are associated with greater risk for the development of AD (5).
+ Executive dysfunction is also associated with greater dementia severity, rapid disease progression, disability, behavioral disorders, and higher mortality (6, 7, 8, 9).
+ Approaches that focus on the localization of executive abilities within the frontal lobe have often been criticized; critics have favored a perspective that emphasizes the connectivity between the frontal regions and the more posterior and subcortical brain areas (3).
+ The prefrontal cortex receives inputs from higher-order association cortical areas such as the posterior parietal lobe, superior temporal lobe, and paralimbic regions (10).
+ Many studies have explored the neural basis of executive dysfunction in AD.
+ Although most of these studies correlated changes in the frontal structures with executive performance impairment, many others correlated executive dysfunction with posterior cortical areas (11, 12, 13, 14, 15).
+ Automated magnetic resonance imaging (MRI) thickness measures of individual brain regions can identify mild cognitive impairment and AD with great accuracy, specificity, consistency, and reproducibility across multiple independent cohorts.
+ These measures correlate strongly with clinical measures of cognitive decline as well as cellular biomarkers (16, 17, 18).
+ Using software tools, a single volumetric T1-weighted MRI scan can be completely processed with little to no manual intervention in a relatively short amount of time.
+ Evidence from the literature suggests that cortical thickness can predict the risk of conversion from mild cognitive impairment to AD with a higher degree of accuracy than clinical and neuropsychological assessments (19, 20).
+ Therefore, this automated measure provides a cost-effective and efficient method for the early diagnosis of AD and mild cognitive impairment.
+ Furthermore, these measurements may serve as a quantitative and biologically meaningful endpoint in therapeutic trials.
+ The questionable description of executive functions as higher-level cognitive functions mediated primarily by the frontal lobes and the lack of a definitive role for specific brain structures in certain executive tasks should be better clarified.
+ Moreover, the lack of a clear correlation between cortical thickness and executive function performance in healthy subjects and the limited number of studies assessing the correlation between the posterior associative cortical thickness and executive functions should be further evaluated.
+ The aim of this study was to establish whether alterations in gray matter volume and cortical thickness of brain structures are associated with executive dysfunction in patients with mild AD and healthy controls.
+
+      
+& Subjects
+Nineteen patients with mild AD and 22 older control subjects were recruited from a multidisciplinary memory clinic.
+ The control subjects did not have any cognitive complaints or functional impairment, and all of the participants in the patient group fulfilled the National Institute of Neurological and Communicative Disorders and Stroke and the AD and Related Disorders Association criteria for probable AD ( 2).
+ Patients had Functional Assessment Staging (21) scores of 3 or 4 and had been receiving a stable dose of a cholinesterase inhibitor for at least 2 months.
+ Controls had Functional Assessment Staging scores of 1 or 2.
+ Exclusion criteria included significant symptoms of depression (15-item Geriatric Depression Scale score $6) (22); significant radiological evidence of ischemic brain disease; a Modified Hachinski Ischemic score .
+4 (23); a previous cerebrovascular event, a Mini-Mental State Examination score ,20 (24) or evidence of other degenerative or secondary dementias; end-stage chronic disease or an unstable medical condition; a psychiatric history; antipsychotic or psychoactive medication adjustments in the 2 months prior to study enrollment; significant visual or hearing impairment; age ,60 years; schooling of less than 2 years; and any other condition that could prevent the patient from undergoing an MRI examination or cognitive assessment.
+ Patients with high levels of depressive symptoms were excluded to avoid bias in the cognitive evaluation because such symptoms strongly influence performance on cognitive assessments (25).
+ Both groups were also paired according to educational level to reduce the effect of this variable on the cortical thickness results.
+ A flow diagram of subject inclusion and exclusion is shown in Figure 1.
+ Figure 1 - Flow diagram of the subject selection procedure.
+ For the control group, 66 elderly individuals were invited to participate in the study.
+ Of these individuals, 21 missed the clinical assessment or were not included due to their meeting clinical exclusion criteria.
+ Of the 45 remaining subjects, 17 were excluded because they missed the neuropsychological assessment.
+ Of the 28 remaining subjects, four missed the magnetic resonance imaging (MRI) assessment.
+ The images of three elderly controls were not included in the study because they were considered to be of low quality.
+ Regarding the patient group, 46 AD patients were invited to participate in the study.
+ Of these patients, 16 missed the clinical assessment or were not included due to their meeting clinical exclusion criteria.
+ Of the 30 remaining subjects, seven were excluded because they missed the neuropsychological assessment.
+ Of the 23 remaining subjects, two missed the MRI assessment.
+ The images of two AD patients were not included in the study because they were considered to be of low quality.
+ Procedures Each subject and the caregivers of the patients with AD underwent a complete interview with a consultant geria- trician.
+ The physician collected demographic and medical information, including history of hypertension or diabetes mellitus, body mass index, and waist-to-hip ratio.
+ A functional status assessment was performed using the Functional Activities Questionnaire (23) and the Disability Assessment for Dementia (only in patients) (27).
+ Neuropsychiatric symptoms were evaluated using the Neuropsychiatric Inventory (28).
+ The comprehensive cognitive evaluation included executive tests, such as the clock drawing test (29), the digit span test, an executive motor function test (30), the Behavioral Assessment of the Dysexecutive Syndrome (BADS) (Rule Shift Cards subtest) (31), and the Stroop test.
+ Each participant also underwent MRI.
+ To evaluate executive motor function, a modified version of the Neuropsi battery subtest was used (30).
+ Each subject was asked to pay attention to a sequence of three hand positions, which was performed three times by the examiner.
+ The subject was asked to reproduce the sequence in the correct order three times.
+ No verbal cues were given, but the examiner did indicate whether the reproduction was correct or incorrect.
+ To perform this task, the subject had to place his or her dominant hand in three different positions sequentially: a fist resting horizontally, a palm resting vertically, and a palm resting horizontally.
+ If the subject was unable to reproduce the sequence after three attempts, the score was 1.
+ If the subject was able to reproduce the sequence after two attempts, the score was 2.
+ If the subject was able to reproduce the sequence in the first attempt, the score was 3.
+ MRI data acquisition, analysis, and post-processing MRI of the brain was obtained in all subjects using a 1.5-T scanner [Magnetom Sonata (Maestro Class) Siemens AG, Medical Solutions, Erlangen, Germany] with an eight- channel head coil.
+ To minimize variation, a single investi- gator positioned all of the subjects using the orbitomeatal line as a landmark.
+ Two conventional sequences were performed to exclude structural lesions: a) axial T2- weighted FLAIR (fluid-attenuated inversion recovery) in a plane parallel to the anterior commissure-posterior com- missure (AC-PC) line [TR (repetition time) = 8500 ms, TE (echo time) = 107 ms, IT (inversion time) = 2500 ms, slice thickness = 5.0 mm, slice interval = 1.5 mm, FOV (field of view) = 240 mm, matrix size = 2566256, NEX = 1] and b) sagittal T1-gradient echo volumetric acquisition for multi- planar reconstruction (TR = 2000 ms, TE = 3.42 ms, flip angle = 15 degrees, FOV = 256 mm, 1.0-mm slice thickness with no gaps, total of 160 slices per slab, matrix size = 2566256, NEX = 1).
+ The quality of the structural MRI data was rated by two experienced neuroimaging researchers according to a three- point rating scale: 0 = no motion artifacts, excellent quality; 1 = a few motion artifacts, fair quality; and 2 = moderate/ severe motion artifacts, poor quality.
+ Only datasets with scores of 0 were considered to be of sufficient quality for research purposes.
+ The criteria used to define quality were (a) signal-to-noise ratio; (b) tissue contrast; and (c) artifacts, including c1) motion artifacts (ghosting and smearing), c2) edge artifacts (ghosting, chemical shifts, and ringing), c3) distortions, and c4) aliasing (wrap-around) artifacts.
+ All the MRI exams were performed between 1 (minimum) and 8 (maximum) weeks after the neuropsychological evaluation.
+ The interval was not different between the AD and control subjects.
+ T1-weighted images were processed using the recon-all pipeline of the FreeSurfer package, which is documented and freely available for download online (32, 33).
+ A summary of the options used in the recon-all pipeline and a detailed description of this methodology are included in the supplementary material.
+ Statistical analysis Demographic, clinical, cognitive, functional, and behavioral data were analyzed with SPSS 18 (SPSS, Chicago, IL, USA).
+ Prior to conducting the analyses, the measurements were tested for normality using the Shapiro-Wilk test.
+ Demographic, clinical, and neuropsychological data, as well as data on brain structure volumes (Table 1, supplementary material), are presented as the mean ¡ standard deviation.
+ Student’s t-tests (at a significance level of p,0.05) were used to compare the data of AD patients and controls.
+ To evaluate whether there were correlations between executive functions and brain structures, the volumetric measures were first transformed to Z scores using the formula [(value - mean)/SD], and a stepwise backward linear regression was performed.
+ Type I errors in the follow-up multiple comparisons were controlled via Bonferroni adjustment (at a significance level of 0.015).
+ The scores on the executive function tests represented the independent variables used to predict alterations in brain structures.
+ The stepwise backward linear regression included the variables of both groups (n = 41) and a ‘dummy’ variable (elderly controls vs. AD subjects).
+ All correlations were controlled for age, gender, and intracranial volume.
+ Ethics statement This study was approved by the Joint Ethics Committee of the Universidade Federal de S  ̃ o Paulo, and participants (or the guardian or caregiver of the patients with AD) provided written informed consent in accordance with the De- claration of Helsinki.
+
+        
+Table 1 - Demographic, medical, and cognitive data description.
+ Controls (n = 22, 12 females): Variable Mean (SD); range Age (years) 70.14 (5.67); 60–80.
+ Education (years) 9.14 (5.26); 2–18.
+ Diabetes (%) 22 Hypertension (%) 64 Waist-to-hip ratio 0.94 (0.81); 0.7–1.1.
+ Body mass index 27.21 (3.71); 19– 32 Modified Hachinski scale 0.95 (0.84); 0–3.
+ Duration of cholinesterase inhibitor use NA (months) Mini Mental State Examination 28.82 (0.90); 27–30.
+ Neuropsychiatric Inventory NA Stroop test part III (time - seconds) 48.77 (19.96); 25–103.
+ Stroop test part III (errors) 1.59 (2.30); 0–9.
+ Digit Span Backwards 3.86 (1.32); 0–6.
+ Executive motor function test 2.45 (0.67); 1–3.
+ Behavioral Assessment of Dysexecutive 37.00 (8.25); 25–60.
+ Syndrome: Rule Shift Cards test - rule 2 (time seconds) Behavioral Assessment of Dysexecutive 3.32 (3.92); 0–10.
+ Syndrome: Rule Shift Cards test - rule 2 (errors) Clock drawing test 7.95 (2.36); 4–10.
+ NA: not available; * statistically significant difference.
+Alzheimer’s disease (n = 19, Differences between 10 females): Mean (SD); range groups (t; p-value) 75.42 (4.81); 66–86.
+ 23.187; 0.003* 7.68 (4.42); 3–16.
+ 0.947; 0.349 21 0.126; 0.900 58 0.367; 0.715 0.92 (0.71); 0.8–1.1.
+ 21.037; 0.306 26.10 (3.62); 21–36.
+ 0.965; 0.340 0.68 (0.58); 0–2.
+ 1.175; 0.247 42.63 (27.35); 4–106.
+ NA 24.00 (2.62); 20–29.
+ 8.083; 0.000* 20.36 (19.25); 0–77 NA 67.63 (28.50); 35–155.
+ 22.480; 0.018* 4.95 (4.50); 0–18.
+ 23.067; 0.004* 3.00 (1.29); 0–4.
+ 2.110; 0.041* 1.26 (1.14); 0–3.
+ 4.127; 0.000* 41.21 (12.70); 26–76.
+ 21.275; 0.210 7.05 (3.45); 0–11.
+ 23.211; 0.003* 6.11 (2.74); 2–10.
+ 2.319; 0.026*
+
+        
+& Demographic, clinical, cognitive, functional, and behavioral data
+Table 1 shows the baseline characteristics of the study population.
+ The mean age of the total sample was 72.5 years (SD 5.8, range 60–86 years).
+ The mean ages of the elderly controls (n = 22, 12 females) and the AD patients (n = 19, 10 females) were 70.14 years (SD 5.67, range 60–80 years) and 75.42 years (SD 4.81, range 66–86 years), respectively.
+ The AD subjects were significantly older than the elderly controls (t 23.187; p = 0.003).
+ The mean educational levels (years) of the elderly controls and AD patients were 9.14 years (SD 5.26, range 2–18 years) and 7.68 years (SD 4.42, range 3–16 years), respectively.
+ No significant differences with respect to educational level were observed between the groups (t = 0.947; p = 0.349).
+ One patient scored 29 on the MMSE.
+ This subject had been followed over the previous 2 years because of mild executive cognitive impairment.
+ During the follow-up period, a progressive cognitive and functional decline was observed through neuropsychological and clinical evaluations.
+ The patient developed dementia and was therefore included in the study.
+ The mean scores on the geriatric depression scale for patients and controls were 2 (range 0–5) and 1.3 (range 0–5), respectively.
+ No significant differences with respect to prevalence of depressive symptoms were observed between the groups.
+ The mean score of patients on the Functional Activities Questionnaire was 9.8 (SD 4.7, range 2–22).
+ The control group did not show any functional impairment.
+ The Disability Assessment for Dementia and the Neuropsychiatric Inventory were also administered to patients with AD to complete the functional and behavioral assessment.
+ The mean scores were 87% (SD 11, range 60– 100%) and 22 (SD 19, range 0–77), respectively.  Volumetric assessment Compared with controls, patients with AD exhibited significantly smaller volumes of the bilateral caudal middle frontal gyri, isthmus of cingulate, left pars opercularis, right pars orbitalis, left pars triangularis, rostral middle frontal gyri bilaterally, superior frontal gyri bilaterally, frontal pole bilaterally, middle temporal gyri bilaterally, precuneus bilaterally, superior parietal gyri bilaterally, inferior parietal gyri bilaterally, supramarginal gyri bilaterally, and left fusiform gyrus.
+ A detailed description of the volumetric neuroimaging data of the participants is provided in the supplementary material (Table 1, Supplementary Material).
+ The volume of the right superior parietal gyrus correlated negatively with results on the Stroop test part III (errors) (beta = 20.093, t = 20.359, p = 0.012) and differentiated the AD group from the healthy controls (beta = 20.986, t = 23.071, p = 0.005).
+ Cortical thickness maps The cortical thickness maps of the patients and control subjects showed a negative correlation between the BADS score (Rule Shift Cards test, rule 2, errors) and the thickness of the right rostral middle frontal gyrus; see Figure 2, images 1A and 2A.
+ A positive correlation between the executive motor function test and the left superior parietal gyrus, left middle temporal gyrus, bilateral supramarginal gyri, right caudal middle frontal gyrus, and right precuneus thickness was noted (see Figure 2, images 1B, 2B, 1C, and 2C).
+ There was a negative correlation between the results of the Stroop test part III (errors) and the right superior parietal gyrus (see Figure 2, image 1D).
+ There was a negative correlation between the results of the Stroop test part III (time) and the right middle temporal gyrus (see Figure 2, image 2D).
+ Table 2 provides the parameters of the lesion extension and the location of the findings shown in Figure 2.
+ Scatterplot graphs of the correlations between the executive motor function test scores and the left middle temporal gyrus and bilateral supramarginal gyri cortical thickness are provided (Figure 2).
+ Analysis by group of the cortical thickness maps showed that the main differences between elderly controls and AD patients were in structures of the frontal, parietal, and temporal lobes; the fusiform bilaterally; and a few areas of the occipital lobe.
+ A detailed description of the related brain structures, parameters of lesion extension, and location of cortical thickness differences is provided in the supplementary material (Table 2).
+&
+Our results showed that executive dysfunctions in mild AD may be correlated with the thinning of the parietal and temporal cortices.
+ A correlation between the volume and cortical thickness of the right superior parietal gyrus and scores on executive function tests was observed.
+ The volumetric correlation could be used to differentiate AD patients from controls.
+ The cortical thickness of the left superior parietal gyrus, bilateral supramarginal gyri, right precuneus, and left middle temporal gyrus correlated positively with performance on the executive motor function test.
+ The executive functions assessed by this cognitive test, such as working memory, planning, and praxis, did not correlate with the structures mentioned in previous studies.
+ The right superior parietal gyrus and the right middle temporal gyrus correlated negatively with the scores of the Stroop test part III, supporting the role of these structures in inhibitory control.
+ Similar results are not found in the literature, although one study correlated response inhibition with the right parietal cortices in bipolar disorder type 1 patients ( 34).
+ The anatomical correlations of the Stroop test and the executive motor function test occurred predominantly and with higher intensity in the right hemisphere, confirming previous studies (34, 35).
+ These findings highlight the capacity of the practical cognitive tests (mentioned above) to detect executive dysfunction in patients with mild AD.
+ Many other studies using different neuroimaging methods have correlated parietal and temporal structures with executive functions.
+ Few of these studies used cortical thickness as a variable (11, 15).
+ Voxel-based morphometry studies revealed that patients with AD without the epsilon 4 allele of apolipoprotein had poorer executive task performance and greater frontoparietal atrophy (11) and that grey matter reduction of the bilateral insula and left lateral temporal lobe was a predictor of clinical progression of dysexecutive mild cognitive impairment (36).
+ Radionuclide studies have revealed correlations between executive functions and the parietal and temporal regions (12, 37).
+ Functional MRI studies have correlated the right frontal regions and the associative parietotemporal areas with executive deficits in patients with AD (13, 38).
+ The relationship between cortical thickness and performance on cognitive tests has not been fully elucidated and warrants further investigation.
+ We found positive correlations between cortical thickness and cognitive test performance, both in controls and patients.
+ However, previous studies have yielded different results that showed an inverse relationship between cortical thickness and performance on executive function tests in control subjects (39, 40).
+ The differential aspects of this study should be mentioned.
+ The selective pathological involvement of some neocortical areas and temporal lobe structures, which is common in AD (41), was also observed in our neuroimaging findings and correlated with executive dysfunction.
+ Previous studies based on analysis of the cortical surface have also shown that AD patients present cortical thinning in the various areas of the frontal, parietal, and temporal lobes (42, 43).
+ Cardiovascular risk, an important factor in cognitive decline and executive impairment and a possible confounder in AD studies, was considered in this investigation (44, 45).
+ The populations in developing countries are exposed to various adverse conditions.
+ A combined disadvantage in education, income, wealth, and occupation was associated with poor cognitive function in late life (46).
+ Education has been found to be the most consistent socioeconomic factor associated with cognitive dysfunction (47).
+ Our sample had a mean education level of 8 years, higher than the average years of schooling of the adult Brazilian population, which is estimated at 7.4 years (48).
+ Most of the studies in this field were performed in developed countries with more highly educated individuals than our sample (11, 15, 18, 36).
+ Although our study population had a higher education level than most of the country, our sample is more representative of the local population than those used in other studies, and our results could be used as a reference for future studies evaluating the cortical thickness of AD patients with a low education level.
+ The results of this study should be interpreted with caution because our study presents a few limitations.
+ The main limitations include the small sample size and the age difference between patients and control subjects.
+ Other possible sources of bias could be 1) the use of age as a covariate and the omission of education level as a covariate in the stepwise backward linear regression; 2) the MRI contraindications; 3) spurious correlations due to the large amount of data used in the neuroimaging analysis; 4) restriction to subjects with a high burden of cerebrovascular disease; and 5) use of the FreeSurfer package template, which is based on MRI scans of young, healthy subjects.
+ The poor ecological validity of some executive tests and the complex interdependence of the executive functions in other cognitive domains should be mentioned as a potential problem in the assessment of the executive functions of AD patients (3).
+ Cholinesterase inhibitors have been shown to decrease hippocampal and cortical atrophy (49, 50) and improve cognitive performance in AD patients (51).
+ Although the treatment time varied between the patients (4–107 months), the patients had similar clinical staging (Functional Assessment Staging score of 3 or 4).
+ To the best of our knowledge, no studies have assessed the effects of cholinesterase inhibitors on cortical thickness.
+ In the early phases of AD, before the intense period of neuronal loss, synaptic reorganization changes to compen- sate for the degenerative effects of brain damage are usually observed (52).
+ The differences between groups observed in this study could also be a result of this process and not only a direct effect of AD neuropathology.
+ This study has implications for our understanding of how functional deficits in patients are associated with their under- lying structural basis.
+ Neuroimaging techniques have demon- strated that executive abilities are not confined to the frontal area of the brain but instead consist of complex interactions among different brain regions (53).
+ Our results are consistent with those of other AD studies, which have suggested that executive function may not depend entirely on the prefrontal cortex but on other posterior cortical areas as well.
+ The association between modern neuroimaging methods and practical tests, such as the Stroop test and the executive motor function test, could be very useful for identifying executive dysfunction in patients with AD.
+ Future neuroimaging studies addressing the connection between these posterior cortical areas and the relationships between cortical thickness and education level would add to the understanding of the neural basis of AD.
+ Executive dysfunction in mild AD is associated with abnormalities not only with the frontal areas but also with many temporal and parietal regions.
+ The pathophysiology of executive dysfunction is complex and includes abnormalities in multiple brain regions and, most likely, the connections between them.
+
+        
+Figure 2 - Cortical thickness maps of associations between brain regions and executive functions.
+ Red, orange, and yellow colors represent positive correlations, and blue represents negative correlations.
+ 1A and 2A illustrate the negative correlation between the BADS score (Rule Shift Cards test, rule 2, errors) and the thickness of the right rostral middle frontal gyrus; 1B, 2B, 1C, and 2C illustrate the positive correlation between the executive motor function test and the left superior parietal gyrus, left middle temporal gyrus, bilateral supramarginal gyri, right caudal middle frontal gyrus, and right precuneus thickness; 1D illustrates the negative correlation between the results of the Stroop test part III (errors) and the right superior parietal gyrus; and 2D illustrates the negative correlation between the results of the Stroop test part III (time) and the right middle temporal gyrus.
+ The scale indicates z-scores.
+ Scatterplots of the correlations between the executive motor function test scores and the left middle temporal gyrus and bilateral supramarginal gyri cortical thickness are provided.
+ Table 2 provides the parameters of the lesion extension and the location of the findings shown in this figure.
+
+        
+Table 2 - Correlations between executive function tests and cortical thickness of brain structures: parameters of lesion extension and location of the findings shown in Figure 2.
+ Executive function tests Brain structure BADS score (Rule Shift Cards test, rule 2, errors) Right rostral middle frontal gyrus Executive motor function test Left superior parietal gyrus Left middle temporal gyrus Left supramarginal gyrus Right supramarginal gyrus Right caudal middle frontal gyrus Right precuneus Stroop test part III (errors) Right superior parietal gyrus Stroop test part III (time) Right middle temporal gyrus
+Size (mm 2 ) Talairach coordinates 1658.60 12.31 107.15–21.49 42.99 226.70 253.4 40.6 35.31 257.8 258.6 0.2 925.10 31.82 211.13 3.09 823.56 61.6 239.5 27.0 8783.39 28.7 18.7 43.6 1616.14 27.73 252.84 20.06 530.65 30.6 245.3 61.5 4467.34 39.93 226.11 241.86
+& This study was supported by the Associa  ̧  ̃o Fundo de Incentivo ` Pesquisa (AFIP), Funda  ̧  ̃o de Amparo ` Pesquisa do Estado de S  ̃o Paulo (FAPESP #2008/11282-9), and Conselho Nacional de Desenvolvimento Cient  ́fico e Tecnol  ́gico (CNPq).
+
+        
+&
+Jackowski AP, Brucki SM, and Bueno OF designed the study, supervised the data collection, analyzed the data, and reviewed the paper.
+ Vasconcelos LG collected and analyzed the data and wrote the paper.
+ Oliveira MO and Flor YM collected and analyzed the data.
+ Souza AA analyzed the data and wrote part of the results section.
+&
+
+        
+& Cortical thickness surface-based analysis: FreeSurfer software
+The FreeSurfer package is software used for the assessment and visualization of structural and functional brain imaging data.
+ It is fully automated structural imaging software for processing neuroimaging data.
+ The FreeSurfer package is documented and freely available for download online (https://surfer.nmr.mgh.harvard. edu/fswiki/FreeSurferWiki).
+ The software employs a method that is reproducible, consistent, and precise.
+ The main steps of this approach are gray/white matter segmentation, pial and white matter surface modeling, transformation of the cortical surface to spherical coordinates, nonlinear surface registration based on curvature (gyrus and sulcus), analysis of multiple subjects, and automated parcellation of cortical areas.
+ A set of five morphometric parameters per vertex is used as an input to the multimodal classifier: average convexity or concavity, mean radial curvature, metric distortion, cortical thickness,  and surface area.
+ The average convexity or concavity is used to quantify the primary folding pattern of a surface.
+ This parameter can capture large-scale geometric features, indicating the depth-height above the template surface of the FreeSurfer and the sulcal depth or gyral height.
+ The mean radial curvature is used to assess folding of the cortical surface.
+ Metric distortion is calculated as the degree of displacement of the cortical surface when registered to the FreeSurfer template.
+ The FreeSurfer uses as a template the MNI 305 atlas.
+ It is a template based on an average of 305 T1-weighted MRI scans of young, healthy subjects, linearly transformed to Talairach space.
+ All the images assessed in the study were fitted to this template to enable comparison between them.
+ Cortical thickness and surface area were used to quantify volumetric differences.
+ Significant difference maps were constructed using a general linear model, assuming a significance level of 5%, corrected for multiple comparisons using the false discovery rate.
+Summary of the Recon-all of the FreeSurfer software N Step 1: N Motion correction N Intensity normalization N Talairach transformation: Transformation from the original volume to the MNI305 atlas N Removal of the skull N Step 2 N Topological normalization N Topological correction N Gaussian atlas classification N Subcortical segmentation N White matter segmentation N Surface smoothing N Surface inflation N Cortical parcellation N Step 3 N Spherical registration N Cortical spherical parcellation N Parcellation statistics: Summary of cortical parcellation statistics for each structure, including: 1. structure name; 2. number of vertices; 3. total surface area (mm 2 ); 4. total gray matter volume (mm 3 ); 5. average cortical thickness (mm); 6. standard error of cortical thickness (mm); 7. integrated rectified mean curvature; 8. integrated rectified Gaussian curvature; 9. folding index; and 10. intrinsic curvature index.

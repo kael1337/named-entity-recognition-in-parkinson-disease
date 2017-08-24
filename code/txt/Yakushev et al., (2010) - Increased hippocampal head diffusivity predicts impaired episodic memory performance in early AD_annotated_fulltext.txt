@@ -1,0 +1,379 @@
+﻿Increased hippocampal head diffusivity predicts impaired episodic memory performance in early Alzheimer’s disease
+Igor Yakushev a , Matthias J. Müller a , Markus Lorscheider a,b , Ingrid Schermuly a , Carsten Weibrich c , Paulo R. Dellani d , Alexander Hammers e , Peter Stoeter c,f , Andreas Fellgiebel a,∗ a Department of Psychiatry and Psychotherapy, University of Mainz, Mainz, Germany b Interdisciplinary Centre for Clinical Trials, University of Mainz, Mainz, Germany c Institute of Neuroradiology, University of Mainz, Mainz, Germany d Department of Neurology, University of Mainz, Mainz, Germany e Functional Neuroimaging, Neurodis Foundation, CERMEP, Lyon, France f Hospital CEDIMAT, Santo Domingo, Dominican Republic a r t i c l e i n f o a b s t r a c t Article history: Recent neuroanatomical and functional neuroimaging studies indicate that the anterior part of the hip- Received 30 September 2009 pocampus, rather than the whole structure, may be specifically involved in episodic memory.
+ In the Received in revised form 20 January 2010 present work, we examined whether anterior structural measurements are superior to other regional or Accepted 20 January 2010 global measurements in mapping functionally relevant degenerative alterations of the hippocampus in Available online 28 January 2010 Alzheimer’s disease (AD).
+ Twenty patients with early AD (MMSE 25.7 ± 1.7) and 18 healthy controls were studied using magnetic Keywords: resonance and diffusion-tensor imaging.
+ Using a regions-of-interest analysis, we obtained volumetric and Hippocampus diffusivity measures of the hippocampal head and body-tail-section as well as of the whole hippocampus.
+ Functional differentiation Longitudinal axis Detailed cognitive evaluation was based on the CERAD battery.
+ Episodic memory All volumetric measures as well as diffusivity of the hippocampus head were significantly (p < 0.01) Diffusion-tensor imaging altered in patients as compared to controls.
+ In patients, increased left head diffusivity significantly Mild cognitive impairment (p < 0.01) correlated with performance on free delayed verbal recall test (DVR) (r = −0.74, p = 0.0002) and with the CERAD global score.
+ Reduced volume of the left body-tail was also associated with performance on DVR (r = 0.62, p = 0.004).
+ Stepwise regression analyses revealed that increased left head diffusivity was the only predictor for performance on DVR (R 2 = 52%, p < 0.0005).
+ These findings suggest that anterior hippocampus diffusivity is more closely related to verbal episodic memory impairment than other regional or global structural measures.
+ Our data support the hypothesis of functional differentiation in general and the specific role of the anterior hippocampus in episodic memory in particular.
+ Diffusivity measurements might be highly sensitive to functionally relevant degenerative alterations of the hippocampus. © 2010 Elsevier Ltd. All rights reserved.
+1. Introduction
+      
+There is strong empirical evidence that the hippocampus plays a crucial role in encoding and retrieving new memories (Squire, 1992).
+ Yet, functional specialization within the hippocampus remains controversial.
+ To explain hippocampal function in relation to the cytoarchitectural divisions, more attention has focused on the horizontal axis than on the longitudinal axis of the hippocampal formation.
+ During the last 15 years, however, it has become
+∗ Corresponding author at: Department of Psychiatry and Psychotherapy, University Hospital of Mainz, Untere Zahlbacher Str.
+ 8, 55131 Mainz, Germany.
+ Tel.: +49 6131 172525; fax: +49 6131 176690.
+ E-mail address: fellgiebel@psychiatrie.klinik.uni-mainz.de (A. Fellgiebel).
+ 0028-3932/$ – see front matter © 2010 Elsevier Ltd. All rights reserved. doi:10.1016/j.neuropsychologia.
+2010.01.014
+
+      
+clear that functional specialization along the longitudinal axis is fundamental to hippocampal function.
+ This evidence has come primarily from lesion experiments on animals (Moser, Moser, & Andersen, 1993; Moser, Moser, Forrest, Andersen, & Morris, 1995), but it has rapidly been supported by functional neuroimaging studies in human (see Schacter & Wagner, 1999 for review and references).
+ More specifically, functional magnetic resonance imaging (fMRI) findings indicated a relationship between the anterior part of the hippocampus and associative memory.
+ Recently, Chua, Schacter, Rand-Giovannetti, and Sperling (2007) highlighted a specific role of the anterior hippocampal formation in successful memory encoding.
+ The hippocampal formation is the first brain structure to be affected by Alzheimer’s disease (AD) (Braak & Braak & Braak, 1991 and, correspondingly, prospective studies have found that memory deficits are the first clinical signs of AD (Jacobs et al., 1995).
+ Therefore, this limbic area has been the focus of special research attention.
+ AD-associated pathological alterations of the hippocampus at very early stages of the disease have been systematically demonstrated using various neuroscience techniques.
+ Among neuroimaging methods, MRI-based hippocampal volumetry is likely to be the most widespread diagnostic tool (de Leon et al., 2007).
+ Generally, regional cerebral volume reduction is regarded to reflect neuronal cell loss.
+ Accordingly, total numbers of neurons in the hippocampus strongly correlate with MRI-determined hippocampal volume in AD (Bobinski et al., 2000).
+ Numerous studies have con- sistently demonstrated hippocampal atrophy not only in patients with very mild AD, but also in subjects with mild cognitive impairment (MCI) whose cognitive deficits are limited to the memory domain (i.e., amnestic MCI, aMCI) (Convit et al., 1997; Wolf et al., 2001).
+ Furthermore, hippocampal size reduction predicted conversion to AD in aMCI and in normal elderly (Jack et al., 2005; Wolf et al., 2003).
+ While a critical role of hippocampal atrophy in early diagnosis of AD is apparent, fewer consistencies exist in respect of its functional implications.
+ The association between hippocampal volume and episodic memory performance (as assessed by free delayed verbal recall test, DVR) is controversial.
+ Presence (e.g., Devanand et al., 2007; Laakso, Hallikainen, Hänninen, Partanen, & Soininen, 2000) as well as absence (e.g., Basso et al., 2006; Walhovd et al., in press) of a (positive) correlation has been reported in AD and aMCI.
+ Notably, within one study paradigm, Fjell et al. (2008) found a positive association between the hippocampal volume and performance on DVR in one MCI sample, but not in another.
+ This suggests that the situation is complex and factors beyond methodological differences (e.g., vascular, hormonal) (Geuze, Vermetten, & Bremner, 2005) may account for the variability in volumetric measurements in general and their relationship with memory in particular.
+ Overall, the existing evidence indicates that hippocampal atrophy might not be an ideal marker of hippocampus dysfunction.
+ Diffusion-tensor imaging (DTI) measures the random, unidirec- tional motion of water molecule protons in biologic tissue (Le Bihan et al., 2001).
+ The mean diffusivity (MD) is a measure of random- ized mean water diffusion.
+ As any neurodegenerative process is accompanied by a progressive loss of barriers that restrict water molecule motion (e.g. neuronal loss), it can be sensitively detected by DTI as pathologically elevated MD (Beaulieu, 2002).
+ Accordingly, early DTI studies documented increased MD in hippocampal regions of patients with AD and aMCI (Fellgiebel, Wille, et al., 2004; Kantarci et al., 2001).
+ Later our group showed that increased hippocampal diffusivity was associated with impaired verbal memory performance in aMCI (Müller et al., 2005).
+ Furthermore, Kantarci et al. (2005) and Fellgiebel et al. (2006) found that hippocampal diffusivity was superior to hippocampal volume measurements in predicting conversion of aMCI to dementia.
+ In the present study, we examined whether anterior hippocampal diffusivity or volume measurements are superior to global or posterior measurements in mapping functionally relevant degenerative alterations of the hippocampus in early AD.
+ Guided by the concept of functional differentiation, we hypothesized that AD-associated increased hippocampal head diffusivity would be a more sensitive marker of episodic memory impairment than other regional or global diffusivity or volumetric measurements.
+2.1.
+ Subjects and design
+The local ethics committee approved the study and written informed consent was obtained from all participants.
+ Subjects with early AD were identified from the database of patients referred to the memory clinic of the Department of Psychiatry of the University of Mainz.
+ This database was searched for subjects who, in addi-  Early AD Controls p (t-test) N (female) 20 (4) 18 (7) n.s. a Age, years 69.8 ± 7.4 69.0 ± 6.7 n.s.
+ Education, years 13.3 ± 2.1 13.6 ± 3.0 n.s.
+ MMSE 25.7 ± 1.7 28.9 ± 1.0 <0.001 Data are presented as mean ± standard deviation.
+ MMSE = Mini-Mental State Examination; n.s. = not significant. a Chi-square test.
+ tion to the diagnostic routine, have undergone an MRI examination according to the protocol described below.
+ Diagnostic procedures comprised clinical psychiatric and neurological examinations, cranial MRI, [(18)F]fluorodeoxyglucose (FDG) positron emission tomography (PET), and laboratory tests including thyroid hormones, vita- min B12 and folate.
+ Early AD was defined as a history of progressive cognitive decline over at least 6 months with memory impairment, a Clinical Dementia Rating (CDR; Morris, 1993) of 0.5 or 1.0, and a score on the Mini-Mental State Examination (MMSE) of at least 23 points.
+ In the absence of a histopathological confirmation of AD, we utilized an “Alzheimer-typical” finding on FDG-PET (Fellgiebel, Siessmeier, et al., 2004; Yakushev et al., 2008) as additional biological marker (Dubois et al., 2007).
+ In this situation, a “positive” PET scan (i.e. a typical pattern of hypometabolism) has been shown to increase the probability of AD pathology to 84% (Jagust, Reed, Mungas, Ellis, & Decarli, 2007).
+ Exclusion criteria were a history or presence of other organic brain diseases, substance abuse, all psychiatric diagnoses other than dementia (including major depression), diabetes mellitus, and evidence of leucoen- cephalopathy on T2- and FLAIR-weighted MR images.
+ By these criteria, twenty right-handed patients, 15 with CDR 0.5 and 5 with CDR 1.0, were included in the study.
+ Eighteen control subjects were recruited by advertisement and comprised healthy elderly right-handed individuals without cognitive impairment, without clinical evidence of any neurologic, medical, or psychiatric condition that could affect cognition, and normal MRI findings on visual inspection.
+ Demographic characteristics of patients and controls are given in Table 1.
+ Cognitive evaluation of all participants was based on the German version of the Consortium to Establish a Registry of Alzheimer’s Disease (CERAD) battery (Welsh et al., 1994).
+ Raw scores on each test were converted to standardized scores (z- scores) using the population mean and standard deviation, adjusted for age, sex, and education (Welsh et al., 1994).
+ MRI examinations were performed within a few days of the clinical and neuropsychological exams.
+ All data were obtained on a 1.5 T system with gradients of 40 mT/m (Magnetom Sonata, Siemens).
+ Apart from the acquisition of routine T1- weighted (TR/TE: 600 ms/25 ms, Matrix 256 × 256), PD/T2-weighted (TR/TE1/TE2: 4500 ms/15 ms, 100 ms, Matrix 256 × 256), FLAIR (TR/TE 9000 ms/108 ms, slice thickness 6 mm, Matrix 512 × 448) images and 3D-MP RAGE (TR/TE: 1900 ms/16 ms, Matrix 512 × 512) data sets with a 1 mm 3 isotropic voxel size, we used a transversal diffusion-weighted single-shot spin–echo echo-planar (EPI) based sequence with gradients along 6 non-collinear directions (TR/TE = 8000/105 ms, b = 0 and 1000 s/mm 2 , matrix 128 × 128, slice thickness 3 mm without gap (voxel size 1.8 mm × 1.8 mm × 3.0 mm) and 6 averages.
+ All transversal slices were arranged parallel to the AC-PC line (anterior–posterior commissure).
+ Scans showing severe motion artefacts were excluded.
+ Diffusion tensors (D) were computed by fitting the model described in Basser, Mattiello, and Le Bihan (1994) to the signal intensities measured with the above- mentioned DTI imaging sequence.
+ The decomposition of D into its eigenvalues ( 1 , 2 , 3 ) and eigenvectors (ε 1 , ε 2 , ε 3 ) was accomplished by symmetric bi- diagonalization followed by QR-reduction routines as implemented in GSL (GNU Scientific Library version 1.13 http://www.gnu.org/software/gsl). MD was calculated as the mean of the eigenvalues of the diffusion tensor [( 1 + 2 + 3 )/3] and is given in mm 2 /s [2].
+ The indices were plotted voxel by voxel as MD index maps.
+ Except for coregistration, all subsequent operations were performed using Analyze ® Software (Version 8.1; Biomedical Imaging Software System, Mayo Foundation for medical education and research, Rochester).
+ The operator manually traced the hippocampus boundaries slice-by-slice according to a standardized protocol (Niemann, Hammers, Coenen, Thron, & Klosterkotter, 2000).
+ The intraplane hippocampal boundaries were defined to include the CA1 through CA 4 sectors of the hippocampus proper, the dentate gyrus and the subiculum.
+ The border between the anterior part of the hippocampus (=hippocampal head) and the posterior body-tail- segment (=body-tail) was defined according to Duvernoy (1998).
+ The most posterior slice of the head was the slice where the uncal apex was clearly present (Fig. 1).
+ Subsequently, the segments were assembled and the hippocampal volumes were calculated.
+ To avoid ambiguity in the terminology and repetitions, the defined subdivisions of the hippocampus are referred to as “head” or “body-tail” hereafter.
+ The volume of the whole hippocampus was equal to the sum of the head and body-tail volumes; its volumetric measure is referred to as “total” hereafter.
+ Intracranial volume (ICV) was determined according to a previously described routine (Ferguson, Wardlaw, Edmond, Deary, & Maclullich, 2005).
+ Hippocampal volumes are represented as percentage of ICV.
+ Regional hippocampal diffusivity was sampled using a regions-of-interest (ROI) analysis (Müller et al., 2006).
+ To minimize contamination with cerebrospinal fluid (CSF), relatively small square ROIs (3 mm × 3 mm) were manually placed on 3 con- secutive slices of the individual MPRAGE image.
+ For anterior measurements, these were three most anterior slices of the hippocampal head as previously defined (see above; Fig. 2).
+ For posterior measurements, which served as reference, these were the three most posterior slices of the hippocampal body-tail.
+ Then, individual MD and high-resolution T1-weighted MPRAGE images were coregistered using a mutual-information 3D rigid-body coregistration algorithm implemented in SPM5 (www.fil.ion.ucl.ac.uk/spm) (Ashburner & Friston, 2003).
+ Accuracy of the coregistration was visually checked by overlaying contours of the brain, grey matter and the ventricles (Auto Trace Tool in ANALYZE) on the simultaneously displayed T1- weighted and corresponding MD images.
+ The ROIs were then transferred to the respective MD images and the mean values within each ROI were calculated sep- arately for each hemisphere, and for the head and body-tail.
+ A third value was obtained by averaging the unilateral values.
+ The sense of this measure was to imi- tate the value of the “whole” hippocampus, i.e. as if ROIs would have been placed freely irrespective of the hippocampal subdivisions.
+ By analogy with volumetry this measure is referred to as “total” hereafter.
+ Descriptive data are reported as means and standard deviations (SD).
+ Given the non-significant deviation from normal distribution of the data (p > 0.10 in Kolmogorov–Smirnov tests), parametric tests were applied.
+ For group comparisons, unpaired two-sided t-tests were used; Pearson’s correlation coefficient was calculated for bivariate associations of variables.
+ Due to the number of statistical tests the level of statistical significance was set at p < 0.01.
+ Additionally, results of the correlation analyses were examined at p < 0.05 Bonferroni corrected for multiple tests (8 neuropsychological × 12 neuroimaging variables = 96 correlations).
+ Furthermore, stepwise regression analyses with neuropsychological variables as dependent and structural measures (both diffusivity and volume) as independent variables (predictors) were performed.
+ This was done to examine the extent to which diffusivity and volumetric measurements provided unique contributions in the prediction of cognitive function.
+ As measures of the total hippocampus, both volume and diffusivity, are linear combinations of the respective head and body-tail values, they were not included in the regression models.
+ Statistical analyses were performed using SPSS version 17.0 (SPSS, Chicago, IL).
+Table 1 Demographic characteristics.
+        
+2.2.
+ MR data acquisition
+2.3.
+ DTI data postprocessing
+2.4.
+ Hippocampal volumetry
+
+          Fig. 1. Definition of regions-of-interest for volumetric measurements. Hippocampal boundaries were manually outlined on coronal MR images. The border between the hippocampal head and body-tail was defined as the slice in which the uncal apex was clearly present (Duvernoy, 1998) (left image). The resulting volumes of interest are shown on sagittal MR images: hippocampal head and body are separated by white vertical boundary (right image).
+        
+2.5.
+ Hippocampal diffusivity
+2.6.
+ Statistics
+
+          Fig. 2. Definition of the anterior region-of-interest for diffusivity measurements. Regions-of-interest (white square) for anterior diffusivity measurements were defined within the most anterior three slices of the predefined hippocampal volume-of-interest (white polygon) on coronal MR images (left image) and were transferred to corresponding coregistered MD images (right image).
+        
+Table 2 Neuropsychological performance.
+          
+            
+              
+                
+                   CERAD test battery
+                   Early AD
+                   Controls
+                   p (t-test)
+                
+              
+              
+                
+                   Boston naming test
+                   −0.96 ± 1.09
+                   0.54 ± 0.77
+                   <0.001
+                
+                
+                   Verbal fluency
+                   −1.08 ± 0.79
+                   0.27 ± 0.87
+                   <0.001
+                
+                
+                   Immediate verbal recall
+                   −1.75 ± 1.07
+                   1.40 ± 0.98
+                   <0.001
+                
+                
+                   Delayed verbal recall
+                   −2.16 ± 1.26
+                   1.26 ± 1.11
+                   <0.001
+                
+                
+                   Recognition
+                   −1.50 ± 1.41
+                   0.45 ± 0.61
+                   <0.001
+                
+                
+                   Visuo-construction
+                   −1.58 ± 1.60
+                   0.09 ± 1.06
+                   <0.001
+                
+                
+                   Delayed figural recall
+                   −2.74 ± 0.62
+                   0.22 ± 1.08
+                   <0.001
+                
+                
+                   CERAD global score
+                   −1.64 ± 0.64
+                   0.61 ± 0.49
+                   <0.001
+                
+                
+                   Age-, gender-, and
+                   education-adjusted CERAD
+                   z-scores are
+                   as
+                
+                
+                   mean ± standard deviation.
+                  
+                  
+                  
+                
+                
+                   CERAD global score is the
+                   mean value of the seven
+                   reported tests.
+                  
+                
+              
+            
+          
+          CERAD test battery Early AD Controls p (t-test) Boston naming test −0.96 ± 1.09 0.54 ± 0.77 <0.001 Verbal fluency −1.08 ± 0.79 0.27 ± 0.87 <0.001 Immediate verbal recall −1.75 ± 1.07 1.40 ± 0.98 <0.001 Delayed verbal recall −2.16 ± 1.26 1.26 ± 1.11 <0.001 Recognition −1.50 ± 1.41 0.45 ± 0.61 <0.001 Visuo-construction −1.58 ± 1.60 0.09 ± 1.06 <0.001 Delayed figural recall −2.74 ± 0.62 0.22 ± 1.08 <0.001 CERAD global score −1.64 ± 0.64 0.61 ± 0.49 <0.001 Age-, gender-, and education-adjusted CERAD z-scores are presented as mean ± standard deviation. CERAD global score is the mean value of the seven reported tests.
+        
+Neuropsychological performance of patients and controls is given in Table 2.
+ The cognitive function of patients was clearly impaired with the main deficits in episodic memory domains.
+ The CERAD global score as indicator of global cognitive function was significantly reduced in patients as compared to controls.
+ We preferred this measure to the MMSE score, as the latter may be less sensitive to global cognitive deterioration in early AD cases (Chandler et al., 2005).
+ Cognitive performance of controls was somewhat above age-, gender-, and education-adjusted average.
+ All hippocampal volumetric measures were decreased in patients as compared to controls, Table 3.
+ Among diffusivity measures, diffusivity of the head was increased on both sides in patients as compared to controls, Table 4.
+ In the patient group, volume of the left body-tail was positively associated with performance on DVR (r = 0.62, p = 0.004); no further significant correlations with volumetric measures were noted.
+ Left head diffusivity negatively correlated with performance on DVR (r = −0.74, p = 0.0002; Fig. 3) and with the CERAD global score (r = −0.59, p = 0.008).
+ Left total hippocampal diffusivity was nega-
+Table 3 Relative volumes of the hippocampus.
+          
+            
+              
+                
+                   Hippocampal volumes (%) a
+                   Early AD
+                   Controls
+                   p (t-test)
+                
+              
+              
+                
+                   Head right
+                   0.75 ± 0.25
+                   1.00 ± 0.16
+                   <0.001
+                
+                
+                   Head left
+                   0.69 ± 0.20
+                   0.87 ± 0.16
+                   0.003
+                
+                
+                   Body-tail right
+                   0.60 ± 0.21
+                   0.77 ± 0.14
+                   0.004
+                
+                
+                   Body-tail left
+                   0.58 ± 0.14
+                   0.80 ± 0.16
+                   <0.001
+                
+                
+                   Total right
+                   1.35 ± 0.41
+                   1.77 ± 0.20
+                   <0.001
+                
+                
+                   Total left
+                   1.27 ± 0.30
+                   1.67 ± 0.20
+                   <0.001
+                
+                
+                   Intracranial volume (ml)
+                   1559 ± 96
+                   1549 ± 95
+                   n.s.
+                
+                
+                   Data are presented as mean ±
+                   standard deviation.
+                   n.s. = not significant.
+                  
+                
+                
+                   a % of intracranial volume.
+                  
+                  
+                  
+                
+              
+            
+          
+          Hippocampal volumes (%) a Early AD Controls p (t-test) Head right 0.75 ± 0.25 1.00 ± 0.16 <0.001 Head left 0.69 ± 0.20 0.87 ± 0.16 0.003 Body-tail right 0.60 ± 0.21 0.77 ± 0.14 0.004 Body-tail left 0.58 ± 0.14 0.80 ± 0.16 <0.001 Total right 1.35 ± 0.41 1.77 ± 0.20 <0.001 Total left 1.27 ± 0.30 1.67 ± 0.20 <0.001 Intracranial volume (ml) 1559 ± 96 1549 ± 95 n.s. Data are presented as mean ± standard deviation. n.s. = not significant. a % of intracranial volume.
+        
+Table 4 Mean diffusivity of the hippocampus.
+        
+Hippocampal regions Early AD Controls p (t-test) Head right 886 ± 109 802 ± 45 0.004 a Head left 897 ± 97 827 ± 50 0.009 a Body-tail right 797 ± 94 810 ± 57 0.609 Body-tail left 820 ± 105 798 ± 40 0.404 Total right 842 ± 91 806 ± 38 0.111 Total left 858 ± 86 813 ± 37 0.043 Mean diffusivity values are given as ×10 −6 mm 2 /s (mean ± standard deviation). a Significant at p < 0.01.
+tively related to performance on DVR as well (r = −0.65, p = 0.002).
+ Among these significant associations, only the correlation between left head diffusivity and performance on DVR survived Bonferroni correction for multiple comparisons (i.e. a threshold of p < 0.00052).
+ The correlation of the DVR score with left head diffusivity as well as with volume of the left body-tail retained statistical significance (p < 0.01 uncorrected) after controlling for the modified CERAD global score (average of all tests excluding DVR; r = −0.63, p = 0.005 for diffusivity; r = 0.60, p = 0.009 for volumetry).
+ Additionally, we performed a correlation analysis of measures (1) within and (2) between the imaging modalities for each hippocampal part and each hemisphere.
+ In the first (within-modality) analyses, the correlation between head and body-tail diffusivi- ties was significant in the right (r = 0.61, p = 0.004), but weaker and below our threshold for significance in the left hemisphere
+
+          Fig. 3. Correlation of left hippocampal head diffusivity with performance on the delayed verbal recall task in patients with early Alzheimer’s disease (n = 20). Linear correlation between diffusivity (MD, ×10 −6 mm 2 /s) and test performance, r = −0.74,
+        
+p < 0.0005.
+ Open circles indicate patients with CDR 0.5, filled circles indicate patients with CDR 1.0.
+(r = 0.44, p = 0.052).
+ Among volumetric measures, head and body- tail of the right hemisphere correlated significantly with each other (r = 0.66, p = 0.002), while the same correlation in the left hemisphere was weaker and below our threshold for significance (r = 0.55, p = 0.012).
+ In the second (between-modality) analyses, the only significant correlation found was the one between right head diffusivity and volume of the right head (r = −0.70, p = 0.001).
+ The same correlation in the left hemisphere was not significant (r = −0.27, p = 0.24).
+ Neither of the body-tail measures correlated significantly with each other.
+ No significant correlations were noted in the control group.
+ In the initial regression model including all neuroimaging variables, left head diffusivity showed by far the highest partial correlation (R 2 = 18.3%), whereas volume of right hippocampus head (R 2 = 8.6%) and body-tail (R 2 = 7.2%) were less effective independent predictors of DVR.
+ Regarding the CERAD global score, left head diffusivity (R 2 = 16.8%) again showed the highest partial correlation when controlling for all other variables, followed by right body-tail volume (R 2 = 6.3%).
+ In both models a stepwise procedure (default criteria, P IN = 0.05; P OUT = 0.10) revealed that left head diffusivity was the only remaining significant predictor for performance on DVR (R 2 = 52%, p < 0.0005, ˇ = −0.74) and the CERAD global score (R 2 = 31%, p = 0.008, ˇ = −0.59).
+ None of the other cognitive tests could be predicted by diffusivity or volumetric measures.
+ After restricting the analyses to the subgroup of subjects with CDR 0.5 (n = 15), the only correlation retaining significance was the one between left head diffusivity and the DVR score (r = −0.66, p = 0.008).
+ In the regression analyses, left head diffusivity remained the only significant predictor of performance on DVR (R 2 = 41%, p = 0.006, ˇ = −0.67).
+ None of the other cognitive tests could be predicted by diffusivity or volumetric measures.
+In the present study, we explored an association of regional hippocampal volume and diffusivity measurements with cognitive performance in early AD.
+ The major finding is a strong relationship of increased left hippocampal head diffusivity and episodic memory impairment, an early sign of AD.
+ The specificity of this association pattern was supported by results of the additional correlation and regression analyses.
+ Namely, there was a lack of a significant correlation between diffusivity and volumetric measurements in most hippocampal parts; and the correlation between increased left head diffusivity and performance on DVR retained statistical significance after controlling for global cognitive impairment.
+ Finally, elevated left head diffusivity was the only predictor for performance on DVR, explaining 52% of the variance.
+ A strength of our study is the well-characterized patient collec- tive.
+ In line with the recently proposed guidelines on AD ( Dubois et al., 2007), we used a “positive” FDG-PET scan as a supportive diagnostic maker.
+ The requirement, for diagnosis, of a clinical phe- notype in combination with any one of the supportive features (i.e. specific biomarkers) currently represents the most balanced diagnostic approach (Dubois, Picard, & Sarazin, 2009).
+ Thus, our patients do qualify for the diagnosis of early AD (CDR 0.5 and 1.0) by clinical- research criteria yet show only minimal symptoms required for the diagnostic classification.
+ Of note, the main finding could be replicated in the subgroup of patients with CDR 0.5.
+ There is cumulating neuroanatomical and neuroimaging evidence for a differential role of the anterior and posterior regions of the hippocampus in memory function.
+ The most distinct features of the anterior hippocampus lie in its connections to the neocortex (for review see Moser & Moser & Moser, 1998 The principal input from multimodal association neocortical areas into the hippocampus occurs anteriorly, through the entorhinal cortex, and is referred to as the perforant pathway (Van Hoesen, 1982; Hyman, Van Hoesen, Kromer, & Damasio, 1986).
+ The intact perforant pathway integrity is believed to be a major requisite for normal memory function, and disruption of this pathway, as is known to occur very early in the course of AD, produces pronounced memory impairment (Hyman, Van Hoesen, Damasio, & Barnes, 1984; Witter, Wouterlood, Naber, & Van Haeften, 2000).
+ This evidence has been recently supported by in vivo neuroimaging studies.
+ In patients with aMCI, Stoub et al. (2006) found a significant decrease in white matter volume in the region of the parahippocampal gyrus that includes the perforant pathway; the volume of this region predicted performance on declarative memory tasks.
+ Similarly, Kalus et al. (2006) reported an association between the volume of the perforant pathway zone and scores on DVR in patients with aMCI and AD.
+ The perforant pathway is characterized by a topographical organization along the longitudinal axis of the hippocampal formation, such that a medial-to-lateral gradient in the entorhinal cortex cor- responds to an anterior–posterior gradient in the hippocampal formation (Witter, 2007).
+ Topographical neuroanatomical studies on medial temporal structures have showed that the perforant pathway is the major input axonal tract distributing primarily to the anterior hippocampal subfields (Witter, 2007).
+ Thus, this special architecture may be the underlying substrate for the functional distinction of the hippocampal head that we and others (e.g., Chua et al., 2007) have found.
+ In AD, damage to the perforant pathway is accompanied by degenerative alterations of the associated grey matter (Hyman et al., 1984).
+ Elevated MD has been attributed to the loss of neuron cell bodies, axons, and dendrites, causing expansion of the extracellular space (Beaulieu, 2002).
+ It is hence possible that the increased diffusivity we found at least partly reflects disruption of the perforant pathway.
+ In accord with previous reports (Müller et al., 2005) we found that episodic memory was less strongly associated with volumetric than with diffusivity measures.
+ It might be interesting to consider this observation in the light of AD-associated hippocampal atrophy evolution.
+ In particular, rates of hippocampal volume reduction were shown to predict development of AD in asymptomatic elderly individuals (e.g., Jack et al., 2000).
+ The majority of volume loss has occurred at the time of disease manifestation, while dementia progression is accompanied by lower rates of hippocampal volume reductions (Adak et al., 2004; Fox et al., 1996; Jack et al., 1997).
+ Therefore, advanced hippocampal atrophy might not adequately reflect ongoing hippocampal functional deterioration in manifest AD cases, as those investigated in the present study.
+ Notably, our patients showed pronounced reduction of the hippocampal volumes.
+ Thus, although the diagnostic value of hippocampal volume measurements in diagnosis of early AD is indisputable, our data suggest that they may be less sensitive markers of hippocampal functional disturbances compared to DTI-derived diffusivity measures.
+ Interestingly, among the hippocampal regions only volume of the (left) body-tail part correlated significantly with episodic memory, while volume of the whole (left) hippocampus correlated only at the threshold of p < 0.05 (data not shown).
+ In view of the preced- ing, one could have expected a stronger association with volume of the hippocampal head, rather than with that of the body-tail.
+ There have been very few studies that had examined a relationship between the hippocampal subdivisions along the longitudinal axis and memory function in AD, yielding a rather heterogeneous picture.
+ In a ROI-based volumetric study, Mizuno, Wakai, Takeda, and Sobue (2000) did not find any significant association between the hippocampal subdivisions, i.e. the anterior and posterior por- tions, and performance on DVR in patients with AD.
+ By contrast and in line with the present work, a recent voxel-based morphometry study revealed that performance on the delayed recall part of the CERAD battery, i.e. the same test as used here, correlated with grey matter density in the posterior part of the left hippocampus in patients with aMCI (Schmidt-Wilcke, Poljansky, Hierlmeier, Hausner, & Ibach, 2009).
+ The evidence remains inconsistent when considering diagnostic studies.
+ Wolf et al. (2001) reported that the volume of the left hippocampal body best discriminated subjects with questionable dementia from those with normal cognition and mild dementia.
+ However, Whitwell et al. (2008) found that grey matter loss in the anterior hippocampus preceded atrophy in the posterior hippocampus in subjects with aMCI.
+ These controversial findings might result from both non-methodological (see above) and methodological factors, including use of different analytical approaches, tracing protocols, methods for normalizing raw volumes, spatial normalization when used, and heterogeneous patient samples (Van Petten, 2004).
+ The correlations observed between the diffusivity measures and the CERAD global score raise the question of the degree of specificity of the association between hippocampal head diffusivity and episodic memory impairment.
+ The progression of AD is accompanied by a global decline in various cognitive domains.
+ As the cognitive functions represented by the CERAD battery are inter- related (e.g., the correlation between the score on DVR and the CERAD global score is r = 0.77, p < 0.001), this finding is not that unexpected.
+ In fact, although all cognitive domains were clearly impaired in our AD patients, only performance on DVR significantly correlated with the structural measures.
+ Notably, this association remained significant after controlling for the modified CERAD global score.
+ This observation thus corroborates the previous findings of involvement of the hippocampus specifically in episodic memory (for a recent review, see Bird & Burgess, 2008).
+ The present study has several limitations.
+ First, the study groups were relatively small.
+ For this reason and in view of a substantially smaller variance of the structural measures in the control group, we cannot exclude that the reported association in the patients group would also have been found in the control group had we studied a larger sample.
+ However, assuming the perforant pathway disruption as underlying mechanism, this is rather improbable.
+ In the literature, we have found no study that would report a disruption of the perforant path in healthy human aging.
+ Furthermore, to reveal such the association in the control group, one needs a certain variability of the memory performance, which is much smaller in healthy aging than e.g. in AD.
+ Nevertheless, further inves- tigations with larger study groups are necessary to address this issue.
+ Second, all measurements were done on the anatomical T1- weighted images followed by coregistration of the ROIs to the MD maps.
+ This procedure is susceptible to distortion artefacts and coregistration inaccuracies.
+ Further, to avoid CSF contamination, we used relatively small ROIs for MD measurements whose mean values may not exactly represent diffusivity of the given hippocampal subdivision.
+ Although this procedure minimizes influence of partial volume effects, it cannot exclude them entirely, hence lim- iting our findings.
+ However, this common limitation concerns most ROI-based DTI studies.
+ Indeed, the lack of a significant correlation between most of the diffusivity and volumetric measures corroborates the notion that DTI and MR-based volumetry measure different aspects of a pathological process (Müller et al., 2005).
+ Finally, the present study focused on the hippocampus and did not examine other structures (e.g., entorhinal cortex, posterior cingulate) that are known to play an important role in episodic memory.
+ Consequently, we cannot exclude that the strong association between hippocampal head diffusivity and episodic memory performance found in this study was mediated or influenced by alterations in other, anatomically connected, brain regions.
+ In summary, diffusivity of the left hippocampal head was strongly associated with episodic memory impairment in early AD.
+ Our data support the functional differentiation hypothesis in general and the specific role of the anterior hippocampus in episodic memory in particular.
+ Anterior hippocampal diffusivity measurements might be highly sensitive to functionally relevant degenerative alterations of the hippocampus.

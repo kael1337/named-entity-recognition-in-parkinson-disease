@@ -1,0 +1,839 @@
+﻿Akinetic-rigid and tremor-dominant Parkinson's disease patients show different patterns of intrinsic brain activity
+Jiuquan Zhang a, 1 , Luqing Wei a, 1, * , Xiaofei Hu a , Bing Xie a , Yanling Zhang b , Guo-Rong Wu c, d , Jian Wang a, * a Department of Radiology, Southwest Hospital, Third Military Medical University, Chongqing 400038, PR China b Department of Neurology, Southwest Hospital, Third Military Medical University, Chongqing 400038, PR China c Key Laboratory of Personality and Cognition, Faculty of Psychology, Southwest University, Beibei, Chongqing 400715, PR China d Faculty of Psychology and Educational Sciences, Department of Data Analysis, Ghent University, Henri Dunantlaan 1, B-9000 Ghent, Belgium a r t i c l e i n f o a b s t r a c t Article history: Background: Parkinson's disease (PD) is a surprisingly heterogeneous neurodegenerative disorder.
+ It is Received 17 May 2014 well established that different subtypes of PD present with different clinical courses and prognoses.
+ Received in revised form However, the neural mechanism underlying these disparate presentations is uncertain.
+ 17 October 2014 Methods: Here we used resting-state fMRI (rs-fMRI) and the regional homogeneity (ReHo) method to Accepted 18 October 2014 determine neural activity patterns in the two main clinical subgroups of PD (akinetic-rigid and tremor- dominant).
+ Keywords: Results: Compared with healthy controls, akinetic-rigid (AR) subjects had increased ReHo mainly in right Parkinson's disease amygdala, left putamen, bilateral angular gyrus, bilateral medial prefrontal cortex (MPFC), and decreased Resting-state fMRI Regional homogeneity ReHo in left post cingulate gyrus/precuneus (PCC/PCu) and bilateral thalamus.
+ In contrast, tremor- Akinetic-rigid dominant (TD) patients showed higher ReHo mostly in bilateral angular gyrus, left PCC, cer- Tremor-dominant ebellum_crus1, and cerebellum_6, while ReHo was decreased in right putamen, primary sensory cortex (S1), vermis_3, and cerebellum_4_5.
+ These results indicate that AR and TD subgroups both represent altered spontaneous neural activity in default-mode regions and striatum, and AR subjects exhibit more changed neural activity in the mesolimbic cortex (amygdala) but TD in the cerebellar regions.
+ Of note, direct comparison of the two subgroups revealed a distinct ReHo pattern primarily located in the striatal- thalamo-cortical (STC) and cerebello-thalamo-cortical (CTC) loops.
+ Conclusion: Overall, our findings highlight the involvement of default mode network (DMN) and STC circuit both in AR and TD subtypes, but also underscore the importance of integrating mesolimbic- striatal and CTC loops in understanding neural systems of akinesia and rigidity, as well as resting tremor in PD.
+ This study provides improved understanding of the pathophysiological models of different subtypes of PD. © 2014 Elsevier Ltd. All rights reserved.
+1. Introduction
+      
+Parkinson's disease is a surprisingly heterogeneous neurodegenerative disorder.
+ The classical triad of motor symptoms includes resting tremor, akinesia and rigidity [1].
+ Patients with PD can be classified into the akinetic-rigid (AR) subtype and tremor-dominant (TD) subtype, based on the predominant motor signs.
+ There is clear
+* Corresponding authors.
+ Tel.: þ86 23 6876 5419; fax: þ86 23 6546 3026.
+ E-mail addresses: weiluqing1212@gmail.com (L. Wei), wangjian811@gmail.com (J. Wang).
+ 1 These authors contributed equally to this work. http://dx.doi.org/10.1016/j.parkreldis.2014.10.017 1353-8020/© 2014 Elsevier Ltd. All rights reserved.
+
+        
+      
+clinical proof that different subtypes of PD have a different clinical course and prognosis [2, 3].
+ Compared to patients with TD type, AR subjects show a more rapid clinical progression and have an increased risk to develop disability and dementia [3].
+ The neural basis for these disparate manifestations of PD is not completely understood.
+ Previous functional neuroimaging studies using positron emission tomography (PET) or single photon emission computed tomography (SPECT) have demonstrated that parkinsonian tremor has a different neurobiological substrate from those of akinesia and rigidity [4, 5].
+ For instance, loss of nigral dopaminergic projections to the putamen correlates consistently with the clinical ratings of akinesia and rigidity but not tremor [4].
+ Indeed,
+Subject demographic data.
+ HC (n 1⁄4 26) AR (n 1⁄4 27) TD (n 1⁄4 20) P value Age, year 59.31 ± 7.15 63.38 ± 9.46 54.55 ± 12.58 >0.005* (mean ± SD) Gender, F/M 15/11 11/16 10/10 >0.05** Disease duration e 4.17 ± 4.07 5.0 ± 3.21 0.46*** (years) H&Y e 2.21 ± 0.67 1.88 ± 0.70 0.11*** (off mediation) UPDRS-III e 19.88 ± 6.70 19.35 ± 9.35 0.82*** (off medication) TD/AR ratio e 0.40 ± 0.26 1.78 ± 0.77 <0.005*** Handedness R R R e Abbreviations: AR, akinetic-rigidity; TD, tremor-dominant; HC, healthy control; R, right. *Comparison of age for controls and AR subjects P 1⁄4 0.086, controls and TD subjects P 1⁄4 0.11, and for AR and TD subjects P 1⁄4 0.009. **Comparison of gender for controls and AR subjects P 1⁄4 0.27, controls and TD subjects P 1⁄4 0.60, and for AR and TD subjects P 1⁄4 0.60. ***P value reflects the comparison between AR and TD subjects.
+nigrostriatal dopaminergic loss appears to be necessary but not sufficient for the development of PD tremor [ 6].
+ From the circuit standpoint, the circuit changes that mediate parkinsonian tremor differ from those underlying akinesia and rigidity.
+ The nigrostriatal dopaminergic loss with the consequent dysfunction of striatal-thalamo-cortical (STC) loop is a hallmark of PD, which explains akinesia and rigidity, but not resting tremor [7].
+ Instead, resting tremor is linked to altered activity in not one, but two distinct circuits: the STC pathway, which is primarily affected by dopamine depletion in PD, and the cerebello-thalamo-cortical (CTC) circuit, which is also involved in many of the other types of tremors [8, 9].
+ Several recent MRI studies provide further evidence for the necessity of incorporating CTC circuitry into any discussion of parkinsonian tremor.
+ For example, a voxel-based morphometry study showed that TD patients had reduced grey matter volume in the cerebellum [10].
+ In addition, an event- related fMRI study found that activation patterns in the STC and CTC pathways were different for AR and TD subjects [11].
+ Taken together, it would necessitate exploration of the subtype to un- cover the neural underpinnings of PD.
+ In order to advance our understanding of the neural mechanism underlying the clinical manifestation of tremor as well as akinesia and rigidity, we undertook a study to investigate the differences between neural activity patterns in the two main clinical subtypes of PD (TD and AR) using resting-state fMRI (rs- fMRI) combined with the regional homogeneity (ReHo) method.
+ ReHo measures the local synchronization of spontaneous fMRI signals by calculating the similarity of dynamic voxel fluctuations within a given cluster [12].
+ This method has been successfully used to detect changes in the local synchronization of spontaneous neural activity in patients with PD [13e15].
+ However, neither comparison of ReHo alteration between subtypes of PD and healthy controls, nor directly compared AR and TD subjects to each other have poorly been performed.
+ In the current study, we applied ReHo method to explore regional brain activity in TD and AR types during resting state, and hypothesized that parkinsonian tremor is mediated by a distinct neural network primarily involving the CTC pathway.
+
+        Fig. 1. Brain regions with abnormal ReHo values in PD patients compared to controls. The results were corrected by AlphaSim (P < 0.05, combined height threshold of P < 0.005 and a minimum cluster size of 12 voxels). More details of these regions are described in Table 2.
+      
+2.
+ Materials and methods 2.1.
+ Subjects Forty-seven right-handed PD patients (twenty-seven AR and twenty TD) were recruited from the movement disorders outpatient clinic of Southwest Hospital of Third Military Medical University.
+ Each PD subject was diagnosed by an experi- enced neurologist according to the UK Parkinson's Disease Society Brain Bank criteria [16].
+ Exclusion criteria were: moderate-severe head tremor, cognitive dysfunction (Mini-Mental State Exam (MMSE) was !
+28 and Montreal Cognitive Assessment (MoCA) was !
+26 in our sample), other neurological diseases (such as a history of severe head trauma or stroke), and general exclusion criteria for MRI scanning (such as claustrophobia, pace-maker, and implanted metal parts).
+ The testing was carried out in the evening, at least 12 h after the last dose of dopaminergic medication.
+ Each patient's disease severity was assessed using Hoehn and Yahr (H&Y) staging and the motor component of the Unified Parkinson's Disease Rating Scale (UPDRS-III).
+ Only mild to moderate stage patients were enrolled in the study to who were expected to be able to complete a long scan.
+ In addition, twenty- six healthy controls (11 males) were recruited from local individuals who vol- unteered to participate in scientific studies.
+ All control subjects had a normal neurological status with no history of either neurological or psychiatric diseases.
+ The MMSE was !
+28 and MoCA was !
+26 in controls, and there was no difference between the patients and healthy subjects.
+ PD subjects were classified as either TD or AR using the numerical ratio which was derived from a patient's mean tremor score and mean akinetic-rigidity score [11, 17].
+ Tremor was assessed using a seven-item scale that included UPDRS items 20 and 21: resting tremor of the head and each limb (five items), as well as postural tremor of the right and left hands (two items).
+ The 12-item akinetic-rigidity scale assessed passive range of motion rigidity of the neck and each extremity (five items), hand movements (one item), finger taps (one item), arising from a chair (one item), posture (one item), gait (one item), postural instability (one item) and truncal bra- dykinesia and hypokinesia (one item).
+ Each item was rated 0e4 with 0 representing absence of the symptom or normal activity and 4 denoting significant presence of the symptom or impairment.
+ The mean of each scale was calculated and then the ratio (mean TD/mean AR score) determined.
+ Based on this method, AR subjects had a ratio < 0.8, whereas TD subjects had a ratio > 1.0.
+ In this study, the average ratio for AR subjects was 0.40 ± 0.26 (range 0e0.74) and for TD subjects 1.78 ± 0.77 (range 1.12e4.38).
+ The clinical data of PD subtypes are shown in Table 1.
+ The present study was approved by the Medical Research Ethics Committee of the Third Military Medical University (Chongqing, China), and written informed consent was obtained from all subjects.
+ 2.2.
+ Data acquisition Functional images were acquired using a 3.0 T Siemens Tim Trio whole-body MRI system (Siemens Medical Solutions, Erlangen, Germany).
+ Subjects were instructed to stay awake and close their eyes, and to try not to think of anything.
+ Imaging data were collected transversely by using an echo-planar imaging (EPI) sequence with the following settings: TR 1⁄4 2000 ms, TE 1⁄4 30 ms, flip angle 1⁄4 90 , FOV 1⁄4 192 Â 192 mm 2 , slices 1⁄4 36, in-plane matrix 1⁄4 64 Â 64, thickness 1⁄4 3 mm, no slice gap, voxel size 1⁄4 3.0 Â 3.0 Â 3.0 mm 3 .
+ For each subject, a total of 240 volumes were acquired, resulting in a total scan time of 480s.
+ Three-dimensional T1- weighted anatomical images were collected sagittally using the following volu- metric 3D magnetization-prepared rapid gradient-echo (MP-RAGE) sequence (TR 1⁄4 1900 ms, TE 1⁄4 2.52 ms, flip angle 1⁄4 9 , slice thickness 1⁄4 1 mm, slices, 176, FOV 1⁄4 256 Â 256 mm 2 , matrix size 1⁄4 256 Â 256 and voxel size 1⁄4 1 Â 1 Â 1 mm 3 ) on each subject.
+2.3.
+ Data processing Preprocessing of resting-state functional images was performed using statistical parametric mapping software (SPM8, Wellcome Department of Imaging Neuro-Science, London, UK).
+ Briefly, the first 10 volumes were not analyzed allowing for magnetization stabilization.
+ The remaining 230 consecutive images were corrected for the acquisition delay between slices and for the head movement.
+ Subjects whose head motion parameters exceed more than 1.5 mm maximum translation displacement in x, y or z and 1.5 of angular motion were excluded from further analysis.
+ In the current study, one participant with AR subtype was excluded based on this criterion, and seventy-two subjects were included in the following analyses.
+ After slice acquisition correction and head motion correction, the functional images were spatially normalized to the Montreal Neurological Institute (MNI) template then resampled to 3-mm isotropic voxels.
+ The resulting data were then temporally band-pass filtered (0.01e0.08 Hz) to reduce low-frequency drifts and physiological high-frequency respiratory and cardiac noise, and linear trend was removed.
+ The individual ReHo maps were generated by calculating Kendall coefficient of concordance (KCC) between the time series of given voxel and those of its nearest neighbors (26 voxels) in a voxel-wise manner [12].
+ This procedure was performed using the Resting-State fMRI Data Analysis Toolkit (http://restfmri. net/forum/REST).
+ For standardization purposes, each individual ReHo map was divided by its own mean ReHo within the mask.
+ Finally, the ReHo maps were spatially smoothed with a Gaussian filter of 4 mm of full width at half maximum (FWHM).
+ Anatomical data were processed to separate the grey matter from the 3D T1- wighted structural scans using the VBM8 toolbox (http://dbm.neuro.uni-jena.de/ vbm.html).
+ Anatomical images were bias-corrected, tissue classified, and regis- tered using linear (12-parameter affine) and nonlinear transformations, within a unified model [18].
+ Then, the grey matter (GM) partitions were modulated to pre- serve actual GM values locally.
+ The segmented grey matter volume was treated as an external regressor in the subsequent statistical analysis.
+ 2.4.
+ Statistical analysis Voxel-by-voxel-based comparisons of ReHo were performed between groups using two sample t-tests in SPM8 with gender, age, averaged grey-matter volumes
+Table 2 Comparison of ReHo values between PD patients and HC.
+        
+          
+            
+              
+                 Brain regions
+                 MNI coordinates
+                 Cluster size
+                 T value
+              
+            
+            
+              
+                
+                 x y z
+                
+                
+              
+              
+                 PD > HC
+                
+                
+                
+              
+              
+                 Angular_L
+                 À39 À69 45
+                 101
+                 4.44
+              
+              
+                 Angular _R
+                 48 À63 36
+                 62
+                 4.43
+              
+              
+                 Amygdala_R
+                 30 6 À18
+                 28
+                 4.41
+              
+              
+                 Pallidum_L
+                 À15 6 À3
+                 14
+                 4.21
+              
+              
+                 Frontal_Sup_Medial_L
+                 À6 54 39
+                 30
+                 3.73
+              
+              
+                 Frontal_Sup_L
+                 À18 60 6
+                 15
+                 3.51
+              
+              
+                 (Medial frontal gyrus)
+                
+                
+                
+              
+              
+                 Frontal_Mid_L
+                 À36 48 15
+                 73
+                 4.09
+              
+              
+                 Frontal_Mid_R
+                 36 30 48
+                 82
+                 3.92
+              
+              
+                 Frontal_Mid_R
+                 42 12 54
+                 14
+                 3.57
+              
+              
+                 Cingulum_Mid_R
+                 6 À30 39
+                 50
+                 4.84
+              
+              
+                 Fusiform_R
+                 42 À15 À21
+                 23
+                 3.50
+              
+              
+                 Temporal_Mid_L
+                 À57 À24 À12
+                 17
+                 3.49
+              
+              
+                 Supp_Motor_Area
+                 12 24 57
+                 23
+                 3.46
+              
+              
+                 Cerebellum_8_L
+                 À39 À54 À57
+                 14
+                 3.42
+              
+              
+                 PD < HC
+                
+                
+                
+              
+              
+                 Postcentral_L
+                 À30 À39 54
+                 41
+                 À3.69
+              
+              
+                 Insula_R
+                 39 0 0
+                 54
+                 À3.88
+              
+              
+                 Precuneus_L
+                 À6 À39 66
+                 24
+                 À3.13
+              
+              
+                 Parietal_Sup_L (Precuneus)
+                 À18 À54 54
+                 16
+                 À3.55
+              
+              
+                 Temporal_Inf_R
+                 48 À63 3
+                 13
+                 À2.88
+              
+              
+                 Occipital_Sup_R
+                 21 À78 42
+                 12
+                 À3.34
+              
+              
+                 Occipital_Inf_L
+                 À36 À72 À3
+                 133
+                 À4.32
+              
+              
+                 Lingual_L
+                 À15 À78 0
+                 31
+                 À3.30
+              
+              
+                 Cerebellum_4_5_L
+                 À6 À57 À3
+                 378
+                 À4.62
+              
+              
+                 Vermis_4_5
+                 3 À57 À9
+                 88
+                 À4.51
+              
+              
+                 Abbreviations: PD, Parkinson's
+                 disease; HC, healthy
+                 control; MNI,
+                
+              
+              
+                 Neurologic Institute; R, right; L,
+                 left; Sup, superior; Mid,
+                 middle; Inf,
+                 inferior; Supp,
+              
+              
+                 supplementary.
+                
+                
+                
+              
+              
+                 All the coordinates are denoted
+                 by MNI space coordinates.
+                
+                
+              
+              
+                 T-score denotes the statistic value
+                 of two sample t-test by
+                 contrasting PD
+                 to controls
+              
+              
+                 P < 0.05 AlphaSim corrected.
+                
+                
+                
+              
+            
+          
+        
+        Brain regions MNI coordinates Cluster size T value x y z PD > HC Angular_L À39 À69 45 101 4.44 Angular _R 48 À63 36 62 4.43 Amygdala_R 30 6 À18 28 4.41 Pallidum_L À15 6 À3 14 4.21 Frontal_Sup_Medial_L À6 54 39 30 3.73 Frontal_Sup_L À18 60 6 15 3.51 (Medial frontal gyrus) Frontal_Mid_L À36 48 15 73 4.09 Frontal_Mid_R 36 30 48 82 3.92 Frontal_Mid_R 42 12 54 14 3.57 Cingulum_Mid_R 6 À30 39 50 4.84 Fusiform_R 42 À15 À21 23 3.50 Temporal_Mid_L À57 À24 À12 17 3.49 Supp_Motor_Area 12 24 57 23 3.46 Cerebellum_8_L À39 À54 À57 14 3.42 PD < HC Postcentral_L À30 À39 54 41 À3.69 Insula_R 39 0 0 54 À3.88 Precuneus_L À6 À39 66 24 À3.13 Parietal_Sup_L (Precuneus) À18 À54 54 16 À3.55 Temporal_Inf_R 48 À63 3 13 À2.88 Occipital_Sup_R 21 À78 42 12 À3.34 Occipital_Inf_L À36 À72 À3 133 À4.32 Lingual_L À15 À78 0 31 À3.30 Cerebellum_4_5_L À6 À57 À3 378 À4.62 Vermis_4_5 3 À57 À9 88 À4.51 Abbreviations: PD, Parkinson's disease; HC, healthy control; MNI, Montreal Neurologic Institute; R, right; L, left; Sup, superior; Mid, middle; Inf, inferior; Supp, supplementary. All the coordinates are denoted by MNI space coordinates. T-score denotes the statistic value of two sample t-test by contrasting PD to controls at P < 0.05 AlphaSim corrected.
+      
+and mean relative displacement [19] as covariates.
+ The significance of group differences was set at P < 0.05 (combined height threshold of P < 0.005 and a minimum cluster size of 12 voxels for group comparison of PD vs. controls, AR vs. controls and TD vs. controls, as well as P < 0.01 and 18 voxels for AR vs. TD), using the AlphaSim program in the REST Software.
+PD patients, compared to healthy subjects, showed increased ReHo in the right amygdala, left globus pallidus, bilateral angular gyrus, left medial prefrontal cortex (MPFC), bilateral middle frontal gyrus, right middle cingulate gyrus, right fusiform gyrus, supplementary motor area (SMA), left middle temporal gyrus and cere- bellum_8, whereas decreased ReHo in the cerebellum_4_5, vermis_4_5, left postcenral gyrus, left precuneus, left inferior occipital gyrus, right insula, right superior occipital gyrus, left lingual gyrus, and right inferior temporal gyrus (P < 0.05, AlphaSim corrected; Fig. 1 and Table 2).
+ The results are in accordance with previous studies showing that PD patients had ReHo alterations in the default-mode regions (e.g.
+ MPFC, precuneus, and angular gyrus), SMA, primary sensory cortex (S1, postcentral gyrus), cerebellum, and several temporal and occipital regions [13e15].
+ However, ReHo changes in the amygdala and globus pallidus have not been reported in those relevant studies.
+ Former research has demonstrated that abnormal function of the two regions are implicated in the neuropathology of PD [20].
+ The current result provides further evidence for this finding.
+
+            Fig. 2. Brain regions with abnormal ReHo values in patients with AR type compared to controls. The results were corrected by AlphaSim (P < 0.05, combined height threshold of P < 0.005 and a minimum cluster size of 12 voxels). More details of these regions are described in Table 3.
+          
+Compared with healthy controls, ReHo in many brain regions was significantly increased in the AR patients (P < 0.05, AlphaSim corrected; Fig. 2 and Table 3), including the right amygdala, left putamen, bilateral angular gyrus, bilateral MPFC, bilateral middle frontal gyrus, right middle cingulate gyrus, and right supramarginal gyrus.
+ A significantly reduced ReHo was also observed in AR patients (P < 0.05, AlphaSim corrected; Fig. 2 and Table 3), including the left post cingulate gyrus/precuneus (PCC/PCu), left fusiform gyrus, left middle cingulate gyrus, right insula, bilateral thalamus and vermis_4_5 (Fig. 2 and Table 3).
+TD patients, relative to controls, had increased ReHo in the bilateral angular gyrus, left PCC, bilateral middle frontal gyrus, right inferior temporal gyrus, cerebellum_crus1, and cerebellum_6, while decreased ReHo in the left S1, right putamen, right lingual
+gyrus, vermis_3, and cerebellum_4_5 (P < 0.05, AlphaSim corrected; Fig. 3 and Table 3).
+ 3.4.
+ Comparison of ReHo values between AR and TD subtypes
+In contrast to TD patients, AR subjects exhibited higher ReHo values in the left putamen, left inferior parietal lobule, left S1, right superior temporal gyrus, and right inferior frontal gyrus, while lower ReHo values in the left thalamus, left PCC, left precentral gyrus (primary motor cortex, M1), left superior frontal gyrus, cer- ebellum_8, and cerebellum_crus1 (P < 0.05, AlphaSim corrected; Fig. 4 and Table 4).
+In this study, we used the ReHo method to investigate the pattern of neural activity in the resting state in AR and TD subtypes of PD.
+ Our results showed that AR subjects relative to controls  exhibited increased ReHo principally in the right amygdala, left putamen, bilateral angular gyrus, bilateral MPFC, as well as decreased ReHo in the left PCC/PCu and bilateral thalamus.
+ In contrast, TD patients compared with healthy subjects showed higher ReHo largely in the bilateral angular gyrus, left PCC, cer- ebellum_crus1, and cerebellum_6, while decreased ReHo in the right putamen, left S1, vermis_3, and cerebellum_4_5.
+ These findings indicated that TD and AR subtypes both display ReHo abnor- malities in brain region overlapping the so-called default mode network (DMN, e.g. angular gyrus, MPFC, and PCC/PCu) and striatum, and TD type exhibits more ReHo changes in the cerebellar regions but AR in the mesolimbic cortex (amygdala).
+ By direct comparison of AR and TD subtypes, the result showed that ReHo differences between the two subgroups located mostly in the putamen, thalamus, primary sensorimotor cortex (SMC, e.g.
+ S1 and M1), PCC, and cerebellum.
+Table 3 ReHo alterations in AR and TD patients compared to HC.
+          
+            
+              
+                
+                   Brain regions
+                   MNI coordinates
+                   Cluster size
+                   T value
+                
+              
+              
+                
+                  
+                   x y z
+                  
+                  
+                
+                
+                   AR > HC
+                  
+                  
+                  
+                
+                
+                   Amygdala_R
+                   27 3 À18
+                   36
+                   5.37
+                
+                
+                   Putamen_L
+                   À27 À3 À3
+                   25
+                   3.18
+                
+                
+                   Angular_R
+                   48 À63 36
+                   81
+                   4.84
+                
+                
+                   Angular_L
+                   À39 À69 45
+                   55
+                   4.40
+                
+                
+                   Frontal_Sup_Medial_R
+                   12 30 54
+                   34
+                   3.64
+                
+                
+                   Frontal_Sup_Medial_L
+                   À9 54 39
+                   62
+                   4.14
+                
+                
+                   Frontal_Sup_Medial_R
+                   9 48 3
+                   78
+                   3.55
+                
+                
+                   Frontal_Sup_L (Medial frontal gyrus)
+                   À18 60 6
+                   15
+                   3.85
+                
+                
+                   Rectus_R (Medial frontal gyrus)
+                   6 57 À21
+                   32
+                   4.32
+                
+                
+                   Frontal_Mid_R
+                   36 21 48
+                   61
+                   4.33
+                
+                
+                   Frontal_Mid_L
+                   À33 45 12
+                   37
+                   3.61
+                
+                
+                   Cingulum_Mid_R
+                   6 À30 42
+                   46
+                   4.74
+                
+                
+                   SupraMarginal_R
+                   57 À33 30
+                   22
+                   3.85
+                
+                
+                   AR < HC
+                  
+                  
+                  
+                
+                
+                   Cingulum_Post_L
+                   À9 À36 12
+                   22
+                   À4.37
+                
+                
+                   Precuneus_L
+                   À9 À39 66
+                   20
+                   À3.09
+                
+                
+                   Cingulum_Mid_L
+                   À9 À6 45
+                   12
+                   À3.60
+                
+                
+                   Fusiform_L
+                   À27 À48 À12
+                   44
+                   À4.75
+                
+                
+                   Insula_R
+                   48 9 À6
+                   26
+                   À3.47
+                
+                
+                   Thalamus_R
+                   15 À15 18
+                   20
+                   À3.89
+                
+                
+                   Thalamus_L
+                   À15 À15 15
+                   17
+                   À3.79
+                
+                
+                   Vermis_4_5
+                   3 À57 À9
+                   74
+                   À4.19
+                
+                
+                   TD > HC
+                  
+                  
+                  
+                
+                
+                   Angular_R
+                   45 À60 33
+                   17
+                   3.61
+                
+                
+                   Angular_L
+                   À42 À66 39
+                   18
+                   3.38
+                
+                
+                   Cingulum_Post_L
+                   À3 À45 27
+                   15
+                   3.06
+                
+                
+                   Frontal_Mid_R
+                   33 30 48
+                   18
+                   3.35
+                
+                
+                   Frontal_Mid_L
+                   À30 48 9
+                   19
+                   3.68
+                
+                
+                   Temporal_Inf_R
+                   48 À9 À27
+                   35
+                   3.74
+                
+                
+                   Cerebellum_Crus1_R
+                   48 À42 À33
+                   23
+                   3.98
+                
+                
+                   Cerebellum_6_R
+                   27 À63 À27
+                   29
+                   3.72
+                
+                
+                   TD < HC
+                  
+                  
+                  
+                
+                
+                   Putamen_R
+                   30 À3 9
+                   28
+                   À3.91
+                
+                
+                   Postcentral_L
+                   À60 0 18
+                   19
+                   À3.74
+                
+                
+                   Lingual_R
+                   18 À45 À9
+                   13
+                   À3.26
+                
+                
+                   Cerebellum_4_5_L
+                   À6 À57 À3
+                   32
+                   À3.92
+                
+                
+                   Vermis_3
+                   À3 À45 À21
+                   29
+                   À3.32
+                
+                
+                   Abbreviations: AR, akinetic-rigidity; TD,
+                   tremor-dominant;
+                   HC, healthy
+                  
+                
+                
+                   MNI, Montreal Neurologic Institute; R,
+                   right; L, left; Sup,
+                   superior; Mid,
+                   middle; Inf,
+                
+                
+                   inferior.
+                  
+                  
+                  
+                
+                
+                   All the coordinates are denoted by MNI
+                   space coordinates.
+                  
+                  
+                
+                
+                   T-score denotes the statistic value of
+                   two sample t-test by
+                   contrasting
+                   AR/TD pa-
+                
+                
+                   tients to controls at P < 0.05 AlphaSim
+                   corrected.
+                  
+                  
+                
+              
+            
+          
+          Brain regions MNI coordinates Cluster size T value x y z AR > HC Amygdala_R 27 3 À18 36 5.37 Putamen_L À27 À3 À3 25 3.18 Angular_R 48 À63 36 81 4.84 Angular_L À39 À69 45 55 4.40 Frontal_Sup_Medial_R 12 30 54 34 3.64 Frontal_Sup_Medial_L À9 54 39 62 4.14 Frontal_Sup_Medial_R 9 48 3 78 3.55 Frontal_Sup_L (Medial frontal gyrus) À18 60 6 15 3.85 Rectus_R (Medial frontal gyrus) 6 57 À21 32 4.32 Frontal_Mid_R 36 21 48 61 4.33 Frontal_Mid_L À33 45 12 37 3.61 Cingulum_Mid_R 6 À30 42 46 4.74 SupraMarginal_R 57 À33 30 22 3.85 AR < HC Cingulum_Post_L À9 À36 12 22 À4.37 Precuneus_L À9 À39 66 20 À3.09 Cingulum_Mid_L À9 À6 45 12 À3.60 Fusiform_L À27 À48 À12 44 À4.75 Insula_R 48 9 À6 26 À3.47 Thalamus_R 15 À15 18 20 À3.89 Thalamus_L À15 À15 15 17 À3.79 Vermis_4_5 3 À57 À9 74 À4.19 TD > HC Angular_R 45 À60 33 17 3.61 Angular_L À42 À66 39 18 3.38 Cingulum_Post_L À3 À45 27 15 3.06 Frontal_Mid_R 33 30 48 18 3.35 Frontal_Mid_L À30 48 9 19 3.68 Temporal_Inf_R 48 À9 À27 35 3.74 Cerebellum_Crus1_R 48 À42 À33 23 3.98 Cerebellum_6_R 27 À63 À27 29 3.72 TD < HC Putamen_R 30 À3 9 28 À3.91 Postcentral_L À60 0 18 19 À3.74 Lingual_R 18 À45 À9 13 À3.26 Cerebellum_4_5_L À6 À57 À3 32 À3.92 Vermis_3 À3 À45 À21 29 À3.32 Abbreviations: AR, akinetic-rigidity; TD, tremor-dominant; HC, healthy control; MNI, Montreal Neurologic Institute; R, right; L, left; Sup, superior; Mid, middle; Inf, inferior. All the coordinates are denoted by MNI space coordinates. T-score denotes the statistic value of two sample t-test by contrasting AR/TD patients to controls at P < 0.05 AlphaSim corrected.
+        
+In contrast to healthy subjects, AR patients showed significantly increased ReHo in the bilateral MPFC and angular gyrus and decreased ReHo in the left PCC/PCu, whereas TD patients had increased ReHo in the bilateral angular gyrus and left PCC.
+ These results are consistent with earlier findings which found that PD patients presented with altered ReHo in the DMN [13e15].
+ Several fMRI studies have confirmed the crucial role played by the DMN in cognitive processing both in normal aging and neurodegenerative disorders [21e23].
+ For example, Tessitore et al. found decreased functional integrity of the DMN in cognitively unimpaired patients with PD at rest, indicating that there is an early functional disruption of the DMN in PD prior to clinical evidence of cognitive impairment [23].
+ We found abnormal ReHo in the DMN in AR and TD subgroups without cognitive dysfunction, suggesting that dysfunction of the DMN may have a role in the development of cognitive decline in PD.
+ Compared with normal controls, the AR group showed higher ReHo in the left putamen, while the TD group had reduced ReHo in the right putamen.
+ It is generally believed that PD represents reduced dopamine uptake in the striatum with the putamen being the most severely affected [24].
+ The putamen which is connected closely to the cortical motor areas is thought to be principally involved in motor functions [25].
+ Abnormality in this region is thus linked with motor symptoms in PD.
+ In this work, AR and TD subjects both displayed functional synchronization changes in the putamen, demonstrating that the two subtypes have a relationship with striatal dopamine depletion.
+Compared with controls, AR patients exhibited increased ReHo in the right amygdala, while TD patients had increased ReHo in the cerebellum_crus1, and cerebellum_6, as well as reduced ReHo in the vermis_3, and cerebellum_4_5.
+ These findings suggest that dysfunction in the mesolimbic-striatal [ 20] and CTC [8, 9] circuits independently implicated in AR and TD subgroups.
+ The amygdala, a mesolimbic region crucial for emotional processing, has been shown to be involved in the neuropathology of PD [26].
+ A post- mortem study found that this structure contains Lewy bodies in PD patients [27].
+ PET and functional MRI studies further confirmed the abnormal function of the amygdala in PD [28, 29].
+ We detected increased ReHo in the amygdala in AR patients, implying that the mesolimbic-striatal circuit associated with clinical nonmotor defi- cits contributes to the pathophysiological mechanism of AR subgroup [20].
+ In addition, alterations of ReHo in the cerebellar regions were found in TD subjects, in line with previous rs-fMRI studies showing that PD patients had changed ReHo value in the cerebellum [13, 14].
+ The cerebellar regions, according to prior research, exhibit abnormal neuromagnetic activity [30] and morphological alterations [10] in PD patients that present with tremor.
+ Altered ReHo detected in the cerebellum in TD patients demonstrates that parkinsonian tremor is mediated by the CTC circuit.
+ Combined with the result of abnormal ReHo found in the striatum in the TD type, we may infer that parkinsonian tremor is linked to altered activity in not one, but two distinct circuits: the STC pathway that triggers tremor episodes and the CTC circuit that produces the tremor [8, 9].
+
+            Fig. 3. Brain regions with abnormal ReHo values in patients with TD type compared to controls. The results were corrected by AlphaSim (P < 0.05, combined height threshold of P < 0.005 and a minimum cluster size of 12 voxels). More details of these regions are described in Table 3.
+          
+Comparing AR and TD patients, AR patients exhibited a higher ReHo in the putamen, and S1, as well as lower ReHo in the thalamus, PCC, M1, and cerebellum than TD patients.
+ Intriguingly, the brain regions detected here are primarily located in the STC (e.g. putamen, thalamus, S1, and M1) and CTC (e.g. cerebellum, thalamus, S1, and M1) pathways.
+ Our results may illustrate that  parkinsonian tremor and akinesia and rigidity are mediated by two distinct circuits [8, 9, 11].
+ Understanding of the primary pathophysiological substrate of PD has emphasized degeneration of dopaminergic nigrostriatal neurons with consequent dysfunction of STC loop.
+ This model explains clinical symptoms such as akinesia and rigidity, but not resting tremor [7].
+ Conversely, resting tremor is associated with a distinct CTC circuit [30].
+ Recently, Helmich et al. hypothesized that disruption of the STC pathway sends transient fluctuating signals to the CTC circuit, leading to tremor [8].
+ In accordance, they subsequently discuss a newly proposed ‘dimmer- switch model’ that explains tremor as resulting from the combined actions of two circuits: the basal ganglia that trigger tremor episodes and the CTC circuit that produces the tremor [9].
+ These ar- guments underscore the importance of the CTC pathway in the pathogenesis of parkinsonian resting tremor.
+ Our results reconfirm the necessity of including the CTC circuitry into discussions of resting tremor in PD.
+Our study aimed to examine neural activity patterns in the two main clinical subgroups of PD (AR and TD type) by using rs-fMRI and ReHo method.
+ We found that AR and TD subjects, relative to  controls, both exhibited abnormal ReHo in the default-mode regions and striatum, and AR subtype represented more ReHo alterations in the mesolimbic cortex but TD in the cerebellar regions.
+ Furthermore, direct comparison of the two groups indicated that AR and TD patients showed distinct ReHo patterns in the STC and CTC loops.
+ In summary, our results demonstrate that the DMN and STC pathway are both implicated in AR and TD subjects, and the mesolimbic-striatal circuit and CTC loop contribute separately to AR and TD subtypes.
+ This study gives further insight into our understanding of the underlying pathophysiological mechanisms of PD subtypes.
+
+          Fig. 4. Brain regions showing distinct ReHo pattern between AR and TD subtypes. The results were corrected by AlphaSim (P < 0.05, combined height threshold of P < 0.01 and a minimum cluster size of 18 voxels). More details of these regions are described in Table 4.
+        
+Table 4 Comparison of ReHo values between AR and TD patients.
+          
+             Brain regions MNI coordinates Cluster T value x y z size
+            
+              
+              
+                
+                   AR > TD
+                  
+                  
+                  
+                  
+                  
+                
+                
+                   Putamen_L
+                   À30
+                   À3
+                   À3
+                   54
+                   3.49
+                
+                
+                   Postcentral_L
+                   À60
+                   0
+                   15
+                   38
+                   4.05
+                
+                
+                   Temporal_Sup_R
+                   60
+                   À42
+                   24
+                   42
+                   4.14
+                
+                
+                   Frontal_Inf_Tri_R
+                   51
+                   33
+                   9
+                   28
+                   3.89
+                
+                
+                   Frontal_Inf_Tri_R
+                   36
+                   21
+                   30
+                   21
+                   3.61
+                
+                
+                   Parietal_Inf_L
+                   À60
+                   À45
+                   39
+                   18
+                   3.23
+                
+                
+                   AR < TD
+                  
+                  
+                  
+                  
+                  
+                
+                
+                   Cingulum_post_L
+                   À6
+                   À45
+                   24
+                   22
+                   À3.07
+                
+                
+                   Thalamus_L
+                   À9
+                   À12
+                   15
+                   23
+                   À3.39
+                
+                
+                   Frontal_Sup_L
+                   À18
+                   À6
+                   81
+                   28
+                   À3.19
+                
+                
+                   Precentral_L
+                   À45
+                   À6
+                   54
+                   19
+                   À3.32
+                
+                
+                   Cerebellum_8_L
+                   À15
+                   À66
+                   À42
+                   21
+                   À3.66
+                
+                
+                   Cerebellum_8_L
+                   À33
+                   À39
+                   À45
+                   18
+                   À3.07
+                
+                
+                   Cerebellum_Crus1_R
+                   45
+                   À51
+                   À33
+                   19
+                   À3.02
+                
+                
+                   Abbreviations: AR,
+                   akinetic-rigidity;
+                   TD,
+                   tremor-dominant; tremor-dominant;
+                   MNI,
+                   Montreal Neuro-
+                
+                
+                   logic Institute; R, right; L,
+                   left; Sup,
+                   superior;
+                   Inf, inferior;
+                   Tri, triangular.
+                  
+                
+                
+                   All the coordinates are
+                   denoted by
+                   MNI space
+                   coordinates. coordinates.
+                  
+                  
+                
+                
+                   T-score denotes the statistic
+                   value of
+                   two sample
+                   t-test by
+                   contrasting
+                   AR to TD at
+                
+                
+                   < 0.05 AlphaSim corrected.
+                  
+                  
+                  
+                  
+                  
+                
+              
+            
+          
+          Brain regions MNI coordinates Cluster T value size x y z AR > TD Putamen_L À30 À3 À3 54 3.49 Postcentral_L À60 0 15 38 4.05 Temporal_Sup_R 60 À42 24 42 4.14 Frontal_Inf_Tri_R 51 33 9 28 3.89 Frontal_Inf_Tri_R 36 21 30 21 3.61 Parietal_Inf_L À60 À45 39 18 3.23 AR < TD Cingulum_post_L À6 À45 24 22 À3.07 Thalamus_L À9 À12 15 23 À3.39 Frontal_Sup_L À18 À6 81 28 À3.19 Precentral_L À45 À6 54 19 À3.32 Cerebellum_8_L À15 À66 À42 21 À3.66 Cerebellum_8_L À33 À39 À45 18 À3.07 Cerebellum_Crus1_R 45 À51 À33 19 À3.02 Abbreviations: AR, akinetic-rigidity; TD, tremor-dominant; MNI, Montreal Neurologic Institute; R, right; L, left; Sup, superior; Inf, inferior; Tri, triangular. All the coordinates are denoted by MNI space coordinates. T-score denotes the statistic value of two sample t-test by contrasting AR to TD at P < 0.05 AlphaSim corrected.

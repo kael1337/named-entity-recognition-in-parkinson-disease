@@ -1,0 +1,251 @@
+﻿Hemispheric Differences in Hippocampal Volume Predict Verbal and Spatial Memory Performance in Patients With Alzheimer’s Disease
+ABSTRACT: Atrophy of the hippocampal formation, a region important for the acquisition of new declarative knowledge, has been well-documented in Alzheimer’s disease (AD), although the relation of such atrophy to the extent of memory dysfunction in these patients has been less clear.
+ In the present study, 18 patients with a clinical diagnosis of probable AD were studied with a high-resolution, quantitative magnetic resonance imaging (MRI) protocol, as well as the verbal and spatial versions of the Buschke controlled learning task.
+ The volumes of the hippocampal formation and, as a control for generalized atrophy, parahippocampal gyrus and temporal neocortex were computed from gapless coronal slices taken perpendicular to the long axis of the hippocampus.
+ To correct for individual differences in brain size, volumes of regions of interest were divided by total intracranial volume.
+ Separate stepwise regression analyses (with age, right and left hippocampal, parahippocampal gyrus, and temporal lobe volumes as the independent variables) showed that left hippocampal volume was the best predictor of free recall and delayed free recall of verbal information (P 0.0042 and P < 0.0001, respectively).
+ Recall and delayed recall of the spatial location of verbal items were best predicted by right hippocampal volume (P 0.0054 and P 0.0118, respectively).
+ Memory scores did not correlate either with parahippocampal gyrus or temporal lobe volume.
+ Furthermore, the relation between hippocampal volume and memory function observed in cases with AD did not hold for healthy aged control subjects.
+ Hippocampus 2000;10:136–142. © 2000 Wiley-Liss, Inc.
+ KEY WORDS: hippocampal formation; MRI; imaging; volumetry; temporal lobe; parahippocampal gyrus
+Recently developed high-resolution, quantitative magnetic resonance imaging (MRI) techniques provide a unique tool for studying brain-behavior Grant sponsor: National Institute on Aging; Grant number: P01 AG09466.
+ M.
+P. Sullivan is now at the Biomedical Department, University of Alaska, Anchorage, Alaska. *Correspondence to: Leyla de Toledo-Morrell, Department of Neurological Sciences, Rush Medical College, 1653 W.
+ Congress Parkway, Chicago, IL 60612.
+ E-mail: leylat@neuro.rush.edu Accepted for publication 2 November 1999
+relations in vivo.
+ Atrophy of the hippocampal formation, 1 a region critically important for the acquisition of certain types of new information (e.g., declarative knowledge), has been well-documented in Alzheimer’s disease (AD), using both quantitative (e.g., Seab et al., 1988; Kesslak et al., 1991; Jack et al., 1992, 1997; Killiany et al., 1993; de Toledo-Morrell et al., 1997; Köhler, et al., 1998) and semiquantitative or qualitative MRI analyses (e.g., Jobst et al., 1992, 1994; de Leon et al., 1997).
+ However, the relation between measures of memory function and hippocampal atrophy in patients with a clinical diagnosis of probable AD has not been clear-cut.
+ While some investigators reported a significant correlation between hippocampal volume and memory performance (Deweer et al., 1995; Wilson et al., 1996; Cahn et al., 1998; Köhler et al., 1998), others found that hippocampal atrophy was not a good predictor of the extent of memory impairment in AD (de Leon et al., 1997; Mori et al., 1997), possibly due to “floor” effects.
+ The robustness of a relationship between the extent of hippocampal atrophy and memory scores may depend, to a great extent, on the behavioral measures used, as well as on whether hippocampal atrophy is assessed quantita- tively or qualitatively.
+ First, the nature of the behavioral task is critical, since some may be more sensitive to hippocampal dysfunction than others.
+ For example, in Wilson et al. (1996), the extent of recall of a standardized word list (Morris et al., 1989) did not relate to hippocampal volume, while the recall of short passages did.
+ Sec- ondly, a qualitative scale of hippocampal atrophy may be too narrow in comparison to the range of values obtained with quantitative measures.
+ 1 As used here, the term “hippocampal formation” refers to the entire hippocampal region including the dentate gyrus, hippocampus proper, and subiculum.
+Buschke and Grober (1986) and Grober and Buschke (1987) argued that it may be difficult to distinguish between “apparent” and “genuine” memory deficits in aged individuals, since they may have impaired attention or may use inefficient strategies in acquir- ing information.
+ By controlling the type of processing carried out, they were able to identify “genuine” memory deficits in aged subjects and in patients in the early stages of AD.
+ Others have also reported on the utility of the verbal version of the Buschke task in differentiating early AD cases from controls (Petersen et al., 1994).
+ In the present study, patients with a clinical diagnosis of AD were examined with high-resolution, quantitative MRI protocols as well as the verbal and spatial versions of the Buschke controlled learning task.
+ The major aim of the study was to determine the hemisphere- and material-specific nature of a possible relationship between hippocampal volume and memory performance.
+Subjects consisted of 18 mildly demented patients (mean age, 68.6; range, 49 – 84) who were clinically diagnosed as having probable AD according to NINCDS/ADRDA criteria (McKhann et al., 1984).
+ All patients were evaluated at the Rush Alzheimer’s Disease Center (RADC, Chicago, IL), as previously described in Wilson et al. (1996) and in deToledo-Morrell et al. (1997).
+ The evaluation included a medical history, neurological examination, neuropsychological testing that conformed to NINCDS/ADRDA guidelines (McKhann et al., 1984), as implemented by the Consortium to Establish a Registry for Alzheimer’s Disease (CERAD, Morris et al., 1989), and blood tests.
+ The clinical diagnosis of probable AD required a history of cognitive decline and neuropsychological test evidence of impairment in at least two cognitive domains, one of which had to be memory.
+ Exclusion criteria were evidence of other neurologic, psychiatric, or systemic conditions that could cause cognitive impairment (e.g., stroke, alcoholism, major depression).
+ The Mini Mental State Examination (MMSE, Folstein et al., 1975) scores of the AD cases were 20 (mean, 24.1; range, 20 –28); their mean delayed CERAD word list recall was 3.17 (range, 0 – 6, with only one patient scoring 6).
+ For comparison purposes, normative data were obtained from 30 healthy aged control participants (mean age, 72.4; range, 64 – 84).
+ Control subjects were recruited from friends and family mem- bers of patients and the RADC staff, as well as from hospital volunteers.
+ They had a standard evaluation including a medical history, neurological examination, and abbreviated neuropsychological testing.
+ Inclusion criteria for the control subjects were MMSE 28, CERAD delayed word list recall 6, and a normal neurological examination.
+ Exclusion criteria were the same as those used for the AD diagnosis.
+ Informed consent was obtained from all participants according to the rules of the Human Investigation Committee of Rush Medical College.
+All MR images were acquired on a 1.5 Tesla General Electric Signa scanner.
+ Gapless, 5-mm coronal slices were taken perpendicular to the long axis of the hippocampal formation with the following parameters: matrix 256 256; field of view 16 cm; eight acquisitions, TR 400, TE 13.
+ In addition, gapless, 5-mm sagittal slices were taken spanning the entire brain with the following parameters: matrix, 256 128; field of view, 24 cm; one acquisition, TR 200, TE 12.
+ 2 An interactive three-dimensional (3-D) image analysis program (Amersham Image Analysis System with software by Loates Asso- ciates) was used to compute the volume of regions of interest.
+ To correct for normal individual differences in brain size, the volumes of given regions were normalized by dividing with intracranial volume derived from sagittal slices.
+ To compute intracranial volume, the inner table of the cranium was traced in consecutive sagittal sections spanning the entire brain.
+ At the level of the fora- men magnum, a straight line was drawn from the inner surface of the clivus to the most anterior extension of the occipital bone.
+ Volumes for the hippocampal formation, parahippocampal gyrus, and temporal lobe were computed separately for the right and left hemispheres from coronal slices.
+ The latter two brain regions were used as a control for the effects of generalized atrophy.
+ Nor- mative volumetric data and validation procedures used for all three brain regions of interest have been published elsewhere (deToledo- Morrell et al., 1997; Wilson et al., 1996).
+ Tracings of the hippocampal formation started with the first section caudal to the amygdala, where the dentate gyrus could be clearly identified, and included the fimbria, the dentate gyrus, the hippocampus proper, and the subiculum.
+ All sections in which the hippocampus could be clearly seen without partial volume averag- ing were included (usually 6 –7 slices).
+ The volume of the parahippocampal gyrus was derived from seven consecutive coronal images beginning at the level of the amygdala, one slice anterior to that used for hippocampal measurements.
+ The amygdala and hippocampal formation were excluded from this measure.
+ Temporal lobe volume was also computed from seven consecutive coronal images, starting at the level of the amygdala.
+ To separate the temporal lobe from the temporal stem, a straight line was drawn from the most lateral extension of the inferior horn of the lateral ventri- cle to the most medial extension of the gray matter of the superior temporal gyrus.
+ The hippocampal formation, the amygdala, and the parahippocampal gyrus were not included in the temporal lobe volume measurements.
+ Volumetric determinations were carried out by two investigators (M.P.S. and B.D.); their interrater agreement was better than 96% on volumes of all three regions of interest.
+ 2 Our MRI protocol has changed since the initiation of this study.
+ We now acquire 1.6-mm coronal images of the entire head with an SPGR pulse sequence.
+ For purposes of consistency, this inves- tigation was restricted to those patients scanned with our old protocol.
+ A: An example of four items from the Buschke controlled learning task that subjects had to learn and remember.
+ B: The card with labeled quadrants that was used to test recall of the spatial location of verbally learned items.
+FIGURE 1.
+          
+For the Buscke task, subjects were asked to learn a list of 16 items presented four at a time.
+ Items were shown as line drawings, one picture in each quadrant of a large card (e.g., Fig. 1A).
+ The pictures were from different, easily recognizable semantic categories.
+ When the experimenter gave a category cue verbally (e.g., bird), the subject had to search the display, and point to and name the object from that category (e.g., owl).
+ After this procedure was completed for all four items, immediate cued recall of the four items was tested by presenting each category cue to the subject.
+ If he/she failed to recall an item in response to its cue, the item was shown again, the search was performed, and so on, until immediate cued recall was correct for all four items.
+ Then the next set of items were presented as described above, until all 16 items were identified and retrieved correctly during immediate cued recall.
+ The search and naming procedure ensured that all individuals were using the same strategy in processing information, while immediate cued recall of each item ensured that it had been correctly encoded.
+ The search phase was followed by three trials of free recall, each trial being preceded by 20 s of interference.
+ On each such trial, subjects were allowed a maximum of 2 min to name as many of the previously memorized items as they could.
+ Next, a category cue was provided by the examiner for each item missed on that trial.
+ If the subject still failed to recall the item with the cue, the examiner reminded the participant of the missed item, which he/she then repeated.
+ An additional trial of free recall was administered 60 min later to examine delayed recall.
+ Recall following a delay has been demonstrated to be sensitive to hippocampal dysfunction (Squire and Zola-Morgan, 1991; Miller et al., 1993) and to be one of the best discriminators of very mild AD cases (Welsh et al., 1991; Albert, 1996).
+ Memory for the spatial location of verbally identified items in this task was evaluated immediately after the third trial of free recall, as well as following delayed free recall.
+ For this purpose, each of the 16 pictures was presented one at a time and the subject was asked to identify in which of the four quadrants it originally ap- peared (see Fig. 1B).
+ Scoring for both the verbal and nonverbal versions of the task consisted of the percentage of correct items.
+ For verbal material, data reported here are based on scores for the third trial of free recall (i.e., immediately preceding spatial recall) and for delayed free recall.
+ It should be noted that scores for the third trial of free recall are not equivalent to those of immediate recall, since there was some delay between the acquisition of information and this trial.
+Mean normalized hippocampal formation, parahippocampal gyrus, and temporal lobe volumes for patients with AD and elderly control subjects are presented in Table 1, separately for each hemisphere.
+ Volumes of these three regions of interest in patients and controls were compared using separate two-way repeated measures analyses of variance (ANOVA), with groups (AD vs. control) and hemispheres (right vs. left) as the two factors.
+ The two groups differed significantly in hippocampal volume only (F(1,46) 11.48, P 0.0015).
+ The effect of hemisphere or the interaction between hemisphere and groups did not reach significance.
+ Even when data for the 18 patients were examined separately, the volumes of the right and left hippocampal formation did not significantly differ from each other (t 0.624, df 17, P 0.541).
+ Results for the recall (or delayed recall) of verbal material and the spatial location of verbal items for controls and AD cases are presented in Table 2.
+ Separate two-way repeated measures ANOVAs (with groups and free recall vs. delayed free recall as the two factors) demonstrated that AD patients differed significantly from controls in the recall of verbal as well as spatial information (F(1,46) 99.91, P 0.0001, and F(1,46) 22.86, P 0.0001, respectively).
+ The effect of delay, however, was significant only for verbal recall (F(1,46) 6.57, P 0.014), while the interaction between groups and delay did not reach significance in either case.
+ The lack of an effect of delay for spatial recall found in our study is in line with previous reports (Smith and Milner, 1981).
+ The relation between hippocampal volume and memory performance was examined using separate stepwise forward regression analyses with age and normalized right hippocampal, left hippocampal, parahippocampal gyrus, and temporal lobe volumes as the independent variables.
+ These analyses demonstrated that in patients with AD, left hippocampal volume was the best predictor of free verbal recall and delayed free verbal recall (R 0.637, P 0.0045, and R 0.799, P 0.0001, respectively; see Fig. 2).
+ Recall and delayed recall of the spatial location of verbal items, on the other hand, were best predicted by right hippocampal volume (R 0.627, P 0.0054, and R 0.579, P 0.0118, respectively; see Fig. 3).
+ Temporal lobe or parahippocampal gyrus volume did not enter the model.
+ In addition, Pearson’s product mo- ment correlations were performed to further assess the relation between material-specific memory scores and right or left parahippocampal gyrus or temporal lobe volumes; none were found to be significant.
+ Results for the relationship between each region of interest and material-specific memory performance in patients with AD are presented in Table 3.
+ It should be noted that the relation between memory performance and hippocampal volume was significant in patients, but not in aged controls (data not shown).
+ In fact, there was no significant correlation between any region of interest and memory performance in the controls.
+TABLE 1.
+        
+Normalized Hippocampal Formation, Parahippocampal Gyrus, and Temporal Lobe Volumes for Elderly Control Subjects and Patients With Alzheimer’s Disease* Control Control AD AD right left right left A. Normalized hippocampal volume Mean 1.580 1.552 1.298 1.294 SD 0.234 0.187 0.339 0.284 Minimum 1.191 1.176 0.668 0.796 Maximum 2.240 2.001 1.821 1.678 B.
+ Normalized parahippocampal gyrus volume Mean 1.764 1.901 1.689 1.737 SD 0.309 0.322 0.294 0.359 Minimum 1.296 1.435 1.230 1.131 Maximum 2.322 2.576 2.150 2.610 C.
+ Normalized temporal lobe volume Mean 18.353 18.892 18.891 18.977 SD 1.880 2.065 2.520 2.801 Minimum 14.756 15.790 14.240 12.650 Maximum 23.361 24.477 22.415 22.450 *AD, Alzheimer’s disease.
+The data presented here confirm and extend previous reports showing that hippocampal atrophy, as measured in vivo by quantitative MRI, is related to memory dysfunction in AD.
+ Our results show a highly significant relation between the extent of hippocampal atrophy and the degree of memory impairment in AD cases.
+ Most important is the fact that the strongest relation observed was material-specific; left hippocampal volume was found to be the best predictor of verbal recall, and right hippocampal volume of spatial recall.
+ Lesion and imaging studies have demonstrated that in humans, generally the left hippocampal formation is involved in verbal information processing, while the right processes nonverbal or spatial information ( Smith and Milner, 1981; Jones-Gotman, 1986; Maguire et al., 1997; Abrahams et al., 1997).
+ Our results agree well with these previous findings and provide a clear-cut demonstration of hemispheric specialization of memory function in patients with Alzheimer’s disease. Cahn et al. (1998) recently reported certain material-dependent relations in AD, but these were not specific to the hippocampal formation.
+ Using the Warrington Recognition Memory Test (Warrington, 1984), they found a significant relation between face recognition scores in AD patients and right hippocampal, as well as right temporal gray matter volume.
+ Thus, in their hands, the hippocampal formation was not the only predictor of face recognition.
+ The volume of similar regions in either the left or right hemisphere, however, was not related to word recognition when the entire group of patients was considered.
+ In our study, temporal lobe or parahippocampal gyrus volume did not significantly relate to any measure of verbal or spatial recall, while hippocampal volume did.
+ These dissocia- tions strongly suggest that our findings cannot be attributed to nonspecific generalized atrophy in AD.
+ Although evidence in- dicating the involvement of entorhinal and perirhinal cortices in memory function is accumulating, the lack of a relation between parahippocampal gyrus volume and recall of verbal or spatial material in our hands is not surprising.
+ Our measure of
+TABLE 2.
+          
+            
+              
+              
+                
+                   Percent Correct
+                   Recall
+                   on Verbal and
+                   Spatial
+                   Versions of
+                
+                
+                   Buschke
+                   “Controlled
+                   Learning” Task
+                   for Healthy
+                   Aged
+                
+                
+                   Control
+                   Subjects and
+                   Patients With
+                   Alzheimer’s Alzheimer’s
+                   Disease
+                
+                
+                  
+                   Verbal
+                   Delayed
+                   Spatial
+                   Delayed
+                
+                
+                  
+                   recall
+                   verbal recall
+                   recall
+                   spatial
+                
+                
+                   A. Healthy
+                   aged control
+                   subjects
+                  
+                  
+                
+                
+                   Mean
+                   85.83
+                   79.50
+                   96.53
+                   96.53
+                
+                
+                   SD
+                   11.59
+                   11.43
+                   6.44
+                   6.44
+                
+                
+                   Minimum
+                   50.00
+                   50.00
+                   75.00
+                   75.00
+                
+                
+                   Maximum
+                   100.00
+                   94.00
+                   100.00
+                   100.00
+                
+                
+                   B. Patients
+                   with
+                   Alzheimer’s disease
+                  
+                  
+                
+                
+                   Mean
+                   44.83
+                   40.00
+                   71.94
+                   69.50
+                
+                
+                   SD
+                   16.03
+                   23.40
+                   28.80
+                   30.06
+                
+                
+                   Minimum
+                   12.00
+                   0.00
+                   6.00
+                   13.00
+                
+                
+                   Maximum
+                   75.00
+                   81.00
+                   100.00
+                   100.00
+                
+              
+            
+          
+          Percent Correct Recall on Verbal and Spatial Versions of the Buschke “Controlled Learning” Task for Healthy Aged Control Subjects and Patients With Alzheimer’s Disease Verbal Delayed Spatial Delayed recall verbal recall recall spatial recall A. Healthy aged control subjects Mean 85.83 79.50 96.53 96.53 SD 11.59 11.43 6.44 6.44 Minimum 50.00 50.00 75.00 75.00 Maximum 100.00 94.00 100.00 100.00 B. Patients with Alzheimer’s disease Mean 44.83 40.00 71.94 69.50 SD 16.03 23.40 28.80 30.06 Minimum 12.00 0.00 6.00 13.00 Maximum 75.00 81.00 100.00 100.00
+        
+FIGURE 2. Relationship between left hippocampal volume and free recall (left) as well as delayed free recall (right) of verbal information.
+        
+FIGURE 3. Relationship between right hippocampal volume and recall (left) or delayed recall (right) of the spatial location of verbal items.
+        
+TABLE 3.
+        
+Relation Between Normalized Hippocampal Formation, Parahippocampal Gyrus, and Temporal Lobe Volumes, and Material-Specific Memory Performance in Patients With Alzheimer’s Disease* Delayed Delayed verbal spatial Verbal recall recall Spatial recall recall Right HF R 0.490 R 0.670 R 0.612 R 0.555 P 0.0389 P 0.0023 P 0.007 P 0.0167 Left HF R 0.637 R 0.799 R 0.510 R 0.510 P 0.0045 P 0.00007 P 0.031 P 0.0304 Right PHG R 0.171 R 0.364 R 0.427 R 0.278 n.s. n.s. n.s. n.s.
+ Left PHG R 0.254 R 0.318 R 0.325 R 0.282 n.s. n.s. n.s. n.s.
+ Right TL R 0.145 R 0.035 R 0.018 R 0.233 n.s. n.s. n.s. n.s.
+ Left TL R 0.237 R 0.157 R 0.0327 R 0.157 n.s. n.s. n.s. n.s. *HF, hippocampal formation; PHG, parahippocampal gyrus; TL, temporal lobe; n.s., no significance.
+parahippocampal gyrus volume included both white and gray matter and went beyond the anatomical boundaries of the entorhinal and perirhinal cortices.
+ In summary, these results demonstrate a clear-cut and highly significant relation between hippocampal volume and the recall of material specific information in AD patients.
+ In previous research, hippocampal atrophy and performance on the Buschke controlled learning task were each shown separately to be sensitive discriminators of mild AD cases (Petersen et al., 1994; deToledo-Morrell et al., 1997; Jack et al., 1997).
+ Our report extends these findings by demonstrating that hippocampal volume and recall of information in the Buschke task are highly correlated in the same group of patients.
+We thank Drs.
+ Carol Barnes and Irina Goncharova for helpful comments on earlier versions of this paper.

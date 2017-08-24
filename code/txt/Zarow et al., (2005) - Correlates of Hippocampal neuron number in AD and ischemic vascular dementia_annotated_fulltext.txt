@@ -1,0 +1,138 @@
+﻿NIH to begin enforcing public-access policy in April
+Zarow, PhD 1, Harry V. Vinters, MD 2, William G. Ellis, MD 3, Michael W. Weiner, MD 4, Mungas, PhD 5, Lon White, MD 6, and Helena C. Chui, MD 7 of Southern California, Rancho Los Amigos National Rehabilitation Center, Downey of California, Los Angeles of California, Davis, UC Davis Medical Center, Sacramento of California, San Francisco of California, Davis, Sacramento, CA Health System, Honolulu, HI of Southern California, Los Angeles, CA
+Although Alzheimer’s disease (AD) is characterized in part by loss of cognitive function, cortical neuron loss, and the development of neurofibrillary tangles and senile plaques, ischemic vascular dementia (IVD) is not a single entity from a neuropathological viewpoint.
+ Rather, it encompasses dementias characterized by intellectual deterioration caused by ischemic brain injury, including multiinfarct dementia, small-vessel disease, and leukoariosis.
+ 1  The cornu ammonis 1 region of the hippocampus (CA1) sector of hippocampus is vulnerable to both AD-type neurofibrillary degeneration and anoxia–ischemia.
+ Although a small number of studies have compared the numbers of hippocampal neurons in AD versus normal aging, 2,3 to date, no study has estimated the number of hippocampal neurons in brains from patients with vascular dementia.
+ Preliminary studies using magnetic resonance imaging (MRI) have demonstrated a similar significant loss of hippocampal volume in both AD and IVD cases compared with control subjects, but a much greater decrease in the neuronal marker N-acetyl aspartate in AD than IVD for the same cases.
+4 The question arises: What is the substrate for these findings if the hippocampus of IVD cases does not show the formation of neurofibrillary tangles?
+ Is the loss of hippocampal volume caused by loss of cells or, if the number of cells is unchanged, by cell shrinkage?
+Address correspondence to Dr Zarow, University of Southern California, Rancho Los Amigos National Rehabilitation Center, 7601 E.
+ Imperial Highway, Medical Science Bldg., Room 26, Downey, CA 90242.
+ E-mail: zarow@usc.edu.
+ This study was supported by the NIH (National Institute on Aging, 1P01 AG12435, C.Z., H.V.V., W.G.E., M.W.W., D.M., H.C.C.; 1- R01-AG17155-01A1, L.W., P50 AG16570, H.V.V.).
+In this study, an optimized design was implemented for sampling, measuring volume, measuring the size, and estimating the number of neurons in CA1 and CA2 subfields of the hippocampus using the optical dissector for cases with the pathological diagnosis of AD or IVD and normal control subjects.
+Cases were obtained from two prospective longitudinal studies: the Ischemic Vascular Dementia (IVD) Program Project and the Honolulu Asia Aging Study (HAAS).
+ All subjects or their guardians gave written informed consent before participation in the study, which was approved by the institutional review board at each institution.
+Three psychometrically matched measures were used to assess global cognitive ability (Global), memory (Memory), and executive (Executive) function.
+ These tests were derived from a standardized battery of neuropsychological tests in common clinical use.
+ Details of scale derivation and validation have been previously reported.
+5 Memory was derived from delayed and cued recall and selected immediate recall trials of the word list learning task of the Memory Assessment Scales.
+6 Donor scales for Global included: (1) total recall on trials 1 and 2 of the Memory Assessment Scales word list learning task; (2) digit span forward and backward from the Wechsler Memory Scale-Revised7; (3) letter fluency (the letter A from the FAS test8; and (4) Animal category fluency.
+8 The Executive scale used letter fluency (F, A, and S), digit span backward, visual span backward, and the Initiation-Perseveration subscale of the Mattis Dementia Rating Scale as donor scales.
+9 These tests broadly assess cognitive domains relevant to AD and IVD, have a broad range of measurement without appreciable floor or ceiling effects, and have linear measurement properties across this broad ability range.
+Serial MRI studies were performed for 20 cases in this study.
+ The interval between last MRI and death averaged 2.6 (±1.8) years.
+ Hippocampal volumes were determined using commercially available software (Medtronic Surgical Navigation Technologies, Louisville, CO).
+10 Although MRI volumes were determined for each hippocampus, only data from the same cerebral hemisphere in which counts were performed were used in this analysis.
+At the time of autopsy, the entire brain was extracted from the cranium, weighed, photographed, and immersed in 10% neutral-buffered formalin.
+ After 10-day fixation, the brain was again weighed, photographed, embedded in agar, and sliced coronally at 5mm intervals using a  motor-driven rotary slicer.
+11 Beginning at the level of the pes, the entire hippocampus from one hemisphere, comprising five to seven slices, was blocked for stereology.
+ An entire hippocampus was obtained from 28 cases (13 female and 15 male cases; Table 1).
+ From each 5mm-thick slab, 50μm-thick sections were cut on a freezing microtome, mounted on glass slides, and stained overnight in gallocyanine.
+ The remainder of each slab was embedded in paraffin and used for routine assessment of AD and vascular pathology.
+ Stains included hematoxylin and eosin, cresyl violet, Congo Red, Bielschowsky silver, thioflavine S, Klüver–Barrera, and glial fibrillary acidic protein, ubiquitin, and α-synuclein immunostains.
+Cases were evaluated for neurofibrillary tangle load (Braak score),12 neuritic plaque burden (Consortium to Establish a Registry for Alzheimer’s Disease [CERAD] rating),13 vascular lesions including infarcts (cerebrovascular disease [CVD] score),14 Lewy bodies (McKeith Lewy body score),15 and Vonsattel rating of cerebral amyloid angiopathy16 (CAA), expanded to grade IV where there is evidence of CAA-associated microangiopathy.
+ Hippocampal sclerosis (HS) was given a score of 0 when there was no HS, 1 when the segmental neuron loss was limited to a single CA segment, 2 when the HS extended from CA1 to the prosubiculum, and 3 when the HS involved the entire pyramidal layer or affected two or more sectors of the hippocampus.  The severity of cerebrovascular ischemic brain injury was rated using a new CVD-pathology scoring system developed within this project.
+14 The CVD-pathology score (0 – 60 points) reflects the number and location of cystic infarcts, lacunar infarcts, and microinfarcts in the hippocampus and several gray and white matter regions.
+ The HS score was included in the CVD-pathology score but acute infarcts were not.
+We used Braak and Braak staging to confirm the diagnosis of AD, AD being defined by a Braak stage higher than IV.
+ There are no consensus criteria for the pathological diagnosis of IVD.
+ We arbitrarily used CVD-pathology score of 4 or greater for a working diagnosis of IVD.
+ This corresponds to our neuropathologists’ (H.V.V., W.G.E.) belief that there was sufficient cerebrovascular pathology to account for dementia in a given patient.
+One gallocyanine-stained section was systematically chosen from each slab, and the CA1 and CA2 regions were identified and outlined on the coverslip using waterproof markers.
+17 The slide was placed on the microscope stage in a random orientation and overlaid with a uniform grid.  Counts were performed using an SPLAN 100X oil-immersion objective (N.A. = 1.25) on a Nikon Microphot FX microscope fitted with a Mertzhauser XYZ-stage and driven by StereoInvestigator (MicroBrightfield, Williston, VT) image analysis system.
+ Using the motor- driven stage, we determined the outline of each region of interest.
+ The stage was programmed to move in a buxtrophedral pattern with stage steps ranging from 250 to 1,000μm in each direction.
+ A stage micrometer was used to calibrate the stage step and the counting frame.
+ The stage step was tailored so that approximately 80 to 120 neurons were counted in each region for each section.
+ The counting frame for the dissector was a 30 × 30μm square.
+ The left and bottom edges of the counting frame were designated as forbidden boundaries.
+ The starting plane was 1 to 5μm below the surface of the section to avoid cutting artifacts and surface irregularities.
+ The height of the fractionator volume was 12μm.
+ Counts within each position were performed by focusing through the section.
+ Neurons were counted when a clearly visible nucleolus located within the counting frame came into focus.
+ Cells without nucleoli or with nucleoli that intersected the lower or left edge of the counting frame were excluded.
+ Neuron size was measured with the nucleolator component of StereoInvestigator using a minimum of five rays.
+ Each neuron not excluded by the above criteria was measured by the operator.
+ The estimated volume (in cubic micrometers) was determined by StereoInvestigator.
+ The sampling scheme and counting protocol described above results in a counting accuracy with a coefficient of error for the estimate of the number of neurons (N), calculated as follows:
+CE(ΣQ−) = (VAR(N) ΣQ− where CE = coefficient of error; Q − = counts; Var (N) = total variance.
+Analyses were two tailed with significance set at p < 0.05 and were performed with the interactive software SigmaStat 3.1 (SPSS, Chicago, IL).
+For 19 of 28 cases, the brain was weighed both in the fresh state and after fixation.
+ The average fresh brain weight was 1,210gm.
+ On average, there was a 1.7% increase in weight after fixation.
+ Postmortem delay ranged from 3.0 to 70.5 (11.9 ± 13.6) hours.
+ The average age of all cases is 83.6 (±6.9) years.
+Braak and Braak, CERAD, and McKeith Lewy body scores were determined for all cases.
+ Eleven cases had Braak and Braak scores of V or VI.
+ Nine cases rated Definite AD on the CERAD scale; three cases scored Possible AD because of a lower prevalence of cortical neuritic plaques.
+ The McKeith score for all cases was 0 because no Lewy bodies were seen in the cortex or sub-stantia nigra using hematoxylin and eosin, ubiquitin, or α-synuclein immunostains.  Fourteen cases had multiple large and small subcortical and white matter infarcts or cortical microinfarcts, or both.
+ Infarct size ranged from 8mm 3 to 30cm 3 .
+ Many of these had been noted by the radiologist on the premortem MRI, although others occurred in the interval between MRI and death.
+ Arteriosclerosis was moderate to severe in 10 cases and mild in 3 cases.
+ Moderate to severe white matter pallor was observed in eight cases.
+ Nine cases had Vonsattel grade I or II CAA, whereas six cases had Vonsattel grade III or IV CAA.
+ Nine cases had HS scores of 1 or greater.
+ AD changes, vascular lesions, and atherosclerosis were absent in six cases.
+ Accordingly, nine cases were assigned the pathological diagnosis of AD, six cases had IVD, two cases were mixed AD/IVD/HS/CAA, five cases were cognitively impaired not meeting criteria for AD, and six cases were healthy control subjects (see Table 1).
+The number of neurons in CA1 was correlated with the number of neurons in CA2 (r = 0.48; p = 0.009) ( Fig 1).
+ The volume of CA1 was correlated with the volume of CA2 (r = 0.59; p = 0.009) (Fig 1).
+ The coefficient of error for these estimates averaged 0.10 ± 0.02 for number of neurons in CA1 and 0.12 ± 0.04 for number of neurons in CA2.
+Hippocampal volumes were determined from premortem MRIs (Fig 2).
+ MRI hippocampal volumes were highly correlated with the number of neurons in CA1 (r = 0.72; p < 0.0004) and volume of CA1 (r = 0.54; p < 0.02) but not CA2.
+ In addition, MRI hippocampal volumes were highly correlated with brain weight (r = 0.58; p = 0.01).
+The number of neurons in CA1 was negatively correlated to Braak score (r = −0.73; p = 0.0002), CERAD score (r = −0.75; p = 0.0001), and HS score (r = −0.63; p = 0.003) (Fig 3).
+ The number of neurons in CA2 was negatively correlated to HS score (r = −0.55; p = 0.01).
+ AD cases (Braak score = V or VI) have 48% fewer CA1 neurons compared with non-AD cases ( p < 0.00002) and have a 39% reduction in CA1 volume ( p = 0.002).
+ For CA2, there are 35% fewer neurons in AD cases ( p < 0.02) and 35% less volume ( p < 0.03).
+ Cases with Braak stage III to IV had a statistically nonsignificant 8% loss of CA1 neurons.
+ IVD cases could not be distinguished from control subjects either by the Braak score or number of neurons (Fig 3).
+ No significant correlations were found among number of neurons or volume of region and age, brain weight, or presence, absence, or number of vascular lesions.
+Neuropsychological examinations were administered to 20 subjects.
+ The interval between testing and death was an average of 2.0 years (range, 4 months to 7 years).
+ The composite Global and Memory scores, as well as Demential Rating Scale score, correlated with the number of neurons in CA1 ( Fig 4), despite the sometimes long interval between testing and death (Table 2).
+ Hippocampal volume from the MRI was significantly related to the Memory and the Demential Rating Scale scores but not the Executive score.
+ None of the cognitive test scores was significantly related to number of neurons in CA2.
+ CA2 neurons are larger than CA1 neurons but equally affected across disease states.
+ Neuron volume was estimated for an average of 403 CA1 and 295 CA2 neurons per case.
+ CA2 neurons are consistently and significantly larger than CA1 neurons.
+ On average, CA2 neurons are 6.62 × 10 6 μm 3 (±9.73 × 10 7 μm 3 ), whereas CA1 neurons are 5.58 × 10 6 μm 3 (±9.82 × 10 7 μm 3 ), a difference of 15.6% ( p < 0.0001).
+ Although, in each region, neuron volume for non-AD cases was slightly larger (6%) than those for AD cases, the difference was not statistically significant.
+ The vulnerability of both CA1 and CA2 hippocampal neurons to disease, as measured by duration of illness, is similar for both regions.
+ Duration of illness, defined as the onset of cognitive difficulties (either as reported by a caregiver or as noted on neuropsychological examination) to the time of death, was negatively correlated with number of neurons in CA1 (r = −0.55; p = 0.004) and CA2 (r = −0.49; p = 0.01).
+Relatively few studies have quantified the severity of hippocampal neuron loss in AD and IVD compared with healthy control subjects.
+ We found that although the estimated number of neurons in CA1 and CA2 was decreased in AD, the estimated number of neurons in IVD was comparable with control subjects.
+ The greatest reduction of neurons was observed in cases with combined AD and HS that also met our operational criteria for mixed AD/IVD.
+Importantly, however, when diagnostic categories were set aside, numbers of CA1 neurons were significantly correlated with MRI volume and memory performance.
+Memory impairment is widely recognized as an early sign of AD.
+ Reductions in MRI hippocampal volume range from 15 to 22% for mild impairment to 40% for more severe impairment in patients with AD.
+18 Using nonbiased stereology methods, West and colleagues19 observed a 69% reduction in CA1, but not CA2, neurons in seven autopsied AD cases.
+ Our nine cases with isocortical stage AD showed a 48% reduction, and our four cases with limbic stage AD showed an 8% reduction in CA1 neurons.
+ Thus, our findings are in agreement with the literature.  In our six cases with IVD, the mean number of CA1 neurons did not differ significantly from control subjects.
+ Our findings are similar to those of Korbo and colleagues,20 who studied six cognitively normal and six non-AD cases and found no difference in the estimated number of neurons for the dentate gyrus, CA4, CA3-2, or CA1.
+ Three of the six non-AD cases would have met our criteria for IVD.
+ In contrast, Kril and colleagues21 noted significant loss of CA1 neurons in four cases with IVD, which was similar in magnitude to their five cases with AD (50% and 69%, respectively).
+ Collectively, these data suggest that there may be a wide range and variable degree of CA1 neuron loss in IVD.
+ The most profound loss of CA1 neurons (83%) was noted in two cases with both isocortical stage AD and HS.
+ We define HS as selective neuronal loss with gliosis in the absence of cystic cavitation.
+ It usually occurs in the CA1 sector of the hippocampus, extending into the prosubiculum and subiculum.
+ It has been reported to be a common neuropathological finding in patients with dementia who are very old (>80 years),22 among 12% of elderly people with dementia23 or cardiac disease.
+24 The pathogenesis of HS is still disputed, but systemic hypoxia–ischemia25 or ischemia caused by intrinsic CVD are commonly hypothesized to be of causative importance.
+ Although HS is generally considered to affect only CA1, we found strong correlations between HS and the number of neurons in both CA1 and CA2.
+ In a case series composed of 12 healthy control subjects, Harding and colleagues26 found a strong, statistically significant correlation between cerebral volume and the number of neurons in CA1.
+ Using brain weight as a proxy for volume, we were unable to corroborate this finding.
+ However, we found a strong correlation between brain weight and hippocampal volume, regardless of disease state.
+ This study is unique in providing quantitative neuropathological validation of MRI-derived hippocampal volume and neuropsychological testing.
+ Lye and colleagues27 found that the left hippocampal volume was an important predictor of verbal memory scores in nondemented community-dwelling elderly people.
+ Peterson and colleagues28 reported a similar finding in AD where the volume of the left hippocampus correlated with performance on verbal tasks using delayed recall measures.
+ Because of our small sample size (limited by the number of cases where hippocampal neurons were counted in both hemispheres), we were unable to separate our cases into left and right whereas maintaining an even match on diagnostic category in each group.
+ Nevertheless, we demonstrated that in our sample, CA1 neuron counts correlate with MRI-derived hippocampal volume and Global and Verbal Memory but not Executive scores.
+ These findings confirm the expected brain–behavior relations regardless of the type of underlying pathology.
+ We estimated the size of neurons in both CA1 and CA2 to determine if the change in MRI- determined hippocampal volume could be caused by neuron shrinkage, as well as neuron loss.
+ Contrary to our expectations, we found no difference in neuron size in high Braak versus low Braak cases for either CA1 or CA2 neurons.
+ This may be a consequence of the counting criteria, which established namely that cells must have a readily identifiable nucleolus to be counted.
+Cells that did not have a readily identifiable nucleolus were excluded.
+ By these criteria, degenerating cells, either swollen or pyknotic, were not measured.
+ Caveat aside, the data suggest that reduction in MRI hippocampal volume reflects loss, not shrinkage, of neurons.
+

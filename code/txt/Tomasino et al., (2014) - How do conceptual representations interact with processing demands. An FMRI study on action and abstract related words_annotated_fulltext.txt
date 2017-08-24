@@ -1,0 +1,277 @@
+How do conceptual representations interact with processing demands: An fMRI study on action- and abstract-related words
+Article history: This fMRI study investigated the functional mechanisms related to mental simulation Accepted 5 October 2014 of abstract- and action-related words and measured the effect of the type of stimulus Available online 14 October 2014 (Abstract vs. action verbs) and the type of task (imagery vs. control task) to explore how Keywords: conceptual representations interact with processing demands.
+ A significant task by stimuli Mental imagery interaction showed that action-related words activated the left sensorimotor cortex during Word representations explicit imagery (as compared to the control task), whereas abstract-related verbs did not Cognitive Strategies automatically activate this area.
+ Rather, as we made sure that Abstract verbs were not associated with motor states (as tested in a rating study of our stimulus list), imagery elicited by abstract verb processing (as compared to Action verbs, and controlled for letter detection) differentially activated a right hemisphere neural network including the right supramarginal (SMG) gyrus and the precuneus which might be related to mental imagery of emotion-related scenes and not to the semantics of the stimuli per se.
+ Our results confirmed the view that the activation of the sensorimotor cortex during language processing of abstract- and action-related words is strategy-dependent. & 2014 Elsevier B.V. All rights reserved.
+Functional magnetic resonance imaging (fMRI) studies have shown that, under some circumstances, language processing can trigger activation in extra-linguistic areas such as the sensorimotor cortex.
+ For example, as compared to abstract words, when action words are related to different body parts, 
+ Sensorimotor cortex can be activated not only by action words, but also by abstract verbs.
+ The fMRI literature provides little evidence of this because, while the processing of action words has been extensively investigated, the processing of abstract words has
+ For example, while motor activity has been observed during reading tasks of imageable concrete words with no motor content (
+ By comparing simple action verbs (such as “greifen” [to grasp]) and complex abstract verbs (such as “begreifen” [to comprehend]), Rüsche- meyer et al. showed that only the former triggered activity in the Pm cortex.
+ Similarly, (
+ These results are in contrast with another fMRI study in which abstract words referring to emotions (in addition to emotion words with links to sensorimotor actions) activated the precentral cortex (
+ Some authors showed that the activation of motor regions is context- dependent and it is greater for silent reading of arm and leg- related actions presented in a literal context than for non- literal contexts (
+ Although sentence involve different type of processing requirements with respect to single words, also abstract related sentences may or may not activate motor areas as sentences with concrete meaning do.
+ While some studies found somatotopic activation for figurative and literal action sentences involving leg and arm verbs (
+ Others (
+ Last, 
+ Taken together the studies addressing abstract verbs processing failed to show a consistent activation of the sensorimotor cortex, as evidenced by 
+ In addressing the cause of sensorimotor activation during language processing of action and abstract words several proposals have been contrasted or integrated.
+ The associa- tionist theory (
+ The embodied theories proposes that sensory—motor areas play an important role in the representation of concepts (
+ A strong version of embodiment theory (
+ The secondary embodiment theory, namely the grounding by interaction
+ Other versions of embodied theories (
+ Therefore, the investigation of abstract word processing is a real challenge for embodied theories (for a review see (
+ It has been proposed that abstract words are grounded in the activation of sensorimotor properties as action words (
+ Accordingly, abstract words should trigger activation in sensorimotor areas in a similar fashion as action words do.
+ Results, however, are inconsistent (see above) and recently it has been proposed that one way to account for the reason why under some circumstances abstract words activate the sensorimotor cortex is that the involvement of sensorimotor areas in language processing is context dependent (flexible) (van 
+ Flexibility is characterized by the relative presence or absence of activation in motor and perceptual brain areas.
+ In addition, it has been proposed that the involvement of sensorimotor areas is subject to a top-down modulation which explicitly or automatically selects the type of strategy adopted while processing language (
+ According to this view of a strategic dependent participation of the sensorimotor system in language processing, it has been shown that silent reading of abstract verbs preceded by a motor imagery-based task increased activity in the left M1,
+ Abstract words referring to emotions (in addition to emotion words with links to sensorimotor actions) has however been shown to activate the precentral cortex (
+ The results from the two studies (
+ In particular, in (
+ In the present study we further addressed the role of the sensorimotor cortex in language processing of action-related and abstract verbs and adopted the same paradigm used in a previous study in which we measured the effect of the type of stimulus and the type of task on sensorimotor activation (
+ Subjects were explicitly asked to imagine the content of action- and abstract- related sentences in a first person perspective.
+ The control task was a letter detection task.
+ Motor imagery entails the rehearsal of a motor task and occurs both after explicit instructions or can be triggered implicitly (
+ The explicit imagery task was used to mimic what happens if subjects are automatically performing motor
+ The letter detection task ensured that subjects were engaged in and concentrated on a non-motor task.
+ Based on a previous study (
+ If abstract verbs were represented in sensorimotor areas as the embodied view would predict, we should find a similar sensorimotor activation irrespective of the type of stimulus (abstract and action verbs) in the imagery task as, in this view, the notion of “simulation” becomes a prominent feature (e.g., (
+ On the contrary, finding M1 activations driven by imagery for action-related stimuli only would suggest that abstract words do not automatically activate the sensorimotor cortex and that the M1 activation previously found in experiments of abstract word processing might have resulted from their association with the motor context (van 
+ In particular, we expected that abstract imagery in a first person perspective would activate areas involved in a first person perspective and in generating subjectivity, e.g., see (
+ As to the neural correlates of abstract concept processing, it has been shown that this type of stimulus activate different areas of the brain.
+ In general, abstract processing has been related to higher left hemispheric activation in areas involved in linguistic processing such as the left inferior frontal gyrus and the superior temporal cortex, see for reviews and meta-analyses (
+ Rodríguez-
+ Other authors (
+ They concluded that although the sensorimotor neural network was engaged in both concrete and abstract language contents, the abstract concept processing relies more on the linguistic system.
+ At variance, other studies showed that the right hemisphere may play an interpretative role in processing abstract language (
+ Interestingly, lexical decisions about abstract language representations activated the right anterior temporal cortex (
+ The results were interpreted as support for a right hemisphere neural pathway in the processing of abstract word representations.
+ Similarly, listening to abstract word definitions as compared to concrete word activated the middle and superior right temporal gyrus (
+ Lastly, other authors (
+ It is clear that the task used by the mentioned studies can influence the variance in the pattern of activation observed for abstract word processing.
+ Some authors (
+ Authors argued that judging why an action is performed activates areas related to representing and reasoning about mental states.
+ In previous studies, abstract words activated the dorsolateral prefrontal cortex adjacent to and overlapping with premotor cortex (e.g. 
+ However, it should be noted that Binder et al.'s (2005) study did not involve processing of motor and abstract verbs as in the present experiment, but the authors compared processing of 50 nouns with high imageability and concreteness (e.g., autumn, circus) and 50 nouns with low imageability and concreteness (e.g., affair, desire).
+ Therefore, 
+ Furthermore, in Pulvermuller and Hauk’s event related fMRI study (2006) stimuli involved words denoting geometrical forms (e.g. ‘rhomb’).
+ Since processing nouns which refer to geometrical shapes may trigger the simulation of grasping actions directed at these shapes, Pulvermüller and Hauk suggested that the reported premotor activations for form nouns may be related to implicit action aspects of geometrical shapes.
+ Furthermore, in another fMRI study the processing of abstract (e.g., “Apprezzo la sincer- ita‘”; “I appreciate sincerity”) as compared to concrete phrases activated the cingulate cortex bilaterally (
+ The studies described above involved linguistic tasks thus making predictions about the areas activated by our abstract words based on the reported literature it is very limited, as our task required an explicit mental imagery processing of abstract scenes and also because at variance with the reported literature participants performed two different tasks on the same stimulus set.
+ Thus, in our study, we expected that imagery of abstract scenes will activate areas related to imagery of non motor scenes from a first person perspective.
+ Our study will be exploratory as no indication in the literature is found about imagery of abstract scenes in a first person perspective.
+n Correspondence to: IRCCS “E.
+ Medea”, Polo Regionale del Friuli Venezia Giulia, via della Bontà, 7, San Vito al Tagliamento (PN), 33078, Italy.
+ Fax: þ39 0434 842 797.
+ E-mail address: 
+Reaction Times (RTs) were shorter in the Letter Detection than in the Imagery task, and shorter in processing abstract than action verbs (see 
+ The task Â stimuli interaction was significant, with shorter RTs for abstract than action stimuli in the Imagery task as compared to the Letter Detection task.
+ RTs during the Letter Detection task increased with increasing word length, but were independent of the position of the target letter (see Supplementary 
+ Accuracy for the Letter Detection task was significantly lower for action as compared to abstract stimuli (see 
+ In the Imagery task, action scenes were judged as significantly more pleasant than unpleasant, whereas abstract scenes were judged as significantly more unpleasant than pleasant (see 
+Reaction Times F Direction of the effects Task a F(1,23) 1⁄419.59, po0.001 LD (1646.727402.32)oI task (2028.507632.43), Stimuli F(1,23) 1⁄414.93, po0.001 Abs (1786.307536.05)oAct (1888.897498.70) TASK Â STIMULI F(1,23) 1⁄45.06, po0.05 I task (po.
+005): Abs (1945.377686.18)oAct (2111.627578.76) LD task (p4.05): Abs (1627.287385.99) vs. Act (1666.167418.65, p4.05, n.s.) Judgments LD b F(1,23) 1⁄45.41, po.
+05 Act: 97.45 %; Abs: 95.60% I F(1,23) 1⁄425.36, po0.001 Act: 62.61% pleasant vs 37.38 % unpleasant, (po.
+001); Abs: 46.18% pleasant vs 53.81% unpleasant, po0.01 LD 1⁄4Letter Detection, I 1⁄4 Imagery, Abs1⁄4 Abstract-related verbs, Act 1⁄4Action-related verbs a A further ANOVA ruled out the possibility of gender differences in carrying out the tasks [Gender (F(1,22) 1⁄42.22), Task Â Gender (F(1,22) 1⁄41,85), Stimuli Â Gender (F(1,22) 1⁄4 .
+015) and Task Â Stimuli Â Gender (F(1,22) 1⁄4.75), all Ps4.05, n.s.], whereas the Task F(1,22) 1⁄416.54, po.
+001, Stimuli F(1,22) 1⁄411.95, po.
+005 and Task Â Stimuli F(1,22) 1⁄4 4.75, po.
+05 were significant. b A further ANOVA ruled out the possibility of gender differences in carrying out the LD task [Gender (F(1,22) 1⁄4 .
+19), Stimuli Â Gender (F(1,22) 1⁄4 .
+081), all Ps4.05, n.s.] and the I task [Gender (F(1,22) 1⁄4 .
+00), “yes”/“no” Response Â Gender (F(1,22) 1⁄4 3.6), Stimuli Â “yes”/“no” Response Â Gender (F(1,22) 1⁄41.13) all Ps4.05, n.s.].
+ Since the main focus and experimental manipulation of our study was the
+A conjunction analysis ([task4baseline]\ [motor localizer4baseline]) showed that the common activations for the task and the hand motor localizer consisted of activation clusters including the precentral gyrus extending to the inferior frontal gyrus (pars opercularis) and the postcentral gyrus bilaterally, in addition to the supplementary motor area (SMA) bilaterally and the left thalamus (See 
+The activation of the left and right pre- and post-central gyrus, as revealed by the conjunction analysis of task and motor localizer, was further addressed by performing a ROI analysis.
+ We assessed whether the activation in the sensorimotor area is modulated by the task Â stimulus interaction.
+ The ANOVA performed on the beta values extracted from the individual anatomically-constrained functional ROIs comprising the hand area of the left and right primary motor cortex (M1), as well as that of the left and right premotor cortex (Pm), as defined for each of the right-handed subjects (for the mean coordinates see Supplementary 
+ The ANOVA performed on the beta values extracted from the individual anatomically-constrained functional ROIs comprising the hand area of the left M1 revealed a significant interaction (F(1,22)1⁄45.55, po.
+05; see 
+031), and between Imagery_Action vs. Letter Detection_Action (po.
+05).
+ In contrast, the difference between Letter Detection_Action and Letter Detection_Abstract was not as significant (p1⁄4 .
+82, n.s) as the difference for Imagery_Abstract vs. Letter Detection_Abstract (p 1⁄4.067).
+ 1 The task Â stimulus interaction for the right M1 was not significant (F(1,22)1⁄4 3.78, p1⁄4 .
+065).
+ No significant interaction was found for the ANOVAs performed on the beta values extracted from the ROIs comprising the hand area of the left and right Pm [left Pm: (F(1,22)1⁄41.34); right Pm: (F(1,22)1⁄43.12), all p4.05, n.s.].
+1 The current experimental design was factorial (factors: task and stimuli).
+ Therefore, motor responses (i.e., button presses) were similarly present in the conditions involving action- and non action-related words in both tasks.
+ However, the activation in the left sensorimotor cortex resulted from the interaction term (i.e., task x stimuli).
+ In the interaction term, such ‘confounding factors’ (as motor response) are controlled for since the interaction term constitutes the difference of the differences ([Imager- y_motor4Imagery_abstract]4[Letter detection_motor4Letter detection_abstract]).
+ Thus, the differential sensorimotor cortex activity cannot be explained by differences in motor response per se.
+A significant increase in the BOLD response in the precuneus was driven by imagery of Abstract stimuli (but not Action stimuli, controlled by the Letter Detection task (po.
+001)).
+ In addition there was a differential modulation in the right supramarginal gyrus signal with greater levels of de-activation for imagery of abstract items (po.
+05, see 
+Imagery of Action stimuli (compared to Abstract, controlled by the Letter Detection task) lead to a significant increase in the BOLD response in several areas: the left inferior frontal gyrus (IFG), the left superior medial gyrus, the right IFG, the right middle and anterior cingulate cortex (AC) and the left supramarginal gyrus (SMG).
+ In particular, post hoc analysis further addressed the nature of the interaction and showed that the difference in the beta values in the left IFG (pars triangularis, extending to the left pars opercularis and to the left precentral gyrus) between Imagery_Action than Letter Detection_Action (po.
+001) was higher than the difference between Imagery_Abstract and Letter Detection_Abstract (po.
+01), in addition Imagery_Action was higher than Imagery_Abstract (po.
+001) and in the left IFG (pars orbitalis) the difference between Imagery_Action than Letter Detection_Action (po.
+001) was higher than the difference between Imagery_Abstract and Letter Detection_Abstract (p4.05, n.s.), in addition Imagery_Action was higher than Imagery_Abstract (po.
+01).
+ Similarly, in the left superior medial gyrus the difference between Imagery_Action than Letter Detection_Action (po.
+001) was higher than the difference between Imagery_Abstract and Letter Detection_Abstract (po.
+001), in addition Imagery_ Action was higher than Imagery_Abstract (po.
+05).
+ Likewise, the difference in the beta values in the left SMG between Imagery_Action than Letter Detection_Action (po.
+005) was higher than the difference between Imagery_Abstract and Letter Detection_Abstract (po.
+05), in addition Imagery_Action was higher than Imagery_Abstract (po.
+05).
+ In the right IFG (pars orbitalis), the difference between Imagery_Action than Letter Detection_Action (po.
+05) was higher than the difference between Imagery_Abstract and Letter Detection_Abstract (p4.05, n.s.), in addition Imagery_Action was higher than Imagery_Abstract (po.
+05).
+ Likewise, the difference in the beta values in the right AC between Imagery_Action than Letter Detection_Action (po.
+005) was higher than the difference between Imagery_Abstract and Letter Detection_Abstract (p4.05, n.s.), in addition Imagery_Action was higher than Imagery_Abstract (po.
+05) (See 
+This fMRI study investigated the nature of previously reported M1/Pm cortex involvement in the processing of 
+ Our main finding was a differential enhancement of the (right) SMG gyrus/parietal operculum/SII and the bilateral precuneus in the task Â stimulus interaction (for imagery of abstract verbs) and a lack of preferential activity in either the M1 or Pm cortex for the
+ We will first discuss the behavioral results and the common and differential neural networks associated with the imagery and letter detection tasks, which were very similar to what we had found previously in a study using the same paradigm (
+ RTs
+ Furthermore, the pattern of RTs during the current letter detection task -with a trend towards an increase when words were of increasing length but no influence of the position of the target letter “L” on RTs- is compatible with the notion that our subjects read all the stimuli during the letter detection task.
+ The fMRI activations identified by the conjunction analysis predominantly reflect language, response selection, and motor output-related processes which are the common parts of the letter detection and imagery tasks.
+ Consistent with Tomasino et al.'s results (
+ Importantly, both tasks strongly activated the left inferior frontal cortex.
+ A second conjunction analysis evidenced which regions involved in action sentence processing overlap with those involved in motor processing.
+ The activation of the left and right M1 and Pm cortex was further addressed by performing a ROI analysis.
+ We demonstrated that the BOLD signal in the left M1 was differentially modulated by the task Â stimulus interaction, with a significant difference between imagery for action vs. imagery for abstract verbs and for imagery of action vs. letter detection of action verbs.
+ These results are in line with previous studies using the same paradigm, e.g., (
+ We argue that, in our experiment the letter detection task prevented subjects from simulating the movements corresponding to the action phrases.
+ Thus, the M1 activation previously found in experiments of action word processing (without appropriate control tasks) might have resulted from the subjects' strategy to mentally simulate the movements.
+ The analysis of the behavioral data collected during the scanning session showed a significant task by stimulus interaction: the generation of abstract images took significantly longer than action images with no significant RT difference for letter detection of action vs. abstract words.
+ Thus, both fMRI and behavioral data show a congruent task by stimulus interaction with shorter RTs and differential activation of left M1 in imagery for action stimuli.
+ This result is similar to previously reported behavioral data on imagery of motor and non-motor scenes (
+ Usually the processing of abstract verbs is longer than that of concrete verbs, i.e., a concreteness effect (
+ Any increase in RTs for action vs. abstract could be attributed to the motor imagery component of the task.
+ As far abstract verbs are concerned, we reasoned that, if abstract verbs are represented in sensorimotor areas as the embodied view would predict, we should find a similar sensorimotor activation irrespective of the type of stimulus (abstract verbs and action words) in the imagery task, as in this view the notion of “simulation” becomes a prominent feature (e.g., (
+ On the contrary, M1 activations driven by the imagery for action-related stimuli only would suggest that abstract words do not automatically activate the sensorimotor cortex.
+ In our study, abstract verbs did not modulate M1 activation.
+ This is consistent with a previous study in which we found that abstract verbs did not activate
+ By contrast, if preceded by a motor context, they activated the M1 cortex.
+ On the other hand, in Moseley et al.'s study (
+ In particular, abstract words without sensorimotor semantic links had a higher arm relatedness than emotion words with sensorimotor links, and the overall action relatedness ranged between 4 and 5 for emotional words (both those with and without sensorimotor links) and between 5 and 5.5 for action- related words.
+ As reported in the Supplementary results, we found that, irrespective of task, abstract words (relative to action) differentially activated in the left hemisphere the inferior parietal lobe, the paracentral lobule and the middle temporal gyrus, and in the right hemisphere the superior occipital gyrus, and the superior and inferior parietal lobe, the middle and superior temporal gyrus, in addition to the precuneus and the basal ganglia bilaterally.
+ These results are consistent with previous studies showing that the processing of abstract concepts is related to activation in areas involved in linguistic processing (
+ At variance with the reported literature, in our study, participants performed two different tasks on the same stimulus set.
+ In particular, the studies described above involved linguistic tasks; our design included an explicit mental imagery of abstract scenes task from a first person perspective.
+ We found that imagery of abstract verbs (as compared to action verbs, and controlled for Letter Detection) differentially activated the right supramarginal (SMG) gyrus/parietal operculum/SII.
+ Our coordinates (x1⁄4 48, y 1⁄4 À Â 30 and z1⁄424) were very close to the parietal operculum which forms part of the SII where the lips, jaw and tongue are represented.
+ In particular, our coordinates were close to the coordinates reported by 
+ The SMG corresponds to the anterior part of the inferior parietal lobule.
+ We spec- ulate that, as our abstract stimuli were strongly emotion- related as evidenced in our stimuli norming study, the right SMG activation might be possibly related to imagery of emotional states.
+ Previous studies hypothesized that this area might be activated by internal simulation of somatosensory representations involved in emotional judgments for face stimuli (
+ The role of mental imagery, however, was not directly assessed by the previous studies, since no mental imagery task was included.
+ The authors did not control for the cognitive operation exerted upon the stimuli.
+ Our finding adds crucial information by explicitly testing the imagery hypothesis Adolph et al. put forward.
+ Indeed, in our study, we varied the task and we found increased activation in the right supramarginal (SMG) gyrus/parietal operculum/SII only during imagery in a first person perspective of abstract verbs with strong links to emotions as evidenced in the stimulus norming study (as compared to action verbs) and not during a control task
+ Furthermore, we found that imagery in a first person perspective of abstract scenes (as compared to action scenes, and controlled for Letter Detection) differentially activated the right precuneus (extending to the left), which corresponds to the posterior medial part of the parietal lobe.
+ The precuneus, together with the posterior cingulated and the retro- splenial cortex, is part of the postero-medial cortex (PMC).
+ This area is involved in perspective taking, episodic memory retrieval and experience of agency (
+ Our findings are in agreement with the view that the precuneus might be activated in mental image generation requiring reactivation of a stored percept (
+ We also showed that the relation between mental imagery and precuneus activation is dependent on the type of stimulus, namely it was activated by mental image generation guided by abstract verbs, and not by verbs classified as action-related.
+ By showing that imagery of abstract verbs related to abstract states, we further characterized its activation specificity for social/emotional states.
+Taken together, our findings confirmed the view that the activation of the sensorimotor cortex during language processing is strategy-dependent and that abstract verbs do not automatically activate this area.
+ Our results however do not support this embodied cognition view as abstract words did not trigger activation in sensorimotor areas in a similar fashion as action words do as the theory would predict.
+ Furthermore, in our study, either action words processing per se triggered activation in sensorimotor cortex.
+ Rather, we found that the involvement of sensorimotor areas is subject to a top-down modulation of the type of strategy adopted while processing language (
+ Our view is consistent with the notion of flexibility in language representation whereby the degree to which amodality-specific region contributes to a representation depends on the context (van 
+ In addition, we found that abstract verb processing and imagery of emotional states activated two of the areas held to be essential parts of the network supporting a first person perspective, namely the right precuneus (extending to the left) and the right SMG.
+ In particular, our study suggests that mental imagery of abstract verbs is related to the activity of the right SMG which might be related to imagery of emotion-related scenes and not the semantics of the stimuli per se, and of the precuneus which might be related to the imagination of such scenes in a first person perspective and to self-processing.
+Twenty-four (12 males, 12 females) right-handed (Edinburgh Inventory test, Oldfield, 1971) healthy subjects (age range 22–38 years, mean 24.873.8 years) with no past or present neurological or psychiatric disease or drug abuse (according to their responses on self-report measures) gave their informed consent to participate in the study.
+ They were all monolingual native speakers of Italian and had comparable levels of education (mean 1572.23 years).
+ The study was approved by the Ethics Committee of IRCCS “E.
+ Medea”.
+Stimuli were taken from a larger database of verbs classified as either action-related (e.g., to grasp, pick, write) or abstract verbs related to abstract states (to think, to hope, to believe, to desire) according to the criteria of linguistic tradition ( 
+ Abstract verbs have been defined as verbs which are relatively impoverished in their associated perceptual features (
+ Others (Rodríguez-
+ Stimuli were then validated with a rating study.
+ In the rating study, each stimulus was judged by twenty-four right-handed (Oldfield) healthy participants (mean age, 29.3375.33), all being native speakers of Italian with comparable levels of education (mean, 15.772.63), all monolinguals, with normal or corrected-to-normal vision, with no history of neurological illness.
+ Following the instructions of Barca, Burani, and Arduino (
+ In addition, they estimated whether the word referred to a movement and triggered a psychological state/emotion on a scale ranging from 1 to 7, where “1”1⁄4 very little and “7” 1⁄4highly psychological/emotive.
+ From this initial sample, 72 stimuli (36 action and 36 abstract verbs, with 100% agreement among the rates of motor relatedness) were selected.
+ The selected action verbs (vs. abstract verbs) significantly differed in motor relatedness (i.e., action/abstract stimulus) (t(35) 1⁄4132.7, po0.001, see 
+ Unsurprisingly, stimuli differed in imageability (t(35)1⁄4 19.43, po0.001), since action verbs have a rich and elaborate set of associated perceptual and motor features while abstract verbs are relatively impoverished in their associated perceptual features (
+ Last, the two lists of stimuli significantly differed in terms of relatedness to a psychological state/emotion, with abstract
+001).
+ In addition, the selected action and state verbs were matched for familiarity (t(35)1⁄4 À.
+95, p4.05, n.s.) and for length (average lengths were 10.0871.71 letters for action and 9.8172.11 letters for abstract verbs, t(35) 1⁄4.55, p4.05, n.s.).
+ Written frequencies differed across conditions (117.087249.81 for action verbs and 2867374.2 for abstract verbs (occurrences per million), t(35)1⁄4 2.25, po.
+05), (
+ This frequency effect was driven by two items in the abstract verbs list (i.e., to decide and to trust) which were excluded.
+ After excluding these item, the written frequencies did not significantly differed across conditions (117.087249.81 for action verbs and 220.027259.71 for abstract verbs, t(35)1⁄4 1.72, p4.05, n.s.).
+We used a 2 2 factorial blocked design.
+ Factors were TASK (Mental Imagery and Letter Detection) and STIMULUS (abstract vs. action related phrases).
+ Identical stimuli were presented in I and LD tasks.
+ Our motor related verbs described hand-related actions.
+ The task (28.33 min) started with the following instruction (5 s): (i) “You will be asked to silently read a series of words and to respond to a yes-no question by pressing the corresponding button”.
+ Subjects were explicitly asked to form a mental image of the content of the verbs, either action- or abstract-related” and encour- aged to do so from a first person perspective closely following the instructions we used in a previous study ( 
+ Verbs appeared embedded in two different settings indicating which task participants had to perform (i) “Ima- gine” in half of the trials (N1⁄4 72) and (ii) “Search” in the other half of the conditions, which appeared above and were completed with “Do you like it?” or “Is the “S” present?” below each verb.
+ The letter “S” was present in 61% of the items (64% of the action verbs and 58% of the abstract verbs, n.s.).
+ We were not explicitly interested in the result of the pleasantness judgment.
+ In fact, the pleasantness judgment was aimed to help the subjects concentrate on the mental imagery content.
+ Furthermore, the question needed to be applicable to both the mental images with a motor and a non-motor content. “Pleasantness” decisions of this sort have been used for over 30 years to probe “deep” or “semantic” knowledge (
+ All experimental trials had a duration of 4 s and were followed by a variable inter-trial interval, with a duration that was jittered between 3250 and 4000 ms, with incremental steps of 250 ms.
+ In addition, 36 null events (i.e., blank screens) perceived as a prolongation of the inter-trial period were randomly interspersed among the event trials to increase the power of estimating the BOLD response (Dale and Buckner, 2008).
+ Three pseudo-randomized stimulus sequences were alternated.
+ To avoid any potential priming effect, trial sequences were shuffled in the two tasks.
+ In the fMRI scanner, participants laid supine with their head fixated by firm foam pads.
+ Stimuli (“Presentation”, Neurobehavioral Systems Inc., CA/USA) were projected through a VisuaStim Goggles system (Resonance Technol- ogy), and the subjects were asked to answer yes or no by pressing two keys of an MRI compatible response device
+ The hand of response was counterbalanced between subjects in order to control for the level of activation related to motor responses per se in M1.
+ Prior to the experiment subjects practiced the task outside the scanner (N1⁄4 20 trials).
+ To address activation of the sensorimotor areas during word processing, as activity in the hand representation of the left M1 and Pm cortex is frequently found during processing of hand action-related verbs rotation, we identified this region in each individual, by combining the cytoarchitectonically defined MPMs with a functional localizer task that defined functional activations within the anatomically constrained ROI (
+ This task was performed within the scanner after the main experiment.
+ Participants were instructed to perform right- or left-hand clenching movements synchronized with the white-to-red color alternation (1.5 Hz rate) of a circle appear- ing in the center of a white background.
+ Nine blocks of active movements (15 s each) were interleaved with baseline resting periods (15 s each).
+ Each “active” block was preceded by an instruction (3 s) to move either hand.
+ The time between the instruction screen and the onset of the cue stimulus for clenching was jittered (1.5, 2.0, and 2.5 ms; for details, see 
+A 3-T Philips Achieva whole-body scanner was used to acquire T1-weighted anatomical images and functional images using a SENSE Head 8-channel head coil and a custom-built head restrainer to minimize head movements.
+ Functional images were obtained using a T2 n -weighted EPI sequence of the whole brain.
+ EPI volumes for the main experiment (n1⁄4638) contained 30 transverse axial slices (repetition time1⁄4 2500 ms; echo time1⁄4 35 ms, field of view1⁄4 23 cm, acquisition matrix1⁄4 128 Â 128, slice thickness1⁄4 3 mm with no gaps, flip angle1⁄4901, voxel size1⁄4 1.79 Â 1.79 Â 3.0 mm) and were preceded by seven dummy images that allowed the MR scanner to reach a steady state.
+ EPI volumes for the functional localizer (n1⁄4 265 images), preceded by five dummy images, were acquired with the same sequence characteristics as in the main experiment, except for the fact that each volume contained 21 transversal slices acquired with a repetition time of 1600 s.
+ Both experiments were performed in a single fMRI session.
+ After functional neuroimaging, high-resolution anatomical images were acquired using a T1-weighted 3D magnetization-prepared, rapid acquisition gra- dient fast filed echo (T1W 3D TFE SENSE) pulse sequence (repetition time1⁄4 8.2 ms, echo time1⁄4 3.76 ms, field of view1⁄424 cm, 190 transverse axial slices of 1 mm thickness, flip angle1⁄4 81, voxel size1⁄4 1 Â 1 Â 1 mm 3 ) lasting 8.8 min. 
+ Behavioral data A repeated-measure analysis of variance (ANOVA) with TASK (Mental Imagery and Letter Detection) and STIMULUS (abstract vs. action related verbs) as factors was performed on the subjects’ decisions and RT data using SPSS for Windows (version 12.0).
+ If subjects read the complete phrase, we should not find any differences depending on the position of the target letter (e.g., the target letter appears at the beginning or at the end of the word or is absent) for words of the same length (in terms of number of letters).
+ However, we expected to find a trend of increasing RTs with increasing word length.
+5.5.
+ Data analysis
+The fMRI data pre-processing and statistical analysis were performed on UNIX workstations (Ubuntu 8.04 LTS, i386, www.ubuntu.com/) using MATLAB r2007b (The Mathworks, Inc., Natick, MA) and SPM5 (Statistical Parametric Mapping software, SPM; Wellcome Department of Imaging Neuroscience, London, U.K. www.fil.ion.ucl.ac.uk/spm).
+ After dis- carding the first 6 dummy volumes to allow for T1 equilibration effects, we spatially realigned the images to the reference volume (i.e., the now first/previously fourth acquired volume).
+ T1 anatomical images were co-registered to the mean EPI image and normalized to the standard SPMT1 single subject template in MNI space.
+ A Gaussian kernel of 8 mm full-width half-maximum was used for smoothing to meet the statistical requirements of the theory of Gaussian fields according to the General Linear Model employed in SPM and to compensate for interindividual variability in macro- and microanatomical structures across subjects ( 
+ A temporal high-pass filter of 1/128 Hz was applied.
+ A general linear model for blocked designs was applied to each voxel of the functional data by modeling for each subject the 4 experimental conditions and the baseline by means of reference waveforms which correspond to boxcar functions convolved with a hemodynamic response function (
+ Furthermore, we included 6 additional regressors modeling head movement parameters obtained from the realignment procedure.
+ Accordingly, a design matrix which comprised contrast modeling alternating intervals of “activation” (referring to the 4 different experimental conditions) and “baseline” was defined.
+ Specific effects were assessed by applying appropriate linear contrasts to the parameter estimates of the four experimental conditions and the baselines resulting in t-statistics for each voxel.
+ These t-statistics were then Z- transformed to statistical parametric maps (SPM{Z}) of differences between the experimental conditions and between the experimental conditions and the baseline.
+ SPM{Z} statistics were interpreted in light of the probabilistic behavior theory of Gaussian random fields (
+ For each subject we calculated the following contrast images: first the main effects of TASK ([Imagery–Letter Detection] and [Letter Detection–Imagery]) STIMULI ([Action–Abstract] and [Abstract–Action]).
+ Then, we calculated the TASK Â STIMULI ([Imagery_ActionÀ Imagery_ Abstract]4[Letter Detection_ActionÀ Letter Detection_Abstract]) interaction.
+ For the second-level Random Effects Analysis, contrast images obtained from individual participants were entered into a one-sample t-test to create a SPM {T} indicative of significant activations specific for this
+ We used a threshold of po0.05, corrected for multiple comparisons at the cluster level, with a height threshold at the voxel level of po0.001, uncorrected.
+ At the second level we also performed two conjunction null analyses (Friston et al., 1999), one showing the common activated network for both tasks ([Imagery-baseline]\ [Letter Detection-baseline]) and the other showing the common activated network for the task and the motor localizer ([task4baseline] \[motor localizer4baseline]) using a threshold of po0.05, FEW corrected at the voxel level.
+ For each activated region, t tests were performed over the extracted averaged parameter estimates to investigate the functional properties of the areas of activation.
+ Statistical analysis was performed with SPSS 14.0 software (SPSS, Inc., Chicago, IL).
+ The anatomical interpretation of the functional imaging results was performed using the SPM Anatomy toolbox (
+Following our hypothesis on the role of the sensorimotor cortex in the interaction between group and stimuli, we performed a ROI analysis.
+ Using Marsbar written by Matthew Brett (
+ Thereafter we considered only the voxels of the functional ROIs that were located within the cytoarchitectonically defined MPMs of the M1 (Brodmann area 4) or the Pm cortex (Brodmann area 6) provided by the SPM Anatomy toolbox (www.fil.ion.ucl.ac.uk/spm/ext/).
+ By using functionally and anatomically defined ROIs of Pm and M1 cortex we made sure that the reported data were functionally relevant (only those voxels were included which were significantly more active for hand movements during the localizer task) and anatomically specific (only those voxels were included that were located with the MPM of either the Pm cortex or the M1 cortex).
+ Subsequently, the beta values associated with each experimental condition were extracted from all voxels within the individually defined anatomically- constrained functional ROIs.
+ Then, these beta values were entered into an ANOVA with task (Imagery vs. Letter Detection) and stimulus (Action vs. Abstract) as within-subjects factors.
+We wish to thank Dr.
+ Gioia Negri and Dr.
+ Marco Garzitto for preparing the stimuli material for the rating study.
+ We are also grateful to Dr.
+ Marco Garzitto for his help in program- ming part of the experiment code.
+ BT was supported by grants from the IRCCS “E.
+ Medea” (Ricerca Corrente).
+ PB was partly supported by grants from the Ministry of Health (GR-2010-2316745), BIAL Foundation (Fellowship #262/12) and IRCCS “E.
+ Medea” (Ricerca Corrente).
+Supplementary data associated with this article can be found in the online version at 

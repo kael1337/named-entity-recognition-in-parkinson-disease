@@ -1,0 +1,508 @@
+﻿Thalamic volume and related visual recognition are associated with freezing of gait in non-demented patients with Parkinson’s disease
+Background: The pathophysiology of freezing of gait (FOG) in non-demented Parkinson’s disease (PD) patients remains poorly understood.
+ Recent studies have suggested that neurochemical alterations in the cholinergic systems play a role in the development of FOG.
+ Here, we evaluated the association between subcortical cholinergic structures and FOG in patients with non-demented PD.
+ Methods: We recruited 46 non-demented patients with PD, categorized into PD with (n 1⁄4 16) and without FOG (n 1⁄4 30) groups.
+ We performed neuropsychological test, region-of-interest-based volumetric analysis of the substantia innominata (SI) and automatic analysis of subcortical brain structures using a computerized segmentation procedure.
+ Results: The comprehensive neuropsychological assessment showed that PD patients with FOG had lower cognitive performance in the frontal executive and visual-related functions compared with those without freezing of gait.
+ The normalized SI volume did not differ significantly between the two groups (1.65 Æ 0.18 vs. 1.68 Æ 0.31).
+ The automatic analysis of subcortical structures revealed that the thalamic volumes were significantly reduced in PD patients with FOG compared with those without FOG after adjusting for age, sex, disease duration, the Unified PD Rating Scale scores and total intracranial volume (left: 6.71 vs. 7.16 cm 3 , p 1⁄4 0.029, right: 6.47 vs. 6.91 cm 3 , p 1⁄4 0.026).
+ Multiple linear regression analysis revealed that thalamic volume showed significant positive correlations with visual recognition memory (left: b 1⁄4 0.441, p 1⁄4 0.037, right: b 1⁄4 0.498, p 1⁄4 0.04).
+ Conclusions: These data suggest that thalamic volume and related visual recognition, rather than the cortical cholinergic system arising from the SI, may be a major contributor to the development of freezing of gait in non-demented patients with PD. Ó 2013 Published by Elsevier Ltd.
+Freezing of gait (FOG) is a unique and disabling symptom usually observed in 25% of early Parkinson’s disease (PD) patients and 50% of patients with advanced PD [1].
+ FOG is an episodic inability to initiate gait and turning, in which the feet appear ‘glued to the floor’ [1].
+ It has been recognized that FOG is associated with motor dysfunction, cognitive processing and affective symptoms [2].
+ Although it definitely contributes to worsening the quality of life of patients with PD, the pathophysiology remains poorly understood.
+ A recent review described that FOG induced by gait pattern gen- eration disturbance, motor and cognitive automaticity failure, and
+* Corresponding author.
+ Department of Neurology, Yonsei University College of Medicine, 250 Seongsanno, Seodaemun-gu, Seoul 120-752, South Korea.
+ Tel.: þ82 2 2228 1608; fax: þ82 2 393 0705.
+ E-mail address: phisland@chol.net (P.H. Lee).
+ 1353-8020/$ e see front matter Ó 2013 Published by Elsevier Ltd. http://dx.doi.org/10.1016/j.parkreldis.2013.07.023
+
+        
+      
+frontal executive and perceptual malfunction [ 3].
+ And there are several evidences that structural and functional alteration may be involved in FOG.
+ A volumetric analysis demonstrated that FOG is associated with frontal, temporal and inferoposterior parietal cortical atrophy [4].
+ Functional imaging studies showed that decreased coordinated neural connectivity, such as executive attention and visual network, is related to the development of FOG [5e7].
+ FOG is an independent motor symptom that is not correlated with parkinsonian motor symptoms of bradykinesia or rigidity, but is well correlated with frontal executive function, suggesting that distinct pathological or neurochemical changes in extra- dopaminergic system may underlie its pathogenesis [4].
+ Recent studies have suggested that neurochemical alterations in the cholinergic systems might play a role in the FOG development along with cognitive impairment [8, 9].
+ There are two major sources of cholinergic projections in the brain.
+ The nucleus basalis of Meynert located in the substantia innominata (SI) of the basal forebrain provides the principal cholinergic input of the cortical areas and the pedunculopontine nucleus provides the major cholinergic input to the thalamus [9].
+ In the present study, we hypothesized that cholinergic systems in the brain is related to the development of FOG and also influences cognitive performance in Parkinson’s disease.
+ To test our hypothesis, we performed region- of-interest-based volumetric analysis of the SI and automatic analysis of subcortical brain structures using computerized segmentation procedure in non-demented patients with PD to further elucidate the association between cholinergic structures and FOG.
+ Additionally, we evaluated neuropsychological profiles and their associations with volumes of the SI and subcortical structures.
+1.
+ Patients and method 1.1.
+ Subjects In this study, 46 non-demented PD patients, who completed magnetic resonance imaging (MRI), comprehensive neuropsychological studies and FOG questionnaire [10], were recruited retrospectively from Apr 2009 to May 2011 at a university hospital by convenience sampling.
+ PD was diagnosed according to the clinical diagnostic criteria of the UK PD Society Brain Bank [11].
+ The patients were categorized into two groups: PD with FOG (n 1⁄4 16) and PD without FOG (n 1⁄4 30) groups, depending on the presence of FOG.
+ Patients who fulfilled the following conditions were categorized in the PD with FOG group: a) score >1 on the FOG Questionnaire item 3, b) observation of FOG by experienced neurologists (S.M.K and H.J.Y).
+ Parkinsonian motor symptoms were assessed using the Unified PD Rating Scale Part (UPDRS) III.
+ We used the Seoul Neuropsychological Screening Battery (SNSB) to determine the cognitive performance in both groups of patients [12, 13].
+ The SNSB includes cognitive subsets of attention, language and related functions (reading, writing, comprehension, repetition, confrontational naming using the Korean version of the Boston Naming Test), visuospatial function (drawing an interlocking pentagon and the Rey Complex Figure Test), verbal memory (the Seoul Verbal Learning Test), visual memory (the RCFT; immediate recall, 20 min delayed recall and recognition), and frontal executive function (phonemic and semantic Controlled Oral Word Association Test and Stroop test).
+ All patients showed no evidence of abnormal activities of daily living and scored above the 16th percentile for age and the educational- appropriate norm in the Korean version of the Mini Mental State Examination (K- MMSE).
+ The self-rated Beck Depression Inventory (BDI) was used to assess depressive symptoms in patients with PD [14].
+ Exclusion criteria included evidence of dementia compatible with the clinical diagnostic criteria for probable PD dementia [15], presence of focal brain lesions on brain MRI, or the presence of other neurodegenerative diseases that might account for parkinsonism.
+ This study was approved by the Yonsei University Severance Hospital ethical standards committee on human experimentation for experiments using human subjects.
+ Written informed consent was obtained from all subjects participating in this study.
+ 1.2.
+ Volumetric determination of SI The SI volumes were determined by manually delineating the boundaries of this structure with MRIcro software [16] on the coronal T1-weighted MRI scans.
+ The delineation of the SI on the MRI was based on the method reported previously [17, 18].
+ Briefly with the first section at the level of the crossing of the anterior commissure, the ventral aspect of the globus pallidus demarcated the dorsal border of the SI, whereas the ventral border was the base of the brain containing the anterior perforated space.
+ The medial border of the SI was operationally defined by a vertical line extending from the ventrolateral border of the stria terminalis to the base of the brain.
+ The lateral border extended to the medial aspect of the putamen.
+ In the second section traced, the anterior commissure might be uncrossed.
+ The third section evaluated was at the level of the emergence of the anterior commissure from the temporal lobe.
+ The anatomical landmarks used to define the SI borders were applied to all three consecutive sections.
+ The total SI volume calculated included both the right and left hemispheres.
+ Normalized SI volume was defined by the following formula: total SI volume (mm3)/intracerebral volume (mm 3 ) Â10,000.
+ Tracings were performed blindly (by S.M.K and L.J.E), and the expressed correlation coefficients of intra- and inter-rater reliability were 0.79 and 0.82, respectively.
+ 1.3.
+ Segmentation and volumetric analysis for subcortical structure Volumetric analysis for subcortical structures was performed with FMRIB’s Software Library (FSL)eFMRIB’s Integrated Registration and Segmentation Tool (FIRST, version 5.0).
+ The method is the automated model-based registration and
+segmentation tool, which is optimized for segmentation of deep subcortical structures including caudate nucleus, putamen, pallidum, thalamus, hippocampus [19].
+ The T1-weighted MR inputs are registered to MNI (Montreal Neurological Institute) 152 standard space with 12 DOF (degree of freedom) affine transformation.
+ Secondly, each structure was segmented, based on shape models using another 12 DOF registration with application of a subcortical mask.
+ Then, boundary correction was applied with FSL’s FAST tool, which re-classifies boundary voxels by determining whether these voxels belong to each structure according to their intensity.
+ After the registration and segmentation, output with each structure from the procedure was manually checked and no gross error was revealed.
+ Finally, summary of segmented volumes of bilateral caudate, putamen, palladium and thalamus were acquired using routine FSL command: FSLstats (http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/Fslutils). For estimation of total brain volume adjusted for individual skull sizes, SIENAX [20], part of FSL was used [21].
+ After extraction of skull images from the whole-head input data, brain images are registered to the MNI152 standard space, using skull image to determine the registration scaling.
+ Finally, tissue-type segmentation with partial volume estimation is performed to calculate volume of brain (including separate estimates of volumes of gray and white matter).
+ 1.4.
+ Statistical analysis Data were expressed as the mean Æ SD.
+ The chi-square and independent t-tests were used to evaluate categorical and continuous variables, respectively.
+ Analysis of covariance was used to compare the difference of cognitive performance and deep gray matter volume between PD patients with and without FOG adjusted for the effects of confounders (age, sex, disease duration, BDI, UPDRS scores and total intracranial volume).
+ Multiple linear regression analysis was calculated for the correlation between volumes of the SI and subcortical structures and each cognitive subsets adjusted for age, sex, BDI and disease duration.
+ Statistical analyses were performed using commercially available software (SPSS, V.18.0), and a two-tailed p < 0.05 was considered significant.
+Demographic characteristics of the patients are presented in Table 1.
+ No significant differences in age, sex, education, parkinsonism duration, clinical dementia rating, and levodopa equivalent dose were observed.
+ K-MMSE scores were significantly lower in PD patients with FOG than in those without FOG (26.1 vs. 27.4, p 1⁄4 0.035).
+ UPDRS motor score (30.7 vs. 18.7, p < 0.01) and BDI scores (23.07 vs. 13.09, p < 0.01) were higher in PD patients with FOG than in those without FOG.
+ The detailed neuropsychological test results are shown in Table 2.
+ The PD with FOG group showed more severe cognitive deficits in the visuoconstructional (27.3 vs. 32.1, p 1⁄4 0.020), total COWAT (40.1 vs. 52.3, p 1⁄4 0.041) compared with the PD group without FOG.
+ Additionally, the PD with FOG group had lower scores in RCFT recognition domain (17.9 vs. 19.1,
+Table 1 Demographic characteristics between PD with FOG and PD without FOG.
+            
+              
+                
+                  
+                    
+                     FOG (þ) (n 1⁄4 16)
+                     FOG (À) (n 1⁄4 30)
+                     p-value
+                  
+                
+                
+                  
+                     Age (yr)
+                     66.7 (4.8)
+                     68.8 (3.7)
+                     NS
+                  
+                  
+                     Gender (number
+                     7 (43.8%)
+                     14 (46.7%)
+                     NS
+                  
+                  
+                     of men, %)
+                    
+                    
+                    
+                  
+                  
+                     Education
+                     7.8 (5.4)
+                     9.8 (4.2)
+                     NS
+                  
+                  
+                     durations (yrs)
+                    
+                    
+                    
+                  
+                  
+                     Parkinsonism
+                     4.2 (1.9)
+                     3.3 (1.7)
+                     NS
+                  
+                  
+                     duration (yrs)
+                    
+                    
+                    
+                  
+                  
+                     UPDRS motor score
+                     30.7 (14.5)
+                     18.7 (7.4)
+                     <0.001
+                  
+                  
+                     K-MMSE
+                     26.1 (2.4)
+                     27.4 (1.8)
+                     0.035
+                  
+                  
+                     BDI
+                     23.1 (5.9)
+                     13.1 (7.75)
+                     <0.001
+                  
+                  
+                     Levodopa equivalent
+                     554.7 (168.7)
+                     507.5 (239.1)
+                     NS
+                  
+                  
+                     dose (mg)
+                    
+                    
+                    
+                  
+                  
+                     Total intracranial
+                     1328730.0 (108532.4)
+                     1353502.9 (86198.7)
+                     NS
+                  
+                  
+                     volume (mm 3 )
+                    
+                    
+                    
+                  
+                
+              
+            
+            FOG (þ) (n 1⁄4 16) FOG (À) (n 1⁄4 30) p-value Age (yr) 66.7 (4.8) 68.8 (3.7) NS Gender (number 7 (43.8%) 14 (46.7%) NS of men, %) Education 7.8 (5.4) 9.8 (4.2) NS durations (yrs) Parkinsonism 4.2 (1.9) 3.3 (1.7) NS duration (yrs) UPDRS motor score 30.7 (14.5) 18.7 (7.4) <0.001 K-MMSE 26.1 (2.4) 27.4 (1.8) 0.035 BDI 23.1 (5.9) 13.1 (7.75) <0.001 Levodopa equivalent 554.7 (168.7) 507.5 (239.1) NS dose (mg) Total intracranial 1328730.0 (108532.4) 1353502.9 (86198.7) NS volume (mm 3 )
+          
+K-MMSE: the Korean version of the Mini-Mental State Examination, BDI: Beck Depression Inventory, Values are expressed as mean (standard deviation), NS; not significant.
+Table 2 Neuropsychological data in PD with FOG and PD without FOG.
+            
+              
+                
+                  
+                     Test
+                     FOG (þ)
+                     FOG (À)
+                     p-value
+                  
+                
+                
+                  
+                     Attention
+                    
+                    
+                    
+                  
+                  
+                     Digit span (forward)
+                     5.8 (1.4)
+                     5.9 (1.1)
+                     0.586
+                  
+                  
+                     Digit span (backward)
+                     3.1 (1.3)
+                     3.3 (0.8)
+                     0.594
+                  
+                  
+                     Digit span total
+                     8.6 (2.9)
+                     9.2 (1.5)
+                     0.288
+                  
+                  
+                     Language and related function
+                    
+                    
+                    
+                  
+                  
+                     K-BNT
+                     42.1 (11.7)
+                     44.6 (9.0)
+                     0.967
+                  
+                  
+                     Repetition
+                     14.2 (1.2)
+                     14.8 (0.7)
+                     0.119
+                  
+                  
+                     Calculation
+                     10.1 (1.8)
+                     10.9 (1.5)
+                     0.063
+                  
+                  
+                     Visuospatial function
+                    
+                    
+                    
+                  
+                  
+                     RCFT
+                     27.3 (10.9)
+                     32.1 (5.2)
+                     0.020
+                  
+                  
+                     Verbal memory function
+                    
+                    
+                    
+                  
+                  
+                     3 words registration
+                     3.0 (0.0)
+                     3.0 (0.0)
+                     > 0.999
+                  
+                  
+                     3 words recall
+                     1.9 (1.0)
+                     1.8 (1.1)
+                     0.812
+                  
+                  
+                     SVLT
+                    
+                    
+                    
+                  
+                  
+                     Immediate recall
+                     18.4 (4.1)
+                     18.0 (5.1)
+                     0.745
+                  
+                  
+                     Delayed recall
+                     5.4 (2.7)
+                     5.0 (2.8)
+                     0.851
+                  
+                  
+                     Recognition
+                     20.4 (2.5)
+                     19.8 (2.2)
+                     0.864
+                  
+                  
+                     Visual memory function (RCFT)
+                    
+                    
+                    
+                  
+                  
+                     Immediate recall
+                     10.6 (5.8)
+                     11.3 (6.7)
+                     0.452
+                  
+                  
+                     Delayed recall
+                     10.3 (5.2)
+                     12.4 (5.8)
+                     0.472
+                  
+                  
+                     Recognition
+                     17.9 (2.1)
+                     19.1 (1.8)
+                     0.044
+                  
+                  
+                     Frontal executive function
+                    
+                    
+                    
+                  
+                  
+                     Contrasting program
+                     19.5 (1.1)
+                     19.8 (0.8)
+                     0.688
+                  
+                  
+                     Go-no-go test
+                     17.1 (4.4)
+                     19.4 (3.2)
+                     0.095
+                  
+                  
+                     Generative naming
+                     40.1 (7.6)
+                     52.3 (17.3)
+                     0.041
+                  
+                  
+                     Phonemic COWAT
+                     14.0 (7.4)
+                     22.4 (11.4)
+                     0.092
+                  
+                  
+                     Semantic COWAT
+                     26.1 (5.6)
+                     29.9 (7.6)
+                     0.077
+                  
+                  
+                     Word stroop test
+                     107.4 (8.4)
+                     110.7 (5.7)
+                     0.060
+                  
+                  
+                     Color stroop test
+                     67.5 (15.4)
+                     75.4 (23.8)
+                     0.368
+                  
+                
+              
+            
+            Test FOG (þ) FOG (À) p-value Attention Digit span (forward) 5.8 (1.4) 5.9 (1.1) 0.586 Digit span (backward) 3.1 (1.3) 3.3 (0.8) 0.594 Digit span total 8.6 (2.9) 9.2 (1.5) 0.288 Language and related function K-BNT 42.1 (11.7) 44.6 (9.0) 0.967 Repetition 14.2 (1.2) 14.8 (0.7) 0.119 Calculation 10.1 (1.8) 10.9 (1.5) 0.063 Visuospatial function RCFT 27.3 (10.9) 32.1 (5.2) 0.020 Verbal memory function 3 words registration 3.0 (0.0) 3.0 (0.0) > 0.999 3 words recall 1.9 (1.0) 1.8 (1.1) 0.812 SVLT Immediate recall 18.4 (4.1) 18.0 (5.1) 0.745 Delayed recall 5.4 (2.7) 5.0 (2.8) 0.851 Recognition 20.4 (2.5) 19.8 (2.2) 0.864 Visual memory function (RCFT) Immediate recall 10.6 (5.8) 11.3 (6.7) 0.452 Delayed recall 10.3 (5.2) 12.4 (5.8) 0.472 Recognition 17.9 (2.1) 19.1 (1.8) 0.044 Frontal executive function Contrasting program 19.5 (1.1) 19.8 (0.8) 0.688 Go-no-go test 17.1 (4.4) 19.4 (3.2) 0.095 Generative naming 40.1 (7.6) 52.3 (17.3) 0.041 Phonemic COWAT 14.0 (7.4) 22.4 (11.4) 0.092 Semantic COWAT 26.1 (5.6) 29.9 (7.6) 0.077 Word stroop test 107.4 (8.4) 110.7 (5.7) 0.060 Color stroop test 67.5 (15.4) 75.4 (23.8) 0.368
+          
+K-BNT: the Korean version of Boston Naming Test, RCFT: Rey Complex Figure Test, SVLT: Seoul Verbal Learning Test, COWAT: the Controlled Oral Word Association Test.
+ Values are expressed as mean (standard deviation).
+p 1⁄4 0.044) relative to the PD without FOG group.
+ Other cognitive subdomains were not significantly different between the PD group with and without FOG.  No significant difference in total intracranial volume was found between PD patients with and without FOG (Table 1).
+ In a com- parison of SI volume between the two groups, the normalized SI volume in the PD with FOG group did not exhibit a significant difference compared to the PD without FOG group (1.65 Æ 0.18 vs. 1.68 Æ 0.31).
+ The mean volumes for all substructures in PD patients with and without FOG are shown in Table 3.
+ Automatic analysis of subcortical structures revealed that thalamic volumes were significantly reduced in PD patients with FOG compared with those without FOG after adjusting for age, sex, disease duration, UPDRS score, BDI and total intracranial volume (left: 6.71 vs. 7.16 cm 3 , p 1⁄4 0.036, right: 6.47 vs. 6.91 cm 3 , p 1⁄4 0.049).
+ The mean volumes of other subcortical structure, including the caudate nucleus, putamen, pallidum and hippocampus, were no significant differences between PD patients with and without FOG.
+ The multiple linear regression analysis revealed that absolute volume of the thalamus showed significant positive correlations with visual recognition (left: b 1⁄4 0.420, p 1⁄4 0.021, right: b 1⁄4 0.477, p 1⁄4 0.010).
+ Other cognitive functions including visuoconstructional and generative naming were not significantly associated with the thalamic volume.
+ In addition, the SI volume did not show a significant correlation with any cognitive subsets.
+2.2.
+ Normalized SI volume
+2.3.
+ Subcortical deep gray matter volumes
+2.4.
+ Correlation analysis between normalized SI and subcortical gray matter volumes and performance in cognitive subdomains
+Table 3 Mean volumes of deep gray matter structures between PD with FOG and PD without FOG.
+            
+               FOG (þ) (cm 3 ) FOG (À) (cm 3 ) p-value
+              
+                
+                
+                  
+                     L. caudate nucleus
+                     2.98 (0.34)
+                     3.06 (0.44)
+                     0.450
+                  
+                  
+                     R. caudate nucleus
+                     3.30 (0.37)
+                     3.49 (0.41)
+                     0.146
+                  
+                  
+                     L. putamen
+                     4.13 (0.65)
+                     4.24 (0.49)
+                     0.556
+                  
+                  
+                     R. putamen
+                     4.33 (0.67)
+                     4.36 (0.41)
+                     0.855
+                  
+                  
+                     L. pallidum
+                     1.83 (0.41)
+                     1.86 (0.38)
+                     0.145
+                  
+                  
+                     R. Pallidum
+                     4.33 (0.67)
+                     4.36 (0.41)
+                     0.707
+                  
+                  
+                     L. hippocampus
+                     3.25 (0.52)
+                     3.57 (0.46)
+                     0.140
+                  
+                  
+                     R. hippocampus
+                     3.39 (0.97)
+                     3.70 (0.46)
+                     0.103
+                  
+                  
+                     L. thalamus
+                     6.71 (0.65)
+                     7.16 (0.65)
+                     0.036
+                  
+                  
+                     R. thalamus
+                     6.47 (0.84)
+                     6.91 (0.57)
+                     0.049
+                  
+                  
+                     PD: Parkinson’s disease,
+                     FOG: freezing of gait,
+                     L: left, R: right.
+                    
+                  
+                
+              
+            
+            FOG (þ) (cm 3 ) FOG (À) (cm 3 ) p-value L. caudate nucleus 2.98 (0.34) 3.06 (0.44) 0.450 R. caudate nucleus 3.30 (0.37) 3.49 (0.41) 0.146 L. putamen 4.13 (0.65) 4.24 (0.49) 0.556 R. putamen 4.33 (0.67) 4.36 (0.41) 0.855 L. pallidum 1.83 (0.41) 1.86 (0.38) 0.145 R. Pallidum 4.33 (0.67) 4.36 (0.41) 0.707 L. hippocampus 3.25 (0.52) 3.57 (0.46) 0.140 R. hippocampus 3.39 (0.97) 3.70 (0.46) 0.103 L. thalamus 6.71 (0.65) 7.16 (0.65) 0.036 R. thalamus 6.47 (0.84) 6.91 (0.57) 0.049 PD: Parkinson’s disease, FOG: freezing of gait, L: left, R: right.
+          
+The present study demonstrated that loss of thalamic volume is associated with FOG in patients with non-demented PD, whereas the SI volume of PD patients with and without FOG did not differ significantly.
+ Moreover, the cognitive performance of PD patients was worse in frontal executive and visual perception-related functions than that of PD patients without FOG, and visual recognition scores were closely related to thalamic volume in patients with PD.
+ These data suggest that thalamic volume and its related visual recognition rather than cortical cholinergic system arising from the SI significantly contributes to the development of FOG in non-demented patients with PD.
+ The cortical cholinergic system arising from the SI and the subcortical system originating in the pedunculopontine nucleus (PPN) contribute to gait disturbance in PD [ 5, 8, 9, 22].
+ Of those, the former cholinergic system is associated with gait speed possibly mediated through cognitive control, whereas the latter is related to gait balance and rhythm mediated directly through motor control [22, 23].
+ Previous studies dealing with the relationship between cognitive function and cortical cholinergic status in PD have reported that the cortical cholinergic system, assessed using acetylcholine esterase PET imaging or SI volumetry, was closely coupled with frontal executive, memory, and visuospatial performance [18, 24].
+ The present study showed that despite worse executive and visuoconstructional performance in PD-freezers, the SI volume of this group did not differ from that of PD-non freezers group.
+ These data suggest that the cortical cholinergic system, which originates from the SI, does not significantly contribute to the genesis of FOG in patients with PD.
+ Interestingly, our data demonstrate for the first time that the thalamic volume of PD-freezers is smaller than that of non-freezers, suggesting that this subcortical structure plays an important role in the development of FOG.
+ It has been already known that the reduction volume of caudate nucleus and thalamus, implying the depletion of nondopaminergic neuron as well as dopaminergic neuronal involvement in PD patients regardless FOG [25].
+ More specifically, Shine et al. [6] elicited that FOG is associated with uncoordinated neural network in subcortical structures that increased basal ganglia inhibitory output leading to a decrease in thalamic and brainstem information processing.
+ In the other point of view, Bohnen et al. [24] demonstrated that acetylcholine esterase activity in the thalamus, which represents PPN cholinergic output, plays a key role in gait and postural control.
+ Furthermore, they reported that cholinergic denervation of the thalamus was related to a considerable decline in the cognitive function in patients with PD [26].
+ Thus, we hypothesize that the reduced thalamic volume in the present study is associated with cholinergic dysfunction in the thalamus, and may be a major factor leading to both gait disorder and cognitive decline in non-demented PD-freezers.
+ With respect to the subcortical cholinergic system, encompassing from PPN to thalamus, striatum, and cerebellum, a future study using a cholinergic PET ligand is needed to clarify the role of these structures in the pathogenesis of FOG.
+ Considerable evidence has demonstrated that PD patients with FOG experience not only global cognitive dysfunction but frontal executive deficits and visual perception impairments than patients without FOG [4, 5].
+ Thus, altered cortical gait control secondary to executive dysfunction and perceptual misjudgment, together with impaired subcortical gait control mediated by the mesencephalic locomotor region and basal ganglia may contribute to the development of FOG [22].
+ An MR-based morphometric analysis showed that gray matter volume in the frontal and parietal areas of PD- freezers was lower than that of non-freezers, suggesting that these areas may be the anatomical substrate for cognitive dysfunctions in PD patients with FOG [4].
+ Consistent with the results of previous neuropsychological and imaging studies, our PD patients with FOG had lower scores in frontal executive and visuoconstructional functions compared with patients without FOG.
+ Furthermore, the present study highlighted the association between thalamic volume and visual recognition in patients with PD.
+ Although the neuropsychological tests in our study revealed differences between PD patients with and without FOG in several subdomains, visual recognition performance was the only domain closely related to thalamic volume.
+ Pergola et al. [27] reported that the thalamus, particularly the anterior and mediodorsal nuclei, was activated during retrieval and recollection of familiar cues.
+ The author suggested that the extra-hippocampal communication between the thalamus and cortex is critical for human memory recognition.
+ FOG has been shown to be exaggerated in patients with PD when they go through the confined spaces such as narrow doorways.
+ This may be caused by impaired integration of vision with visuospatial information, which prevents patients from adapting to the new space.
+ In other words, failure to familiarize one’s self with and recollecting previous visuoconstructional memories contributes more to the development of FOG than does visual perceptual dysfunction alone.
+ Accordingly, the present data suggest that thalamic volume and related visual recognition in non- demented patients with PD may be an important contributor to the genesis of FOG.
+ The limitations of the present study need to be addressed.
+ First, the cross-sectional design and small sample size limit to draw a solid conclusion.
+ Second, FOG is difficult to elicit in a laboratory setting, and because the diagnosis relied on a FOG questionnaire, it may have been influenced by biased recall.
+ Third, the SI volume in our MR protocol did not specifically reflect the pathological status of the cholinergic neurons in the nucleus basalis of Meynert.
+ Furthermore, thalamic volume does not directly reflect cholinergic activity in the thalamus originating in the PPN.
+ Thus, our results should be interpreted with caution until the role of the subcortical cholinergic system in the development of FOG has been clarified using functional neuroimaging.
+ In summary, our data suggest that thalamic volume and its related visual recognition may be an important contributor in the development of FOG in non-demented patients with PD.
+The authors report no conflict of interest.
+This study was supported by a grant of the Korea Healthcare technology R&D Project, Ministry for Health, Welfare & Family Af- fairs, Republic of Korea (A121942).

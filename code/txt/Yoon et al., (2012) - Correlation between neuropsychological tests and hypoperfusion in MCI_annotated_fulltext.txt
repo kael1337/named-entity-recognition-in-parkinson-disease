@@ -1,0 +1,668 @@
+﻿Correlation between neuropsychological tests and hypoperfusion in MCI patients: anatomical labeling using xjView and Talairach Daemon Software
+Purpose Statistical analysis of brain perfusion SPECT images has shown mild to severe abnormalities, consistent with cortical dysfunctions in the brain.
+ Recently, functional brain imaging such as fMRI, PET and SPECT is increas- ingly used for diagnosis of MCI.
+ In this study, we calculate the correlation with perfusion of brain SPECT and neuropsychological test scores of patients by SPM analysis to evaluate the relationship with cerebral hypoperfusion and cognitive dysfunction in MCI patients.
+ Anatomical labeling was performed automatically using the Talairach Daemon (TD) and xjView.
+ Methods Ninety-three patients (mean age 67.2 ± 7.42 years; 59 women and 34 men) with MCI were selected and examined by the comprehensive neuropsychological test.
+ Tc-99m-HMPAO brain SPECT images were acquired on the patients using a two-head gamma camera.
+ We analyzed the brain image of MCI patients by SPM8 software, and observed the anatomical correlated region, between the neuropsychological tests and cerebral hypoperfusion.
+ The SPM8 tool provided correlation between neuropsychological score and brain perfusion by simple regression method.
+ The neuropsychological test included attention, language function, visuospatial function, memory, frontal executive function, depression score and general cognitive function.
+• • •
+Received: 14 December 2011 / Accepted: 18 June 2012 / Published online: 10 July 2012 Ó The Japanese Society of Nuclear Medicine 2012
+Results Percentage of voxels with correlated area to the whole brain was calculated and the values by Rey complex figure test (CFT) copy score, MMSE score, Seoul verbal learning test (SVLT) immediate recall score and Rey CFT delayed recall score were 15.3, 12.33, 10.59 and 8.45 %, respectively.
+ Rey CFT copy score was correlated with perfusion in the left middle temporal gyrus (BA 21), right inferior frontal gyrus (BA 45), right lingual gyrus, left lingual gyrus (BA 18), right postcentral gyrus (BA 40), right cingulate gyrus (BA 31) and left thalamus (pulvinar) with p \ 0.01 FDR.
+ The correlation related to MMSE included left parahippocampal gyrus, right fusiform gyrus and right middle frontal gyrus (BA 46).
+ SVLT immediate recall score was correlated with left superior temporal gyrus and Rey CFT delayed recall score was correlated with left inferior frontal gyrus (BA 47), right inferior frontal gyrus, and left lentiform nucleus.
+ Visuospatial and general cognitive dysfunctions in the patients with MCI were most correlated with cerebral hypoperfusion.
+ Conclusions Rey CFT copy and MMSE scores were more strongly correlated with blood perfusion of the brain than with other neuropsychological test scores. xjView was a useful tool to find out the anatomical name of the selected voxel or clusters and to display the cluster’s anatomical information and list all cluster information and could be used instead of TD Client.
+Keywords
+      
+Á Á
+SPECT Mild cognitive impairment (MCI) SPM8 xjView Á Neuropsychological tests Á Hypoperfusion
+Á
+Introduction
+      
+Mild cognitive impairment (MCI) is an intermediate tran- sitional state between cognition of normal aging and the  mild dementia [1, 2, 3].
+ MCI is an operational diagnostic term used to describe subjects at risk of developing Alzheimer’s disease (AD) or in the pre-clinical stage of the disease [4, 5, 6].
+ The diagnosis of MCI is difficult using neuropsychological test scores or conventional brain imaging because the standard score and the image are ambiguous.
+ Structural magnetic resonance imaging (MRI) and functional imaging by single photon emission computed tomography (SPECT) or positron emission tomography (PET) are widely used for the diagnosis of AD.
+ Brain perfusion SPECT has been used as an imaging biomarker of AD and offers the advantages of lower cost and ease of access.
+ Moreover, SPECT image has been correlated with the score of neuropsychological tests [7].
+ Ten to 15 % of patients with MCI do transition to AD, and its rather high percentage is more than for a normal person, with a transition rate 1–2 % [4, 8].
+ SPECT has been an important tool in diagnosing early stage AD at the MCI stage, AD, and differentiating AD from other types of dementia and predicting the conversion from MCI to AD [9–12].
+ Voxel-based statistical analysis of SPECT image by SPM has improved the diagnosis of the MCI and AD, though it is limited, as the imaging data depend on the selection of a specific threshold [10].
+ The aim of this study is to investigate the brain area with regional cerebral blood flow (rCBF) related to the score of neuropsychological assessment in subjects (patients) with MCI, using Tc-99m-HMPAO SPECT images.
+ Cerebral correlation was calculated for the brain region between the score of neuropsychological tests and cerebral hypoperfusion by a simple regression method with SPM.
+ Automated anatomical labeling of correlations in SPM was performed using the Talairach brain atlas.
+ The anatomical brain names were found by xjView and TD Client 2.4.2.
+Patients
+A total of 93 patients (mean age 67.2 ± 7.42 years; 59 women and 34 men) affected by MCI were selected and examined by the neuropsychological tests as shown in Table 1.
+ The patients with MCI were recruited during 3 years from January 2005 to December 2007 from the Memory and Dementia Clinic at the Dong-A University Medical Center.
+ Multiple domain amnestic MCI (aMCI- m), single domain amnestic MCI (aMCI-s), single and multiple domain non-amnestic MCI (naMCI) were included in these MCI patients.
+ MCI was diagnosed according to the Petersen’s criteria [13, 14].
+ Number of patients with aMCI-m, aMCI-s, and naMCI were 56, 23 and 14 patients, respectively.
+Neuropsychological test
+Neuropsychological tests are useful for the diagnosis of early stage AD.
+ Recently, the criteria for AD have been well characterized and the current neuropsychological tests are used to determine the MCI criteria, as shown in Table 1.
+ Assessment for global cognitive function was carried out according to standardized tasks, including the MMSE [15] and the CDR Sum of Boxes score (CDRSB).
+ All patients underwent the standardized neuropsychological test battery of the Seoul Neuropsychological Screening Battery (SNSB) [16].
+ The SNSB includes: attention (backward digit span test); visuospatial function test (the Rey Complex Figure Test [RCFT]); verbal memory test (free recall and Seoul Verbal Learning Test); visual memory test (the RCFT; 20-min delayed recall and recognition); frontal executive function test [controlled oral word association test (COWAT) animal, COWAT phonemic and Korean-color word ‘stroop’ test (K-CWST) color reading].
+ The neuropsychological tests, as a covariate for simple regression in SPM8, used eleven articles for the MCI patients, as shown in Table 1.
+Spect
+All patients were confined for 20 min in the resting state (laying in a supine position on a bed with their eyes closed in a quiet room with dimmed lights) and injected with 925 MBq of Tc-99m-HMPAO.
+ Brain SPECT images were obtained on the patients using a two-head gamma camera (MultiSPECT II, ICON, Siemens, USA) equipped with fan- beam collimator.
+ The acquisition matrix was 128 9 128 9 47 with a voxel size of 2.1 9 2.1 9 3.9 mm, the number of projections was 64, with an acquisition time per projection of 40 s.
+ Trans-axial, sagittal, and coronal images were reconstructed using a filtered back-projection algorithm with a Butterworth filter at a cutoff frequency of 0.6 cycle/ pixel and attenuation correction by Chang’s first order technique and a linear attenuation coefficient of 0.12/cm [17].
+Image analysis
+Imaging data were analyzed using the SPM8 (Wellcome Department of Cognitive Neurology, Institute of Neurology, University College of London) program for image registration and for the spatial normalization of the SPECT images [18–22].
+ The reconstructed images were converted from Digital Imaging and Communications in Medicine (DICOM) to Neuro-imaging Informatics Technology Ini- tiative (NIfTI) format for using SPM8.
+ All images were spatially normalized to the Montreal Neurological Institute (MNI) of McGill University standard template provided  with the SPM8 to remove the inter-subject anatomic vari- ability [21–23] before statistical analysis.
+ The normalization in SPM leads to substantially different locations of the cerebellum in MNI average space [24].
+ Spatially normalized images were smoothed by convolution with an iso- tropic gaussian kernel with 16-mm Full-width at half maximum (FWHM) [25].
+ The purpose of smoothing was to increase the signal-to-noise ratio and to account for varia- tions in the subtle anatomic structures.
+ We analyzed the brain image of MCI patients by SPM8, and showed the anatomical region with correlation between the neuropsychological tests and cerebral hypoperfusion using xjView [26] and TD Client 2.4.2 [27] tools.
+ The SPM8 tool provided correlation between neuropsychological tests and brain perfusion by simple regression method.
+Table 1 Clinical data and neuropsychological assessments results in all MCI patients
+          
+            
+              
+              
+                
+                   Patients
+                   with MCI
+                
+                
+                   (n = 93) 93)
+                  
+                
+                
+                   67.22 ±
+                   7.42
+                
+                
+                   34:59
+                  
+                
+                
+                   6.74 ±
+                   4.68
+                
+                
+                   3.16 ±
+                   0.94
+                
+                
+                   28.90 ±
+                   8.67
+                
+                
+                   14.50 ±
+                   4.58
+                
+                
+                   3.10 ±
+                   2.28
+                
+                
+                   6.84 ±
+                   6.63
+                
+                
+                   11.20 ±
+                   3.92
+                
+                
+                   13.10 ±
+                   8.84
+                
+                
+                   60.70 ±
+                   26.90
+                
+              
+            
+          
+          Patients with MCI (n = 93) 67.22 ± 7.42 34:59 6.74 ± 4.68 3.16 ± 0.94 28.90 ± 8.67 14.50 ± 4.58 3.10 ± 2.28 6.84 ± 6.63 11.20 ± 3.92 13.10 ± 8.84 60.70 ± 26.90
+        
+Age Sex (male:female) Education period (year) Attention Digit span (backward) Visuospatial function Rey complex figure test (CFT) copy Verbal memory function Seoul verbal learning test (SVLT) Free recall 20 min delayed recall Rey CFT 20 min delayed recall Frontal executive function Controlled oral word association test (animal) Controlled oral word association test (phonemic) Stroop test (color reading) Depression score Geriatric depression score (GDS) 17.00 ± 6.82 Global cognitive function Mini-mental state examination (MMSE) 25.00 ± 3.41 Clinical dementia rating-sum of boxes (CDRSB) 1.54 ± 0.72
+MCI Mild cognitive impairment
+Statistical analysis
+We applied a simple regression method in order to obtain the correlation between neuropsychological scores and hypoperfusion imaging data from SPECT [7, 28–31].
+ Simple regression with covariance studies between the score of neuropsychological assessment and brain  hypoperfusion demonstrated the correlated regions in the brain.
+ To reveal regions in which hypoperfusion was significantly correlated with the score of neuropsychological assessment, the general linear model with the score of neuropsychological assessment as a covariate was tested at each voxel.
+ The diagnosis was based on a clinical and neuropsychological examination, including the digit span (backward) for the attention, Rey complex figure test (CFT) copy for visuospatial function, Seoul verbal learning test (SVLT) immediate recall and Rey CFT for memory function, Controlled oral word association test (COWAT) animal, COWAT phonemic, and (Korean-color word ‘stroop’ test) K-CWST color reading for frontal executive function, Geriatric depression score (GDS) for depression score, MMSE score, and clinical dementia rating-sum of boxes (CDRSB) for general cognition as shown in Table 1 [32].
+ The SPM8 T-maps were obtained using a threshold for statistical significance of FDR, p \ 0.01 or FWE, p \ 0.05 and clusters of less than 100 voxels were not considered.
+ These correlated regions by SPM8 analysis were related to the neuropsychological assessment scores.
+Anatomical labeling
+xjView is a toolbox compatible with SPM8 to view T test or F test brain images and makes it easy to view images, change p values, compare images, and find anatomical labels [26].
+ It has a multiple view mode to see glass, sec- tion, render, and slice view.
+ This viewing program can change p value by sliding a scroll bar and display the resulted supra-threshold voxels instantly, both positive and negative contrast, and multiple images at the same time.
+ Also, it is a useful tool to find out the anatomical name of the selected voxel or clusters and to display cluster’s anatomical information and list all cluster information.
+ In this study, the function of finding the anatomical name mainly used the results from the TD Client.
+ The database used in xjView is from MNI Space Utility (MSU) [33] and WFU_PickAtlas [34].
+ TD is a high-speed database server for querying and retrieving data about human brain structure, and the TD Client is used to assign Talairach Atlas labels for a given x, y, z co-ordinate.
+ The assigned label is hierarchical, and is composed of five levels: hemisphere, lobe, gyrus, tissue type, and cell type.
+ In SPM8, converting MNI coordinates to Talairach coordinates is performed according to a nonlinear transformations approach, as described at CBU Imaging [23, 35–37].
+The neuropsychological tests, including attention, language function, visuospatial function, memory, frontal executive  function, MMSE, depression and general cognition, used eleven articles for the MCI patients.
+ The percentage of voxels of correlated brain regions with neuropsychological test score and brain perfusion deficit was calculated using xjView.
+ The values by Rey CFT copy score, MMSE score, SVLT immediate recall score and REY CFT delayed recall score were 15.30, 12.33, 10.59 and 8.45 %, respectively, as shown in Fig. 1.
+ These values of percentage were used to determine the correlated degree with neuropsychological scores.
+ Four neuropsychological tests (Rey CFT copy score, MMSE score, SVLT recall total score and REY CFT delayed recall tests) were significantly correlated with the SPECT image more than another seven items of neuropsychological tests.
+ Brain areas show significant correlations between neuropsychological test score and hypoperfusion by simple regression in which the threshold of p \ 0.01 FDR, as shown in Fig. 2.
+ Rey CFT copy, MMSE, SVLT immediate recall and Rey CFT delayed recall scores were strongly correlated with neuropsychological test and hypoperfusion.
+ The largest cluster of correlation related to Rey CFT copy included the left middle temporal gyrus, Brodmann area (BA) 21 as shown in Table 2 by xjView and Table 3 by TD Client.
+ And another cluster has a correlation on the same regions of left lingual gyrus (BA 18), right postcentral gyrus (BA 40) and left thalamus (pulvinar).
+ But some correlated regions [right inferior frontal gyrus (BA 45) and right cingulated gyrus (BA 31) with p \ 0.01 FDR] were different, according to xjView and TD Client.
+ The numerical algorithm and the database for the calculations differed, but there was not much difference between anatomical regions by xjView and TD Client.
+ The differences between the regions were represented in the small cluster as shown in Tables 2 and 3, but it was barely discernible between two results by the figures, as shown in Fig. 2.
+ The correlation related to MMSE included left parahippocampal gyrus, right fusiform gyrus and right middle frontal gyrus (BA 46) by xjView and TD Client.
+ And other correlated regions were the left inferior frontal gyrus (BA 47), right cingulated gyrus (BA31), and left thalamus (pulvinar), as shown in Table 3.
+ The correlated domains were nearly in agreement from the two different results using xjView and TD Client.
+ The cluster of small area was not coincident with the results of two automatic labeling tools.
+ SVLT immediate recall score was correlated with left superior temporal gyrus and Rey CFT delayed recall score was correlated with left inferior frontal gyrus (BA 47), right inferior frontal gyrus, and left lentiform nucleus by xjView, as shown in Table 2.
+ Anatomical labeling in the correlation results by two methods, TD Client and xjView, was pointed at slightly different areas, but both of the results agree in most areas of correlation.
+  Figure 3 shows brain areas with a significant positive correlation in which the threshold of p \ 0.01 FDR k [ 100 and p \ 0.05 FWE k [ 100 was used.
+ The degree of statistical significance was represented by the color brightness.
+ The regions of red and yellow were expressed by the thresholds of p \ 0.01 FDR and p \ 0.05 FEW, respectively.
+ The correlation areas of Rey CFT copy and MMSE between neuropsychological score and hypoperfusion were demonstrated as p \ 0.01 FDR and p \ 0.05 FWE using SPM8.
+ The anatomical brain regions showing significant hypoperfusion correlated with neuropsychological test scores are shown in Table 3.
+
+          Fig. 1 Calculation of percentage of voxels of correlated brain regions between neuropsychological test scores and brain perfusion deficit by simple regression
+        
+Anatomical labeling by TD Client was used in the single point search method. xjView is a useful tool to find out the anatomical name of the selected voxel or clusters and to display cluster’s anatomical information and list all cluster information. Table 2 was made by TD Client and Table 3 was made by xjView brain name searching program.
+ The correlated domains, as shown in Tables 2 and 3, from two different results of xjView and TD Client, were in near agreement.
+ The anatomical name of the correlated regions was not coincident with the results of these two automatic labeling tools.
+ The database of xjView used WFU_PickAtlas and TD Client used TD from PickAtlas.
+ Brain SPECT enables the detection of dysfunction in MCI that characterizes the early stage of the disease pro- cess and provides pathophysiological information that cannot yet be discerned by structural MR imaging.
+ This method makes earlier diagnosis possible even before clinical or structural evidence, and it can enable early therapeutic intervention, which is more likely to be effec- tive than at more advanced stages of the disease [38].
+ In addition, brain perfusion SPECT generally correlated with histopathologic changes in the distribution of neurofibrillary pathology in Alzheimer’s disease [11].
+ In the present study, correlations related to brain regions like the cerebral hypoperfusion were evaluated with simple regression, and were observed with p \ 0.01 FDR and p \ 0.05 FWE.
+ The percentage of voxels of correlated brain regions with neuropsychological test score and brain hypoperfusion deficit was calculated, with the result shown in Fig. 1 for p \ 0.01 FDR.
+ These values of percentages were used to determine the correlation degree with neuropsychological scores.
+ Rey CFT copy, MMSE, SVLT immediate recall, and Rey CFT delayed recall scores were correlated more strongly than the other seven covariates.
+ Our results of the correlation between neuropsychological test score and hypoperfusion may suggest concordance of cognitive dysfunction represented by neuropsychological test with pathological changes in the distribution of neurofibrillary tangle in the stage of MCI or early dementia of Alzheimer type.
+ Amnestic MCI patients with gray matter lost from the hippocampal gyrus and cingulate gyrus were observed by MRI using voxel-based morphometry [39].
+ Previous analysis of SPECT or PET image was demonstrated in MCI subjects who had abnormal rCBF in posterior associative cortex [40–42], medial temporal lobe [43–45], posterior cingulate gyrus and precuneus.
+ Abnormal rCBF in superior and medial frontal gyri and anterior cingulate cortex was reported in dysexecutive MCI patients [46].
+ Also, naMCI patients were observed with abnormal rCBF in temporal cortex and frontal cortex [47].
+ According to the SPECT image analysis for Alzheimer’s patients from MCI, abnormal rCBF were observed in parahippocampal gyri, precunei, posterior cingulate cortex, parietal association cortex, middle temporal gyrus [48], inferior temporal gyri, fusiform gyri [43], caudal anterior cingulate gyrus, insula, superior temporal gyrus, caudate nucleus and thalamus [45].
+ The anatomical brain regions were investigated by xjView and TD Client 2.4.2.
+ Rey CFT copy score was correlated with hypoperfusion in the left middle temporal gyrus (BA 21), right inferior frontal gyrus (BA 45), right lingual gyrus, left lingual gyrus (BA 18), right postcentral gyrus (BA 40), right cingulate gyrus (BA 31), left thalamus (pulvinar) for p \ 0.01 FDR, as shown in Tables 2 and 3.
+ The MMSE score was also correlated with left inferior frontal gyrus (BA 47), right fusiform gyrus, right middle frontal gyrus (BA 46), right cingulate gyrus (BA 31), and left thalamus (pulvinar).
+ BA 18 in the left occipital lobe was correlated with brain region Rey CFT copy test score as a covariance in SPM8.
+ The correlation with Rey CFT copy assessment score for visuospatial function test was reasonable in BA 18 because the area was a visual association area.
+ In this study, the anatomical regions of correlation were mainly observed in the frontal lobe area to MMSE and SVLT immediate recall test.
+ These two neuropsychological tests had a strong correlation with Tc-99m-HMPAO brain SPECT images from MCI patients because the frontal lobe is an important structure in charge of working memory and general cognitive function.
+ Visuospatial dysfunction, which was represented by Rey CFT and general cognitive dysfunction represented by MMSE were mostly correlated with cerebral hypoperfusion in the patients with MCI.
+ Our results support that detailed neuropsychological test combined with a brain SPECT imaging using xjView and TD Client may reflect a useful diagnostic tool to detect early stage of dementia in patients with MCI.
+ Brain areas with a significant correlation in which the threshold of p \ 0.01, FDR k [ 100, (red) are displayed in Fig. 3 by xjView.
+ The result was compared with the correlation of brain in which the threshold is p \ 0.05, FWE k [ 100 (yellow), by SPM8.
+ These two methods were reasonably allowed to represent the p value strictly by voxel-by-voxel statistical analysis.
+ Family-wise error (FWE) provided a more precise analysis than the conventional control of false discovery rate (FDR) in SPM8.
+ Rey CFT copy score was correlated with hypoperfusion in the left middle temporal gyrus (BA 21) with both p \ 0.01 FDR and p \ 0.05 FEW.
+ And MMSE score was also correlated with left parahippocampal gyrus with both as shown in Table 3.
+ These areas were most significantly correlated with neuropsychological score and hypoperfusion in statistical analysis by SPM8 and anatomical labeling by xjView and TD Client.
+ There are some fundamental limitations in our research.
+ The initial limitations were introduced to the image from the gamma camera, the normalized and statistical algorithm (SPM8) and anatomical labeling codes (xjView and TD Client 2.4.2) with a different database.
+ Anatomical labeling in the correlation results by two methods was directed at slightly different areas, but both of the results agree in most areas of correlation.
+ Most of the labeling of anatomical brain regions were found using TD and xjView, which were in agreement. xjView is useful tool to find out the correlated brain region from the spm T-map by statistical analysis and to display the image on the template.
+ In future work, we will develop standardization to reduce the normalization error and improve the probability method to obtain the anatomical labeling of brain region correlation with neuropsychological test scores of MCI patients.
+Fig. 2 Glass view of brain regions of a significant correlation between neuropsychological score and brain perfusion deficit by simple regression is seen here. The correlated regions of a Rey CFT copy, b MMSE, c SVLT recall total, and d Rey CFT delayed recall are showed as p \ 0.01 FDR. Check mark (red color) is the origin (0, 0, 0) of the MNI coordinate in xjView
+          
+        
+Table 2 Anatomical brain regions showing significant hypoperfusion correlated with neuropsychological test scores by simple regression and xjView (p \ 0.01 FDR)
+          
+             Peak MNI coordinates Voxels number
+            
+              
+                
+                   Rey CFT copy
+                  
+                   -64
+                   -52
+                   -10
+                   23349
+                
+              
+              
+                
+                  
+                  
+                   42
+                   -36
+                   58
+                   1657
+                
+                
+                  
+                  
+                   -16
+                   -64
+                   -6
+                   1056
+                
+                
+                  
+                  
+                   -16
+                   -30
+                   2
+                   125
+                
+                
+                   Rey CFT delayed
+                   recall
+                   -50
+                   22
+                   -8
+                   6754
+                
+                
+                  
+                  
+                   8
+                   34
+                   -2
+                   3996
+                
+                
+                  
+                  
+                   -40
+                   -56
+                   42
+                   2755
+                
+                
+                  
+                  
+                   46
+                   22
+                   -14
+                   2078
+                
+                
+                  
+                  
+                   34
+                   -62
+                   36
+                   1936
+                
+                
+                  
+                  
+                   8
+                   40
+                   56
+                   385
+                
+                
+                  
+                  
+                   40
+                   -36
+                   54
+                   370
+                
+                
+                  
+                  
+                   -8
+                   0
+                   -2
+                   194
+                
+                
+                   MMSE
+                  
+                   -22
+                   -18
+                   -22
+                   24371
+                
+                
+                  
+                  
+                   34
+                   -42
+                   -24
+                   2707
+                
+                
+                  
+                  
+                   58
+                   30
+                   26
+                   112
+                
+                
+                  
+                  
+                   32
+                   -20
+                   18
+                   104
+                
+                
+                   SVLT immediate
+                   recall
+                   -48
+                   14
+                   -6
+                   22726
+                
+              
+            
+          
+          Peak MNI coordinates Voxels number Rey CFT copy -64 -52 -10 23349 42 -36 58 1657 -16 -64 -6 1056 -16 -30 2 125 Rey CFT delayed recall -50 22 -8 6754 8 34 -2 3996 -40 -56 42 2755 46 22 -14 2078 34 -62 36 1936 8 40 56 385 40 -36 54 370 -8 0 -2 194 MMSE -22 -18 -22 24371 34 -42 -24 2707 58 30 26 112 32 -20 18 104 SVLT immediate recall -48 14 -6 22726
+        
+Peak intensity Anatomical brain regions 5.3181 Left cerebrum, temporal lobe, middle temporal gyrus, gray matter, BA 21, temporal mid L (aal) 3.8428 Right cerebrum, parietal lobe, postcentral gyrus, gray matter, BA 40, postcentral R (aal) 4.0759 Left cerebrum, occipital lobe, lingual gyrus, gray matter, BA 18, lingual L (aal) 3.2414 Left cerebrum, sub-lobar, thalamus, gray matter, pulvinar, thalamus L (aal) 5.1171 Left cerebrum, frontal lobe, inferior frontal gyrus, gray matter, BA 47, frontal inf orb L (aal) 3.6116 Right cerebrum, limbic lobe, anterior cingulate, white matter, cingulum ant R (aal) 4.0398 Left cerebrum, parietal lobe, inferior parietal lobule, white matter, angular L (aal) 4.7275 Right cerebrum, frontal lobe, inferior frontal gyrus, frontal inf orb R (aal) 3.8106 Right Cerebrum, Parietal Lobe, Angular Gyrus, White Matter, Occipital Mid R (aal) 3.4118 Right cerebrum, frontal lobe, superior frontal gyrus, gray matter, BA 8, frontal sup medial R (aal) 3.3692 Right cerebrum, parietal lobe, postcentral gyrus, white matter, postcentral R (aal) 3.3556 Left cerebrum, sub-lobar, lentform nucleus, gray matter 4.6837 Left cerebrum, limbic lobe, parahippocampa gyrus, white matter 4.2497 Right cerebrum, temporal lobe, fusiform gyrus, cerebellum 6 R (aal) 3.7229 Right cerebrum, frontal lobe, middle frontal gyrus, gray matter, BA 46, frontal inf tri R (aal) 3.1660 Right cerebrum, sub-lobar, insula, white matter, insula R (aal) 4.6521 Left cerebrum, frontal lobe, superior temporal gyrus
+Table 3 Anatomical brain regions showing significant hypoperfusion correlated with neuropsychological test scores by simple regression and TD Client (p \ 0.01 FDR and p \ 0.05 FWE)
+          
+             Talairach’s Anatomical brain regions Coordinates
+            
+              
+                
+                   Rey CFT copy
+                   p \ 0.01
+                   FDR,
+                   K [ 100
+                   -63
+                   -51
+                   -6
+                   Left cerebrum, temporal lobe, middle temporal gyrus, gray matter, BA
+                   21
+                
+              
+              
+                
+                  
+                  
+                  
+                  
+                   -51
+                   -3
+                   9
+                   Left cerebrum, frontal lobe, precentral gyrus, white matter
+                  
+                
+                
+                  
+                  
+                  
+                  
+                   -48
+                   25
+                   -5
+                   Left cerebrum, frontal lobe, inferior frontal gyrus, white matter
+                  
+                
+                
+                  
+                  
+                  
+                  
+                   50
+                   20
+                   3
+                   Right cerebrum, TD, inferior frontal gyrus, gray matter, BA 45
+                  
+                
+                
+                  
+                  
+                  
+                  
+                   18
+                   -64
+                   2
+                   Right cerebrum, TD, lingual gyrus, gray matter
+                  
+                
+                
+                  
+                  
+                  
+                  
+                   -16
+                   -62
+                   -2
+                   Left cerebrum, occipital lobe, lingual gyrus, gray matter, BA 18
+                  
+                
+                
+                  
+                  
+                  
+                  
+                   42
+                   -32
+                   55
+                   Right cerebrum, parietal lobe, postcentral gyrus, gray matter, BA 40
+                  
+                
+                
+                  
+                  
+                  
+                  
+                   18
+                   -33
+                   42
+                   Right cerebrum, limbic lobe, cingulate gyrus, gray matter, BA 31
+                  
+                
+                
+                  
+                  
+                  
+                  
+                   -16
+                   -29
+                   3
+                   Left cerebrum, TD, thalamus, gray matter, pulvinar
+                  
+                
+                
+                  
+                   p \ 0.05
+                   FWE,
+                   K [ 100
+                   -63
+                   -51
+                   -6
+                   Left cerebrum, temporal lobe, middle temporal gyrus, gray matter, BA
+                   21
+                
+                
+                  
+                  
+                  
+                  
+                   -51
+                   -3
+                   9
+                   Left cerebrum, frontal lobe, precentral gyrus, white matter
+                  
+                
+                
+                  
+                  
+                  
+                  
+                   -48
+                   25
+                   -5
+                   Left cerebrum, frontal lobe, inferior frontal gyrus, white matter
+                  
+                
+                
+                  
+                  
+                  
+                  
+                   -48
+                   19
+                   29
+                   Left cerebrum, frontal lobe, middle frontal gyrus, white matter
+                  
+                
+                
+                   MMSE
+                   p \ 0.01
+                   FDR,
+                   K [ 100
+                   -22
+                   -18
+                   -18
+                   Left cerebrum, limbic lobe, parahippocampal gyrus, white matter
+                  
+                
+                
+                  
+                  
+                  
+                  
+                   -48
+                   19
+                   -9
+                   Left cerebrum, frontal lobe, inferior frontal gyrus, gray matter, BA 47
+                  
+                
+                
+                  
+                  
+                  
+                  
+                   -26
+                   32
+                   21
+                   Left cerebrum, frontal lobe, sub-gyral, white matter
+                  
+                
+                
+                  
+                  
+                  
+                  
+                   34
+                   -42
+                   -18
+                   Right cerebrum, temporal lobe, fusiform gyrus
+                  
+                
+                
+                  
+                  
+                  
+                  
+                   36
+                   -18
+                   -13
+                   Right cerebrum, sub-lobar, lateral ventricle, cerebrospinal fluid
+                  
+                
+                
+                  
+                  
+                  
+                  
+                   32
+                   -9
+                   -25
+                   Right cerebrum, limbic lobe, sub-gyral, white matter
+                  
+                
+                
+                  
+                  
+                  
+                  
+                   57
+                   30
+                   22
+                   Right cerebrum, frontal lobe, middle frontal gyrus, gray matter, BA 46
+                  
+                
+                
+                  
+                  
+                  
+                  
+                   32
+                   -19
+                   18
+                   Right cerebrum, sub-lobar, insula, white matter
+                  
+                
+                
+                  
+                  
+                  
+                  
+                   18
+                   -33
+                   42
+                   Right cerebrum, limbic lobe, cingulate gyrus, gray matter, BA 31
+                  
+                
+                
+                  
+                  
+                  
+                  
+                   -16
+                   -29
+                   3
+                   Left cerebrum, TD, thalamus, gray matter, pulvinar
+                  
+                
+                
+                  
+                   p \ 0.05
+                   FWE,
+                   K [ 100
+                   -22
+                   -18
+                   -18
+                   Left cerebrum, limbic lobe, parahippocampal gyrus, white matter
+                  
+                
+                
+                   TD Talairach
+                   Daemon
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                
+              
+            
+          
+          Talairach’s Anatomical brain regions Coordinates Rey CFT copy p \ 0.01 FDR, K [ 100 -63 -51 -6 Left cerebrum, temporal lobe, middle temporal gyrus, gray matter, BA 21 -51 -3 9 Left cerebrum, frontal lobe, precentral gyrus, white matter -48 25 -5 Left cerebrum, frontal lobe, inferior frontal gyrus, white matter 50 20 3 Right cerebrum, TD, inferior frontal gyrus, gray matter, BA 45 18 -64 2 Right cerebrum, TD, lingual gyrus, gray matter -16 -62 -2 Left cerebrum, occipital lobe, lingual gyrus, gray matter, BA 18 42 -32 55 Right cerebrum, parietal lobe, postcentral gyrus, gray matter, BA 40 18 -33 42 Right cerebrum, limbic lobe, cingulate gyrus, gray matter, BA 31 -16 -29 3 Left cerebrum, TD, thalamus, gray matter, pulvinar p \ 0.05 FWE, K [ 100 -63 -51 -6 Left cerebrum, temporal lobe, middle temporal gyrus, gray matter, BA 21 -51 -3 9 Left cerebrum, frontal lobe, precentral gyrus, white matter -48 25 -5 Left cerebrum, frontal lobe, inferior frontal gyrus, white matter -48 19 29 Left cerebrum, frontal lobe, middle frontal gyrus, white matter MMSE p \ 0.01 FDR, K [ 100 -22 -18 -18 Left cerebrum, limbic lobe, parahippocampal gyrus, white matter -48 19 -9 Left cerebrum, frontal lobe, inferior frontal gyrus, gray matter, BA 47 -26 32 21 Left cerebrum, frontal lobe, sub-gyral, white matter 34 -42 -18 Right cerebrum, temporal lobe, fusiform gyrus 36 -18 -13 Right cerebrum, sub-lobar, lateral ventricle, cerebrospinal fluid 32 -9 -25 Right cerebrum, limbic lobe, sub-gyral, white matter 57 30 22 Right cerebrum, frontal lobe, middle frontal gyrus, gray matter, BA 46 32 -19 18 Right cerebrum, sub-lobar, insula, white matter 18 -33 42 Right cerebrum, limbic lobe, cingulate gyrus, gray matter, BA 31 -16 -29 3 Left cerebrum, TD, thalamus, gray matter, pulvinar p \ 0.05 FWE, K [ 100 -22 -18 -18 Left cerebrum, limbic lobe, parahippocampal gyrus, white matter TD Talairach Daemon
+        
+Rey CFT copy and MMSE scores were more valid neuropsychological test scores than others scores because these scores are strongly correlated with blood perfusion of the brain.
+ Visuospatial and general cognitive dysfunction were most correlated with cerebral hypoperfusion in the patients with MCI.
+ The correlation between clinical score and hypoperfusion may represent an additional tool for pre- clinical diagnosis of dementia, though the clinical test requires additional validation.
+ Most labeling of anatomical brain regions based on using TD and xjView, respectively, were in agreement. xjView was a useful tool to find out the anatomical name of the selected voxel or clusters and to  display the cluster’s anatomical information and list all cluster information and could be used instead of TD Client.
+
+          Fig. 3 Rendering view of the significant correlated brain regions between neuropsychological score and brain perfusion deficit by simple regression is observed. The correlated regions of a Rey CFT
+        
+This work was supported by the Dong-A University research fund.
+ The authors would like to thank Dr.
+ Adrian Ankiewicz from ANU (Australia) and Dr.
+ Guillaume Flandin in University College London (UK) for helpful comments on the man- uscript.
+ Also, the authors thank Dr.
+ Xu Cui in Stanford University
+This work was supported by the Dong-A University research fund.
+ The authors would like to thank Dr.
+ Adrian Ankiewicz from ANU (Australia) and Dr.
+ Guillaume Flandin in University College London (UK) for helpful comments on the man- uscript.
+ Also, the authors thank Dr.
+ Xu Cui in Stanford University (US) for their skilled technical assistance.

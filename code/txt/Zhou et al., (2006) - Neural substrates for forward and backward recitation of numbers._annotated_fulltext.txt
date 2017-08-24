@@ -1,0 +1,258 @@
+Neural substrates for forward and backward recitation of numbers and the alphabet: A close examination of the role of intraparietal sulcus and perisylvian areas
+The past decade has witnessed the most active research in neurobiology of number processing (Butterworth, 1999; Dehaene et al., 2004).
+ Much is known now about the various brain regions and their associated functions for numerical processing.
+ For example, Dehaene and Cohen (1995) have
+⁎ Corresponding author.
+identified brain regions that match to different types of number codes according to his triple-code model (Dehaenes, 1992).
+ Despite the numerous studies on number processing and a few studies on object counting (reviewed below), surprisingly not a single study has examined the neural substrates of straightforward number sequence recitation (i.e., reciting 1, 2, 3, 4, etc., without objects), arguably the most basic 
+ In fact, young children start to recite numerical sequences before they learn to count objects, to add (mentally), to read, and to write the numbers.
+ So far, only a few studies have examined the neural bases of tasks that resemble numerical sequence recitation.
+ The present study investigated the neural bases of straightforward numerical sequence recitation by comparing brain activation patterns of forward and backward numerical sequence recitation with a control task (i.e., fixation) and a comparison task (i.e., alphabetic recitation).
+ Based on previous research on number processing, we focused our analyses on the intraparietal sulcus (IPS) and perisylvian areas.
+ In the next few sections, we will briefly review the literature on the impor- tance of IPS and perisylvian areas in number processing in general and in tasks similar to number recitation in particular.
+ For example, numerical comparisons, but not the comparisons of ferocity of animals, strongly activated the bilateral IPS (Thioux et al., 2001).
+ Compared to five nonnumerical tasks (i.e., grasping, pointing, saccades, attention, and phoneme detection), subtraction elicited the greatest activation in the IPS (Simon et al., 2002).
+ An electrophysiological study has also revealed greater parietal activation for number words than for other categories of words such as action verbs, names of animals, or names of famous persons (Dehaene, 1995).
+ A recent event-related fMRI study showed that numbers elicited greater activation in the bilateral regions of the IPS than did letters and colors (Eger et al., 2003).
+ In fact, many types of numerical tasks were found to elicit activation in IPS.
+ They include both typical and atypical numerical tasks.
+ Typical tasks include numerical comparison (Chochon et al., 1999; Le.
+ Clec et al., 2000; Pesenti et al., 2000; Pinel et al., 2001; Kaufmann et al., 2005), mental calculation (Simon et al., 2002; Chochon et al., 1999; Dehaene et al., 1999; Ghatan et al., 1998; Lee, 2000; Stanescu-Cosson et al., 2000), numerosity estimation (Fink et al., 2001; Piazza et al., 2002; Sathian et al., 1999), and categorization of numbers based on parity (Thioux et al., 2001).
+ Atypical numerical tasks include judgment of shapes of Arabic digits (Pesenti et al., 2000), detection of a target digit in a serially presented digits (Eger et al., 2003), digit substitution (Gruber et al., 2001), subliminal quantity priming across notational systems (Naccache and Dehaene, 2001), and nonsymbolic/spatial magnitude comparison (Fias et al., 2003; Pinel et al., 2004; Walsh, 2003).
+ Furthermore, the activation of sites surrounding IPS in response to numerical manipulation is independent of presentation format.
+ For example, both printed numerical symbols (e.g., Arabic digits, number words) and spoken numerical words (Pinel et al., 2001) elicited IPS activation.
+ These results from brain-imaging studies are consistent with evidence from lesion studies.
+ Lesions that cause Gerstmann's acalculia are typically centered in the depth of the left intraparietal sulcus (Mayer et al., 1999; Takayama et al., 1994).
+ Lesions to that area could cause a severe deficit in the understanding of quantity or numbers (Cipolotti et al., 1991; Dehaene and Cohen, 1997; Delazer and Benke, 1997; Lemer et
+ For example, a patient with a small left parietal lesion showed an almost complete deficit in all spheres of number processing but generally preserved language and semantic capabilities (Cipolotti et al., 1991).
+ Lemer et al. (2003) found that an acalculic patient with a focal lesion of the left parietal lobe and Gerstmann's syndrome was more impaired in subtraction than in multiplication.
+ This patient also showed a severe slowness in approximation, and exhibited associated impairments in subtizing and numerical comparison tasks both with Arabic digits and with arrays of dots.
+ Given the strong evidence for IPS's role in numerical processing, Dehaene et al. (2004) recently have claimed, “The human intraparietal sulcus is systematically activated in all number tasks and could host a central amodal representation of quantity” (p.
+ 218, emphasis added).
+ Thus, it seems likely that IPS would be involved in the recitation of numbers.
+ Results from these studies were mixed, however, in terms of the role of IPS.
+ In five studies (Fink et al., 2001; Piazza et al., 2002; Sathian et al., 1999; Piazza et al., 2003, 2004), subjects were asked to report the number of dots shown on the screen.
+ It was inferred that, when the number of dots were few (i.e., four or fewer), subjects would subtize, but when the number of dots increased to five or more, subjects would count (a task that involves number sequence recitation).
+ Results showed consistent posterior IPS activation for both subtizing and counting, but the activation was greater for counting than for subtizing.
+ Two other studies used tasks that resemble number sequence recitation.
+ In Hanakawa et al. (2003) study, subjects were asked to rehearse (silently) a set of seven numbers.
+ In Cowell et al. (2000) study, subjects were asked to repeatedly say a number, such as “twenty six”.
+ Both studies found no IPS activation.
+ Instead they found activation in posterior superior temporal gyrus.
+ Finally, the task that is closest to normal number sequence recitation was time estimation task used by Hinton et al. (2004), in which subjects were asked to estimate time by reciting “one thousand one, one thousand two...” Again, this reciting did not elicit IPS activation but only inferior frontal gyrus activation.
+ The above review of the literature concerns only forward recitation.
+ Even less is known about backward number recitation or similar tasks.
+ In Wildgruber et al. (1999), subjects were asked to recite the names of the 12 months backwards.
+ It was found that IPS, inferior frontal gyrus, and superior temporal gyrus were activated by backward recitation of the months as compared with fixation.
+ In the digit span memory research, subjects were asked to recite backward a short list of digits that were briefly presented on the screen (Gerton et al., 2004; Hoshi et al., 2000).
+ Subjects had to rely on their short- term memory of the sequence of the digits and recite them backwards.
+ IPS was also activated by these tasks.
+ Based on these three studies, we expected backward recitation to be associated with IPS.
+ In addition to the above studies, several other studies (Chochon et al., 1999; Petrides et al., 1993; Rueckert et al., 1996;
+ Authors of such studies seemed to assume that number sequence recitation is such a basic function that it serves as a good control tasks.
+ Without knowing its own neural substrates, however, it is unclear what is actually controlled for by such a control task.
+ In sum, given these mixed results and a lack of research on straightforward numerical sequence recitation, the role of IPS in such tasks is unclear.
+ It has been found that tasks such as single-digit multiplication and addition with sum less than 10 would activate the left angular gyrus (Chochon et al., 1999; Pinel et al., 2001; Lee, 2000).
+ This representation is the primary code for accessing a rote verbal memory of arithmetic facts (e.g., “nine times nine equals eighty-one”).
+ It is likely that number sequence recitation relies on such verbal codes, thus is associated with the perisylvian areas.
+ The three studies that did not find IPS activation for tasks similar to number sequence recitation as reviewed above (Hanakawa et al., 2003; Cowell et al., 2000; Hinton et al., 2004) reported activation in perisylvian areas such as posterior superior temporal gyrus as well as inferior frontal gyrus.
+ Therefore, we expected number sequence recitation to activate perisylvian areas.
+ This study used a 2 (number versus alphabet) × 2 (forward versus backward recitation) design (See Experimental procedures).
+ The above review of literature suggests that IPS and perisylvian areas are likely to be involved in number sequence recitation.
+ What is not clear is whether IPS's role in sequence recitation is limited to numerical sequences.
+ Alphabetical sequences can serve as a good comparison task because of its ordered nature.
+ A comparison with alphabet recitation would also shed some light on a specific question regarding whether IPS's involvement in numerical sequence recitation is due to magnitude manipulation (e.g., because of backward recitation's similarity to subtraction that involves magnitude manipulation) (Dehaene and Cohen, 1997) or due to other means such as visual imagery of number sequence (Chochon et al., 1999; Zago et al., 2001) or due to attention or working memory.
+ There is much evidence for the broader role of IPS in visuo-spatial tasks.
+ For example, IPS is activated when performing mental rotation tasks (Carpenter et al., 1999; Kosslyn et al., 1998; Richter et al., 2000) and mental navigation tasks (Ghaem et al., 1997).
+ In sentence comprehension tasks, high-imagery sentences could activate the left IPS more strongly than could low-imagery sentences
+ The IPS was also tuned to the shift of attention (Corbetta et al., 1998, 2000; LaBar et al., 1999).
+ In fact, studies have shown that almost all tasks involving working memory could activate the brain regions in and around IPS (Petrides et al., 1993; Diwadkar et al., 2000; Postle and D'Esposito, 2000; Linden et al., 2003; Nystrom et al., 2000; Postle et al., 2004; Thomas et al., 1999;Xue et al., 2004; Zurowski et al., 2002).
+ By comparing number and alphabet recitation, our study can help to disentangle whether the IPS's involvement in number recitation is via magnitude manipulation or via other mental processing (such as, broader visuo-spatial processing, attention, and working memory).
+ If IPS's involvement in number recitation is only via magnitude processing, a similar sequence recitation task that does not involve magnitude processing – that is, alphabet recitation – should not activate IPS.
+ On the other hand, if IPS is also activated by alphabet recitation, that would mean recitation of numbers and alphabet share some common neural mechanism (possibly visuo-spatial processing, attention or working memory associated with IPS).
+1.1.
+ IPS and general number processing
+1.2.
+ IPS and tasks similar to number recitation
+1.3.
+ Perisylvian areas and number processing
+1.4.
+ The present study
+Undergraduates could skillfully recite forward the numerical and alphabetical sequences starting with any cuing number or letter.
+ For the number condition, there were no errors.
+ For the alphabet condition, there were occasional errors.
+ All of them occurred at the beginning stage of recitation.
+ Some subjects seemed to have a bit of difficulty in starting up their recitation under some cueing letters, i.e., v, k, n, s, and u.
+ For backward recitation, however, subjects had more difficulty for both number and alphabet conditions.
+ For numerical sequences, the difficulty mainly came from the transition between decades (e.g., between 90 s and 80 s, 80 s and 70 s).
+ For alphabetical sequences, the difficulty was typically related with the middle part of the set of letters, including k, j, i, and h.
+ Speed of recitation (i.e., average amount of time per recited number or letter) is shown in 
+ A repeated measures analysis of variance (ANOVA) with type of sequence (numbers versus the alphabet) and direction of recitation (forward and backward) as within-subject factors revealed that subjects took more time, F(1,11) = 58.5, MSe = 32947.48, P < 0.001, and made more mistakes, F(1,11) = 5.79, MSe = 4.50, P < 0.05, in backward conditions than in forward conditions.
+ Number conditions did not differ from the alphabet conditions, nor were there significant interaction effects.
+ Backward recitation for both number and alphabet conditions activated almost the same sites in the vicinity of left IPS.
+ Forward recitation for either number or alphabet condition, however, did not elicit
+ Another obvious difference between backward and forward conditions was the significant activation in left superior temporal gyrus for forward recitation, but not for backward recitation (see 
+ However, there was significant activation in right superior temporal gyrus for backward alphabet recitation.
+ The left and right inferior frontal
+ In the occipital area, only the right fusiform gyrus was significantly active for all four tasks.
+ This activation pattern was consistent with that found in a study of orientation judgment of characters and digits,
+ Conjunction analyses across the four tasks confirmed that brains areas that were activated by two tasks (as compared to fixation) also showed.
+ Direct comparisons between tasks 
+ Direct comparisons between number and alphabet recitation revealed no remaining activation in the brain regions surrounding the IPS.
+ There were, however, differences in other regions.
+ Forward number recitation elicited greater activation than did forward alphabet recitation in the left superior temporal gyrus.
+ In contrast, reciting alphabetical sequences forward elicited greater activation than reciting numerical
+ For backward recitation, the alphabet condition elicited greater activation in postcentral gyrus than did the number condition.
+ Direct comparisons between forward and backward tasks revealed more differences in activation patterns.
+ For both numerical and alphabetical sequences, backward recitation elicited greater activation than did forward recitation at the left intraparietal sulcus (see 
+ The sites were adjacent to the point activated by reciting names of the months backward versus forward (x, y, z: −40, −44, 44; Z = 5.10; Wildgruber et al., 1999).
+ Additionally, within the number conditions, there was more activation for backward recitation than forward recitation in the left precuneus/posterior IPS and left precentral gyrus.
+ Within
+ Relative to backward recitation, forward recitation elicited more activation in the left superior temporal gyrus for numerical sequences and in the right superior temporal gyrus and right inferior frontal gyrus for the alphabetical sequences.
+ Anatomical ROI analysis Anatomical ROI analysis was used to further investigate the differential activation patterns in the IPS and perisylvian
+Contrasts between number and the alphabet recitation
+Contrasts between forward and backward recitation
+regions for the four tasks.
+ As shown in 
+ There were also more activations in left inferior frontal gyrus for the backward than for the forward condition, F(1,11) = 5.86, MSe = 3299.63, P < 0.05.
+ In contrast, there was greater activation for forward conditions than for backward conditions in left superior temporal gyrus, F(1,11) = 8.42, MSe = 53446.15, P < 0.05.
+ No statistically significant difference was observed in left superior temporal gyrus (pole) and insula.
+ The ROI analysis on the right homologues of these brain regions did not find any significant difference among the four tasks.
+ The same ANOVAs were conducted on the intensity of activation in the anatomical ROI.
+ Results were the same as the volume (voxels) analyses.
+ Specifically, the activation intensity was greater in the backward condition than in the forward condition at left inferior parietal lobule, F(1,11) = 15.25, MSe = 0.03, P < 0.005, and marginally so at left inferior frontal gyrus, F(1,11) = 3.41, Mse = 0.06, 0.05 < P < 0.10.
+ The forward condition elicited greater intensity than the backward condition at the left superior temporal gyrus, F(1,11) = 5.49, MSe = 0.02, P < 0.05.
+The present study aimed to investigate neural substrates of number sequence recitation, focusing on the IPS and perisylvian area.
+ Chinese undergraduates were asked to recite overtly but gently numerical and alphabetical sequences forward and backward.
+ Results showed similar activation patterns in IPS for both numerical and alphabetic sequences.
+ Left IPS was significantly activated only when performing backward recitation, not when performing forward recitation.
+ In terms of perisylvian areas, all four tasks (forward and backward recitation of numerical and alphabet sequences) elicited activation in bilateral superior temporal gyrus and inferior frontal gyrus.
+ Nevertheless, forward recitation elicited greater activation in the left posterior 
+ These results suggest that forward recitation of both numbers and the alphabet is typically based on verbal processing of numbers implemented in the perisylvian area, whereas backward recitation would require additional neural resources in the IPS.
+ In this section, we specifically address the roles of IPS and perisylvian areas in number sequence recitation as well as in numerical processing in general.
+ At the end, a neural network for forward number recitation is tentatively proposed.
+Previous research has found that counting objects (e.g., dots) activated IPS (Fink et al., 2001; Piazza et al., 2002; Sathian et al., 1999), whereas repetition of a number without objects (e.g., number repetition/rehearsal or chronometric counting did not (Cowell et al., 2000; Hanakawa et al., 2003; Hinton et al., 2004).
+ We found that forward recitation of numerical sequences did not activate the IPS.
+ This finding suggests the neural basis for forward recitation is similar to that for number repetition or chronometric counting but different from counting objects.
+ On the other hand, backward recitation of numerical sequences elicited IPS activation.
+ There are several plausible explanations for these differential results regarding IPS for forward and backward recitation.
+ The first explanation is that IPS's activation is linked to the visual–spatial processing component of counting or number recitation tasks.
+ Object-counting tasks used by previous researchers (Fink et al., 2001; Piazza et al., 2002; Sathian et 
+ Backward recitation may rely on some visuo-spatial processing such as imagery of number (and alphabet) sequences, which would lead to significant IPS activation.
+ IPS's dual roles for visuo-spatial processing and for number processing may be two sides of the same coin because most numerical cognition requires the support of the visuo- spatial function of brain (Dehaene et al., 1993; Gevers et al., 2003; Zorzi et al., 2002).
+ In contrast to object counting and backward recitation, number rehearsal tasks such as number repetition/rehearsal (Cowell et al., 2000; Hanakawa et al., 2003), chronometric counting (Hinton et al., 2004), and forward number sequence recitation (in the present study) perhaps do not involve visuo-spatial processing, resulting in no IPS activation.
+ An alternative explanation of IPS's differentiated role in sequence recitation is that IPS is sensitive to working memory load.
+ Research has shown that IPS is typically activated when there are increased demands on working memory (Jonides et al., 1997, 1998; Klingberg et al., 1997; Kong et al., 2005).
+ Backward recitation of either numbers or the alphabet is more difficult than forward recitation as shown by the behavioral data in our study.
+ It should be pointed out that this working memory hypothesis of IPS is not incompatible with the visuo-spatial processing view of the role of IPS because a key component of the working memory is the visual sketchpad (Baddeley, 1986).
+ In other words, backward recitation may simply rely more on the visual sketchpad (possibly localized at IPS) than did forward recitation.
+ The third plausible explanation was that forward number sequence recitation task could be processed at a
+ This explanation however might be discounted because the semantic representation of numbers is found to be automatically activated (Naccache and Dehaene, 2001).
+ Further research is needed to distinguish IPS's role in visuo-spatial processing, number processing, and attention as it relates to number processing.
+Our study showed that all four recitation tasks (forward and backward recitation of numbers and the alphabet) significantly activated the left perisylvian areas, including left inferior frontal gyrus, left superior temporal gyrus, and left insula.
+ In addition, they activated the right inferior frontal gyrus and bilateral primary motor areas.
+ These activation patterns indicated the involvement of verbal processing and mouth movement (e.g., tongue movement) in recitation.
+ It should be noted that, in Dehaene's three-parietal-circuit model of number processing (Dehaene et al., 2004; Dehaene et al., 2003), verbal processing of numbers resides in the left angular gyrus.
+ The angular gyrus could be activated by single- digit multiplication relative to number comparison or subtraction (Chochon et al., 1999; Lee, 2000) or by exact addition relative to approximation (Dehaene et al., 1999) and by arithmetic problems previously trained relative to arithmetic problems not trained (Delazer et al., 2003, 2005).
+ However, recitation tasks in our study did not activate the angular gyrus.
+ One possibility is that mental storage of number sequences may not reside in the same brain region (i.e., angular gyrus) as number facts.
+ More research is needed to replicate our finding and to delineate the multiple neural networks that may be involved in the storage of numbers and number facts.
+ Our study found that the left posterior superior temporal gyrus (especially Wernicke's area) had greater activation for both types of forward recitations than backward recitations.
+ There are two plausible explanations for this finding.
+ The first explanation is that auditory processing may have occurred because subjects could hear their own voices when they used gentle but overt speech to recite sequences.
+ A more plausible explanation, however, is that forward recitation tasks might have had more involvement of speech production than backward recitation tasks.
+ Three pieces of evidence are relevant to this explanation.
+ First, previous studies found that the posterior superior temporal gyrus could be activated during covert and overt speech (e.g., Cowell et al., 2000; Hanakawa et al., 2003; Hickok et al., 2000; Paus et al., 1996).
+ For example, in an fMRI study in which subjects silently named visually presented objects, Hickok et al. (2000) showed that a majority of participants had activation in that brain region.
+ Second, activation level in this brain region was correlated with speech speed.
+ When subjects silently produced one single-digit number per second, there was no significant activation (Hinton et al., 2004), but when they silently rehearsed a seven-digit number within 2 s, there was activation in this region (Hanakawa et al., 2003).
+ In Paus 
+ In order to prevent participants from hearing their own speech, white noise delivered through headphones was used in all conditions to mask the whispered syllables.
+ Regression analyses revealed a significant correlation between the rate of syllable production and activation of left posterior temporal gyrus.
+ Taken together, from the results of these previous studies, we can speculate the greater activation of the left posterior superior temporal gyrus in the present study during forward recitation of numbers than backward recitation because subjects made speech production faster in forward condition than in backward condition.
+ We also found that inferior frontal gyrus (especially Broca's area) had greater activation for both types of backward recitations than forward recitations.
+ This finding is consistent with Wildgruber et al.'s results of greater activation in this area for backward than forward recitation of the names of the 12 months (Wildgruber et al., 1999) and Sun's findings of greater activation for backward than forward digit recall (Sun et al., 2005).
+ In a related study, backward but not forward digit span test also elicited activation in Broca's area (Gerton et al., 2004).
+ These results seem to suggest that there is dissociation between anterior and posterior regions in the perisylvian areas for forward and backward recitation.
+ Future research needs to search for explanations of this pattern of differentiation.
+ Forward recitation of both numbers and the alphabet significantly activated the bilateral superior temporal gyrus.
+ Direct comparisons however showed that there is greater activation in the left superior temporal gyrus for forward recitation of numbers but greater activation in the right homologue for forward recitation of the alphabet.
+ One speculative explanation of this cerebral asymmetric pattern for the two tasks is that forward recitation of the alphabet may have involved musical processing because all children (including Chinese children) learn the English alphabet through the ABC song.
+ Much research has shown that the processing of music, musical elements (e.g., tone, loudness) or music-like elements (e.g., rhythmic pattern) consistently activates the right perisylvian areas (Morrison et al., 2003; Riecker et al., 2002).
+Our results showed that number and alphabet recitation share the same neural network, including occipital lobe (especially the right fusiform), bilateral inferior frontal gyrus, left anterior superior temporal gyrus (pole part), bilateral precentral gyrus, cingulate gyrus, as well as the extensive subcortical regions, such as putamen and thalamus.
+ These brain regions are responsible for the mental processes involved in sequential recitation of verbal symbols (e.g., visual processing, control of the motor aspects of speech, mouth movement).
+ In addition, the left posterior superior temporal gyrus and adjacent supramarginal gyrus may be important in supporting speech movement when recitations are performed at a rapid speed.
+ Finally, it is important to note two brain regions that were not 
+ The lack of activation in the IPS for the forward recitation of numbers seems to suggest that IPS may not always be sensitive to the numerical magnitude information imbedded in verbal sequences of numbers.
+ Even its activation by backward recitation could be explained by task demand on visual–spatial processing or working memory load.
+ The activation of left angular gyrus has been found in previous research on arithmetic, which has been assumed as a result of verbal or phonological processing (Chochon et al., 1999; Dehaene et al., 1999; Lee, 2000; Delazer et al., 2005).
+ That finding was not replicated in other related studies (Kawashima et al., 2004) as well as our study.
+ Future research needs to explore reasons for these differential findings.
+Twelve healthy right-handed undergraduate students (six male and six female, mean age = 21.4 ± 3.5 years) were recruited from Beijing Normal University, China.
+ They reported to have normal or corrected-to-normal vision.
+ All were free from nervous diseases or brain injuries and had no brain abnormal- ity on their T1-weighted high-resolution magnetic resonance images (MRI).
+ Informed written consent was obtained from each subject after procedures were fully explained.
+ The procedures were approved by both Beijing Normal University and the MRI Center of Beijing 306 Hospital.
+Functional MRI was performed with a 2.0-T GE/Elscint Prestige whole-body imager (Elscint Ltd., Haifa, Israel) at the MRI Center of Beijing 306 Hospital.
+ Subjects laid supine in the scanner with their heads immobilized.
+ A single shot, T2*- weighted gradient-echo echo planar imaging (EPI) sequence was used for the fMRI scans, with a slice thickness of 6 mm, in plane resolution of 2.9 × 2.9 mm, and TR/TE = 3000 ms/45 ms.
+ The field of view was 373 × 210 mm, and the acquisition matrix was 128 × 72.
+There were four types of cognitive tasks: reciting a numerical sequence forward and backward and reciting an alphabetical sequence forward and backward.
+ Additionally, fixation on the sign “+” was treated as the baseline condition in the present study.
+ For each cognitive task, subjects would be given a cuing number or letter, and then they recited the sequence forward or backward within 11 s.
+ For the task of reciting a numerical sequence forward, the 12 cuing stimuli were 31, 42, 53, 24, 35, 46, 57, 25, 38, 49, 50, and 45.
+ Subjects did not recite beyond 99.
+ For the task of reciting a numerical sequence backward, the 12 cuing stimuli were 91, 82, 75, 63, 94, 85, 76, 67, 98, 85, 79, and 60.
+ Subjects did not recite below 10.
+ For the task of reciting an alphabetical sequence forward, the 12 cuing stimuli were v, a, d, e, k, h, n, x, r, s, u, and y.
+ For the task of reciting an alphabetical sequence backward, the 12 cuing stimuli were i, b, 
+ Because the alphabet has only 26 letters, subjects in forward condition had to continue to recite from the beginning (i.e., a) after they reached the end (i.e., z).
+ For the ease of subjects, during the backward condition, they only need to start from n once they reached a.
+After informed written consent was obtained, participants were asked to go through a practice session.
+ The practice session was conducted roughly 3 h before formal fMRI scanning.
+ Subjects were first asked to practice reciting an alphabetical sequence backward (starting from n) for about 30 min.
+ Based on pilot data, 30 min were enough for everyone to learn to recite alphabet backward (from n) under 11 s, an equivalent amount of time needed for reciting 14 numbers backward.
+ The last part of the practice involved learning to recite gently without obvious movement of their jaw and lip as to minimize the spurious effects of such movements on brain imaging data.
+ After the practice session, subjects were asked to perform all the tasks outside the imaging scanner.
+ Their performance was recorded, so was information on the cuing number or letter (presented on screen) and the last number or letter recited.
+ There were two imaging runs: a run for reciting number sequences, a run for reciting alphabetical sequences.
+ Each imaging run consisted of two cognitive tasks (reciting forward and backward) as well as the control (fixation) task.
+ Both the order of the two runs and two tasks within each run were counterbalanced among subjects.
+ Each run started with a fixation epoch, lasting 9 s.
+ It was followed by two target epochs on the number or letter, each lasting 72 s and containing 6 trials, that were separated by a fixation epoch.
+ Each trial was presented with a cuing number combined with the direction symbol “>” or “<” in number condition or with a cuing letter combined with the direction symbol “>>” or “<<” in letter condition.
+ The symbol “>” or “>>” referred to reciting forward, and the symbol “<”or “<<” referred to reciting backward.
+ The cues were shown for 11 s on the projection screen.
+ After 11 s, the stimulus disappeared from the projection screen, which prompted subjects to stop reciting.
+ Then the next trial began.
+ The cuing numbers (Arabic digits) and letters (in lower case) were presented visually.
+ They were projected onto a translucent screen and viewed by the subjects through a mirror attached onto the head coil.
+ The visual stimuli appeared in the center of a screen.
+ Numbers and letters were presented in black against a slightly grey background, with the size of 100-dot matrix installed in the Window System 2000 (Chinese version).
+ The numbers and letters with Song type had approximately matched visual field coverage.
+ Eighteen contiguous axial slices parallel to AC–PC were acquired to cover the whole cerebrum and partial cerebellum.
+ One hundred and twenty three images were acquired with a total scan time of 369 s in a single run.
+ Additionally, high- resolution T1-weighted anatomical images were acquired for each subject (three-dimensional, gradient-echo pulse-se- quence, TR/TE = 25 ms/6 ms, FOV = 220 × 220 mm, 89–92 contiguous slices, matrix = 220 × 220, and thickness = 2 mm).
+Data analysis was performed using SPM-99 (Statistical Para- metric Mapping) for motion correction and statistical infer- ence (SPM99, Wellcome Department of Cognitive Neurology, London, 
+ The first three images of each run were discarded to allow for the establishment of steady-state magnetization.
+ Functional images were realigned to the last functional volume in the scanning session using affine transformations.
+ All statistical analyses were conducted on these movement- corrected images.
+ Spatial smoothing was performed on the normalized functional images using a Gaussian kernel 7-mm FWHM.
+ Statistical analyses were calculated on the smoothed data using a delayed boxcar design with hrf and temporal derivatives.
+ A high-pass filter (186 s) was applied in order to remove low-frequency effects such as signal drift, cardiac and respiratory pulsations and a low-passing filter (4 s) to remove the high-frequency noise.
+ We used global normalization to scale the mean of each scan to a common value in order to correct for whole brain differences over time.
+ We first calculated parameter-estimated images for individual subjects across the entire brain.
+ For each individual, we calculated contrasts (i.e., cognitive task minus—fixation) to derive the activation maps for the four cognitive tasks.
+ Then these parameter-estimated images were entered into statistical analyses.
+ The group-averaged effects were computed
+ All reported areas of activation were significant above a threshold of P < 0.001 (uncorrected), with more than 15 voxels (3 × 3 × 3 mm).
+ In anatomical ROI (region of interest) analysis, the AAL template was used to define regions (Tzourio-Mazoyer et al., 2002).
+ The brain regions along the left IPS and perisylvian areas, including inferior parietal lobule, superior temporal gyrus, inferior frontal gyrus (pars opercularis), insula, were selected.
+ Meanwhile, all the right homologues of the brain regions were also selected.
+ The dependent variables were the number of significantly activated voxels and the intensity of activation (effect size).
+ The intensity of activation for a condition (e.g., forward number recitation) in an anatomical region of interest is the average of values of all activated voxels (positive).
+ It is an effect size.
+ The effect size of this anatomical ROI was calculated based on the con*.img of SPM99.
+ The tool we used was based on MarsBar structural ROI analyses but programmed in-house using Matlab.
+This study was supported by the National Pandeng Project (95) and National 973 Project (2003CB716803).
+ We would like to thank two anonymous reviewers for their helpful comments.

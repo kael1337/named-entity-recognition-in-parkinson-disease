@@ -1,0 +1,248 @@
+﻿Impaired attention network in temporal lobe epilepsy: A resting FMRI study
+Zhiqiang Zhang a , Guangming Lu a,∗ , Yuan Zhong a , Qifu Tan b , Zhigen Yang a , Wei Liao c , Zhili Chen a , Jixin Shi b , Yijun Liu d a Department of Medical Imaging, Jinling Hospital, Nanjing University School of Medicine, Nanjing 210002, China b Department of Neurosurgery, Jinling Hospital, Nanjing University School of Medicine, Nanjing 210002, China c Key Laboratory for Neuroinformation of Ministry of Education, School of Life Science and Technology, University of Electronic Science and Technology of China, Chengdu 610054, China d Department of Psychiatry, The University of Florida McKnight Brain Institute, Gainesville, FL, USA a r t i c l e i n f o a b s t r a c t Article history: Attention deficit is a common symptom in the patient with mesial temporal lobe epilepsy (mTLE).
+ Received 12 March 2009 Although presumption has been proposed by the previous study that mTLE may have impaired attention Received in revised form 11 April 2009 networks, no fMRI study has addressed the alteration of the dorsal attention network in mTLE.
+ Twenty- Accepted 20 April 2009 four patients with bilateral mTLE and the same number of gender- and age-matched healthy controls participated in the current fMRI study.
+ The resting-state network corresponding to the dorsal attention Keywords: network (DAN) was extracted by using independent component analysis (ICA) from each participant.
+ Dorsal attention network Functional connectivity in the DAN was then compared between the patients and controls.
+ In addition, Mesial temporal lobe epilepsy the scores of Trail Making Test (TMT) in the patients were correlated to the z-score of the voxels show- FMRI ing significant difference between the two groups.
+ Compared with the controls, the patients with mTLE presented decreased functional connectivity in almost all the regions within the DAN.
+ Moreover, there were negative correlations between the TMT scores and the z-scores in the voxels showing decreased or increased functional connectivity in mTLE.
+ Our results suggested that the alteration of DAN might underpin the impairment of top-down attention function in mTLE.
+ Our fMRI study may contribute to the understanding of neuro-pathophysiological mechanism of attention impairments in patients with mTLE. © 2009 Elsevier Ireland Ltd. All rights reserved.
+Viewed as a neural network disease, mesial temporal lobe epilepsy (mTLE) can affect widespread brain functions through the propagation of seizures from epileptogenic zone to the dis- tant brain regions [23].
+ In addition to those well-addressed cognitive impairments of memory [1] and language [9], attentional disorders are often presented in patients with mTLE.
+ Behavioral data have suggested that sustained attention is declined in mTLE [24].
+ ERP studies have also linked the reduction of P300 wave in the temporal and frontal lobe to the deficit of attention impairment in mTLE [6, 26].
+ Although the metabolic abnormality within the frontal lobe detected by PET may indicate attention impairments [25], attention network disorder has been presumed to underlie the neuro-pathophysiological mechanism in mTLE [6].
+ With better temporal and spatial resolutions, blood oxygenation level-dependent (BOLD) fMRI has been widely used for investigation of epilepsy.
+ However, the previous fMRI studies of mTLE have been limited in the evaluation of memory and language
+∗ Corresponding author at: Department of Medical Imaging, Nanjing Jinling Hospital, 305# Eastern Zhongshan Rd., Nanjing 210002, China.
+ Tel.: +86 25 80860185; fax: +86 25 84804659.
+ E-mail address: cjr.luguangming@vip.163.com (G. Lu).
+ 0304-3940/$ – see front matter © 2009 Elsevier Ireland Ltd. All rights reserved. doi:10.1016/j.neulet.
+2009.04.040
+
+      
+deficits [ 1, 9] or detection of abnormal epileptic activations in the brain [18, 19], alteration of the attention network has not been addressed specifically in patients with mTLE.
+ Functional connectivity MRI in resting state has emerged as a prevalent technique for studying the brain networks free of specifically designed behavioral tasks.
+ Functional connectivity represents the temporal synchronization of neuronal activities between dis- tant brain regions within a network, and can be used to reflect the normal or abnormal state of specific corresponding functions [8, 14, 16].
+ A variety of specific brain networks, such as the senso- rimotor network [5], the default-mode network [15], as well as the attention networks [12] have been well depicted previously.
+ In addition to the seed region-based cross-correlation analysis, independent component analysis (ICA) is also a commonly used method to map functional connectivity in the brain.
+ The ICA method attempts to determine a set of nonsystematically overlap- ping (spatially independent) brain networks, each with associated time courses.
+ Therefore, ICA-based resting fMRI studies have well defined the dorsal attention network (DAN) besides a few of other brain resting-state networks (RSNs) [3, 11, 20].
+ Specifically, the RSN corresponding to the DAN includes bilaterally the intraparietal sulcus (IPS), cortex at the intersection of precentral and superior frontal sulcus near/at the human frontal eye field (FEF), ventral pre- central (VPG), and middle frontal gyrus (MFG), dedicating to the mediation of goal-directed stimulus-response selection [10, 12].
+ In the present study, we adopted ICA-based functional connectivity MRI to investigate change in the DAN in mTLE.
+ This study was expected to contribute to the understanding of neuro-pathophysiological mechanisms underlying the attention impairment in mTLE.
+ Twenty-four adult patients (25.0 ± 5.0 years, 10 females) with bilateral mTLE participated in the study.
+ The general informa- tion of the patients was summarized in supplementary Table 1.
+ All the patients underwent a comprehensive clinical evaluation according to the epilepsy classification by the International League Against Epilepsy (ILAE).
+ The recruitment was based on the following three inclusion criteria: (1) symptoms of mTLE: all patients had complex partial seizures, accompanied, or not, by secondary generalized seizures or simple partial seizures.
+ Each patient presented one or more typical symptoms of mTLE, such as abnormal emotional experiences and psychiatric symptoms, epigastric rising, automatisms and dystonic posturing of the limbs.
+ (2) MRI mani- festations: the patients had bilateral hippocampal sclerosis (HS), but no other MRI abnormalities other than HS.
+ (3) EEG findings: the patients’ interictal/ictal scalp- and sphenoidal-EEGs showed epileptic spikes in the bilateral frontotemporal or temporal lobes.
+ The exclusion criteria included: (1) any significant anatomical lesions outside the temporal lobe.
+ (2) participants were seriously intellectually disabled, and could not perform the following neuropsychological test.
+ (3) rare seizures, the seizures are less than one time/month.
+ Twenty-four healthy right-handed volunteers, with matched ages and genders, were recruited as controls (age: 25.2 ± 4.9 years).
+ None of them had neurological or psychiatric disorders.
+ All examinations were carried out under the guidance of the Declaration of Helsinki 1975.
+ Written informed consent was obtained from both groups of the participants.
+ The research protocol was approved by the local Medical Ethics Committee in Jinling Hospital and Clinical School of Medical College at Nanjing University.
+ Each patient underwent a Trail Making Test (TMT, including Parts A and B) to assess his/her attention function.
+ Briefly, in Part A, a subject uses a pencil to connect a series of 25 encircled numbers in numerical order.
+ In Part B, a subject connects 25 encircled numbers 2, 4, 5, 6, 7, 8, 9, 10, 11, 12 and letters (A–L) in numerical and alphabetical order, alter- nating between the numbers and letters.
+ The numbers and letters are placed in a semi-random fixed order.
+ The administration time was recorded to be used as the examinee’s performance score [7].
+ All MRI data were collected using a 1.5-T scanner (GE-Signa, Milwaukee, US) in the department of Medical Imaging, Jinling Hospital.
+ The patients had discontinued anti-epilepsy medication for about 24 h prior to the scans according to the requirements for clinical electroencephalogram examinations.
+ The halt of medication might avoid or reduce its possible effects on the brain functions.
+ The participants were instructed to rest with their eyes closed and keep their heads still during MRI scans.
+ Axial anatomical images were acquired using a T1-FLAIR sequence (TR/TE = 2200 ms/24 ms, matrix = 512 × 512, FOV = 24 cm × 24 cm, slice thickness/gap = 4.0 mm/0.5 mm, 23 slices covered the whole brain) for image registration and functional localization.
+ Functional images were subsequently collected in the same slice orienta- tion with a GRE-EPI sequence (TR/TE = 2000 ms/40 ms, FA = 80 ◦ , matrix = 64 × 64, FOV = 24 cm × 24 cm) to measure 200 brain vol- umes, which lasted for a total 400 s.
+ The preprocessing of fMRI data was performed using the software package of SPM2 (http://www.fil.ion.ucl.ac.uk/spm). After slice timing correction and slice realignment for head motion correction, data of one patient whose head motion exceeded 1.0 mm during scanning were excluded.
+ The standard Montreal Neurological Institute (MNI) template provided by SPM was used for image normalization with a resampling voxel size of 3 mm × 3 mm × 3 mm.
+ After being smoothed with an 8 mm Gaus- sian core (full width half maximum, FWHM), fMRI data were prepared for further ICA processing.
+ ICA was applied to fMRI data of each subject by using the software of Group ICA of fMRI Toolbox (GIFT, Version 1.3b; http://icatb.sourceforge.net/) run on MATLAB 7.
+ Since there is no consensus yet on the selection of an optimal number of independent components (ICs), we chose to have the analysis output 40 ICs (1/5 the number of the time-points in a resting functional scan) according to the empirical index commonly used in the prior studies [15].
+ For each IC, its time course corresponds to the waveform of a specific pattern of coherent brain activity, and the intensity of this pattern of brain activity across the voxels is expressed in the associated spatial map [15, 20].
+ To display the voxels that con- tributed most strongly to a particular IC, the intensity values in each spatial map were converted to z-score [8, 15, 20].
+ Since the resting- state connectivity can only be detected in a very low-frequency range [27], the components whose time courses showed the maximum power within a high frequency range (>0.1 Hz) were removed.
+ After the ICA separation, a template of the DAN was then used to select respectively the “best-fit” of the remaining low-frequency components in each subject.
+ Briefly, we used a template-matching procedure by taking the average z-score of voxels falling within the template minus the average z-score of voxels outside the template and selecting the component in which this difference (the goodness-of-fit) was the greatest [15].
+ The standard template of DAN was provided by Dr.
+ Mantini (Institute of Advanced Biomedi- cal Technologies, G. D’Annunzio University, Chieti, Italy), which was identical to the RSNs reported in the study by Mantini et al. [20].
+ The ICs representing the DAN were extracted from all the subjects, and were gathered in each group for a random-effect analysis using one-sample t-test.
+ Thresholds were set at p < 0.05 [correction using the false discovery rate (FDR) criterion].
+ Subsequently, the z-maps of the DAN were compared between the patient and the control groups using a two-sample t-test.
+ The group comparisons were restricted (masked) to the voxels within each corresponding network as defined by the one-sample t-test of ICA result of the subjects in the control group (p < 0.05 with FDR correction).
+ A statistical map was generated with an integrated threshold at a corrected level of p < 0.001 [with the height threshold of t > 1.72 (p < 0.05, uncorrected) and the extent threshold at a cluster size > 8 voxels (p < 0.001)] [22].
+ For investigating the underlying significance of the decrease of z-values in the DAN, the voxels showing the significant differences (positive or negative) between the patient and the control groups were extracted as a mask consisting of several regions of interest (ROIs).
+ The mean z-values within these ROIs were correlated to the TMTs score (only Part B) at the individual level by using a post hoc, Pearson correlation analysis.
+ All participants successfully finished the performance of TMTs.
+ For the Part A (mTLE vs. controls: 42.3 ± 9.8 s vs. 27.0 ± 4.6 s) and Part B (mTLE vs. controls: 88.9 ± 13.4 vs. 73.0 ± 7.5 s) of the TMT, there were significant differences of the scores between the patients and the controls (Part A: t = 6.87, p < 0.001; Part B: t = 5.03; p < 0.001).
+ The scores of patients were also summarized in supplementary Table 1.
+ The DANs were extracted successfully from each subject in both the patient and the control groups, based on the goodness- of-fit measurements.
+ Significant differences in the goodness-of-fit were found for the DANs (t = 2.66, p = 0.01) between the patients (1.19 ± 0.37) and controls (1.46 ± 0.31).
+ The one-sample t-test revealed a typically anatomic pattern of the DAN in both the controls and patients.
+ The network covered bilaterally the IPS, FEF, VPG, and MFG.
+ Moreover, there were notable left-side dominances in the DAN for the controls, but not for the patients (Fig. 1 and supplementary Table 2).
+ The two-sample t-tests revealed the differences in functional connectivity within the DAN between the two groups of subjects.
+ Compared with the controls, the patients showed decreased resting connectivity within almost all areas of DAN but the right FEF which showing increased functional connectivity (Fig. 1 and Table 1).
+ The behavioral data of the TMT (Part B) scores were negatively correlated to both groups of z-values within the regions showing decreased (r = −0.63, p = 0.002) and positive functional connectivity (r = −0.56, p = 0.006) (Fig. 2).
+ The DAN revealed by the present study covered the bilateral, IPSs and FEFs, whose anatomic pattern was largely consistent with those mapped with the specific task-induced activation [2] or with the seed region-based functional connectivity [12].
+ The human attention processing can be modeled by two separate neural pathways with functional connectivity [12].
+ The ventral (bottom-up) pathway is right lateralized and composed of the right temporal–parietal junction and the right ventral frontal cortex, and shows activity increases upon detection of salient targets, especially when they appear in unexpected locations.
+ The dorsal system is bilateral and composed of the IPS and the frontal FEF in each hemisphere.
+ It is involved in voluntary (top-down) orienting and shows activity increases after presentation of cues indicating where, when, or to what subjects should direct their attention.
+ The dorsal attention is involved in many higher-order cognitive tasks [10], such as the working memory and executive tasks as well the TMT test used in the present study [7, 21].
+ The RSN extracted by ICA represents a functional network consisting of the regions with coherent low-frequency BOLD fluc- tuations [11, 15].
+ Different from fMRI activations induced by specific stimuli or task [2], these coherent low-frequency BOLD signals detected by resting fMRI reflect the intrinsic nature of the spontaneous neuronal activities, and can be regarded as a sensitive neurobiomarker to depict brain disorders [15, 16].
+ Functional connectivity analysis has been used in the studies of mTLE.
+ Altered functional connectivities in the network of mesial temporal structures [4], and in the language network have been found in mTLE [29].
+ Commonly, the decrease in functional connectivity was proposed to reflect the corresponding functional impairment in the network, and the increase in functional connectivity may reflect the enhanced function owing to the compensatory mechanism [4, 13].
+ Our main results concerned the changes in functional connectivity of the DAN in mTLE.
+ The patients with mTLE showed decreased functional connectivity within most of the regions in DAN, suggesting the functional impairment of the dorsal attention system in mTLE.
+ This finding could be supported by the negative correlation between the TMT scores and the z-scores within these regions.
+ A previous ERP study has explored the alteration of the P3 in response to different attentional states, and has found that the novelty processing of auditory stimuli is disturbed in the patients with right-sided mTLE [26].
+ Moreover, another ERP study has further demonstrated the dysfunction of ventral attention system in mTLE by showing the reduction in the temporal and frontal sources in visual and auditory oddball paradigms [6].
+ Our study for the first time have revealed that the dorsal attention network is altered in mTLE, and support the view that the attention systems in mTLE may present abnormalities in the brain networks [6].
+ The DAN has been mapped bilaterally by using the seed region- based correlation analysis [12], but the RSN(s) corresponding to the DAN has often been shown pair-wised [3] or left-ward [11, 20] by using ICA.
+ To our knowledge, there was no concern about the lateralization of the DAN in the previous studies.
+ Our results showed the significantly left-ward asymmetric DAN in the controls group since a left-ward template was used [20].
+ In contrast, the left-ward asymmetric pattern was absent in the mTLE patients though the same template was used.
+ The group comparison result also showed decreased functional connectivity in the left hemisphere and increased functional connectivity in the right FEF.
+ Why our mTLE patients showed distinct patterns between the bilateral hemispheres in light of the bilateral lesions in the brain remains a question.
+ We speculate that, as not yet being fully understood, the absence of left-ward asymmetry might reflect the functional reorganization in the brain of mTLE patients [17].
+ The reorganization is commonly found in the regions involved in memory or language function in mTLE, and often present the enhanced function as a compensation in the contralateral structures [4].
+ In the current study, the z-values in the right FEF were negatively correlated to the TMT scores, i.e. positive correlated to the capability of attention in the mTLE patients, suggesting that the contralateral FEF might play a compensatory role in the attention processing in mTLE.
+ The abnormal TMT scores and the significant correlation between the TMT scores and z-values in DAN confirmed the dorsal attention impairments in mTLE.
+Although the TMT test is not specifically designed to study the top-down attention processing, the Part B of this popular neuropsychological instrument has been widely used to examine higher-level cognitive processes, such as the visual search, executive control in which the sustained dorsal attention is highly associated [7].
+ Moreover, previous fMRI studies have revealed that the activations in the brain regions of the DAN are in response to the Part B of TMT test, and are left-ward in the dorsolateral prefrontal cortex and supplementary motor area [21, 30], which is in line with the significant left-ward asymmetry of the DAN as detected in the present study.
+ Several uncontrolled methodological confounds that may have influenced our results should be considered.
+ First, the anti-epileptic drug (AED) may have negative influence on human attention [28], despite the fact that the patients had discontinued medication for about 24 h in the present study.
+ Moreover, the decreased IQ of the patient was a potential confound and should be noted.
+ Since one’s attention function is highly correlated to his/her IQ estimation, it could not be determined if the decreased TMT score of the patient was caused by the decreased IQ, or by the decreased attention function.
+ Therefore, the possible effect of the IQ deficit on the attention function was not considered in the present study, as well in the other studies of mTLE [6, 26].
+ Second, some methodological issues about ICA should be considered.
+ There is no established or vali- dated way yet to identify the number of independent components in ICA results [15].
+ Moreover, the DAN is often detected inconsis- tently in different studies [3, 11, 20].
+ However, in the present study, the template used in the “best-fit” procedure was obtained from the result of a published work [20].
+ Third, although the altered DAN may reflect the functional changes in their corresponding networks, future study using a specific task, for example the TMT paradigm may reveal the attention impairment in a more direct way in patients with mTLE.
+ Based on the observation of the RSN detected by ICA, we explored the altered DAN in the patients with mTLE.
+ The decrease in functional connectivity within DAN confirmed the previous presumption, and specifically indicated that the top-down attention may be impaired in mTLE.
+ In addition, the increase in functional connectivity within the right FEF might reflect a compensatory mechanism.
+ Our findings provide neuroimaging evidences of the neuro-pathophysiological mechanisms underlying the attention impairments in mTLE.
+
+        Fig. 1. The second-level analyses of the DANs. (A) Results of the one-sample t-test of the DAN in the mTLE patients. (B) Results of the one-sample t-test of the DAN in the controls. (C) Group comparison of the DAN between the mTLE patients and controls. mTLE: the patients with mTLE; Ctrl: the controls.
+      
+Table 1 Group comparisons of the DANs between the mTLE patients and controls.
+        
+          
+            
+              
+                 Brain regions
+                 BA
+                 Peak location (x, y, z)
+                 Peak t-score
+                 Voxel
+              
+            
+            
+              
+                
+                
+                
+                
+                
+              
+              
+                 l IPS
+                 7, 40
+                 −27, −84, 36
+                 −4.41
+                 551
+              
+              
+                 r IPS
+                 7
+                 30, −78, 42
+                 −2.58
+                 15
+              
+              
+                 l FEF
+                 8, 9
+                 −45, 36, 30
+                 −4.02
+                 159
+              
+              
+                 r FEF
+                 9
+                 60, 9, 33
+                 3.32
+                 67
+              
+              
+                 l VFG
+                 9, 10, 46
+                 −48, 42, 6
+                 −3.61
+                 655
+              
+              
+                 r VFG
+                 46
+                 36, 42, 9
+                 −2.08
+                 35
+              
+              
+                 MFG
+                 8
+                 −9, 36, 39
+                 −2.74
+                 35
+              
+              
+                 PCC
+                 31
+                 0, −39, 39
+                 −2.82
+                 50
+              
+              
+                 l ITG
+                 37
+                 −60, −54, −21
+                 −4.84
+                 298
+              
+              
+                 Abbreviations—BA:
+                 Brodmann’s
+                 area, l: left, r: right,
+                 IPS: intraparietal
+                 sulcus, FEF:
+              
+              
+                 frontal eye field,
+                 VFG: ventral
+                 frontal gyrus, MFG: medial
+                 frontal gyrus, PCC:
+                 posterior posterior
+              
+              
+                 cingulate gyrus,
+                 and ITG:
+                 inferior temporal gyrus.
+                
+                
+              
+            
+          
+        
+        Brain regions BA Peak location (x, y, z) Peak t-score Voxel number l IPS 7, 40 −27, −84, 36 −4.41 551 r IPS 7 30, −78, 42 −2.58 15 l FEF 8, 9 −45, 36, 30 −4.02 159 r FEF 9 60, 9, 33 3.32 67 l VFG 9, 10, 46 −48, 42, 6 −3.61 655 r VFG 46 36, 42, 9 −2.08 35 MFG 8 −9, 36, 39 −2.74 35 PCC 31 0, −39, 39 −2.82 50 l ITG 37 −60, −54, −21 −4.84 298 Abbreviations—BA: Brodmann’s area, l: left, r: right, IPS: intraparietal sulcus, FEF: frontal eye field, VFG: ventral frontal gyrus, MFG: medial frontal gyrus, PCC: posterior cingulate gyrus, and ITG: inferior temporal gyrus.
+      
+
+        Fig. 2. Significant correlations (p < 0.05, corrected) between the TMT-B scores and the z-values of the voxels showing increased functional connectivity (A) and decreased functional connectivity (B). C demonstrates the 3D views of the group comparison of the DAN between the mTLE patients and the controls. The cold color denotes the voxels showing decreased functional connectivity, whilst the warm color denotes the voxels showing increased functional connectivity.

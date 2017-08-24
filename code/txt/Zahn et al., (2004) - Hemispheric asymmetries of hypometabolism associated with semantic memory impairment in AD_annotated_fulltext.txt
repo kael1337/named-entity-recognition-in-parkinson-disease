@@ -1,0 +1,225 @@
+Hemispheric asymmetries of hypometabolism associated with semantic memory impairment in Alzheimer’s disease: a study using positron emission tomography with fluorodeoxyglucose-F18
+Considerable disagreement exists about the neuroanatomical basis of conceptual–semantic impairments observed in a subgroup of patients with Alzheimer’s disease (AD) at mild to moderate stages of the disease.
+ Several studies of groups of patients have shown correlations between focal hypometabolism or hypoperfusion in left hemispheric areas and measures of verbal semantic memory impairment in AD patients.
+ The question remains, however, whether left hemispheric hypometabolism is sufficient to produce such impairment in the single case and whether nonverbal semantic knowledge is also affected.
+ We used positron emission tomography (PET) with fluorodeoxyglucose-F18 (FDG), statistical parametric mapping (SPM), and tests of verbal and nonverbal semantic memory in 11 AD patients with a mean score on the Mini-Mental State Examination of 22.6 (F2.8).
+ Naming impairment was significantly associated with left hemispheric asymmetry of hypometabolism on a single-case basis.
+ Our correlation analysis showed that metabolism in left anterior temporal, posterior inferior temporal, inferior parietal and medial occipital areas (Brodmann areas: 21/38, 37, 40 and 19) correlated with both verbal and nonverbal semantic performance.
+ We conclude that left hemispheric synaptic dysfunction, as measured by regional glucose hypometabolism, was sufficient to produce semantic impairments in our patients.
+ The majority of areas affected in our patients with semantic impairments were involved in multimodal or supramodal (verbal and nonverbal) semantic knowledge.
+ D 2004 Elsevier Ireland Ltd. All rights reserved.
+1. Introduction
+      
+* Corresponding author.
+ Tel.: +49 761 270 6501; fax: +49 761 270 6619.
+ E-mail address: roland_zahn@psyallg.ukl.uni-freiburg.de Wernicke and Lichtheim viewed conceptual– (R. Zahn). semantic knowledge to be represented in a diffuse 0925-4927/$ - see front matter D 2004 Elsevier Ireland Ltd. All rights reserved. doi:10.1016/j.pscychresns.
+2004.07.006 posterior bideational fieldQ (Begriffsfeld; Lichtheim, 1885) that cannot be localized precisely.
+ Modern authors discuss a bihemispheric representation of conceptual–semantic categories (Gainotti et al., 1995).
+ Anomic aphasia after left hemispheric vascular lesions usually spares nonverbal conceptual–semantic object knowledge, as aphasics, unlike demented patients, are usually capable of describing the object, although they cannot retrieve its name (Stengel, 1964).
+ The occurrence of a combination of verbal and nonverbal (central) semantic impairments in Alzheimer’s disease (AD) seems to be compatible with bilateral neocortical postmortem pathology (Braak and Braak, 1991).
+ Serial magnetic resonance imaging (MRI) volumetric studies (i.e., Scahill et al., 2002) have confirmed the model proposed by Braak and Braak in vivo.
+ Verbal and nonverbal semantic functions in AD have been studied extensively; impairments occur in about half of the patients at mild to moderate stages of the disease (Hodges et al., 1992, Hodges and Patterson, 1995).
+ Disagreement among cognitive neuropsychologists exists concerning the cause of the great variability of patterns of semantic impairments in neurodegener- ative diseases: semantic impairments specific to category (living/nonliving) and/or modality (verbal/ nonverbal) can be found (McCarthy and Warrington, 1988; Gonnerman et al., 1997; Garrard et al., 1998).
+ These patterns of impairment can be explained by theories assuming multiple anatomically separable modality-specific systems (visual/verbal) and fea- ture-specific representations (functional/perceptual) (Warrington and Shallice, 1984).
+ A different regional distribution of pathology (Garrard et al., 1998, 2001) to a system with well-localized subfunctions (features or categories) could lead to different patterns of semantic impairments in AD.
+ Some authors discuss well-localized subsystems (functional/perceptual) that could be affected homogeneously in AD, but disproportionately in other conditions, like Herpes simplex encephalitis (Devlin et al., 1998).
+ Different vulnerabilities of semantic subsystems (functional/ perceptual features) could be dependent on the severity of diffuse homogeneous damage to the system (Gonnerman et al., 1997; Moss and Tyler, 2000).
+ Other authors have proposed an amodal semantic system with privileged accessibility of modality-congruent semantic information from modality-specific input (verbal/visual) systems (Caramazza et al., 1990) as the basis of category- or modality-specific impairments.
+ Functional imaging techniques, such as positron emission tomography (PET) with fluorodeoxyglu- cose-F18 (FDG) or single photon emission computed tomography (SPECT), that can be used to assess the regional distribution of synaptic dysfunction were usually not available in cognitive neuropsychological studies assessing semantic functions more intensively.
+ Previous group studies using FDG-PET or SPECT have shown correlations between focal hypometabolism (Desgranges et al., 1998; Hirono et al., 2001) or hypoperfusion (Grossman et al., 1997) in left hemispheric regions and measures of semantic memory impairment in AD patients, thus contradicting the view that diffuse pathology is the cause of semantic impairments.
+ Several previous studies not specifically addressing semantic knowledge had shown language impairments to be correlated with left hemispheric hypometabolism (for further references, see Grossman et al., 1997; Desgranges et al., 1998).
+ Asymmetries of hypometabolism using PET and quantitative image processing have been shown to be associated with language impairment (as measured by naming, syntax comprehension and phonemic fluency) in moderate AD (Haxby et al., 1985, 1990), but nonverbal semantic performance was not investigated.
+ To our knowledge, there has only been one correlative group study investigating the question of whether nonverbal semantic impairment was also bound to left hemispheric dysfunction (Grossman et al., 1997).
+ Using SPECT, Grossman et al. found correlations between left superior temporal and inferior parietal perfusion and category membership judgments of pictures and words.
+ Two important arguments, however, can be raised against the interpretation of these studies as evidence inconsistent with a diffuse bilateral pathology as the basis of conceptual–semantic disorders in AD: (1) Correlation of performance in a specific test, neces- sarily restricted to address only small parts of semantic functions, with focal left hemispheric dysfunction does not rule out that only diffuse bilateral pathology might lead to the usually observed broad multimodal semantic impairments seen in the single patient.
+ (2) Most studies used verbal semantic tests (naming), so that left hemispheric dysfunction could be the correlate of verbal (lexical–semantic) rather than conceptual–semantic (supramodal verbal and nonverbal) impairment.
+ Indeed, a multiple single-case study (Galton et al., 2000) using SPECT and visual inspection of images failed to show left hemispheric hypoperfusion consistently in multimodal semantically impaired AD patients.
+ The use of statistical parametric mapping (SPM) and FDG-PET has been demonstrated as a very sensitive and specific method to detect early changes in very mild AD (Herholz et al., 2002a).
+ Furthermore, PET has been shown to be superior to SPECT with respect to sensitivity for pathological changes and correlation with cognitive performance (Herholz et al., 2002b).
+ Using a multiple single-case approach in mild to moderate stages of AD and sensitive imaging techniques [quantitative image processing (SPM) and resting FDG-PET], we tested whether conceptual– semantic (verbal and nonverbal) object knowledge impairments were associated with diffuse bilateral or, rather, focal left hemispheric hypometabolism on a single-case basis.
+ We were specifically interested in the comparison of patients with semantic and without semantic impairments, comparable with respect to stage of the disease and on all other cognitive measures.
+ The existence of these two different types of presentation of the disease has been described in previous studies (Hodges et al., 1992).
+ Assessment of semantic functions included verbal and nonverbal tests of semantic knowledge comparable to parts of the Semantic Memory Test Battery published by Hodges et al. (1992).
+ Thus, supramodal (verbal and nonverbal) conceptual–semantic impairments could be discriminated from pure verbal semantic deficits in our patients.
+Patients were consecutively recruited at the geri- atric psychiatry department of the University of Freiburg and provided written informed consent.
+ The sociodemographic data were as follows: age range=54–81, mean age=66.5, S.D.=8.9; school years=8–13, mean=9.5, S.D.=2.1; sex breakdown=  female (n=6), male (n=5).
+ All patients fulfilled the NINCDS-ARDA Criteria (McKhann et al., 1984) for probable AD and did not fulfill the revised consensus criteria for frontotemporal dementia (Neary et al., 1998), their Mini-Mental State Examination (MMSE) scores ranged from 19 to 27 (mean=22.6; S.D.=2.8), and they were strongly right-handed according to the Edinburgh Handedness Inventory (Oldfield, 1971).
+ One patient was excluded from the study because of a clinical, neuropsychological and neuroimaging picture typical of semantic dementia: fluent speech, verbal and nonverbal semantic impairment with preserved nonverbal memory and preserved figure drawing displaying left anterior temporal hypometabolism (Neary et al., 1998).
+ Comorbid possible Lewy Body Disease (McKeith et al., 1996) was allowed (patient 5: delusions+fluctuations but no clear evidence of vivid optical hallucinations, parkinsonism or neuroleptic hypersensitivity).
+ Other central nervous system (CNS) lesions were excluded by MRI; minimal white matter lesions were allowed.
+ Thyroid hormones, folate, Vitamin B12 and routine blood tests were normal.
+ Lues screening was negative.
+ A history of other neurological or psychiatric diseases, including sub- stance abuse, was excluded by the clinical interview of relatives.
+ A history of remitted major depression was allowed.
+ Current depressive symptoms were recorded using the Geriatric Depression Scale (Yesavage, 1988).
+ All patients were native speakers of German; two early bilingual patients were included (patients 4 and 6).
+ None of the patients received cholinesterase inhibitors during the study; selective serotonin reuptake inhibitors (patients 2, 3, and 6) and atypical neuroleptics (patient 5: quetiapine) were allowed.
+ Other psychotropic medications were excluded.
+For our experimental semantic task, we selected 11 healthy control subjects (age range=54–81, mean age=68.8, S.D.=8.5), 5 males, 6 females, whose educational level ranged from 8 to 13 years (mean=11.0; S.D.=2.4) and who had no history of CNS or psychiatric diseases, no treatment with psychotropic medications and no cognitive impairment (excluded by scores within the normal range of  the CERAD Test Battery, including standardized MMSE scores; standardized age- and education- corrected German z-score norms; Berres et al., 2000: zNÀ1).
+ Depression was excluded by normal scores (0–3) on the Geriatric Depression Scale (Yesavage, 1988).
+ The experimental test battery was designed to be comparable to parts of the Hodges et al. (1992) Semantic Memory Test battery; the 48 items used in the naming and word–picture matching task were selected from Snodgrass and Vanderwart’s (1980) black-and-white line drawings to represent eight semantic categories; four living categories (land animals: 7, insects: 5, fruits: 6, vegetables: 6) and four nonliving categories (clothing: 6, kitchen items: 6, vehicles: 6, musical instruments: 6).
+ Living and nonliving items were matched as closely as possible (Mann–Whitney test, two-sided) for prototypicality (living: mean=10.31, S.D.=10.90; nonliving: mean=14.63, S.D.=11.80, P=0.14; Battig and Montague, 1969), object familiarity (living: mean=3.09, S.D.=0.70; nonliving: mean=3.32, S.D.=0.87, P=0.42) and visual complexity (living mean=2.91, S.D.=0.93; nonliving mean=3.43, S.D.=0.84, P=0.08; Snodgrass and Vanderwart, 1980), spoken word frequency (living: mean=4.08, S.D.=7.85; nonliving: mean=3.38, S.D.=4.44, P=0.80; Celex Lexical data- base; (Centre for Lexical Information)) and syllable length (living: mean=2.13, S.D.=0.68; nonliving mean=2.25, S.D.=0.61, P=0.65) of German target words.
+ The following tasks were performed in the same order in all patients and control subjects:
+(1) Category fluency—subjects were asked to produce as many exemplars as possible of the following categories in a fixed order for 1 min each: land animals, clothing, vegetables, vehicles, insects, kitchen items, fruits and musical instruments.
+ The sums of correct and unique responses are reported.
+ (2) Naming—subjects were instructed to name the 48 line drawings in a fixed order pseudo- randomized for living and nonliving items.
+ When subjects did not respond correctly, they were asked whether they knew another name.
+ Subjects were allowed to correct themselves once, when they noticed a misnaming had
+occurred.
+ Responses that did not deviate in more than one third of the phonemes of the target word were counted as correct.
+ In a further step, we also provided first phoneme cues.
+ Here, we report responses without first phoneme cues.
+All standard tests other than the MMSE ( Folstein et al., 1975) were performed according to published procedures, and standardized scores (z-scores, t- scores or percentile ranks) are reported as follows: CERAD Test Battery (German norms: Berres et al., 2000), Digit Span (forwards and backwards), Block- Tapping (forwards), and Logical Memory from the Wechsler Memory Scale-Revised (Wechsler, 2000), Phonemic Fluency (three letters) from the Leistungsprqfsystem (Horn, 1983), and Coloured Progressive Matrices (Raven, 1976).
+ The PET procedure was performed as described previously (Juengling et al., 1999; Juengling et al., 2000).
+ In brief, the patients were allowed to rest for at least 10 min before injection of 200F20 MBq 18 FDG and during the uptake period for another 20 min in an acoustically isolated and dimmed room.
+ The patients were then transferred to the scanner (Siemens CTI ECAT EXACT tomograph, 10.8 cm field of view, 6.8 mm full width half maximum), where the patients’ heads were positioned according to the orbitomeatal line.
+ The control group was examined on the same type and model of PET scanner.
+ Image acquisition began 30 min after injection.
+ Six dynamic frames, each 5 min in duration, were acquired.
+ Images were then reconstructed using filtered back-projection by Shepp–Logan filter (cut- off=0.35 cycles/pixel).
+ Attenuation correction was performed using the standard mathematical algorithm implemented in ECAT software.
+ The dynamic frames were then checked for motion artifacts and summed to generate a single data set of 31 transaxial planes.
+ For statistical parametric mapping (SPM), image data were converted to ANALYZE format, and automated spatial normalization was then performed using SPM99 to realign the data set to a common three-dimensional stereotaxic space using the Mon- treal Neurological Institute (MNI) template (Friston et al., 1995).
+ Before voxel-based statistical analysis, images were smoothed using a 12 Â 12 Â 12 mm Gaussian kernel.
+ The global cerebral metabolic rate for glucose (gCMRGlc) was normalized to a mean of 50 Amol/100 ml/min in a groupwise analysis of covariance (ANCOVA).
+ The normalized FDG-PET data of the patients were compared with a normal data base constituted from 12 healthy subjects without morphological or neurological pathology by comput- ing pixel-by-pixel t-statistics for detection of aprioric hypometabolic or hypermetabolic areas (Juengling et al., 1999; Signorini et al., 1999).
+ The applied activity of injected FDG and the time delay between injection and start of acquisition were defined as confounding covariates.
+ Only those voxel clusters were retained that exceeded t-values corresponding to Pb0.001 in a single test and a minimal cluster size of 15 voxels corresponding to Pb0.05 uncorrected for multiple comparisons based on extent threshold.
+ An image of unpaired t-values was then calculated with each voxel consisting of the difference in mean metabolic activity divided by local variance between patients and normal controls.
+ The t-statistic was transformed to a normal statistic yielding a z- score for each pixel (Friston et al., 1995).
+ For visualization of the z-score statistics, the z-score voxel clusters were projected onto the standard MRI data set provided by SPM99, using the SPM projection routine.
+ For anatomical identification, the coordinates derived from the MNI template were transformed using the appropriate algorithm (cf. http://www.mrc-cbu. cam.ac.uk/Imaging/mnispace.html) to comply with the original grid by Talairach and Tournoux (1988).
+ Asymmetry indices were calculated by number of voxels (leftÀright)/(left+right) (Herholz et al., 2002a); for bilateral hypometabolic clusters, the number of voxels was divided by 2 and added to the sum of both left and right hemispheric voxels.
+ To classify patients as semantically impaired, we used the CERAD naming score, because abnormal performance (z-scoreb1) could be more reliably discriminated from normal performance as age- and education-corrected standardized norms from a large normal sample were available (CERAD German norms; Berres et al., 2000).
+ Neuropsychological test results [% correct in the Naming subtest of the semantic test battery as a verbal semantic measure and % correct in the Pyramids and Palm Trees Test (three-picture version) as a measure of nonverbal semantic performance] were defined as covariates of interest for the group correlation analysis.
+ We were interested in regions showing a metabolic decrease associated with low performance.
+ For covariance analysis, voxel clusters with t-values corresponding to Pb0.05 in a single test and a minimal cluster size of 15 voxels were displayed as projected on lateral views of a standard brain (Fig. 1).
+ Table 4 presents regions with a voxel significance level of Pb0.001, zN3.09.
+ Additionally, a conjunction analysis was performed for verbal and nonverbal semantic correlations showing voxels common to both correlations (Price and Friston, 1997).
+2.3.
+ PET study
+
+            Fig. 1. Results of the correlation analyses in patients (n=11) for verbal and nonverbal semantic performance. The conjunction analysis (verbal and nonverbal) and the contrasts verbal vs. nonverbal and nonverbal vs. verbal performance are displayed as projections on a standard brain, voxel level significance P=0.05 uncorrected. The left hemispheric views are always on the right side. Below hypometabolic areas for each patient (P01–P11) vs. 12 normal controls are shown, voxel level significance P=0.001 uncorrected. Patients appear in the order of their CERAD naming score: P01 to P05 with decreasing impairment and P06 to P11 with no impairment (z-scoreNÀ1).
+          
+The MMSE scores indicated mild to moderate disease severity, and there were no consistent differences between patients with (CERAD naming z- scorebÀ1: patients 1–5) or without naming impairment (CERAD naming z-scorezÀ1: patients 6–11) on the following measures ( P value for the exact two- sided significance using pairwise Wilcoxon tests): MMSE (mean=21F6 vs. 21F2, P=0.08), Logical Memory from WMS-R ( P=0.93), Coloured Progressive Matrices ( P=0.61), Block Tapping ( P=0.13) and all the CERAD subtests except Naming ( P=0.004): Category Fluency ( P=0.13), Delayed Word List Recall ( P=0.66), Word Recognition ( P=0.18), Draw- ing Figures ( P=0.54) and Figure Recall ( P=1.00) ( Table 1).
+ Geriatric Depression Scale scores showed values in the depressed range in five patients, although they were clinically remitted from major depression (patients 2, 3 and 6) or had no history or clinical diagnosis of major depression (patients 4 and 10).
+ Depressive symptoms were observed in patients with and without semantic impairments.
+(PR) Coloured progressive matrices 5* – 16* 50 50 90 50 16* 16* 25 50 Letter fluency, t-score 23** – 29** 46 56 46 45 51 – 43 59 tapping Block forwards 5* 20 7* 2* 28 8* 2* – 7* 28 28 ranks percentile span Digit backwards 2* 2* 12* 13* 27 2* 13* – 12* 27 53 subtests, span Digit forwards 2* 2* 20 5* 28 5* 76 20 20 28 53 bold. in WMS-R Logical memory marked 2* 2* 2* 3* 3* 3* 3* 2* 2* 2* 6* are Figure recall range Drawing figures 0.9 0.8 depressed within Word recognition 0.4 scores (GDS) list Delayed word recall Scale examinations Category fluency Depression test Naming 1.0 Geriatric S.D. S.
+D. neuropsychological standard of Test Battery, z-scores Geriatric MMSE Depression Scale 1 24 19 19 22 2 21 25 20 1 3 26 24 0 22 3 27 are data indicated by b–Q.
+ Standardized scoreVmeanÀ1 scoreVmeanÀ2 Standardized 1 Table Results CERAD Patient No. 1 2 3 4 5 6 7 8 9 10 11 Missing * **
+In the semantic memory test battery, comprehension was usually not disturbed (Table 2).
+ Category Fluency was subnormal in all patients, even in those without impairments in the other semantic tasks.
+ All patients with strongly left-lateralized hypometabolism (patients 1–5, Table 3) showed naming scores out of the normal range.
+ Among patients with right hemispheric lateralization (patients 6–9 and 11), three patients (patients 6, 7 and 9) also showed slight impairments of naming.
+ Patient 11 showed slightly subnormal scores in word–picture matching.
+ Category-specific deficits in the naming task were observed in only 1 (patient 2) of 11 patients when a stringent criterion was used ( P=0.05, Fisher’s exact test).
+ Patient 2 showed a category-specific and marked naming deficit for nonliving things.
+ Moreover, her score on the Pyramids and Palm Trees (PPT) was within the normal range.
+ All other patients with a normal PPT score showed either only slight naming impairments (patients 4, 6, 7 and 9: z88%) or normal naming scores (patients 8 and 11).
+ All patients with marked naming impairments except patient 2 (patients 1, 3 and 5) also showed marked impairments in the PPT.
+ In the fluency task, the difference of living and nonliving scores was within the normal range in all patients.
+Each single patient (n=5) with naming impairment (CERAD zbÀ1) showed a clear left hemispheric lateralization of hypometabolism vs. 12 control subjects (Fig. 1).
+ Patients with normal CERAD naming scores (zNÀ1) showed a right-lateralized or bilateral cortical hypometabolism, but no left lateralization.
+ When asymmetry indices were calculated (Table 3), only one patient (patient 10) was found to deviate from this pattern.
+ A significant association of naming impairment (CERAD zbÀ1) could be demonstrated with lateralization of hypometabolism to the
+Table 2 Results of the semantic memory test battery Fluency Fluency Fluency Word–picture Living Nonliving Naming Naming, Naming, Pyramids Living Nonliving difference, matching Living Nonliving and Palm Living– Trees 3 Nonliving pictures Normal group 34–61, 40–69, À17–11, 100%, 96–100%, 96–100%, 96–100%, 88–100%, results (N=11) m:51.1, m:57.4, m:À6.3, m:1.000, m:0.989, m:0.992, m:0.985, m:0.955, S.D.:7.5 S.
+D.:10.4 S.
+D.:7.8 S.
+D.:0.000 S.
+D.:0.014 S.
+D.:0.016 S.
+D.:0.020 S.
+D.:0.038 Cut-off value 34 37 b À 22 / N11 0.98 0.96 0.96 0.94 0.92 0.91 0.86 Patient no.
+ 1 7 17 À10 0.81 0.83 0.79 0.60 0.67 0.54 0.52 2 15 14 1 0.98 0.96 1.00 0.71 0.83 0.58 0.94 3 13 13 0 0.90 0.79 1.00 0.69 0.63 0.75 0.67 4 27 26 1 1.00 1.00 1.00 0.88 0.96 0.79 0.96 5 22 23 À1 0.98 0.96 1.00 0.75 0.71 0.79 0.83 6 23 30 À7 1.00 1.00 1.00 0.90 0.94 0.96 0.94 7 28 38 À10 1.00 1.00 1.00 0.94 0.88 1.00 0.87 8 26 35 À9 0.98 0.96 1.00 0.98 0.96 1.00 0.90 9 24 29 À5 1.00 1.00 1.00 0.88 0.94 0.94 0.94 10 19 30 À11 1.00 1.00 1.00 0.96 1.00 0.92 0.85 11 31 34 À3 0.96 0.96 0.96 1.00 1.00 1.00 0.92 Fluency: raw scores.
+ All other tests: percent correct.
+ Scores below normal cutoff in bold.
+ Cutoff values were defined conservatively as scores below normal range and below mean (m)À 2 standard deviations (S.D.).
+ In the tasks with low degrees of freedom (all except fluency), 1 degree of freedom (error) was subtracted because of ceiling level performance in normal subjects and low degrees of freedom (1 error =À2% correct in the 48-item conditions, 1 error =À4% correct in the 24-item conditions).
+ Significant category-specific dissociations were underlined ( P=0.05, Fisher’s exact test, one-sided, applicable to naming and word–picture matching but not fluency).
+ Table 3 Lateralization of hypometabolism and naming impairment Patient no.
+ Asymmetry index CERAD naming impairment 1 0.57 Yes 2 0.62 Yes 3 0.86 Yes 4 0.78 Yes 5 0.65 Yes 6 À0.91 No 7 À0.81 No 8 À0.95 No 9 À1.00 No 10 0.33 No 11 À0.91 No Asymmetry Index (Herholz et al., 2002a), leftÀright/(left+right).
+ Positive values=left lateralization.
+ Patients were classified catego- rically according to asymmetry indices (positive=left-lateralized vs. negative=right-lateralized) and their CERAD naming impairment (z-score b À1 vs. zÀ1): Fisher’s exact test: P=0.013, one-tailed for the prediction of Naming impairment from the sign of asymmetry.
+ Only one patient (patient 10) marked in bold showed lateralization in an unexpected direction.
+left as measured by a positive lateralization ratio (Fisher’s exact test: P=0.013, one-tailed, Table 3).
+ None of the patients with right lateralization showed z-scores out of the normal range in the CERAD naming subtest.
+ Correlation analyses and conjunction analysis showed (Table 4, Fig. 1) that metabolism in left anterior temporal [Brodmann’s area (BA) 21/38], posterior inferior temporal (BA37), inferior parietal (BA40) and medial occipital (BA19) areas was correlated with both verbal and nonverbal semantic performance.
+ Note that all of these areas reached significance when a rather stringent criterion (voxel level of Pb0.001, zN3.09) was used in the conjunction analysis.
+ All of these highly significant areas in the conjunction analysis also showed up in the simple correlations (verbal/nonverbal semantic performance) at a more lenient threshold ( Pb0.05) as can be seen on the lateral views of significant areas (Fig. 1, Pb0.05).
+ For verbal semantic performance, the simple correlation showed no additional highly significant regions
+Table 4 Correlation analyses in patients (N=11) Hemisphere Area Maxima BA z-score (x y z) Verbal and nonverbal semantic performance, conjunction analysis Left Anterior temporal À44 6 À48 21/38 4.11 Posterior inferior À58 À64 4 37 3.34 temporal Inferior parietal À70 À32 22 40 3.46 Medial occipital À52 À74 À4 19 3.43 gyrus Correlation with verbal semantic performance Left Posterior inferior À58 À66 2 37 3.93 temporal Medial occipital À54 À72 À4 19 3.89 gyrus Inferior parietal À70 À34 22 40 4.38 Stronger correlation with verbal than nonverbal semantic performance Left Cerebellum/occipital À10 À86 À18 18 3.85 Right Occipital À12 À86 0 18 3.04 (side maximum) Correlation with nonverbal semantic performance Left Anterior temporal À46 0 À48 20 4.29 Posterior À8 À60 16 31 3.15 cingulate/cuneus All areas exceeding a voxel level of zN3.09 and P=0.001 uncorrected are reported.
+ For nonverbal vs. verbal performance, there was no area exceeding this level of significance.
+of hypometabolism, although a direct statistical comparison of regions correlating with verbal vs. nonverbal performance revealed stronger left cerebel- lar and bilateral occipital (BA18) hypometabolism for verbal performance ( Pb0.001).
+ On a more lenient level of significance ( Pb0.05, Fig. 1), there were several areas with at least a trend towards stronger hypometabolism for verbal vs. nonverbal performance (not reported in the table): On the lateral views (Fig. 1), one can observe bilateral inferior frontal (BA44), perisylvian left inferior parietal (BA40) and left posterior temporal (BA37) regions.
+ The simple correlation of nonverbal performance revealed an additional left posterior cingulate/cuneus (BA31) region.
+ There was no area more strongly correlated with nonverbal than verbal semantic performance at a stringent level of significance ( Pb0.001).
+ At a more lenient level ( Pb0.05), however, there was stronger hypometabolism of posterior cingulate cortex bilat- erally (BA31, data not shown) for nonverbal vs. verbal performance.
+ On the lateral and basal views ( Pb0.05, Fig. 1), it can be seen that the anterior temporal region also showed a trend toward a stronger correlation with nonverbal than verbal performance.
+By using FDG-PET, statistical parametric mapping, a multiple single-case and a correlative group approach, we contributed to the question whether conceptual–semantic (verbal and nonverbal) object knowledge impairments in mild to moderate AD are associated with diffuse homogeneous bilateral or rather inhomogeneous focal left hemispheric synaptic dysfunction.
+Semantic impairment in our patients could not be attributed to other confounding neuropsychological deficits or dementia severity as can be seen from the lack of differences in performance in other domains, when patients with and without semantic impairment were compared.
+ Semantic word fluency was subnormal in all patients and cannot be regarded as a measure of semantic ability as there was no agreement with the other semantic tests.
+ Fluency measures are known to be influenced by executive impairments ( Eslinger and Grattan, 1993).
+ The profile of semantic impairment differed interindividually with some patients showing a supra- or multi-modal (verbal and nonverbal), others a verbal semantic impairment, a pattern also demonstrated in previous studies (Hodges and Patterson, 1995).
+ Category-specific impairments in the naming task were only observed in 1 of 11 patients (9%), whereas Garrard et al. (1998) reported these in 21% (8 of 38 AD patients) of a comparable group (MMSEN 18) with an artefacts advantage being three times more frequent than the living things advantage observed in our patient.
+ We attribute these differences to the smaller number of patients in our study compared with the Garrard et al. study.
+ Overall, our study is in line with the rareness of category-specific dissociations in mild to moderate AD patients (Garrard et al., 1998).
+ This may lead one to two different conclusions: (1) Either different category-specialized regions are affected with equal severity or (2) the regions affected in mild to moderate AD most frequently and severely represent supra- or multicategorical conceptual information.
+ Further studies with larger groups of patients will have to test these two concurring hypotheses.
+The demonstration of hemispheric asymmetries in mild to moderate disease stages was expected from previous reports ( Haxby et al., 1985, 1990).
+ Left hemispheric asymmetries have been demonstrated to correlate with language impairment as assessed with naming ability and syntax comprehension (Haxby et al., 1985, 1990).
+ Our more detailed neuropsychological assessment included nonverbal semantic tests in which patients with left hemispheric asymmetries of hypometabolism showed different degrees of additional nonverbal semantic impairment on a single-case basis.
+ Asymmetries of hypometabolism have been described in a recent large multicenter study with left hemispheric asymmetry occurring more often at early stages, which was attributed to selection biases towards language impairment as being clinically more relevant (Herholz et al., 2002a).
+ Lateralization of hypoperfusion, especially to the left, has been found more often in women and early AD (Ott et al., 2000).
+ The ipsilateral correlation between hippocampal atrophy and decreased temporo–parieto–occiptal metabolism in Alzheimer’s disease suggests a functional relation and the asymmetries show that Alzheimer’s disease is an asymmetric disease in its early stages (Yamaguchi et al., 1997).
+ Some authors have proposed a neuropsychologically (Butters et al., 1996) and anatomically distinct subgroup of AD patients with focal temporal lobe dysfunction (FTLD; Cappa et al., 2001) showing impaired verbal memory and naming but intact visuo-constructive and executive functions.
+ Contrary to our findings, they showed left temporal hypoperfusion, but less parietal hypoperfusion using SPECT and an ROI approach.
+ These differences could be explained by the use of SPECT or by neuropsychological differences between the patients.
+ Our patients with semantic impairments did not display better visuo-constructive or nonverbal memory performance than our patients without semantic impairments.
+ In our view, the difficulty in describing a syndrome like FTLD is that it can very easily be mixed up with a form of frontotemporal dementia presenting as semantic dementia, where the same neuropsychological pattern can occur (Neary et al., 1998), although usually accompanied by behav- ioural symptoms.
+ Therefore, we excluded one patient with intact nonverbal memory who showed a neuropsychological profile of semantic dementia (temporal variant of frontotemporal dementia).
+ The demonstration of asymmetric synaptic dysfunction seems to contradict neuropathological findings in AD, which show a symmetric bilateral progression of tangle pathology from medial to lateral temporal lobes (Braak and Braak, 1991).
+ The poor correlation between neurofibrillary tangle den- sity and FDG-PET hypometabolism points to alter- native mechanisms underlying hypometabolism (Mega et al., 1997).
+ One such link could be the strong hemispheric lateralization found in temporoparietal regions for PET markers of activated microglia, which correlated with glucose hypometabolism in mild AD patients (Cagnin et al., 2001).
+ The role of inflammatory mechanisms in the patho- genesis of the disease has been reviewed recently (Hull et al., 2002).
+ The main findings of our correlation analysis were, that metabolism in left anterior temporal (BA21/38), posterior inferior temporal (BA37), inferior parietal (BA40) and medial occipital (BA19) areas correlated with both verbal and nonverbal semantic performance using a stringent criterion of significance ( Pb0.001).
+ Several areas showed at least a trend towards differential correlation more strongly with verbal than nonverbal performance.
+ These differential areas were either outside of the main areas of hypometabolism found in the single cases (left cerebellum, bilateral BA18, bilateral inferior frontal BA44) or were a small part of a larger common area, which correlated with both verbal and nonverbal performance (small part of the left perisylvian inferior parietal BA40 common area, small part of the left posterior inferior temporal BA37 area).
+ The stronger correlation of hypometabolism within the posterior cingulate (BA31) or nearby precuneus with nonverbal than verbal performance could be explained by visual imagery, which has been linked to this region and might be necessary for nonverbal more than for verbal semantic tasks (Kosslyn et al., 1995).
+ In conclusion, our results indicated that these differential modality-specific (verbal/nonverbal) effects were quantitatively less important than the common areas of hypometabolism.
+ The main results of our correlation study corrob- orate the data of previous studies correlating measures of semantic performance in AD and hypoperfusion (Grossman et al., 1997) or hypometabolism (Desgranges et al., 1998) with regard to left inferior parietal regions.
+ Contrary to Desgranges et al. (1998), no strong left frontal correlation was demonstrated.
+ This might be due to their use of a verbal semantic measure (naming), which was more strongly correlated with frontal areas (BA44) in our analysis when compared with nonverbal performance.
+ Our finding of inferior posterior temporal (BA37) and more anterior temporal regions (BA21), which was not reported by Desgranges et al. (1998), is in good agreement, however, with functional neuroimaging data on semantic processing in normal subjects (i.e., Vandenberghe et al., 1996) and neuropathological data in AD patients showing an affection of these areas in the disease (Harasty et al., 1999).
+ The main regions demonstrated in our correlation study also showed focal atrophy in a neuropathological study in AD patients: inferior and middle temporal (BA20/21), temporo-occipital (BA 37), parietal cortex (BA40) with sparing of primary auditory regions (Harasty et al., 1999).
+ SPECT is less sensitive to more basal temporal regions than PET (Herholz et al., 2002b); this could explain, why only superior, but no inferior, temporal areas correlated with nonverbal semantic performance in the Grossman et al. (1997) study.
+ Our findings are also in good agreement with a study by Hirono et al. (2001) in a large group of AD patients, where naming performance correlated with left middle and inferior temporal hypometabolism using a region of interest approach and FDG-PET (Hirono et al., 2001).
+ It was not within the scope of this study to resolve the theoretically driven debate about the existence of modality-specific areas for verbal and visual semantic processing (Warrington and Shallice, 1984) or whether modality-specific impairments arise by privileged accessibility by modality-specific areas to an amodal (supramodal) semantic store (Caramazza et al., 1990).
+ Our single-case PET data provided strong evidence, however, for rather inhomogeneous focal left hemispheric synaptic dysfunction as sufficient to produce varying degrees of verbal or verbal and nonverbal semantic impairments in our patients.
+ Inhomogeneous focal damage and interindividual regional differences among AD patients as the basis of different patterns of semantic impairment were suggested by Garrard et al. (1998, 2001) on the basis of the frequency of category-specific impairments at different stages of the disease.
+ This inhomogeneous pattern of lesions is compatible with both theoretical accounts (supramodal unitary semantic system or multiple meaning systems).
+ The strong correlation of key areas of hypometabolism also consistently seen in the single-case analysis with both verbal and nonverbal semantic impairment, however, can be interpreted as evidence for common supramodal or multimodal semantic representations within the left hemisphere.
+ Our findings could best be explained within a distributed left hemispheric supramodal semantic system that is disproportionately affected (Caramazza et al., 1990) by different regional distributions of pathology in our patients.
+ Up to now, different regional distributions of pathology in AD have been discussed within a multiple-meaning system framework with well-localized semantic subsystems (Garrard et al., 1998, 2001).
+ In our view, different regional distributions of lesions in AD are equally compatible with less strictly localized subsystems.
+ Further studies are necessary to test these concurring hypotheses.
+ Our data are in good accordance with evidence from functional activation studies in healthy subjects, that showed posterior inferior parietal, parietooccipi- tal, parietotemporal and temporo-occipital activations as correlates of semantic processing (Price, 1998; Vandenberghe et al., 1996; Zahn et al., 2000).
+ Moreover, as in the functional activation PET study by Vandenberghe et al. (1996), using the Pyramids and Palm Trees Test, the overlap of left hemispheric regions involved in both verbal and nonverbal semantic processing seems to be more prominent than the few modality-specific areas that were demonstrated.
+ We cannot rule out that part of the network of areas identified was related to visual recognition impairments, which can influence task performance both in the Pyramids and Palm Trees test and the naming task.
+ Especially the occipital areas, and possibly also part of the posterior temporo-occipital regions, might be related to visual recognition.
+ Anterior temporal and inferior parietal regions of hypometabolism, however, were not likely to lead to visual recognition impairments as the sole cause of reduced task performance.
+From our study, we conclude that most mild to moderate AD patients with semantic impairments show an extended left hemispheric but inhomogeneous focal hypometabolism, with right hemispheric areas also affected but only to a lesser degree.
+ Thus, synaptic dysfunction is diffuse rather than focal compared with vascular lesions, but the degree of involvement of certain left hemispheric key areas (inferior parietal BA40, anterior temporal BA21/38, posterior inferior temporal BA37) seems to be crucial for the development of semantic impairments.
+ Our neuropsychological data point to con- siderable heterogeneity among patients concerning modality- and category-specific impairments, although these patients do not show clear differences in their lateralization indices.
+ When interpreting these results for the functional anatomy of a putative semantic system in healthy subjects, one has to be aware that the slow process of lesion development in AD allows the affected brains the possibility of extensive functional reorganization over years.
+ Inter- individual differences in the functional anatomy and reorganization capacities could lead to further differences in the degree of reorganization.
+ From studies of the recovery of semantic functions in aphasic patients, large redundancy between different left hemispheric areas has been demonstrated ( Zahn et al., 2002, 2004).
+ The results of our study have to be interpreted with caution, however, as the small sample of patients requires further studies to confirm the effects demonstrated.
+ Furthermore, it has to be noted that there is no exact knowledge on the effects of nontricyclic antidepressants, taken by some of our patients, on brain metabolism in Alzheimer’s disease.
+ We conclude that the majority of areas affected in our patients with semantic impairments (inferior parietal BA40, anterior temporal BA21/38, posterior inferior temporal BA37) are involved in multi- or supra-modal (verbal and nonverbal) semantic knowl- edge and that these impairments are associated with the presence of left-sided hemispheric asymmetry of hypometabolism on a single-case basis.
+ Our data fit well with evidence from functional imaging studies pointing to a left hemispheric dominance for semantic processing.
+ Further studies are necessary to explore the basis of the different vulnerabilities of left and right hemispheric synaptic integrity in mild to moderate Alzheimer’s disease.
+ Interindivid- ual functional anatomic differences as well as different pathogenetic mechanisms have to be discussed.
+3.1.1. Neuropsychological standard test results (Table 1)
+        
+2.2.1. Tests of semantic functions
+        

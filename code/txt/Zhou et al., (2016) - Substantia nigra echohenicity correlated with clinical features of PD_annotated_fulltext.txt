@@ -1,0 +1,469 @@
+﻿Substantia nigra echogenicity correlated with clinical features of Parkinson's disease
+Hai-Yan Zhou a, 1 , Qian Sun a, 1 , Yu-Yan Tan a , Yun-Yun Hu b , Wei-Wei Zhan b , Dun-Hui Li a , Ying Wang a , Qin Xiao a , Jun Liu a, ** , Sheng-Di Chen a, * a Department of Neurology & Institute of Neurology, Ruijin Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China b Department of Ultrasonography, Ruijin Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China a r t i c l e i n f o a b s t r a c t Article history: Background: Transcranial sonography can display structural alterations in the substantia nigra (SN) of Received 8 August 2015 patients with Parkinson's disease (PD), and is considered to be a potential useful tool for the diagnosis of Received in revised form PD.
+ The aim of this study was to assess the correlation between SN echogenicity and clinical features in 21 January 2016 Chinese patients with PD.
+ Accepted 21 January 2016 Methods: A total of 420 subjects including 290 patients with PD and 130 controls were recruited from the neurological clinic or the community.
+ Transcranial sonographic evaluations of the SN were per- Keywords: formed in all subjects, and motor and non-motor symptoms were thoroughly assessed by a series of Parkinson's disease rating scales in PD patients.
+ Transcranial sonography Substantia nigra Results: Two hundred and one patients were successfully assessed by transcranial sonography.
+ SN Disease severity hyperechogenicity was found to be associated with male sex (p 1⁄4 0.004), higher scores on the Unified Chinese Parkinson's Disease Rating Scale (UPDRS) part II (p 1⁄4 0.001) and autonomic symptoms scores (p 1⁄4 0.003).
+ Moreover, regression analysis revealed that UPDRS part II scores (odds ratio 1⁄4 1.141, p < 0.001) and gender (odds ratio 1⁄4 2.409, p 1⁄4 0.007) could be the independent predictors for SN hyperechogenicity; in addition, among all items of UPDRS part II, speech, dressing, hygiene, and turning in bed and adjusting bed clothes significantly correlated with SN hyperechogenicity.
+ Conclusions: This is the first report suggesting the correlation between SN echogenicity and UPDRS part II, and we conclude that increased SN echogenicity might reflect more severe disease disability or poorer medical response. © 2016 Elsevier Ltd. All rights reserved.
+1. Introduction
+      
+Parkinson's disease (PD) is the second most common neurode- generative disorder and is associated with the progressive loss of dopaminergic neurons in the substantia nigra (SN).
+ Transcranial sonography (TCS) is a convenient and noninvasive diagnostic technique that allows imaging of the brain parenchyma in two- dimensional black and white slices.
+ TCS can display specific
+* Corresponding author.
+ Department of Neurology & Institute of Neurology, Ruijin Hospital affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China. ** Corresponding author.
+ Department of Neurology & Institute of Neurology, Ruijin Hospital affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai 200025, China.
+ E-mail addresses: jly0520@hotmail.com (J. Liu), chen_sd@medmail.com (S.-D.
+ Chen).
+ 1 These authors made an equal contribution to this work. http://dx.doi.org/10.1016/j.parkreldis.2016.01.021 1353-8020/© 2016 Elsevier Ltd. All rights reserved.
+
+        
+      
+structural changes in the SN of PD patients, and hyperechogenicity in the anatomical area of the SN is believed to be a marker of PD [1, 2].
+ Based on fluorodopa positron emission tomography (PET) studies, enlarged hyperechogenic size of the SN is considered to be associated with functional impairment of the nigrostriatal system [3].
+ Previous studies have suggested that SN hyperechogenicity (SNþ) is associated with the disease severity, although the findings are conflicting [2,4e8].
+ To date, TCS data from Chinese patients with PD are limited [9, 10].
+ Our study aimed to evaluate the correlation of the sonographic findings with the clinical features in Chinese PD patients including motor and non-motor characteristics.
+2.1. Subjects From March 2014 to May 2015, two hundred and ninety patients
+        
+The sonographic examinations were performed within 1 month after the clinical examinations (mean 10 days).
+ An experienced sonographer (Yun-Yun Hu) who was blinded to the clinical findings of the subjects performed the examination.
+ Through the acoustic bone window, the sonographer detected the echogenicity of the SN using a 2.5 MHz sonographic device (MyLab90, ESAOTE, Italy) with a depth of 16 cm and a dynamic range of 45 dB as described previously [9].
+ The SN was scanned through both temporal bone windows in the axial plane.
+ Some subjects showed no identifiable or vague midbrain structures that were insufficient to be quanti- tatively assessed, and these were excluded from further assessment.
+ After identifying the butterfly shaped hypoechogenic midbrain, which was surrounded by the hyperechogenic basal cistern, the clearest image of the hyperechogenic signals in the SN region was stored.
+ Both sides of SN echogenic areas from stored images were then manually encircled and measured (Fig. 1).
+ For inter-rater reliability analysis, all stored images were encircled and remeasured by another senior sonographer (Wei-Wei Zhan).
+ To acquire a cutoff value for SNþ, the larger SN echogenic areas (SN L ) were used in the receiver-operating characteristic (ROC) curve analysis.
+To assess disease disability, the PD patients were examined using the Unified Parkinson's disease rating scale (UPDRS) part II and part III, and their Hoehn & Yahr Stage (HeY stage) was graded while they were in the ‘on’ stage.
+ Medication was also carefully documented and levodopa equivalent dose (LED) was calculated.
+ To evaluate non-motor characteristics, a battery of scales was used.
+ The Non-Motor Symptoms Questionnaire (NMSQuest), a 30-item self-completed questionnaire, was used to investigate the occur- rence of non-motor symptoms.
+ Odor discrimination was performed with the 16-item odor identification test from the extended version of sniffin' sticks (SS-16; Burghart Messtechnik, Wedel, Germany) as previously described, with a cut-off score for the SS-16 of 9.5 [9].
+ All the participants were evaluated with the rapid eye movement sleep behavior disorder screening questionnaire (RBDSQ).
+ Autonomic dysfunction was assessed with a scale for outcomes in PD of autonomic symptoms (SCOPA-AUT), which was composed of 26 items.
+ The Mini-Mental State Examination (MMSE) was used to evaluate cognitive function.
+ The 17-item Hamilton Rating Scale for Depression (HAMD-17) was used to evaluate the severity of depressive symptoms.
+All analyses were performed using the Statistical Package for the Social Sciences (SPSS) version 16.0 for Windows.
+ An intra-class correlation coefficient (ICC) was used to determine inter-observer reliability of midbrain measurements.
+ Reliability coefficients with 95% confidence intervals (CIs) were calculated for all subjects.
+ The result of the ICC was 0.96 (0.89e0.98), indicating good inter-rater reliability.
+ An optimal cutoff value to discriminate between PD patients and control subjects was obtained from ROC curve analyses, plotting sensitivity versus 1-specificity for every possible cutoff point.
+ The cutoff was defined at the point where the sum of sensitivity and specificity was highest.
+ Continuous variables were given as means (±standard devia- tion, SD).
+ Categorical variables were summarized by counts of patients and percentages.
+ All variables were tested for normality (KolmogoroveSmirnov).
+ Two-sample t test, ManneWhitney U test or Chi-square test was applied for the comparisons between the SNþ and SNÀ groups.
+ To account for multiple testing, resulting nominal p values were adjusted according to the Bonferroni  procedure.
+ Adjusted p values below 0.05 were considered significant.
+ A step-wise logistic regression model was used to determine the most significant variables which were independently correlated with SNþ.
+ Threshold for entry and exit of a variable was p 1⁄4 0.05.
+ All variables in Table 2 together with LED were included in the logistic regression model.
+ Correlations of the UPDRS part II scores and SNþ was performed by Spearman correlation coefficients.
+Table 1 Demographic data and TCS findings of 201 PD patients and 92 normal controls.
+            
+              
+                
+                  
+                    
+                     Entire population N 1⁄4 293
+                     PD patients N 1⁄4 201
+                     Controls N 1⁄4 92
+                     P value
+                  
+                
+                
+                  
+                     Age (years)
+                     60.77 ± 10.26
+                     61.43 ± 10.04
+                     59.35 ± 10.63
+                     0.107
+                  
+                  
+                     Sex, Male, n(%)
+                     193 (65.87)
+                     139 (69.15)
+                     54 (58.70)
+                     0.080
+                  
+                  
+                     SN-right
+                     11.70 ± 13.27
+                     13.97 ± 13.93
+                     6.74 ± 10.12
+                     <0.001
+                  
+                  
+                     SN-left
+                     12.84 ± 14.38
+                     15.67 ± 15.10
+                     6.67 ± 10.30
+                     <0.001
+                  
+                  
+                     SN L
+                     16.25 ± 14.95
+                     19.71 ± 15.04
+                     8.70 ± 11.68
+                     <0.001
+                  
+                  
+                     SNÀ/SNþ
+                     152/141
+                     77/124
+                     75/17
+                     <0.001
+                  
+                  
+                     %SNþ
+                     48.12%
+                     61.69%
+                     18.48%
+                     <0.001
+                  
+                  
+                     TCS, transcranial sonography;
+                     SN, substantia nigra.
+                    
+                    
+                    
+                  
+                  
+                     value was calculated by t
+                     test, ManneWhitney U test or Chi-square test.
+                    
+                    
+                    
+                  
+                
+              
+            
+            Entire population N 1⁄4 293 PD patients N 1⁄4 201 Controls N 1⁄4 92 P value Age (years) 60.77 ± 10.26 61.43 ± 10.04 59.35 ± 10.63 0.107 Sex, Male, n(%) 193 (65.87) 139 (69.15) 54 (58.70) 0.080 SN-right 11.70 ± 13.27 13.97 ± 13.93 6.74 ± 10.12 <0.001 SN-left 12.84 ± 14.38 15.67 ± 15.10 6.67 ± 10.30 <0.001 SN L 16.25 ± 14.95 19.71 ± 15.04 8.70 ± 11.68 <0.001 SNÀ/SNþ 152/141 77/124 75/17 <0.001 %SNþ 48.12% 61.69% 18.48% <0.001 TCS, transcranial sonography; SN, substantia nigra. P value was calculated by t test, ManneWhitney U test or Chi-square test.
+          
+From March 2014 to May 2015, two hundred and ninety patients
+
+        Fig. 1. Sonographic images of the mesencephalic brainstem in a healthy control (A) and a patient with Parkinson's disease (B). The butterfly shaped mesencephalic brainstem was surrounded by the hyperechogenic basal cisterns. The patient with Parkinson's disease exhibited hyperechogenic signals encircled by lines at both sides of SN, which were not seen in the control.
+      
+with PD meeting the criteria of the UK Parkinson's Disease Society Brain Bank were recruited from the movement disorders clinic at the Department of Neurology, Ruijin Hospital affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China.
+ None of the PD patients demonstrated atypical features such as pyramidal signs, gaze palsy, or cerebellar ataxia, or had a history of stroke, neuroleptic intake or other identifiable possible causes of second- ary parkinsonism.
+ From March 2015 to July 2015, one hundred and thirty control subjects without CNS disorders were recruited by advertisement within the hospital's neurological clinic or from the Shanghai Wuliqiao community.
+ All volunteers were assessed by movement disorder specialists and were excluded if there was a positive family history of PD or the possibility of mild parkinsonism.
+ This study was approved by the Ethics Committee of Ruijin Hospital affiliated to Shanghai Jiao Tong University School of Medicine.
+ All participants were given written informed consent.
+TCS examination could be performed in 293 of the 420 subjects; 127 subjects (30.24%) had no appropriate temporal acoustic bone windows and were therefore excluded from further analysis.
+ The mean age of the nonvisualized group was significantly older than that of the visualized group (65.94 ± 6.38 vs. 63.65 ± 7.41 years, p < 0.001).
+ The percentage of women in the nonvisualized group was significantly higher than that in the visualized group (74.71% vs. 30.85%, p < 0.001).   Table 1 presents the descriptive data of SN echogenicity for the PD patients and control subjects, separately.
+ In the control group, mean SN echogenic area was similar on both sides, being 6.74 (±10.12) mm 2 on the right and 6.67 (±10.30) mm 2 on the left side.
+ In the PD patients, mean SN echogenic area was 13.97 (±13.93) mm 2 on the right, and 15.67 (±15.10) mm 2 on the left side.
+ There was a moderate correlation between left and right SN echogenic areas for both controls (r 1⁄4 0.739, p < 0.001) and patients (r 1⁄4 0.507, p < 0.001).
+ The mean size of the SN L in PD was 19.71(±15.04) mm 2 , which was significantly greater as compared to control subjects (8.70 ± 11.68 mm 2 , p < 0.001).
+ In the control subjects, males had larger SN L echogenic areas compared to females (12.94 ± 13.03 vs. 2.66 ± 5.37 mm 2 , p < 0.001).
+ However, age had no effect on the SN echogenic areas.
+ Therefore, ROC curves to determine optimal cutoff values of SN echogenicity to discriminate PD from control subjects were performed for the whole population as well as for males and females separately (see next section).
+3.1.
+ SN echogenicity in the participants
+Table 2 Clinical data of 201 PD patients grouped according to the TCS findings of the SN.
+          
+            
+              
+                
+                  
+                   Whole group N 1⁄4 201
+                   SN < 18 mm 2 on both sides N 1⁄4 77
+                   SN ! 18 mm 2 on one or both sides N 1⁄4 124
+                   P value
+                   *P value
+                
+              
+              
+                
+                   Age (years)
+                   61.43 ± 10.04
+                   59.74 ± 8.72
+                   62.48 ± 10.68
+                   >0.05
+                  
+                
+                
+                   Sex, Male, n(%)
+                   139 (69.15)
+                   44 (57.14)
+                   95(76.61)
+                   0.004
+                   0.048
+                
+                
+                   Disease duration (years)
+                   5.59 ± 4.21
+                   4.84 ± 3.78
+                   6.06 ± 4.40
+                   >0.05
+                  
+                
+                
+                   Hoehn & Yahr Stage
+                   2.02 ± 0.81
+                   1.88 ± 0.77
+                   2.10 ± 0.83
+                   >0.05
+                  
+                
+                
+                   1e1.5, n(%)
+                   77 (38.31)
+                   34 (44.15)
+                   43 (34.68)
+                   >0.05
+                  
+                
+                
+                   2e2.5, n(%)
+                   87 (43.28)
+                   32 (41.56)
+                   55 (44.35)
+                   >0.05
+                  
+                
+                
+                   !3, n(%)
+                   37 (18.41)
+                   11(14.29)
+                   26 (20.97)
+                   >0.05
+                  
+                
+                
+                   UPDRS II score
+                   11.05 ± 5.01
+                   9.34 ± 3.76
+                   12.12 ± 5.39
+                   0.001
+                   0.012
+                
+                
+                   UPDRS III score
+                   23.90 ± 12.01
+                   21.08 ± 10.77
+                   25.65 ± 12.44
+                   0.008
+                   0.096
+                
+                
+                   NMSQuest score
+                   6.11 ± 3.60
+                   5.51 ± 3.34
+                   6.49 ± 3.71
+                   >0.05
+                  
+                
+                
+                   MMSE score
+                   27.18 ± 3.09
+                   27.53 ± 2.46
+                   26.96 ± 3.41
+                   >0.05
+                  
+                
+                
+                   RBDSQ score
+                   4.04 ± 3.03
+                   3.56 ± 2.66
+                   4.35 ± 3.22
+                   >0.05
+                  
+                
+                
+                   HAMD-17 score
+                   5.92 ± 4.85
+                   5.83 ± 5.57
+                   5.97 ± 4.36
+                   >0.05
+                  
+                
+                
+                   SCOPA-AUT score
+                   11.82 ± 7.43
+                   9.86 ± 6.47
+                   13.04 ± 7.74
+                   0.003
+                   0.036
+                
+                
+                   SS-16 a
+                   6.67 ± 3.30
+                   6.93 ± 3.12
+                   6.50 ± 3.42
+                   >0.05
+                  
+                
+                
+                   TCS, transcranial sonography;
+                   SN, substantia nigra; UPDRS,
+                   Unified Parkinson's Disease Rating
+                   Scale; NMSQuest, Non-Motor Symptoms Questionnaire;
+                   MMSE,
+                   Mini-Mental Mini-Mental
+                
+                
+                   State Examination; RBDSQ,
+                   rapid eye movement sleep
+                   behavior disorder screening questionnaire;
+                   HAMD-17, 17-item Hamilton Depression Rating
+                   Scale; SCOPA-AUT,
+                   scale for
+                
+                
+                   outcomes in PD for autonomic
+                   symptoms; SS-16, 16-item
+                   odor identification test from extended
+                   version of sniffin' sticks.
+                  
+                  
+                
+                
+                   Two-sample t test was applied
+                   for the comparisons of age,
+                   UPDRS part III, SCOPA-AUT and SS-16
+                   between the SNþ and SNÀ groups. ManneWhitney
+                   U test or
+                   Chi-square test
+                
+                
+                   was applied for the comparisons
+                   of non-normally distributed
+                   variables and ordinal variables such
+                   as UPDRS part II, disease duration, HeY stage,
+                   NMSQuest, RBDSQ,
+                   HAMD-17, HAMD-17,
+                
+                
+                   MMSE and Sex between the
+                   SNþ and SNÀ groups. To
+                   account for multiple testing, resulting nominal
+                   p values were adjusted according to the Bonferroni
+                   procedure.
+                   Adjusted p
+                
+                
+                   values (*P values) below 0.05
+                   were considered significant.
+                  
+                  
+                  
+                  
+                
+                
+                   a 196 patients, including 75
+                   of SN < 18 mm 2 and 121
+                   of SN ! 18 mm 2 on one or both sides, were
+                   finally applicable for SS-16 test after exclusion
+                   of chronic
+                   rhinitis,
+                
+                
+                   operation and recent cold.
+                  
+                  
+                  
+                  
+                  
+                
+              
+            
+          
+          Whole group N 1⁄4 201 SN < 18 mm 2 on both sides N 1⁄4 77 SN ! 18 mm 2 on one or both sides N 1⁄4 124 P value *P value Age (years) 61.43 ± 10.04 59.74 ± 8.72 62.48 ± 10.68 >0.05 Sex, Male, n(%) 139 (69.15) 44 (57.14) 95(76.61) 0.004 0.048 Disease duration (years) 5.59 ± 4.21 4.84 ± 3.78 6.06 ± 4.40 >0.05 Hoehn & Yahr Stage 2.02 ± 0.81 1.88 ± 0.77 2.10 ± 0.83 >0.05 1e1.5, n(%) 77 (38.31) 34 (44.15) 43 (34.68) >0.05 2e2.5, n(%) 87 (43.28) 32 (41.56) 55 (44.35) >0.05 !3, n(%) 37 (18.41) 11(14.29) 26 (20.97) >0.05 UPDRS II score 11.05 ± 5.01 9.34 ± 3.76 12.12 ± 5.39 0.001 0.012 UPDRS III score 23.90 ± 12.01 21.08 ± 10.77 25.65 ± 12.44 0.008 0.096 NMSQuest score 6.11 ± 3.60 5.51 ± 3.34 6.49 ± 3.71 >0.05 MMSE score 27.18 ± 3.09 27.53 ± 2.46 26.96 ± 3.41 >0.05 RBDSQ score 4.04 ± 3.03 3.56 ± 2.66 4.35 ± 3.22 >0.05 HAMD-17 score 5.92 ± 4.85 5.83 ± 5.57 5.97 ± 4.36 >0.05 SCOPA-AUT score 11.82 ± 7.43 9.86 ± 6.47 13.04 ± 7.74 0.003 0.036 SS-16 a 6.67 ± 3.30 6.93 ± 3.12 6.50 ± 3.42 >0.05 TCS, transcranial sonography; SN, substantia nigra; UPDRS, Unified Parkinson's Disease Rating Scale; NMSQuest, Non-Motor Symptoms Questionnaire; MMSE, Mini-Mental State Examination; RBDSQ, rapid eye movement sleep behavior disorder screening questionnaire; HAMD-17, 17-item Hamilton Depression Rating Scale; SCOPA-AUT, scale for outcomes in PD for autonomic symptoms; SS-16, 16-item odor identification test from extended version of sniffin' sticks. Two-sample t test was applied for the comparisons of age, UPDRS part III, SCOPA-AUT and SS-16 between the SNþ and SNÀ groups. ManneWhitney U test or Chi-square test was applied for the comparisons of non-normally distributed variables and ordinal variables such as UPDRS part II, disease duration, HeY stage, NMSQuest, RBDSQ, HAMD-17, MMSE and Sex between the SNþ and SNÀ groups. To account for multiple testing, resulting nominal p values were adjusted according to the Bonferroni procedure. Adjusted p values (*P values) below 0.05 were considered significant. a 196 patients, including 75 of SN < 18 mm 2 and 121 of SN ! 18 mm 2 on one or both sides, were finally applicable for SS-16 test after exclusion of chronic rhinitis, nasal operation and recent cold.
+        
+3.2.
+ Effects of age and sex on echogenic areas in the controls
+An ROC curve was plotted for the SN L for the distinction of PD versus control subjects ( Fig. 2).
+ Maximal discrimination between PD patients and control subjects was achieved at a cutoff point that yielded the highest sum of sensitivity and specificity.
+ This was obtained with SN L at 18 mm 2 for the whole cohort as well as for both men and women separately.
+ Therefore, SNþ was defined as SN L !
+ 18 mm 2 and SNÀ as SN L < 18 mm 2 . Fig. 2 demonstrates the performance of TCS in identifying PD patients with the optimal cutoff acquired in the ROC analysis.
+ At this cutoff, sensitivity was 61.69% (95% CI 54.97e68.41), and specificity was 81.52% (95% CI 73.59e89.45).
+The clinical data of the 201 enrolled patients are shown in Table 2.
+ Comparison between patients with SNþ and patients with SNÀ show a significant association of SN echogenicity with gender (p 1⁄4 0.004), UPDRS part III score (25.65 ± 12.44 vs. 21.08 ± 10.77, p 1⁄4 0.008), UPDRS part II score (12.12 ± 5.39 vs. 9.34 ± 3.76, p 1⁄4 0.001) and SCOPA-AUT score (13.04 ± 7.74 vs. 9.86 ± 6.47, p 1⁄4 0.003), while the SNþ group was not significantly associated with age, HeY stage, and duration of disease, as well as other non- motor symptoms scales including NMSQuest, RBDSQ scores, MMSE, HAMD-17 and SS-16 (Table 2).
+ However, after Bonferroni correction, only gender, UPDRS part II score and SCOPA-AUT score were related to SN echogenicity (p < 0.05) (Table 2).
+ Further step-wise logistic regression analysis was used to identify the correlation between variables and SNþ.
+ Only gender and UPDRS part II were included in the final model.
+ This demonstrated that there was a significant correlation between the UPDRS part II score and SNþ (odds ratio 1⁄4 1.143, 95% CI 1⁄4 1.064e1.227, p < 0.001), as well as significant correlation between male sex and SNþ (odds ratio 1⁄4 2.409, 95% CI 1⁄4 1.271e4.564, p 1⁄4 0.007).
+ Considering that the low penetration rate of TCS in female patients (36.08%) might cause sampling bias, another logistic regression analysis was applied only for male patients in whom the penetration rate was 80.15%.
+ However, similar results were achieved and only UPDRS part II could be used to predict SN hyperechogenity (odds ratio 1⁄4 1.167, 95% CI 1⁄4 1.061e1.283, p 1⁄4 0.001).
+ To identify which items of UPDRS part II correlated with SNþ, Spearman's correlation analysis was performed and this indicated
+
+            Fig. 2. ROC curve for the differentiation of PD vs. control subjects. The larger SN echogenic areas (SN L ) were taken for the plotting of the ROC curve in the entire cohort. Asterisk marks the point in the SN L curve for the cutoff of !18 mm 2 (area under the
+          
+curve 1⁄4 0.714).
+ The sensitivity value was 61.69%, and the specificity value was 81.52%.
+that speech (r 1⁄4 0.236, p 1⁄4 0.001), dressing (r 1⁄4 0.241, p 1⁄4 0.001), hygiene (r 1⁄4 0.254, p < 0.001), turning in bed and adjusting bed clothes(r 1⁄4 0.265, p < 0.001) were significant correlated with SNþ.
+ Comparison of anti-parkinsonism drugs between those two groups revealed that the LED of the SNþ group was higher than that of SNÀ group (583.90 ± 368.37 vs. 460.11 ± 285.42 mg, p 1⁄4 0.015).
+This study is the first to explore the correlation between SN echogenicity and motor and non-motor characteristics in Chinese patients with PD.
+ We found significant correlation between SN echogenicity and the UPDRS part II score, which has not been reported before.
+ In our study, among assessment of motor symptoms, both UPDRS part III score and UPDRS part II score were higher in the SNþ group compared to SNÀ group.
+ However, following Bonferroni correction, there was a significant difference of UPDRS part II score between the SNþ and SNÀ groups.
+ The strong correlation of UPDRS part II with SNþ was further confirmed by logistic regression analysis.
+ Moreover, a similar correlation of UPDRS part II with SNþ was also demonstrable if only male patients were assessed, which could partially exclude sampling bias due to insufficient assessment in female patients with rather lower penetration rate.
+ Previous evidence demonstrated that UPDRS part II scores were significantly higher with increasing disease duration and severity [ 12].
+ Together with our findings, one could speculate that the echogenic pattern of SN might be related to the progression of the disease.
+ Some studies have also reported significant positive correlations between the SNþ and clinical scores [2, 11, 13], although results are conflicting.
+ Other researchers have failed to show any relation between SNþ and clinical severity [4e8].
+ SN echogenicity may remain stable at long-term follow up despite disease progression, and may even remain stable in those cases with rapid progression of clinical symptoms [4, 11, 14].
+ The reasons for these controversial results remain unclear.
+ One possibility is that het- erogeneity exists in different subsets of PD patients.
+ For example, patients with LRRK2-mutations may present with clinical features that are typical of PD, but display a rather moderate SNþ [15].
+ Another example is some patients with the ATP13A2 mutation may develop severe parkinsonism and obvious iron accumulation in the basal ganglia, but display normal SN echogenicity [16].
+ From our study, we would like to propose a further hypothesis: that a poorer response to medical therapy in patients with a larger echogenic size in their SN might contribute to the correlation between the UPDRS part II and SN echogenicity.
+ In our cohort, patients with SNþ had significantly higher LED, but still had higher UPDRS part II and UPDRS part III scores.
+ This proposal is also supported by the findings that items of UPDRS part II including dressing, hygiene, turning in bed and adjusting bed clothes were the main factors correlated with SNþ.
+ Since those activities are likely carried out in the morning and evening, their impairments might be partially interpreted by the wearing off effect of medication.
+ There have only been a few studies published previously con- cerning the relation between SN echogenicity and non-motor symptoms of PD, and there are indications that depression was related not only to raphe hypoechogenicity but also to SN hyperechogenicity [17, 18].
+ However, in our study, only SCOPA-AUT, one of non-motor symptoms, was associated with SN hyperechogenicity, but no relationship was found between depression and SN hyperechogenicity.
+ Although urinary incontinence has been reported to be associated with an increasing frequency of midbrain raphe hypoechogenicity in PD patients [18], no comparable data were found in our study.
+ In the PD patients, male patients not only had greater SN echogenic areas (22.04 ± 14.61 vs. 14.47 ± 14.76 mm 2 , p 1⁄4 0.003), but also had a higher frequency of SNþ (68.35% vs. 46.77%, p 1⁄4 0.004).
+ This difference between male and female also existed in the control group.
+ The SN L in male controls was much greater (12.94 ± 13.03 vs. 2.66 ± 5.37 mm 2 , p < 0.001) and all SNþ control subjects were male (31.48% vs. 0%).
+ Other researchers also reported gender differences in community-based studies of healthy elderly subjects [19, 20].
+ The higher frequency of SNþ could be associated with the increased prevalence of PD reported in males.
+ However, since the penetration rate of women was less than half and decreased with aging more pronouncedly in our cohort, a difference in SN echogenicity based on gender should be interpreted with caution.
+ There are another two issues that need to be addressed.
+ The first concerns the TCS penetration rate.
+ Among the total 420 subjects, TCS failed to visualize the mesencephalon in 127 patients (30.24%) as a result of poor penetration of ultrasound through the bony window, a figure which is much higher than that of Caucasian subjects where the insufficient penetration rate is 5e10% [8,21e23].
+ However, recent several Asian studies have also reported higher temporal insufficient penetration rate (~20%) [7, 24, 25], which may be due to different temporal bone structure in Asians [26].
+ Consistent with previous reports, both age and sex influenced the outcome, and the penetration rate declined with older age, espe- cially in female patients [7, 25].
+ In a large Japanese cohort study, the poor penetration rate was greater than 60% in women over the age of 60 years [25], which also occurred in our cohort.
+ The second issue concerns the sensitivity of TCS in the diagnosis of PD.
+ This study confirms our previous findings of increased SN echogenicity in PD patients [9].
+ In 61.69% of PD patients the extent of the hyperechogenic signals in the SN exceeded 18 mm 2 on at least one side, while 77 out of 201 PD patients (38.31%) had an SN signal intensity within the normal range.
+ However, the sensitivity value was lower than reported in earlier studies [4e8,11,21,24,25].
+ Spectrum bias could be the main cause of the differences between earlier studies and ours.
+ Although the sensitivity in a few studies conducted in Asian patients was similar to that seen in Europeans [7], the number of patients enrolled in our study is the largest reported up to the present.
+ In our cohort, a higher rate of insufficient temporal penetration in female patients might also have lowered the sensitivity, since sensitivity rose to 68.35% if only males taken into account.
+ The quality of bone window might be a reason for both the smaller area of hyperechogenicity seen in women and the low sensitivity of TCS in our study.
+ However, this is unlikely to be the major reason for the low sensitivity.
+ Other factors of importance were that images stored for analysis were clear enough for adequate measuring.
+ Furthermore, the accuracy of diagnosis of PD is another concern, since patients in the early stage of the disease are easily misdiagnosed [27].
+ In our study, substantial numbers of patients (38.31%) were at HeY stages of 1e1.5, which may limit our diagnostic accuracy and potentially decrease sensitivity.
+ However, we have previously shown that the sensitivity of TCS is only 64.28% even when using 99mTc-TRODAT-1 single photon emission computed tomography (SPECT) as a clinical gold standard [28], also consistent a report from another Chinese research group [10].
+ Furthermore, although ultrasound physicians were specially trained, human error is always a potential source of conflicting results, and differing ultrasound systems may also have contributed.
+ However, the high SNþ frequency in the control group (18.48%) suggests appropriate technical skill by the ultrasound physicians.
+ Considering that a number of components are involved in SN hyperechogenicity including nonchelated forms of iron, protein bound iron and microglia activation [3, 29], different path- ogenetic mechanisms might lead to different iron accumulation patterns appearing as different SN echogenicity.
+ In conclusion, SN echogenicity significantly correlated with UPDRS part II scores in our cohort of Chinese patients with PD, suggesting that increased SN echogenicity might reflect more severe disease disability or poorer response to medication.
+ However, with a relatively low penetration rate and relatively low sensitivity of TCS in our patients, further studies are needed to confirm these findings.
+All authors declared no conflict of interest.
+None.
+This study was supported by a National Key Basic Research Program of China (No.2011CB504104) and Natural Science Fund of China (No.81430022, 81371407).
+Hai-Yan Zhou is responsible for design, review and critique of statistical analysis, and writing the first draft.
+ She also involves in the conception of the project.
+ Qian Sun is responsible for organization and execution of this project, as well as design and execution of statistical analysis.
+ Yu-Yan Tan is responsible for review and critique the manuscript.
+ Yun-Yun Hu is responsible to perform ultrasound.
+ Wei-Wei Zhan is responsible to supervise ultrasound.
+ Dun-Hui Li is responsible to measure the substantia nigra echogenic sizes.
+ Ying Wang provided a part of patients' data.
+ Qin Xiao provided a part of patients' data.
+ Jun Liu is responsible to provide a part of patients' data, and involves in the conception of this project and review and critique the manuscript.
+ Sheng-Di Chen is responsible to provide most of patients' data, and involves in the conception of this project and review and critique the manuscript.
+This study was supported by a National Key Basic Research Program of China (No.2011CB504104) and Natural Science Fund of China (No.81430022, 81371407).

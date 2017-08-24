@@ -1,0 +1,472 @@
+﻿Relationship between nigrostriatal dopaminergic degeneration, urinary symptoms, and bladder control in Parkinson’s disease
+K. Winge a , L. Friberg b , L. Werdelin a , K. K.
+ Nielsen c and H. Stimpel c a Department of Neurology, H:S Bispebjerg University Hospital, Copenhagen NV, Denmark; b Department of Clinical Physiology and Nuclear Medicine, H:S Bispebjerg University Hospital, Copenhagen NV, Denmark; and c Department of Urology, H:S Frederiksberg University Hospital, Frederiksberg, Denmark
+Introduction
+      
+Patients with Parkinson’s disease (PD) often have lower urinary tract symptoms (LUTS).
+ In the studies most recently published on PD patients diagnosed according to published criteria, the prevalence of urinary symptoms is 27% (Araki and Kuno, 2000) to 39% (Campos- Sousa et al., 2003) based on validated questionnaires.
+ PD-patients have significantly more symptoms than healthy control persons (Lemack et al., 2000; Campos- Sousa et al., 2003).
+ Typically, the bladder symptoms appear after treatment for PD has been started(Chandiramani et al., 1997; Araki and Kuno, 2000).
+ Araki and Kuno found a clear correlation with neurological disability(Araki and Kuno, 2000), and Sakakibara et al demonstrated a correlation to stage of PD (Sakakibara et al., 2001a).
+ Both reports suggest a relationship between dopaminergic degeneration and symptoms of urinary dysfunction.
+ Others have not found this correlation (Aranda et al., 1983; Gray et al., 1995; Campos-Sousa et al., 2003).
+ Animal studies have demonstrated a clear correlation between dopaminergic degeneration and the
+Correspondence: Kristian Winge, Department of Neurology, Bispebjerg Hospital, DK-2400 Copenhagen, Denmark (tel.: +45 35 313 293; fax: +45 35 313 957; e-mail: k.winge@dadlnet.dk).
+presence of overactive urinary bladder ( Yoshimura et al., 1993).
+ In PD patients, there is a reduced binding of specific radio-labelled ligands to the pre-synaptic dopamine transport sites (DAT).
+ In PD patients with additional urinary bladder symptoms, there is an augmented reduction of the DAT ligand [ 123 I]-b-CIT binding in the striatum compared with patients with PD but without bladder dysfunction, thus indicating a correlation between urinary dysfunction and degeneration of the nigrostriatal dopaminergic cells (Sakakibara et al., 2001b).
+ Studies of PD patients with urinary symptoms using urodynamics have shown that the most frequent abnormality is detrusor over activity; the incidence varies from 45 to 93% (Pavlakis et al., 1983; Fitzmaurice et al., 1985; Christmas et al., 1988; Hattori et al., 1992; Araki et al., 2000).
+ Anti-Parkinson medication seems to have a beneficial effect on the bladder function in some studies, but the results are conflicting (Fitzmaurice et al., 1985; Winge et al., 2002).
+ In this study, we wanted to evaluate the correlation between dopaminergic degeneration in the striatum and bladder symptoms in PD patients.
+ Dopaminergic degeneration was investigated by single-photon emission computerized tomography (SPECT) imaging of the dopamine transporter with [ 123 I]-FP-CIT.
+ Bladder symptoms were assessed using questionnaires and full urodynamic evaluation.
+Patients were invited to enter the study from June 2000 to December 2002, regardless of the presence of urinary symptoms.
+ Patients were recruited from our Movement Disorder Clinic and from contacts with Dansk Parkin- sonforening, the patient support group in Denmark.
+ Inclusion criteria were: Patients with idiopathic PD, age between 30 and 60 years, and Mini Mental State Examination score >25.
+ Studies have demonstrated a correlation between age and presence of LUTS in both men and women ( Kay et al., 1999; Moller et al., 2000; Schatzl et al., 2001), but a cut off regarding age and the presence of bladder dysfunction is not possible to establish.
+ We have chosen 60 years as an upper age limit arbitrarily, in order to reduce the expected prevalence of other co-existing age-related symptoms.
+ Exclusion criteria were: LUTS before onset of PD, infections <2 weeks before examination, current or recent hallu- cinations, or psychosis.
+ Patients participated after informed consent, and the study was approved by the Scientific Ethics Committee of Copenhagen and Frederiksberg Counties, no.
+ KF 01-078/00.
+ Patients underwent a thorough clinical evaluation, completed the questionnaires, and were examined with cystometry twice with a 1-week interval.
+ [ 123 I]-FP-CIT SPECT-scans were performed as a part of clinical evaluation procedure for PD within 18 months [mean time between urodynamics and SPECT: )3.6 month ()17 to 16 months)] before or after the cystometry.
+ The SPECT scans were evaluated retrospectively, without knowledge of the neurological and urological status of the patients.
+ Patients were included based on the diagnostic criteria for PD (Gelb et al., 1999), and were evaluated using Unified Parkinson’s Disease Rating Scale (UPDRS), and the Hoehn and Yahr rating scale for PD (0–5).
+ To evaluate LUTS, patients completed a validated questionnaire (Hansen et al., 1995), the Danish Prostate Symptom Score (Dan-PSS).
+ The Dan-PSS consists of 12 questions with accompanying bother scores (Hald et al., 1991).
+ Questions were in three categories: symptoms of obstructed voiding (1–4), irritative symptoms (5–8) and pain, dripping and stress incontinence (9–12).
+ In the Dan-PSS, the total score is calculated as R 1)12 (symptom score · bother score).
+ Dan-PSS is validated for use in LUTS in men and has been used in evaluating bladder symptoms in women (Kay et al., 1999).
+ It is more sensitive than The International Prostate Symp- tom Score (IPSS) questionnaire (Hansen et al., 1998).
+ Prostate score systems have been successfully used for both men and women (Chai et al., 1993; Lepor and Machi, 1993) as well as for patients with PD (Araki and Kuno, 2000).
+ According to one study, symptom scores without bother score (IPSS) seem to be accurate for predicting probably urodynamic abnormalities in patients of both sexes with PD (Araki et al., 2000).
+ Urodynamic examinations were performed during and after cessation of medical treatment (washout 3 · t 1/2 ).
+ Medication is listed in Table 1.
+ Cystometry was carried out on Solar Silver System, Medical Measurement System, Enschede, the Nether- lands, using double channel, six French urethral catheters (MedtronicÒ: Medtronic Inc., Minneapolis, Minesota, USA) and double channel, 12 French rectal catheters (MedtronicÒ).
+ Urodynamic assessment consisted of uroflowmetry, measurement of residual urine volume, cystometry, which consisted of medium-fill (50 ml/min) water cystometry with simultaneous surface Electromyography (EMG), and a pressure flow study.
+ The volume of First Sensation (FS) of filling, Bladder capacity (Cap), maximal flow rate (Q max ), detrusor pressure at Q max (P detQmax ), presence of neurogenic detrusor overactivity, and volume at the first uninhibited contraction were registered.
+ Voiding was analysed regarding urethral obstruction, detrusor contractility, the presence of detrusor sphincter dyssynergia and the volume of post- micturitional residual urine.
+ The methods and definitions used for the urodynamic studies conformed to the standards proposed by the International Continence Society (Abrams et al., 2003), following Good Urodynamic Practice (Homma et al., 2002).
+ All cystometries were analysed by the same specialist (KKN), who was blinded to status of the patients and results of other tests.
+ We introduce the term Ôfunctional bladder controlÕ.
+ This functional bladder control is calculated as the difference between volume of Ôfirst sensation of bladder fillingÕ and volume of Ôbladder capacityÕ on cystometry, seen as the time the patient has to find a suitable place to empty the bladder, and thereby we include cortical mechanisms in bladder control, see Discussion for further elaboration.
+ Patients received 200 mg of sodium perchlorate i.v.
+ 10–15 min before the radiotracer injection in order to block uptake of iodine-123 in the thyroid.
+ The SPECT scan was performed 3 h after injection of 185 MBq [ 123 I]-FP-CIT, when a steady on/off state of the striatal DAT-receptor binding was reached.
+ Image acquisition was done with a Marconi PRISM 3000XP triple-head gamma camera with ultra-high-resolution, fan-beam collimators, SPECT scanner.
+ SPECT acquisitions were performed using a 360° orbit for each collimator.
+ A gadolinium-153 pin source was used for simultaneous transmission scans.
+ Image processing was carried out using iterative reconstruction with scatter and non- uniform attenuation correction.
+ The iterative algorithm ordered subsets-expectation maximization (OS-EM) was used.
+ Data analysis All scans were interpreted by the same specialist in nuclear medicine (L.F.), blinded to patientsÕ status and results of other tests.
+ The clinical replies consisted of a visual interpretation as well as a quantified dataset.
+ The specific uptake of [ 123 I]-FP-CIT in the striatum was calculated in each case.
+ A standard regions of interest (ROI) template was used, see Fig. 1.
+ The ROI selection has been described in detail elsewhere (Lokkegaard et al., 2002).
+ Briefly, the region used for the calculation of the specific uptake was the striatum, which consists of the caudate nucleus and the putamen on the left and right sides of the brain.
+ The region chosen for the calculation of non-specific uptake was the occipital cortex, as it is or ÔwithoutÕ DAT receptors.
+ The regions were superimposed on a 12-mm think transaxial slice of the brain representing the highest uptake of [ 123 I]-FP-CIT.
+ The specific uptake was calculated as the ratio between the uptake in the striatum and that in the occipital cortex minus 1: RATIO 1⁄4 (ROI-REF)/REF.
+ Similarly, a specific ratio for the putamen was calculated bilater- ally.
+ Finally the ratio putamen over caudate was then calculated.
+ The hemisphere contralateral to the clinically most affected side in respect of parkinsonian symptoms, is denoted dominant, and the hemisphere contralateral to the less affected side, non-dominant, and data was analysed in this context.
+ Commercially available software (SAS, v8) was used for the statistical analysis.
+ Parameters associated with micturition were compared within the same individual and tested by paired t-tests, as Kolmogorov–Smirnov’s test demonstrated that all parameters, except for one set of SPECT data, were normally distributed.
+ All other tests were performed as simple t-tests.
+ Given the possible risk of Type I error, significant results must be considered with caution when P-values are marginal <0.05.
+ Data were pooled in the analysis regardless of sex, age, duration, or stage of disease, except for data on urinary flow and detrusor pressure (divided by sex) and all patients acted as their own control person.
+Clinical evaluation and questionnaires
+Cystometries
+Table 1 Medication of the patients
+          
+            
+              
+                
+                  
+                   No
+                   Dosage (mg)
+                   t 1/2 (h)
+                   3 · t 1/2 (h)
+                
+                
+                   Levo/carpi-dopa
+                   7
+                   502.5 (156.25–1075)
+                   1
+                   3
+                
+              
+              
+                
+                   Dopamine receptor
+                   13
+                  
+                  
+                  
+                
+                
+                   agonist
+                  
+                  
+                  
+                  
+                
+                
+                   Pergolide
+                   2
+                   2.33 (0.81–3.5)
+                   24
+                   72
+                
+                
+                   Pramipexole
+                   8
+                   3.375 (0.75–6)
+                   12
+                   36
+                
+                
+                   Ropinerole
+                   3
+                   1.8 (1.5–2.0)
+                   6
+                   18
+                
+                
+                   Cabergoline
+                   2
+                   3.0 (2.0–4.0)
+                   65
+                   195
+                
+                
+                   COMT-inhibition
+                   3
+                   1066 (600–1600)
+                   1
+                   3
+                
+                
+                   Selegiline
+                   4
+                   10
+                   24
+                   48
+                
+                
+                   A number of patients
+                  
+                   received more than one
+                   drug,
+                  
+                
+                
+                   dopamine receptor
+                   agonists. agonists.
+                  
+                  
+                  
+                
+              
+            
+          
+          No Dosage (mg) t 1/2 (h) 3 · t 1/2 (h) Levo/carpi-dopa 7 502.5 (156.25–1075) 1 3 Dopamine receptor 13 agonist Pergolide 2 2.33 (0.81–3.5) 24 72 Pramipexole 8 3.375 (0.75–6) 12 36 Ropinerole 3 1.8 (1.5–2.0) 6 18 Cabergoline 2 3.0 (2.0–4.0) 65 195 COMT-inhibition 3 1066 (600–1600) 1 3 Selegiline 4 10 24 48 A number of patients received more than one drug, including dopamine receptor agonists.
+        
+Single-photon emission computerized tomography
+
+          Figure 1 Template of regions of interest (ROI) for analysis of [ 123 I]-FP-CIT scans.
+        
+Fourteen patients (nine men/five women) completed the investigations.  Data on patients, their neurological state [Hoehn & Yahr (H & Y) stage] and bladder symptoms are listed in Table 2.
+ No statistically significant differences were found between sex, age, duration, and stage of disease.
+ In the questionnaire, two arbitrarily cut-offs were used.
+ One at Dan-PSS 1⁄4 1 identifying patients with any bladder symptom causing bother (Dan-PSS > 1), and one at 10 points in Dan-PSS.
+ Patients with a score higher than 10 were regarded as having severe symptomatic bladder dysfunction.
+ As listed in Table 2, 78.5% (n 1⁄4 11) of patients had one or more bladder symptom, whereas a subgroup of seven patients (50%) had a Dan-PSS score of more than 10 points.
+ Dan-PSS score correlated with age (Spearmans rho 1⁄4 0.56, P 1⁄4 0.04) and stage of disease (Spearmans rho 1⁄4 0.53, P 1⁄4 0.05), but no significant correlation was observed between Dan-PSS-score and duration of disease or cystometric parameters.
+ A significant correlation between Dan-PSS score and UPDRS (Spearman’s rho 1⁄4 0.75, P 1⁄4 0.001) was seen.
+ Questions 5–8 in Dan-PSS are related to irritative symptoms (frequency, nocturia, urgency, and urge incontinence), which may be regarded as symptoms of neurogenic bladder dysfunction (Hald et al., 1991).
+ A correlation between the score in questions 5–8 and the motor score in UPDRS (UPDRS section 3) was seen (Spearman’s rho 1⁄4 0.55, P 1⁄4 0.04).
+ These data indicate close relations between both the disability and stage of disease, and neurogenic bladder symptoms; more specifically between irritative bladder symptoms and motor score in PD.
+ This indicates a
+Demographic, questionnaire and clinical data
+Table 2 Demographic data
+          
+             Sex (M/F) 9/5 Age 51.3 years (43–59)
+            
+              
+              
+                
+                   Duration of disease
+                   5.71 years (1–19)
+                
+                
+                   Stage of disease (Hoehn & Yahr score)
+                   2.1 (1–4)
+                
+                
+                   On-UPDRS score (0–147)
+                   39.7 (10–79)
+                
+                
+                   Motor UPDRS score (UPDRS III ) (0–108)
+                   24.9 (7–51)
+                
+                
+                   No. with UPDRS III >21.5 (median)
+                   7 (50%)
+                
+                
+                   Median Dan-PSS score
+                   12.5 (0–34)
+                
+                
+                   No. with Dan-PSS score >10
+                   7 (50%) Cystometric data
+                
+                
+                   No. with Dan-PSS score >1
+                   11 (78.5%)
+                
+              
+            
+          
+          Sex (M/F) 9/5 Age 51.3 years (43–59) Duration of disease 5.71 years (1–19) Stage of disease (Hoehn & Yahr score) 2.1 (1–4) On-UPDRS score (0–147) 39.7 (10–79) Motor UPDRS score (UPDRS III ) (0–108) 24.9 (7–51) No. with UPDRS III >21.5 (median) 7 (50%) Median Dan-PSS score 12.5 (0–34) No. with Dan-PSS score >10 7 (50%) No. with Dan-PSS score >1 11 (78.5%)
+          Cystometric data
+        
+Table 3 Demographic differences within levels of bladder symptoms
+          
+             ‡10 P-value ‡1 P-value
+            
+              
+              
+                
+                   Age (years)
+                   7.4 ()12.55 to )2.31)
+                   0.008
+                   7.15
+                   ()14.30 to )0.01)
+                   0.05
+                
+                
+                   Duration of disease (years)
+                   2.38 ()8.19 to 3.62)
+                   0.42
+                   3.03
+                   ()10.19 to 4.13)
+                   0.37
+                
+                
+                   Stage (H & Y)
+                   0.57 ()1.57 to 0.43)
+                   0.23
+                   0.94
+                   ()2.09 to 0.21)
+                   0.09
+                
+                
+                   UPDRS
+                   21.14 ()46.78 to 4.50)
+                   0.097
+                   26.79
+                   ()57.69 to 4.11)
+                   0.08
+                
+                
+                   UPDRS III
+                   10.43 ()26.00 to 5.14)
+                   0.17
+                   13.06
+                   ()31.94 to 5.81)
+                   0.15
+                
+                
+                   The values are expressed as
+                   (95% CI) P.
+                  
+                  
+                  
+                  
+                
+              
+            
+          
+          ‡10 P-value ‡1 P-value Age (years) 7.4 ()12.55 to )2.31) 0.008 7.15 ()14.30 to )0.01) 0.05 Duration of disease (years) 2.38 ()8.19 to 3.62) 0.42 3.03 ()10.19 to 4.13) 0.37 Stage (H & Y) 0.57 ()1.57 to 0.43) 0.23 0.94 ()2.09 to 0.21) 0.09 UPDRS 21.14 ()46.78 to 4.50) 0.097 26.79 ()57.69 to 4.11) 0.08 UPDRS III 10.43 ()26.00 to 5.14) 0.17 13.06 ()31.94 to 5.81) 0.15 The values are expressed as (95% CI) P.
+        
+Table 4 Change in bladder capacity, of less versus more than 30 ml as unmedicated examination is subtracted from medicated
+        
+Positive effect of medication on bladder capacity Medicated Off medication
+Interval First sensation – Bladder 163 65 98 ml a ()177 to )18), 0.02 capacity a Difference: 155 ml, (95% CI:-316 to 9), P 1⁄4 0.06.
+ Patients with a change <30 ml are regarded as having a significantly positive effect of medication.
+ See text for details.
+correlation between bladder symptoms and dopaminergic degeneration.
+ Differences in demographic data in the different groups are listed in Table 3.
+ There were no significant differences between symptomatic and non- symptomatic patients regarding demographic data including PD data (except from age), and results from cystometry.
+ No statistically significant differences were found between sex, duration, and stage of disease, regarding any Dan-PSS score or cystometric parameter, except for age, see Table 3.
+ When ignoring the Dan-PSS score, the only cystometric parameter that changed after wash out was volume of bladder capacity (255.5 ml vs. 190.7 ml, P 1⁄4 0.05), whilst no statistically significant differences in other parameters were observed.
+ When the arbitrarily cut offs at 1 and 10 points in Dan-PSS were applied, no parameter changed significantly.
+ The maximal bladder capacity has been demonstrated to increase by approximately 30 ml (26.5 ml ± 89.3) in the second test when a test-retest control is performed (Hansen et al., 1997; Hansen et al., 1999).
+ This is most probably because of the patient becoming more familiar with the test situation.
+ Taking this into, and after subtracting data from non- medicated cystometry from data from the medicated examination, the data in Table 4 demonstrate that patients with a significant effect of medication on bladder capacity (n 1⁄4 11), not only improved the volume of capacity but also the volume of functional bladder control (P 1⁄4 0.01) when medicated.
+ In the group of patients who did not have a positive effect of medication on bladder capacity, no significant changes were seen, although the functional bladder control- interval may have increase after wash out, but the number is small (n 1⁄4 3).
+ There were no statistical differences in any demographic data, PD related symptom score, bladder symptom score or other cystometric parameters within the two groups.
+Difference between Dan-PSS <
+No positive effect of medication on bladder capacity Medicated Off medication (ml) (ml) Difference (95% CI), P-value 64 121 )57 ml a ()172 to 284), 0.40
+Single-photon emission computerized tomography data
+Data are listed in Table 5.
+ As compared with normal population (Booij et al., 1998), there was a moderate reduction of [ 123 I]-FP-CIT binding in the striatum on both sides, particularly in the posterior putamen con- tra-lateral to the most affected body side in all patients and the ratio between the putamen and the caudate.
+ Dan-PSS score correlated with age (Spearmans rho 1⁄4 0.56, P 1⁄4 0.04), stage of disease (Spearmans rho 1⁄4 0.53, P 1⁄4 0.05), and UPDRS (Spearman’s rho 1⁄4 0.75, P 1⁄4 0.001).
+ As outlined in Table 6, the specific uptake of [ 123 I]-FP-CIT in the striatum correlated significantly with duration, stage of disease and UPDRS (see Table 7).
+ However, there was no significant correlation between Dan-PSS score DAT-receptor uptake measured with SPECT.
+ Patients with any symptom stated in the questionnaire (Dan-PSS > 1, n 1⁄4 11) had a significantly decreased specific uptake of [ 123 I]-FP-CIT in striatum and there is a trend towards decreased uptake in the subregion of the putamen compared with patients without bladder symptoms (Dan-PSS £ 1, n 1⁄4 3), see Table 7 for details.
+ There were no differences when cut-off at 10 was applied.
+ This data suggest that the presence of bladder symptoms is related to striatal dopaminergic degeneration.
+ In the sub-group with prominent bladder symptoms (Dan-PSS > 10, n 1⁄4 7), the ratio between uptake in the putamen and the caudate correlated with Dan-PSS score (dominant side: rho 1⁄4 0.75, P 1⁄4 0.05; non-dominant side: rho 1⁄4 0.80, P 1⁄4 0.03).
+ This indicates that the severity of symptoms correlates with relative degeneration of the caudate nucleus.
+ When analysing data to evaluate whether the patients benefited from medication regarding bladder capacity (change in capacity larger or lower than 30 ml), we found no differences in [ 123 I]-FP-CIT striatal binding in these groups, and volumes of functional bladder control did not correlate with [ 123 I]-FP-CIT striatal binding.
+Table 5 Uptake of [ 123 I]-FP-CIT in striatum and subregions
+          
+             Our sample
+            
+              
+              
+                
+                   Striatum
+                  
+                   Putamen/caudate ratio
+                   Putamen
+                
+                
+                   Dominant
+                   Non-dominant
+                   Dominant Non-dominant
+                   Dominant
+                
+                
+                   1.84 (0.90) a
+                   1.807 (0.79) a
+                   0.728 (0.09) a 0.728 (0.08) a
+                   1.35 (0.68) a
+                
+                
+                   a SD values;
+                   b Range values.
+                  
+                  
+                
+              
+            
+          
+          Our sample Striatum Putamen/caudate ratio Putamen Dominant Non-dominant Dominant Non-dominant Dominant 1.84 (0.90) a 1.807 (0.79) a 0.728 (0.09) a 0.728 (0.08) a 1.35 (0.68) a a SD values; b Range values.
+        
+Table 6 Correlation between specific uptake of [ 123 I]-FP-CIT and Stage of disease, UPDRS
+          
+             Striatum Putamen
+            
+              
+                
+                   Spearman’s rho Dominant side
+                   Non-dominant side
+                   Dominant side
+                
+              
+              
+                
+                   Stage )0.72948 (0.003)
+                   )0.68997 (0.006)
+                   )0.62367 (0.0172)
+                
+                
+                   Duration )0.72910 (0.0031)
+                   )0.72556 (0.003)
+                   )0.69778 (0.0055)
+                
+                
+                   UPDRS )0.71841 (0.0038)
+                   )0.67403 (0.0082)
+                   )0.59006 (0.0263)
+                
+                
+                   The significance (P) values are given
+                   in parenthesis.
+                  
+                
+                
+                   Non-significant data are not shown.
+                  
+                  
+                
+                
+                   Ratio 1⁄4 (ROI-REF)/REF.
+                  
+                  
+                
+              
+            
+          
+          Striatum Putamen Spearman’s rho Dominant side Non-dominant side Dominant side Stage )0.72948 (0.003) )0.68997 (0.006) )0.62367 (0.0172) Duration )0.72910 (0.0031) )0.72556 (0.003) )0.69778 (0.0055) UPDRS )0.71841 (0.0038) )0.67403 (0.0082) )0.59006 (0.0263) The significance (P) values are given in parenthesis. Non-significant data are not shown. Ratio 1⁄4 (ROI-REF)/REF.
+        
+Table 7 Differences in specific uptake of [ 123 I]-FPCIT depended of Dan-PSS Score
+        
+Difference between uptake in Dan-PSS between £10 and >10 Dominant P-value Non-dominant Striatum/cortex ratio 0.5 ()0.38 to 1.43) 0.2 0.47 ()0.44 to 1.38) Putamen/caudate ratio 0.05 ()0.05 to 0.16) 0.25 0.003 ()0.07 to 0.13) Putamen/cortex ratio 0.5 ()0.27 to 1.27) 0.18 0.26 ()1.12 to 0.61) The values given in parentheses are expressed 95% CI.
+ Normal(Booij et al., 1998) Non-dominant Striatum Putamen/caudate ratio Putamen 1.24 (0.73) a 2.7 (1.8–4.3) b 0.9 (0.8–1.1) b 2.6 (1.5–4.2) b
+Putamen/caudate ratio Non-dominant side Dominant side Non-dominant side )0.36072 (0.2051) 0.02209 (0.9403) 0.30429 (0.2902) )0.48000 (0.0824) )0.00243 (0.9934) 0.23401 (0.4207) )0.36072 (0.2051) )0.06516 (0.8248) 0.23764 (0.4133)
+Difference between uptake in Dan-PSS between £1 and >1 P-value Dominant P-value Non-dominant P-value 0.22 1.18 (0.28 to 2.09) 0.01 1.05 (0.09 to 2.01) 0.03 0.53 0.1 ()0.03 to 0.21) 0.13 0.05 ()0.07 to 0.17) 0.38 0.53 1.13 (0.40 to 1.85) 0.005 0.03 ()1.05 to 1.11) 0.95
+In this study, we demonstrate that patients with symptomatic urinary disturbances have a lower uptake of [ 123 I]-FP-CIT than patients without urinary symptoms.
+ We also demonstrate a correlation between score rates of symptom score and the [ 123 I]-FP-CIT ratio between putamen and the caudate in patients with significant bladder symptoms.
+ This suggests that the presence of bladder symptoms in PD is a result of dopaminergic degeneration in the striatum, but the severity of these and the coping seems predominantly to be dependent on relative dysfunction in the niagral neurons projecting to the caudate nucleus.
+ We show that dopaminergic therapy in PD has an unpredictable effect on urodynamical parameters.
+ The background for this is unknown, and we do not find direct correlation between the specific uptake of the marker [ 123 I]-FP-CIT and scores in questionnaires.
+ For clinical reasons, the SPECT scans were performed within 18 months before or after the cystometries.
+ The fact that the patients included in this study all were referred for a DAT receptor SPECT scan, may imply that our group of patients was unusually difficult to manage.
+ All patients fulfilled the diagnostic criteria for IPD, and patients with clinical signs of atypical parkinsonism were excluded.
+ All SPECT scans demonstrated significant asymmetry, which also indicated that all patients had IPD.
+ The sub-group presenting with bladder symptoms was significant older than the patients without bladder symptoms.
+ This could indicate that the positive correlation between urinary symptoms and severity of [ 123 I]FP-CIT changes is simply a result of the degree of dopaminergic degeneration because of normal aging.
+ However, the even distribution ratio of [ 123 I]-FP-CIT between binding in putamen and caudate is intact throughout life in healthy persons, even in old age ( Lavalaye et al., 2000).
+ The severity of bladder symptoms may therefore be a result of the severity of degeneration of dopaminergic neurones in the substantia nigra and striatum as specifically seen in par- kinsonian disorders.
+ We did not find significant correlation between age and binding of [ 123 I]-FP-CIT in the striatum or any subregion, but others have found a negative correlation in healthy volunteers(Pirker et al., 2000) and in patients with PD(Tissingh et al., 1997).
+ The correlation with age is not consistent(Tissingh et al., 1997) and the disease severity exceeds age when it comes to affecting the binding of the marker in patients with PD.
+ Because of this, and the abnormalities found in the distribution ratio of [ 123 I]-FP-CIT between binding in putamen and caudate mentioned above, data has not been corrected for age, as the findings may be regarded as being specific to PD.
+ We cannot fully exclude that the bladder symptoms are associated with neuronal changes or even that they originate in brain regions other than the striatum.
+ Studies of the rat brain have shown that dopaminergic neurons originating in the ventral tegmental area (VTA) are involved in control of the micturition reflex.
+ The facilitating effect is mediated via the dopamine D2 receptors, whilst the inhibitory effect is mediated via the dopamine D1 receptors (Hashimoto et al., 2003).
+ In PD, the inhibitory dopaminergic neurons originating in the Substantia Nigra may be more damaged than the stimulatory dopaminergic neurons originating in the VTA, thereby inducing urgency and frequency.
+ By using the integrated disability score in Dan-PSS, patients not only need to present with a given symptom, they also need to be bothered by it to score points.
+ Compensating mechanisms as well as strategies for coping need to be challenged before a patient’s score becomes significant.
+ In PD patients this may be of special as they have a decreasing ability to integrate and separate sensory input as the disease progresses (Duchesne et al., 2002), and further, these symptoms are associated with cortical dysfunction.
+ The use of questionnaires involving coping strategies therefore seems be of particular interest.
+ A causal relation between the degeneration of dopaminergic neurones in the nigrostriatal pathway can therefore not be claimed.
+ Our cut-off in the Dan-PSS was arbitrary.
+ Some authors have used the cut-off of one symptom in the Dan-PSS to describe the prevalence of bladder symptoms in the general population (Koskimaki et al., 1998; Kay et al., 1999), but the force of the Dan-PSS is in the integrated bother-score.
+ The cut-off at 1 point is thereby an attempt to identify patients who find symptoms troublesome.
+ By setting cut-off at 10 points, patients with severe symptoms are identified.
+ The total number of patients in the study is limited, and the cohort consists of young patients (<60 years old).
+ This may have lead to a biased selection of patients.
+ However, the demographic data follows a normal distribution and a number of patient (3 1⁄4 21%) presented with LUTS, indicating that the cohort may be regarded as representative.
+ By analysing patients within group defined by the cut-offs, we take a risk of biasing the analysis.
+ However, all data (age, duration of disease, stage and severity of disease as well as Dan-PSS scores and SPECT data) except for one set of SPECT-data (the putamen-caudate ratio) remains normally distributed within the subgruops according to Kolmogorv–Smir- novs test, and no significant differences are found between the subgroups regarding demographic data, indicating this was not the case, although the number of patients in the groups was small.
+ The strong correlation between Dan-PSS score and overall neurogenic disability and specific parkinsonian scores (UPDRS III ) and stage of disease is in line with findings in studies using other questionnaires (Araki and Kuno, 2000; Lemack et al., 2000; Sakakibara et al., 2001a).
+ The finding of the correlation between Dan-PSS score and relative reduced uptake in the caudate in patients with bladder symptoms, is in line with the findings of Sakakibara et al. (2001b), who found the most prominent difference was in the caudate when comparing the patients with urinary dysfunction to those without.
+ This study used a non-validated questionnaire, and did not use bother score to evaluate possible coping strategies.
+ Our finding of a correlation between parkinsonian symptoms (UPDRS III ) and bladder symptoms may be a result of several possible mechanisms.
+ Animal studies have indicated, that striatal dopaminergic stimulation is an integrated part of bladder control (Yoshimura et al., 1993; Yoshimura et al., 1998; Seki et al., 2001).
+ In humans, studies on the actions of anti-Parkinson medication on bladder function have produced conflicting results, as detrusor overactivity seems to improve after administration of apomorphine and L -dopa (Christmas et al., 1988), (Aranda and Cramer, 1993).
+ However, reports on effects of the medication are conflicting and an unpredictable effect has also been described (Fitzmaurice et al., 1985).
+ The unpredictable effect of medication was not related to stage of disease, age or whether the patient had symptoms of bladder dysfunction(Winge et al., 2002).
+ Our data imply that the decrease in total number of dopaminergic neurones in the striatum is associated with the presence of symptoms, and that relative degeneration of the substantia nigra and the caudate correlates to the severity of symptoms and the presence of overactive detrusor.
+ However, the loss of neurones in the striatum does not predict the effects of dopaminergic medication on bladder control.
+ Further, our data suggest that patients who presents with a decreased bladder capacity after washout, might benefit from medication, which will not only improve the total bladder capacity, but will also induce a larger functional bladder control interval.
+ This effect might not exclusively involve the striatum.
+ As the change in functional bladder control does not correlate with striatal uptake of [ 123 I]-FP-CIT, this may be mediated through structures outside the basal ganglia, or by non- dopaminergic mechanisms.
+ PD patients have a decreasing ability to integrate and separate sensory input as the disease progresses (Duchesne et al., 2002).
+ Functional mapping of the human brain with the regional cerebral blood flow method and PET have suggested that increasing bladder volume is associated with increased neuronal activity in middle frontal gyri, cortical regions which are also believed to be involved in executive planning (Blok et al., 1997; Athwal et al., 2001).
+ However, others have not confirmed this(Nour et al., 2000).
+ Studies suggest that dopaminergic therapy relieves cognitive executive dysfunction (Mattay et al., 2002); it seems to improve functional bladder control in those of our patients who benefited from medication during their storage phase.
+ However, further studies are needed using co-localization of involved cortical areas, including studies using challenges with dopaminergic medication.
+We show that bladder symptoms in PD correlate with age, duration of disease, stage and neurological disability (UPDRS).
+ Patients with symptoms of bladder dysfunction have a significantly reduced uptake of [ 123 I]-FP-CIT in the striatum compared with patients without symptoms.
+ In patients with significant LUTS, the putamen-to-caudate ratio correlated significantly with bladder symptoms.
+ As this ratio is intact throughout life in healthy individuals, bladder symptoms in the PD group may be regarded as being because of the specific lesion of the substantia nigra/caudate nucleus.
+ We hypothesize that a decrease in the total number of dopaminergic neurones in the striatum is associated with the presence of symptoms of urinary dysfunction and that relative degeneration of the caudate correlates to severity of symptoms and the presence of overactive detrusor.
+ The loss of dopaminergic neurones in the striatum or sub-regions does not predict the effect of medication on bladder control.
+ This indicates that mechanisms elsewhere are involved.

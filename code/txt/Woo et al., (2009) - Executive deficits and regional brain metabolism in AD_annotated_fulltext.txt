@@ -1,0 +1,370 @@
+﻿Executive deficits and regional brain metabolism in Alzheimer’s disease
+Objective: Executive deficits are common in patients with Alzheimer’s disease (AD), contribute prominently to clinical disability, and may be associated with frontal lobe pathology.
+ This study examined regional brain hypometabolism associated with executive dysfunction in patients with AD.
+ Methods: Forty-one patients with probable AD underwent [ 18 F] fluorodeoxyglucose positron emission tomography (FDG-PET) imaging at rest.
+ Neuropsychological measures of executive control included the Conceptualization (Conc) and Initiation/Perseveration (I/P) subscales of the Mattis Dementia Rating Scale (DRS), the Wechsler Adult Intelligence Scale (WAIS) Similarities subtest, the Tower test, and the Ruff Figural Fluency test (Ruff).
+ Voxel-based analyses were conducted using statistical parametric mapping (SPM2) to measure the correlation between regional cerebral metabolism and executive measures.
+ Correlations independent of global cognitive impairment were identified by including Mini- Mental State Examination (MMSE) score as a covariate in the model.
+ Results: Executive deficits, as measured by poor performances on the DRS I/P and Conc subscales, were associated with hypometabolism in the bilateral mid-dorsolateral frontal region.
+ Activity in posterior cortical regions also contributed uniquely to some aspects of executive functioning, as lower resting metabolism in parietal or temporal cortex was correlated with poor performance on four of the five executive measures.
+ After controlling for global cognitive score, there were significant extra-frontal correlations with hypometabolism in insula, occipital lobe, and temporal cortex.
+ Conclusions: Some but not all executive deficits in AD are associated with neural activity in the dorsolateral frontal cortex.
+ Activities in distributed neural systems that include parietal and temporal cortex also contribute to some executive abilities.
+ The pathophysiology of executive dysfunction is complex and includes abnormalities not limited to a single region.
+ Copyright # 2010 John Wiley & Sons, Ltd. Key words: Alzheimer’s disease; positron emission tomography; executive function History: Received 13 July 2009; Accepted 13 October 2009; Published online 12 January 2010 in Wiley Online Library (wileyonlinelibrary.com).
+ DOI: 10.1002/gps.
+2452
+Introduction
+      
+Patients with Alzheimer’s disease (AD) have impairments of memory and other cognitive skills, including language, attention/information processing, visuospatial skills, and executive functions.
+ Executive functions are generally described as high-level cognitive abilities that involve the planning and execution of goal- directed behaviors, abstract reasoning, and judgment
+1,2 , Mark A. Mandelkern 3,4 , Olivia M. Campa 2 ,
+( Lezak, 2004).
+ While executive function may be viewed as a unitary construct, it is in fact multidimensional and can include other components such as sustained attention, sequencing and planning, abstract reasoning, and problem solving (Sultzer, 2000; Jurado and Rosselli, 2007).
+ There is considerable heterogeneity in the clinical presentation of AD.
+ Impairments in executive abilities are common at all stages of the disease (Cummings, 2000), though generally occur later in the disease process.
+ Approximately 60% of a community-dwelling cohort of AD patients manifests executive dysfunction (Swanberg et al., 2004).
+ Executive dysfunction is reportedly associated with agitation and disinhibition (Chen et al., 1998), psychotic symptoms (Flynn et al., 1991; Cummings, 2000), gait impairment and falls (Sheridan and Hausdorff, 2007), and functional disability (Boyle et al., 2003; Royall et al., 2007) in AD patients.
+ Knowing the association between individual executive skills and regional brain function would provide useful framework to understand neuropsychiatric symptoms in AD.
+ Executive skills have been historically linked to frontal cortex function (Miller and Cummings, 1998; Alvarez and Emory, 2006).
+ The mid-dorsolateral prefrontal cortex is involved in both monitoring as well as stimulus manipulation, while the ventrolateral prefrontal region is involved in active judgments on active retrieval and encoding of information (Petrides, 2005).
+ Recent evidence suggests that the executive system is not mediated by the frontal lobe alone, but includes contributions from the frontal lobes (Koechlin et al., 2000; Stuss et al., 2002), thalamus (Van der Werf et al., 2003), cerebellum (Bellebaum and Daum, 2007), and basal ganglia (Monchi et al., 2006).
+ Impaired executive functions are now believed to be hallmarks of frontal-subcortical circuit dysfunction (Royall et al., 2002; Bonelli and Cummings, 2007).
+ A recent review indicates that executive abilities depend on both frontal areas, in particular the prefrontal cortex, as well as posterior cortex (i.e., the parietal lobe) (Collette et al., 2006).
+ Different aspects of executive abilities may depend on the integrity of distinct neural systems.
+ In the functional neuroimaging literature, even less is known about the relationship between regional cortical function and performance on neuropsychological measures of executive skills in patients with AD.
+ A recent SPECT study showed no correlation between executive function and frontal perfusion (Levy-Cooperman et al., 2007).
+ Positron emission tomography (PET) imaging studies have shown that hypometabolism in the temporo-parietal (Kessler et al., 2000), frontal (Kalpouzos et al., 2005), parieto-frontal (Collette et al., 2005), and pre-frontal extending to posterior regions (Bracco et al., 2007), may be associated with poor performances on executive function tasks.
+ These results suggest that dysfunction of multiple cortical regions may underlie executive dysfunctioning in AD.
+ Thus, the neural basis of executive dysfunction in AD requires further clarifica- tion and evaluation.
+ PET imaging studies have also demonstrated relationships between frontal dysfunction and various neuropsychiatric symptoms in AD.
+ Apathy in AD is associated with hypometabolism in the bilateral anterior cingular gyrus and medial orbitofrontal cortex (Marshall et al., 2007).
+ Low metabolic rate in the right lateral frontal cortex correlates with impaired insight (Harwood et al., 2005).
+ Dysmetabolism in the right prefrontal cortex is associated with delusional thoughts in patients with AD (Sultzer et al., 2003).
+ In language deficits, hypometabolism in left inferior frontal gyrus is associated with poorer phonemic fluency (Melrose et al., 2009).
+ Taken together, these studies suggest the importance of specific regions of the frontal lobes in cognitive and neuropsychiatric deficits in AD.
+ Current neuroimaging techniques can determine which specific frontal or extra-frontal areas contribute to executive dysfunction in patients with AD.
+ The present investigation utilized PET to investigate further the association between specific executive skills and regional cortical metabolic rate in AD patients.
+ Five neuropsychological measures were chosen to represent the heterogeneous nature of executive function.
+ We were interested in determining cerebral areas that are specific to various executive processes and the ones that they have in common.
+ We hypothesized that the manifestation of executive dysfunction in AD is associated with dysfunction in circumscribed areas of the frontal, as well as the parietal and temporal regions.
+ Furthermore, more complex skills would require broader circuits, while simpler tasks would have more focal relationships.
+Participants
+We included 41 patients (35 men, 6 women) who met criteria for probable AD, according to the National Institute of Neurological and Communicative Disorders and Stroke and the Alzheimer’s Disease and Related Disorder Association ( McKhann et al., 1984).
+ Participants were recruited from the Greater Los Angeles Healthcare System Geropsychiatry Outpatient Program and from the UCLA Alzheimer’s Disease clinics.
+ Each participant underwent a comprehensive clinical evaluation that included a detailed history, physical examination, behavioral and cognitive assessments, and a laboratory evaluation with structural neuroimaging study.
+ A senior clinical research investigator (D.L.S.) reviewed all clinical evaluations and confirmed the diagnosis of probable AD.
+ Subjects did not receive any psychotropic medication during 3 weeks before the research assessments, except for trazodone up to 50 mg, as needed for sleep.
+ Subjects taking antidementia or other psychotropic medications were excluded, except for those taking a stable dose of cholinesterase inhibitor (2/41 taking donepezil) or antidepressant (5/41) medications.
+ Patients were not included in the study if there was a history of head trauma with loss of consciousness, history or neuroimaging evidence of stroke, seizure disorder, evidence of psychoactive substance use disorder, or systemic illness or other brain disease that could account for the dementia.
+ Patients also were excluded if there was severe aphasia that prohibited expression of meaningful thoughts.
+ The study procedures were reviewed and approved by the local institutional review board.
+ Written informed consent was obtained in accordance with institutional review board guidelines.
+ All subjects received the Mini-Mental State Examination (MMSE; Folstein et al., 1975), a brief measure of global cognitive functioning.
+ For the purpose of this study, the severity of the cognitive deficits was determined by MMSE scores: mild (MMSE score !
+ 21), moderate (MMSE score between 11 and 20), and severe (MMSE score 10).
+ Five scales were used to assess executive skills: the Mattis Dementia Rating Scale (DRS; Mattis, 1988) Conceptualization (Conc) subtest, the DRS Initiation/Perseveration (I/P) subtest, the Wechsler Adult Intelligence Scale-III (WAIS; Wechsler, 1997) Similarities subtest, the Tower test (Shallice, 1982), and the Ruff Figural Fluency test (Ruff; Ruff, 1998).
+ Neuropsychological tests included in the battery were chosen to evaluate the cognitive abilities believed to be most sensitive to decline in executive functions.
+ Lower scores on all measures of executive functions indicate greater impairment.
+ The MDRS Conc subtest measures visual and verbal abstract reasoning.
+ Patients are asked to conceptualize similarities and differences.
+ For example, to test for visual reasoning, patients are asked to determine among three geometric figures, which two figures are alike.
+ To measure verbal reasoning, patients are asked to determine how certain exemplars (e.g., apples and bananas) are similar.
+ Raw scores (range 0–39) represent the number of correct responses.
+ The MDRS I/P subtest measures word and motor fluency.
+ Patients are asked to complete 11 items that measure semantic fluency (supermarket items), pho- neme production (repeat syllables), motor sequencing (repeat motor tasks), and graphomotor output (copy ramparts design).
+ Raw scores (range 0–37) indicate the number of correct items.
+ The WAIS Similarities subtest measures verbal abstract reasoning and concept formation.
+ Patients are asked to indicate how two items might be similar.
+ For example, patients are asked to determine how a piano and drum are alike.
+ Raw scores (range 0–33) reflect the total number of correct responses.
+ The Tower test measures visuospatial planning and problem solving abilities.
+ Patients are asked to construct towers of three blocks on a set of three pegs corresponding to a model.
+ Raw scores (range 0–9) reflect the number of towers constructed correctly.
+ The Ruff measures nonverbal fluency (initiation, planning, and abstract visual reasoning).
+ Patients are asked to draw lines connecting a series of dots to create as many figures as they can in a minute.
+ Raw scores (range 0–45) reflect the total number of designs generated across three trials, each of which lasts 60 s.
+ The Siemens 953/31 tomographic scanner (Siemens Medical Solutions, HoffmanEstates, Illinois) was used to perform PET imaging of cerebral metabolic activity.
+ The scanner has in-plane and axial spatial resolution (full width at half maximum) of approximately 5 mm and an axial slice thickness of approximately 3 mm.
+ [ 18 F] fluorodeoxyglucose (FDG) was synthesized at the Veterans Affairs Greater Los Angeles Healthcare System PET imaging facility using the technique of Hamacher et al. (1986).
+ Subjects received 5–10 mCi (1 Ci equals 3.7 Â 10 10 Bq) of FDG intravenously.
+ During the 40 min FDG uptake phase, subjects were at rest with eyes open and ears uncovered in a dimly lit room.
+ After the uptake phase, subjects were positioned in the scanner with the imaging plane parallel to the canthomeatal plane.
+ A thin restraining tape was placed across subjects’ foreheads to maintain head position.
+ Metabolic data were then acquired for approximately 40 min.
+ Whole-brain voxel-based analyses were performed using statistical parametric mapping software (SPM2; Wellcome Department of Imaging Neuroscience, London, England; http://www.fil.ion.ucl.ac.uk/spm) in MATLAB 6.5 software (Mathworks, Natick, MA).
+ For each subject, PET images were transformed to a standard template in Montreal Neurological Institute atlas space (Talairach and Tournoux, 1988).
+ Activity values were scaled proportionately and images were smoothed with a 6-mm Gaussian filter.
+ To assess correlations, the simple correlation procedure in SPM was utilized to analyze the correlation between regional glucose metabolism and each of the five measures of executive functions: DRS Conc, DRS I/P, WAIS Similarities, Tower, and Ruff.
+ In a second analysis, MMSE was individually entered as a covariate to determine correlations between executive measures and regional metabolism independent of global cognitive impairment.
+ The analyses used a threshold of p < 0.01 at the voxel level and results were considered significant at p < 0.05 (uncorrected) at the cluster level.
+ Neuroanatomical regions and approximate Brodmann’s area (BA) regions were determined using the Human Brain Anatomy in Computerized Images (Damasio, 2005) and MRIcro (Rorden and Brett, 2000).
+ Pearson’s correlation analyses between the MMSE and the five measures of executive functions were performed using SPSS software, Version 15.0 for Windows.
+Clinical measures
+Positron emission tomography (PET)
+Image and data analysis
+The patients (n 1⁄4 41) had the following demographic characteristics: mean (SD) age 1⁄4 75.5 (8.4) years, education 1⁄4 13.6 (3.7) years, duration of dementia 1⁄4 2.8 (2.3) years, and gender 1⁄4 85% male.
+ The mean (SD; range) scores on the tests were as follows: MMSE 19.7 (6.1; 3–30), DRS Conc 28.3 (7.8; 0–39), DRS I/P 22.8 (8.2; 0–37), WAIS Similarities 8.5 (7.0; 0–26), Tower 5.5 (2.8; 0–8), and Ruff 20.5 (8.6; 5–38).
+ One patient who met the criteria of AD obtained an MMSE score of 30/30 on the day of testing, but previous formal neuropsychological testing showed distinct cognitive deficits and an MMSE score of 26.
+ Of the 41 patients, 19 (46.3%), 18 (43.9%), and 4 (9.8%) were determined  to have mild, moderate, and severe AD, respectively.
+ Of the 41 patients, 2 (4.9%), 12 (29.3%), and 6 (14.6%) were unable to complete the WAIS Similarities, Tower, and Ruff tests, respectively.
+ These patients were not included in the analysis.
+ The clinical and demographic data for the participants are listed in Table 1. Table 2 presents the correlation coefficients of the MMSE and the five measures of executive functions.
+ Significant associations between executive measures and regional metabolic activity are shown in Table 3 and Figure 1.
+ In the SPM analysis, reduced activity in the right middle and inferior frontal gyrus (BA 46) was correlated with poor performance on three of the executive function measures: DRS Conc subscale (abstract reasoning), DRS I/P subscale (word and motor fluency), and the Tower test (visuospatial planning).
+ Lower resting metabolism in the left middle frontal gyrus (BA 9/46) and the bilateral angular gyrus (BA 39) was associated with lower scores on two of the executive function measures: DRS Conc subscale (abstract reasoning) and DRS I/P subscale (word and motor fluency).
+ Low metabolic rate in the left temporal lobe (BA 20/21/37/38) and left parietal lobe (BA 39) was correlated with executive deficits as measured by the Similarities test (verbal abstract reasoning), while low metabolic rate in the right temporal lobe (BA 20/21/37/38) and right parietal lobe (BA 39) correlated with poor performance on the Ruff test (nonverbal fluency).
+ After controlling for MMSE score, low metabolic activity in the frontal lobes correlated with the following executive measures: DRS I/P subscale (left middle frontal gyrus), DRS Conc subscale (left orbitofrontal and inferior frontal gyrus), and Tower test (middle frontal gyrus).
+ The relationship between temporal cortex hypometabolism and the Similarities and Ruff scores remained.
+ Association with parietal hypometabolism was no longer seen in this analysis (Table 4).
+Table 2 Correlations of MMSE scores and measures of executive functions
+          
+            
+              
+                
+                  
+                   Ruff
+                   Tower
+                   Similarities
+                
+              
+              
+                
+                   MMSE
+                   0.57*
+                   0.70*
+                   0.55*
+                
+                
+                   Conc
+                   0.42
+                   0.70*
+                   0.69*
+                
+                
+                   I/P
+                   0.49*
+                   0.69*
+                   0.56*
+                
+                
+                   Similarities
+                   0.52*
+                   0.43
+                   1.00
+                
+                
+                   Tower
+                   0.41
+                   1.00
+                  
+                
+                
+                   Ruff
+                   1.00
+                  
+                  
+                
+                
+                   MMSE, Mini-Mental
+                   State Examination;
+                   Conc, Mattis Dementia
+                   Rating Scale (DRS) Conceptualization subtest; I/P, the Initiation/Perseveration subtest;
+                
+                
+                   Similarities, Wechsler
+                   Adult Intelligence
+                   Scale-III Similarities
+                   subtest; Tower, Tower test; Ruff, Ruff Figural Fluency
+                
+                
+                   *p < 0.01.
+                  
+                  
+                  
+                
+              
+            
+          
+          Ruff Tower Similarities MMSE 0.57* 0.70* 0.55* Conc 0.42 0.70* 0.69* I/P 0.49* 0.69* 0.56* Similarities 0.52* 0.43 1.00 Tower 0.41 1.00 Ruff 1.00 MMSE, Mini-Mental State Examination; Conc, Mattis Dementia Rating Scale (DRS) Conceptualization subtest; I/P, the DRS Initiation/Perseveration subtest; Similarities, Wechsler Adult Intelligence Scale-III Similarities subtest; Tower, Tower test; Ruff, Ruff Figural Fluency test. *p < 0.01.
+        
+Table 1 Demographic and clinical variables in Alzheimer disease patients (n 1⁄4 41)
+          
+            
+              
+                
+                  
+                   Mean
+                   Standard
+                   Range
+                
+              
+              
+                
+                  
+                  
+                   deviation
+                  
+                
+                
+                   Demographics (years)
+                  
+                  
+                  
+                
+                
+                   Age
+                   75.5
+                   8.4
+                   58–92
+                
+                
+                   Education
+                   13.6
+                   3.7
+                   6–21
+                
+                
+                   Duration
+                   2.8
+                   2.3
+                   <1–10
+                
+                
+                   Dementia staging
+                  
+                  
+                  
+                
+                
+                   MMSE
+                   19.7
+                   6.1
+                   3–30
+                
+                
+                   Measures of executive
+                  
+                  
+                  
+                
+                
+                   DRS I/P subscale (n 1⁄4 41)
+                   28.3
+                   7.8
+                   0–39
+                
+                
+                   DRS Conc subscale (n 1⁄4 41)
+                   22.8
+                   8.2
+                   0–37
+                
+                
+                   Similarities (n 1⁄4 39)
+                   8.5
+                   7
+                   0–26
+                
+                
+                   Tower test (n 1⁄4 29)
+                   5.5
+                   2.8
+                   0–8
+                
+                
+                   Ruff (n 1⁄4 35)
+                   20.5
+                   8.6
+                   5–38
+                
+              
+            
+          
+          Mean Standard Range deviation Demographics (years) Age 75.5 8.4 58–92 Education 13.6 3.7 6–21 Duration 2.8 2.3 <1–10 Dementia staging MMSE 19.7 6.1 3–30 Measures of executive functions DRS I/P subscale (n 1⁄4 41) 28.3 7.8 0–39 DRS Conc subscale (n 1⁄4 41) 22.8 8.2 0–37 Similarities (n 1⁄4 39) 8.5 7 0–26 Tower test (n 1⁄4 29) 5.5 2.8 0–8 Ruff (n 1⁄4 35) 20.5 8.6 5–38
+        
+I/P Conc MMSE
+1.00
+0.76* 1.00
+0.79* 0.74* 1.00
+3 Table
+Executive deficits in AD were associated with reduced metabolic activity in the frontal cortex, as well as the parietal and temporal regions.
+ This study supports the hypothesis that nonfrontal regions contribute unique variance on several measures, suggesting a network of frontal and nonfrontal region is required for many executive functions.
+ It is increasingly recognized that executive function in AD is clinically heterogeneous.
+ Depending on the task requirements, activities in multiple cortical regions interact to foster executive abilities.
+ In this study, activity in prefrontal cortex contributed to several executive tasks as measured by the DRS I/P, DRS Conc, and Tower test.
+ Our results are consistent with other studies ( Kalpouzos et al., 2005; Bracco et al., 2007) that have demonstrated a relationship between executive skills and the functional integrity of the frontal cortex function in patients with AD.
+ In this study, hypometabolism in the bilateral mid-dorsolateral region (BA 9/46) was associated with poor performances on the DRS I/P and Conc subscales. Petrides (2005) proposed that the mid-dorsolateral region (BA 9/46) supports the active manipulation or monitoring of information within working memory.
+ Abstract reasoning, as well as word and motor fluency, likely depend on active manipulation of working memory in the mid-dorsolateral region.
+ The impairments in visuospatial planning and problem solving abilities were also related to hypometabolism in the prefrontal region.
+ Poor performance on the Tower test was associated with right frontal hypometabolism.
+ A previous study (Newman et al., 2003) using functional magnetic resonance imaging showed that the right prefrontal cortex may be involved in the strategic planning necessary to integrate and maintain information.
+ Our results further delineate that both the right mid-dorsolateral (BA 46) and the right ventrolateral (BA 45) prefrontal cortex were required to foster executive abilities.
+ One hypothesis regarding the functional role of the lateral prefrontal cortex is that monitoring and temporal organization of cognitive processes are necessary to carry out ongoing tasks (Collette et al., 2006).
+ Depending on the task difficulties, specific subregions in prefrontal cortex correlate with executive dysfunction.
+ Our results also demonstrate that posterior cortical regions contribute uniquely to aspects of executive functioning.
+ Hypometabolism in the left temporal lobe (BA 20/21) and the left angular gyrus of the parietal lobe (BA 39) were associated with disturbances in concept formation and verbal abstract reasoning, as measured by the Similarities test.
+ These regions of hypometabolism also significantly correlated with the DRS Conc subscale, suggesting left parietal and temporal contributions may drive the ability to appreciate word meaning and metaphors.
+ Poor performance in visual fluency, as measured by the Ruff test, was associated with low metabolic rate in the right temporal lobe (BA 20/21/37/38) and the right angular gyrus of the parietal lobe (BA 39).
+ Only hypometabolism in the right parietal lobe remained statistically significant with another measure of visual abstract reasoning, the DRS Conc subscale.
+ While angular gyrus of the parietal lobe (BA 39) mediates the basic process of visual abstract reasoning, other brain regions are utilized depending on the task requirements.
+ Metabolic activity in bilateral angular gyrus of the parietal lobe (BA 39) was associated with deficits in word and motor fluency, in addition to visual and verbal abstract reasoning.
+ This suggests that each cortical region has more than one function.
+ Neuroi- maging techniques have demonstrated that executive abilities are not confined to the frontal area but consist of complex interactions among different brain regions (Royall et al., 2002; Collette et al., 2006; Bonelli and Cummings, 2007).
+ Our results are consistent with other studies in AD (Collette et al., 2005; Kalpouzos et al., 2005; Bracco et al., 2007) that have documented that executive function may not depend on only the prefrontal cortex, but also on the intact functioning of circuits connecting heteromodal association cortex in other lobes.
+ This may be explained, at least in part, by the varied neuropsychological demands associated with different tests.
+ For example, the WAIS Similarities subtest, which was associated with temporal lobe hypometabolism in the present study, also taps into language functioning.
+ Hemispheric asymmetry of hypometabolism associated with executive skills was common in patients with AD.
+ Hypometabolism in the left temporal-parietal cortex and hypometabolism in the right temporal- parietal cortex were associated with executive deficits as measured by the WAIS Similarities test and the Ruff test, respectively.
+ This suggests that left hemispheric function would account for verbal tasks, and right hemispheric function would account for nonverbal tasks.
+ Similarly, performance on the Tower test, which measures visuospatial planning, was inversely related to metabolic rate in the right frontal cortex.
+ Reduced functional activity in the bilateral hemisphere was associated with both the DRS I/P and Conc subscales, which are designed to evaluate both verbal and nonverbal aspects of executive skills.
+ While executive functioning (e.g., verbal abstract reasoning) as measured by the DRS Conc subscale depends on both frontal areas as well as posterior cortex, performance on the Similarities test was only associated with the posterior cortex.
+ Of note, only 39 patients were able to complete the Similarities test, while all 41 subjects were able to complete the DRS Conc subscale.
+ Furthermore, patients on average answered 33 and 73% correctly on the Similarities test and the DRS Conc subscale, respectively.
+ The failure to find a relationship in the frontal cortex likely depends on the level of executive demand or task difficulty.
+ Also, 54% of the patients in this study had moderate–severe cognitive impairment, and true executive abilities may not play a role on certain difficult executive tasks.
+ For example, a measure of verbal abstract reasoning (e.g., Similarities test) may be reduced essentially to a measure of language compre- hension or semantic knowledge in those with advanced dementia.
+ Patients with AD have impairment on both verbal and nonverbal fluency tasks.
+ A spatial analog of the verbal fluency test is the Ruff test, where subjects are asked to draw as many different figures as possible when connecting a series of dots.
+ In this study, 15% of the patients were unable to complete this measure of abstract visual reasoning.
+ Among the 85% patients who were able to complete the Ruff tests, they were producing only 5–38 basic figures.
+ The findings on the Ruff test suggest that metabolic activity in only right parietotemporal cortex is associated with basic nonverbal tasks.
+ There were no significant relationships between the frontal region and Ruff performance.
+ This once again highlights traditional executive tasks may not be able to fully capture executive dysfunction in patients with moderate to severe AD, due to compromise to basic cognitive skills required to support executive functioning.
+ Co-varying for MMSE eliminated some of the associations between executive scores and metabolic rate in the frontal regions, but the overall relationship between executive skills and frontal cortex persisted.
+ However, there was no longer a significant association between right frontal metabolism and performance on the DRS I/P and Conc tests.
+ Hemispheric lateralization of verbal and nonverbal tasks persisted as well.
+ Visuospatial executive tasks, such as the Ruff and Tower tests, preferentially involved the right hemisphere.
+ Abstract reasoning, as well as word and motor fluency, was preserved in those with higher left frontal lobe activity.
+ Finally, co-varying for global cognition eliminated associations observed between metabolism in parietal cortex and all four executive measures with parietal involvement.
+ Other researchers have observed that MMSE correlates with parietal lobe metabolism in AD (Minoshima et al., 1997; Nestor et al., 2003).
+ These findings suggest that the contribution of parietal functional activity to executive performance may not extend beyond the contribution to overall cognitive skill.
+ There are several limitations to this study.
+ First, our results are not novel.
+ Similar results have been obtained by Bracco et al. (2007) in patients with mild and very mild AD.
+ However, our study focuses on AD patients with moderate to severe cognitive impairment.
+ We also utilized five clinical measures to capture different aspects of executive dysfunction.
+ Yet, as the assessment instruments focused on select aspects of executive function, the results apply only to the measures of executive function used here.
+ Second, several analyses were performed to look at different aspects of executive skills, and we did not control for experimental statistical error.
+ Third, as there is no control group, our findings apply only to patients with AD.
+ Fourth, not all patients were able to complete every task of executive functioning and moderate floor effects were observed on three of the five executive function tests.
+ The limited number of subjects who completed some tasks such as the Tower test may not be sufficient for studying the relationship between executive measures and regional metabolism in AD.
+ Finally, the average patient in the present study was moderately demented, which affected their ability to complete some of the more complex/demanding measures of executive functioning.
+ It is likely that a sample of predominantly mild cases would help to further elucidate the relationships between executive functioning and cortical metabolism in this patient population.
+ Furthermore, a battery of neuropsychological tests and a larger patient sample would be necessary to characterize more completely the circuits involved and their interactions that contribute to executive functions.
+ In summary, the results of this study further challenge the notion of equating executive skills with ‘frontal lobe function’ in AD.
+ Executive function requires optimal function at a number of different brain areas, not only frontal but also more posterior regions.
+ Our results indicate that specific executive abilities are associated with activity in topographically distinct and lateralized functional cortical units.
+ Future neuroimaging studies should address the putative relationships between executive functioning and cortical metabolism across different stages of the illness.
+
+        
+Figure 1 Areas of significant correlations between executive measures and regional brain metabolism.
+ Areas of the frontal cortex are circled blue, areas of the parietal cortex are circled red, and areas of the temporal cortex are circled green.
+ All images are displayed at p < 0.05 uncorrected at the cluster level.
+ Images were rendered using MRIcro.
+ This figure is available in colour online at wileyonlinelibrary.com/journal/gps
+4 Table
+None known.
+Key points Executive dysfunction is associated with hypometabolism in both frontal and posterior regions.
+ After controlling for global cognitive score, the most significant extra-frontal correlations with executive dysfunction are with hypometabolism in insula, occipital cortex, and temporal cortex.

@@ -1,0 +1,145 @@
+﻿Posterior Cortical Atrophy: Evidence for Discrete Syndromes of Early-Onset Alzheimer's Disease
+Background—Posterior cortical atrophy (PCA) may represent a discrete syndrome of Alzheimer’s disease (AD) rather than amnestic AD with visual deficits.
+ Methods—We separated 30 patients with PCA based on ventral and dorsal visual symptoms using cluster analysis and analyzed the demographic, cognitive, and functional imaging features.
+ Results—This analysis revealed subgroups of 26 dorsal and 4 ventral patients.
+ The ventral subgroup had greater confrontational naming impairment, and the dorsal subgroup had greater hypofunction in the parietal regions.
+ The PCA cohort had memory retrieval rather than encoding deficits, and clinical follow-up showed relative isolation of dorsal and ventral visual manifestations.
+ Conclusion—These results support 2, mostly nonoverlapping syndromes in patients with PCA, with the commonest affecting the dorsal visual pathway; moreover, the memory retrieval difficulty in the patients with PCA was dissimilar to the amnestic pattern in typical AD.
+ These results suggest that, in most cases, PCA syndromes are discrete clinical variant of AD.
+ Keywords posterior cortical atrophy; Alzheimer’s disease; visual processing; visual agnosia; Balint syndrome; Gerstmann syndrome
+Published in final edited form as: Am J Alzheimers Dis Other Demen.
+ 2011 August ; 26(5): 413–418. doi:10.1177/1533317511418955.
+Posterior Cortical Atrophy: Evidence for Discrete Syndromes Early-Onset Alzheimer’s Disease
+Po-Heng Tsai, MD 1,2 , Edmond Teng, MD, PhD 1,2,3 , Collin Liu, MD 1,2 , and Mario F. Mendez, MD, PhD 1,2 1 Neurobehavior Unit, West Los Angeles VA Healthcare Center, Los Angeles, CA, USA 2 Department of Neurology, David Geffen School of Medicine, University of California at Los Angeles, Los Angeles, CA, USA 3 Geriatric Research Education and Clinical Center, VA Greater Los Angeles Healthcare System, Los Angeles, CA, USA
+Introduction
+      
+Investigators have described a clinical syndrome of progressive complex visual impairments associated with atrophy in posterior cortical regions.
+ 1 Subsequent clinicopathological indicate that this posterior cortical atrophy (PCA) syndrome is usually an early-onset of Alzheimer disease (AD) with a shift of the senile plaques and neurofibrillary tangles posteriorly.
+ 2-4 Investigators have proposed the use of the term PCA for a discrete syndrome or syndromes separate from the typical amnestic-onset AD.
+ 5
+visual stream.
+ 6 The main functions of the cortical visual system are to evaluate stimuli identification and their localization, that is “what” and “where” the stimulus is.
+ This functional segregation corresponds anatomically to posterior temporal region for the pathway and posterior parietal region for the “where” pathway.
+ 7 Impairments in cortical visual processing can lead to a variety of complex visual disturbances.
+ Deficits in the pathway can result in visual agnosia, achromotopsia, prosopagnosia, and pure alexia, deficits in the where pathway can cause visual disorientation, elements of Balint syndrome, and akinetopsia.
+ 8 Cholinesterase inhibitors have not been successful in improving visuospatial functions, 9 although cognitive rehabilitation may be helpful.
+ 10
+Posterior cortical atrophy could represent typical amnestic AD with relatively greater visuospatial or visuoperceptual impairments.
+ Alternatively, PCA syndromes could represent distinct dorsal and ventral visual subgroups of AD pathology with clinical features that separate them from each other and from typical amnestic AD.
+ The current report investigates clinical evidence for PCA as discrete syndromes.
+ We analyzed 30 well- characterized PCA patients for diagnostic features that could support the existence of discrete clinical subgroups.
+ We used hierarchical cluster analysis to demonstrate that visual deficits in these patients segregate into subgroups with deterioration of the dorsal ventral visual pathways.
+ This study further evaluates the subgroups on other clinical functional neuroimaging measures, differences from typical amnestic AD, and degree clinical overlap over time.
+Patients and Standard Protocol Approvals Participants were patients evaluated at the University of California, Los Angeles Frontotemporal Dementia and Neuro-behavior Clinic between 2000 and 2009.
+ Thirty participants were identified who fulfilled previously proposed diagnostic criteria for gradual onset of cognitive impairment with progressive decline in the presence of prominent visuospatial dysfunction but intact primary visual perception.
+ In addition, patients exhibited 1 of the following 4 cardinal features suggestive of either ventral or dorsal visual stream dysfunction: some or all elements of Balint syndrome, some or all elements of Gerstmann syndrome, disproportionate alexia, or visual agnosia.
+ 8 The use of retrospective patient was approved by the University of California, Los Angeles (UCLA) Institutional Review Board.
+Clinical Presentation and Follow-up Demographic data and initial presenting signs and symptoms were abstracted from all available clinical records.
+ Nine specific visuospatial symptoms were identified including difficulties in (1) environmental navigation (finding one’s way while driving or ambulating), (2) object localization (finding objects within peripersonal space), (3) dressing, (4) writing, (5) computation, (6) reading, (7) objection recognition, (8) face recognition (identifying faces of familiar people), and (9) color recognition.
+ Information regarding symptom progression in the visual, memory, and language domains was abstracted from available records from follow-up visits.
+ Classification of Patients
+Cognitive Measures
+Functional Neuroimaging Functional imaging was available for 17 patients (56.7%).
+ Two independent experienced raters blinded to clinical information scored functional scans (12 positron emission tomography [PET] and 5 single-photon emission computed tomography [SPECT], obtained clinically from different scanners) in a quadrant approach using a semiquantitative scale previously described for degree of hypofunction (0 = normal , 1 = mild , 2 = moderate = severe ).
+ 14 Interrater reliability was high ( r s = .
+714; P <.
+001).
+Statistical Analysis Fisher test was used to determine normality of distribution for each variable.
+ Unpaired were used to evaluate normally distributed variables, and Mann-Whitney U tests were to evaluate nonnormally distributed variables.
+ Functional imaging quadrant ratings within each group were compared using Friedman test.
+Cohort Characteristics The demographics, cognitive profiles, and functional imaging findings are summarized Tables 1 and 2.
+ The most common presenting feature was difficulties in object localization (60%), followed by difficulties in environmental navigation (57%), reading (53%), dressing (47%), writing (37%), and computation (37%).
+ Symptoms referable to ventral stream processing (object, color, and face recognition) were far less common (17%, 10%, and respectively).
+Dorsal and Ventral Group Comparison Hierarchical cluster analysis identified 2 groups (26 vs 4 participants).
+ Review of the
+complete classification tree.
+ Our analysis was performed using the 9 binary visuospatial variables (presence or absence of symptoms described above), and the participants were combined based on the comparison of their squared euclidean distances using the average clustering linkage method.
+ Hierarchical cluster analysis performed without a priori specification yielded 2 groups.
+ Due to the exploratory nature of cluster analysis, a10 contingency table based on the 9 variables was constructed to validate the clinical relevance of the resulting 2 groups.
+Cognitive assessment included the Mini-Mental State Examination (MMSE) 11 ; forward digit span subtest from Wechsler Adult Intelligence Scale, Third Edition 12 ; and the categorical verbal fluency, mini-Boston Naming Test (mini-BNT), 10-word list memory, and 3-dimensional construction subtests from Consortium to Establish a Registry of Alzheimer’s Disease (CERAD) neuropsychological battery.
+ 13
+Overall, participants with PCA had relatively intact attention and categorical fluency 2 standard deviation [SD] of normative means).
+ Functional imaging indicated that hypometabolism/hypofunction in this cohort was most prominent in the posterior parietal regions, especially on the left (Friedman test, P < .
+001).
+duration) and severity of cognitive deficits with the exception of BNT.
+ Between the groups, the dorsal group had worse hypofunction in the left posterior parietal region compared to the ventral group (Tables 1 and 2).
+On the CERAD 10-word list memory subtest, both PCA subgroups demonstrated impaired performance on acquisition and delayed free recall but significant improvement with recognition testing (Table 1).
+Follow-Up Information Of the 30 patients, 22 (73%) had at least 1 follow-up visits (20 of 26 dorsal and 2 of ventral patients), which occurred at an average of 8.3 ± 4.5 months after the initial visit. majority of the patients (20 of 22; 91%) reported interval progression, primarily manifesting as worsening of the visual symptoms noted at the initial visit (19 of 20; 95%).
+ Patients predominant dorsal symptoms had worsening dorsal symptoms and not new ventral symptoms, and those with predominant ventral symptoms had worsening ventral symptoms and not dorsal symptoms.
+ Furthermore, 9 patients reported poorer language function patients reported poorer memory function.
+ Mini-Mental State Examination was obtained 13 (59%) of the 22 patients, and it declined from 23.4 ± 3.5 to 21.0 ± 5.1.
+Illustrative Case # 1: Dorsal Stream Subgroup A 58-year-old woman presented with a 2-year history of difficulty localizing items in environment.
+ She had trouble locating eating utensils when she sat down to eat.
+ At times items that she was looking for seemed to disappear from her field of view.
+ She could locate steps while walking down stairs and had to hold onto the rail and look straight in order to orient herself.
+ She also had difficulty with driving and dressing, particularly putting on her bra, bathing suit, and underwear.
+ When attempting to dress, she often gown on backward.
+ She had trouble reading when the writing was not clear, distinct, easy-to-read print.
+ She did not report difficulty in recognizing visual items that were direct field of view or recognizing familiar faces.
+ She had particular difficulty performing calculations.
+ Her magnetic resonance imaging (MRI) and PET scans are presented in 1.
+Illustrative Case # 2: Ventral Stream Subgroup A 66-year-old woman presented with 1-year history of insidious onset of visual difficulties, which were initially noted as problems with driving due to her decreased ability to recognize objects and to appreciate the depth of colors.
+ She described traffic lights as appearing She had trouble recognizing familiar faces including her own face in the mirror.
+ She have other visuospatial difficulties and denied problems with her memory, language, executive abilities.
+ Single-photon emission computed tomography demonstrated areas hypoperfusion in the parietal lobes.
+ Her symptoms progressed and she passed away after symptom onset.
+ Autopsy revealed neuronal loss and gliosis most significantly in bilateral occipital and superior parietooccipital cortices.
+ Immunological stains revealed moderate to frequent diffuse amyloid plaques in the cerebral cortex but neurofibrillary tangles were confined to entorhinal cortex (Braak and Braak stage II).
+disproportionately affects the dorsal or ventral visual processing streams and comprise sufficiently distinct syndromes.
+ These findings implicate variations in vulnerability different neural networks in AD.
+There were clear differences between dorsal and ventral subgroups, not only on visual deficits but also on other clinical features.
+ The 2 groups differed on the BNT and functional imaging.
+ The ventral patients had greater naming difficulty due in part to visuoperceptual problems in identifying line drawings.
+ The presence of greater hypofunction in posterior parietal regions in the dorsal, as compared to the ventral subgroup further bolsters the discreteness of these subgroups.
+ The presence of elements of Gerstmann syndrome in of the dorsal patients also corresponds to the greater left parietal hypofunction in the subgroup as compared to the ventral subgroup.
+ In other functional imaging studies of patients with PCA, investigators have found hemispheric asymmetry in hypometabolism not consistently on the right-hand or left-hand side.
+ 15
+Overall, patients with PCA demonstrated deficits in memory retrieval rather than the encoding deficits that are typical of amnestic AD.
+ 16 Although PCA is classically characterized by complex visual disturbances, the majority of our participants (67%) memory complaints.
+ However, the improvement in recognition testing suggests memory retrieval impairment with relative sparing of the medial temporal structures important memory encoding, as occurs in typical AD.
+ The memory retrieval deficit in these participants could be caused by neurodegeneration of parietal regions, which have been shown to participate in memory retrieval.
+ 17
+As PCA progresses, visual symptoms worsen, often leading to functional impairment. the first follow-up visits, which occurred on average 8 months after the initial visit, our patients reported progression of the visual symptoms identified on initial visit without involvement of new visual stream symptoms.
+ The similarities in disease duration and severity between the dorsal and the ventral subgroups argue against previous thinking ventral symptoms emerge as PCA progresses to the occipitotemporal areas.
+ 8 Moreover, other investigators have reported that, as PCA progresses, even in late stages, functional neuroimaging changes remain centered in the posterior regions where they began.
+ 18
+The 1 patient for whom pathology is available had amyloid plaques and neurofibrillary tangles, which is consistent with prior clinicopathological studies showing AD as the underlying etiology for PCA.
+ 3,19 Among patients with PCA, recent investigations of cerebrospinal fluid profiles and of in vivo b-amyloid binding with Pittsburgh compound (PiB), neuroimaging have demonstrated patterns highly consistent with AD.
+ 20-23 However, other pathological causes such as corticobasal degeneration, dementia with Lewy bodies, subcortical gliosis, and prion diseases may occasionally present as PCA.
+ 4 Interestingly, PCA patient with pathology had predominantly ventral symptoms along with diffuse amyloid plaques in visual areas.
+ Neurofibrillary tangles, however, were confined to entorhinal cortex.
+ This observation raises the possibility of neuropathological evidence discrete PCA syndromes: ventral variant PCA may be a rare pathological presentation AD, where clinical symptoms are characterized by the spread of amyloid plaques to neocortical areas, but neurofibrillary tangles remain confined to entorhinal cortex.
+ Additional clinicopathological studies are necessary to confirm this hypothesis, and studies could also help identify factors involved in amyloid protein’s regional selectivity
+cases of focal cortical syndromes, PCA was the clinical premorbid diagnosis in only participants.
+ 24 Clinicians and patients may therefore lack awareness for PCA.
+ It is common for patients with PCA to initially seek care from optometrists or ophthalmologists due visual symptoms that they experience.
+ 5
+There are some limitations to the study.
+ Due to the retrospective nature of the study, symptoms or signs may have been evaluated as vigorously as a prospective clinical trial, cognitive and imaging information were not complete for every patient.
+ These factors limit the generalizability of our conclusions.
+ Nevertheless, the relative availability of cognitive and imaging data was similar between the 2 groups.
+ Since PCA is a rare disorder, the number of participants in the study, particularly in the ventral subgroup, is small, limits our ability to detect more subtle differences in demographic and cognitive measures between the dorsal and ventral subgroups.
+ Cluster analysis has not been previously used classify clinical syndromes in patients with PCA.
+ However, our clustering results were consistent with our contingency tables and cognitive testing results (eg, the ventral group performed worse on BNT, a test that relies on the ventral stream processing of object identification).
+ Additionally, even though these patients with PCA were not contrasted a group of patients with typical AD, the amnestic memory-deficit pattern of patients typical AD is well characterized and different from the retrieval memory-deficit pattern found in our patients with PCA.
+ 13
+In conclusion, we present evidence supporting the characterization of PCA as discrete stream syndromes in early-onset AD, possibly implicating differences in network vulnerability in AD.
+ The clinical findings support a predominant dorsal variant with parietal involvement, compared to a ventral variant with greater difficulty in confrontational naming, both of which are distinct from typical amnestic AD.
+ Moreover, with disease progression, the visual symptoms in these subgroups do not appear to overlap within year of initial visit but are accompanied by other cognitive manifestations associated AD.
+This work was supported by a VA Special Fellowship for Geriatric Neurology (to P-HT).
+ Funding The author(s) received no financial support for the research, authorship, and/or publication of this article.
+
+          Figure 1.
+        
+Illustrative imaging of patient # 1.
+ MRI (axial T1) and FDG-PET imaging of a patient presenting with mainly dorsal stream symptoms.
+ Note the occipitoparietal atrophy (white arrow) and hypometabolism (black arrow) that were worse on the left.
+ MRI indicates magnetic resonance imaging; FDG-PET, fluorodeoxyglucose–positron emission tomography.
+Clinical Characteristics of the Cohort and Subgroups
+Demographics Gender (women), n (%) Age of symptom onset, years, mean ± SD Disease duration at first visit, years, mean ± SD Levels of education, years, mean ± SD Family history of sporadic AD, n (%) Cognitive measures a MMSE Max digit span forward Categorical verbal fluency Mini BNT b CERAD first trial CERAD second trial CERAD third trial CERAD delayed recall CERAD savings c CERAD recognition d
+Abbreviations: AD, Alzheimer’s Disease; BNT, Boston Naming Test; CERAD, Consortium to Establish a Registry of Alzheimer’s Disease; MMSE, Mini-Mental State Examination; SD, standard deviation.
+Values are expressed as mean ± SD (number available).
+< .
+001.
+Savings = (number of delayed recall/number registered on 3rd trial) × 100%.
+Recognition = (number of correct recognition + true negatives).

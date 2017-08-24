@@ -1,0 +1,510 @@
+﻿Trail Making Test B and brain perfusion imaging in mild cognitive impairment and mild Alzheimer's disease
+The Trail Making Test (TMT) has long been used to investigate deficits in cognitive processing speed and executive function in humans.
+ However, there are few studies that elucidate the neural substrates of the TMT.
+ The aim of the present study was to identify the brain regional perfusion patterns associated with performance on TMT part B (TMT-B) in patients with amnestic mild cognitive impairment (aMCI) or mild Alzheimer's disease (AD).
+ Twenty-one patients with good TMT-B scores and 21 age- and sex-matched patients with poor TMT-B scores were selected.
+ All 42 subjects underwent brain single photon emission computed tomography (SPECT), and the SPECT images were analyzed by statistical parametric mapping.
+ No significant differences between good- and poor-scoring groups were found with respect to years of education, Addenbrooke's Cognitive Examination scores, and scores on TMT-A.
+ Compared to patients with good scores on TMT-B, patients with poor scores showed significant hypoperfusion in the bilateral anterior cingulate extending to the posterior region on the right side, bilateral caudate nucleus and putamen, and bilateral thalamus.
+ Analysis of 63 AD or aMCI subjects revealed significant correlation a between regional cerebral blood flow in the right cingulate cortex and TMT-B scores.
+ Our results suggest that functional activity of the anterior cingulate, striatum and thalamus is closely related to performance time on TMT-B.
+ The performance time on the TMT-B score might be a promising index of dysfunction of the anterior cingulate, striatum, and thalamus among patients with aMCI or mild AD. & 2013 Elsevier Ireland Ltd. All rights reserved.
+The Trail Making Test (TMT) is among the most widely used instruments in neuropsychological assessment as an indicator of cognitive processing speed and executive functioning (Sánchez- Cubillo et al., 2009).
+ However, regardless of its popularity, there is relatively more ambiguity about the neural systems associated with the TMT than with many other tests of comparable clinical use (Allen et al., 2011), and there have been no studies to investigate the neural substrates of TMT-B performance among patients with amnestic mild cognitive impairment (aMCI) or Alzheimer's disease (AD).
+ The TMT consists of parts A and B (TMT-A and TMT-B).
+ TMT-A is reported to require mainly visuoperceptual abilities and grapho- motor speed (Sánchez-Cubillo et al., 2009; Misdraji and Gass, 2010).
+ In some studies, a substantial portion of the variation in TMT-B performance was reported to be largely attributable to mental shifting or cognitive flexibility (Misdraji and Gass, 2010; n Corresponding author.
+ Tel.: +81 86 235 7242; fax: +81 86 235 7246.
+ E-mail address: terada@cc.okayama-u.ac.jp (S. Terada).
+ 0925-4927/$ - see front matter & 2013 Elsevier Ireland Ltd. All rights reserved. http://dx.doi.org/10.1016/j.pscychresns.2013.03.006
+
+          
+        
+Kortte et al., 2002).
+ In a recent review article, TMT-B was estimated to reflect primarily working memory and secondarily task- switching ability (Sánchez-Cubillo et al., 2009).
+ At the same time, the TMT B–A time and TMT B/A ratio provide a relatively pure indicator of executive control (Sánchez-Cubillo et al., 2009; Oosterman et al., 2010).
+ AD is the leading cause of late-onset dementia worldwide.
+ Although the first neuropsychological deficit in AD is episodic memory loss (Perry and Hodges, 1999; Perry et al., 2000), the presence of frontal or executive deficits in patients with even mild AD is now widely recognized (Perry et al., 2000).
+ Current evidence suggests that after an initial amnestic stage in AD, attention and executive functions are the first non-memory domains to be affected, even before deficits in language and visuospatial functions occur (Perry and Hodges, 1999; Perry et al., 2000).
+ Patients with amnestic mild cognitive impairment (aMCI), a proportion of whom represent the preclinical stage of AD (Petersen et al., 2001; Yaffe et al., 2006), have been shown in several recent studies to have deficits in executive functions (Amieva et al., 2008; Traykov et al., 2007).
+ Impaired performance on the TMT-B was reported to be a strong risk factor for mortality in the future (Johnson et al., 2007).
+ Therefore, it is clinically important to elucidate the neural
+substrates of the TMT-B.
+ Because mutual relationships among various neuropsychological tests suggest that executive ability is very important in the performance of TMT-B, we predicted a relationship between TMT-B performance time and regional cerebral blood flow (rCBF) in the frontal or fronto-striatal region of mild AD and aMCI patients.
+ In this study, we compared the rCBF of mild AD or amnestic mild cognitive impairment (aMCI) patients with good and poor performances on TMT-B in order to investigate the neural substrate involved in TMT-B performance.
+TMT-A and TMT-B were administered by clinical psychologists who were blind to the clinical diagnosis and clinical dementia rating (CDR) score.
+ The tests were conducted according to the standard administration procedure described by Spreen and Strauss (1998).
+ Briefly, TMT-A requires the patient to link in ascending order a series of 25 numbers (1–3...) randomly distributed in space (Zakzanis et al., 2005).
+ The subjects are instructed to start the trial at the circle marked Begin and continue linking numbers until they reach the endpoint (circle marked End).
+ In the Japanese version of the TMT-B, the test is modified by changing letters of the Roman alphabet (A– C...) to the Japanese kana phonograms (a, i, u...) (Hashimoto et al., 2006).
+ TMT-B is similar, although instead of just linking numbers, the patient must alternately switch between a set of numbers (1–13) and a set of kana phonograms (a—shi), again linking them in ascending order (1-a-2-i...).
+ During the tests, the examiner corrects each error immediately.
+ At the same time, the subject is also asked to connect the array of circles as quickly as possible without lifting the pencil (Zakzanis et al., 2005).
+ The time limits for performing the TMT-A and TMT-B are 300 s and 600 s, respectively.
+ Detailed normative data stratified by age and educational level for the TMT have been reported (Harada et al., 2006).
+ In this study, only patients with a TMT-A time ≤mean+1S.
+D. for the normal elderly were included.
+ Thereafter, patients with a TMT-B time ≥mean+2S.
+D. for the normal elderly were placed in the poor performance group on TMT-B, while patients with a TMT-B time ≤mean+1S.
+D. for the normal elderly were placed in the good performance group on TMT-B.
+AD patients were diagnosed with probable AD according to the criteria formulated by the NINCDS-ADRDA ( McKhann et al., 1984).
+ In this study, only AD patients with dementia severity of 0.5 or 1 based on the clinical dementia rating (CDR) (Hughes et al., 1982) were included.
+ Amnestic mild cognitive impairment (aMCI) patients were diagnosed according to the following criteria: subjective or objective memory complaints, no dementia by DSM-IV criteria, CDR total score of 0.5, and CDR memory score of 0.5 or 1.
+ Eighty-eight consecutive AD or aMCI patients (49 AD, 39 aMCI) were fully examined at the Memory Clinic of Okayama University Hospital between October 2008 and August 2010.
+ Among 88 subjects, scores of 63 subjects on TMT-A were within normal limits.
+ Among the 63 subjects, 23 patients had TMT-B times ≥mean +2S.
+D. for the normal elderly, and 27 patients had TMT-B times ≤mean+1S.
+D. for the normal elderly.
+ Thereafter, 21 patients with poor performance on TMT-B and 21 patients with good performance on TMT-B, matched for age, education, and revised Addenbrooke's Cognitive Examination (ACE-R) scores (Mioshi et al., 2006; Yoshida et al., 2012), were selected.
+ All aMCI patients in the comparison had an ACE-R memory score ≤mean—1.5S.
+D. for the normal elderly.
+ Most aMCI seems to represent an early stage of AD (Mariani et al., 2007), and in this study we grouped aMCI and AD patients together.
+ The subjects all (1) underwent general physical and neurological examinations and extensive laboratory testing, including thyroid function tests, serum vitamin B12, and syphilis serology; (2) took the Mini-Mental State Examination (MMSE) (Folstein et al., 1975), ACE-R (Mioshi et al., 2006; Yoshida et al., 2012), and frontal assessment battery (FAB) (Dubois et al., 2000; Kugo et al., 2007) within 1 week of scanning; (3) underwent brain single-photon emission computed tomography (SPECT) as well as head magnetic resonance imaging (MRI); and (4) they or their nearest relatives gave written informed consent.
+ The exclusion criteria were (1) complications from other neurological diseases or illnesses; (2) history of mental illness or substance abuse prior to the onset of dementia; (3) any evidence of focal brain lesions on head MRI; (4) treatment with cholinesterase inhibitors, antipsychotics, antidepressants or anxiolytic drugs; (5) severe physical illness; and (6) left handedness or ambidexterity.
+ Information was also gathered from caregivers familiar with the patient's daily behavior.
+ To serve as an informant, the caregiver must be living with the patient.
+ The profile of each subject (age, sex, years of education, and years of disease duration) was recorded.
+ The Physical Self-Maintenance Scale (PSMS) and the Lawton Instrumental Activities of Daily Living (IADL) scale (Hokoishi et al., 2001) were scored using the information from caregivers.
+ The ACE-R was developed to provide a brief test sensitive to early stage dementia, and is capable of differentiating between dementia subtypes including AD, frontotemporal dementia, progressive supranuclear palsy, and other parkinso- nian syndromes (Mioshi et al., 2006).
+ The ACE-R includes the MMSE, but extends it to encompass important areas not covered by the MMSE, such as frontal-executive function and visuospatial skills.
+ For this study, we used the Japanese version of the ACE-R described by Yoshida et al. (2012).
+ The FAB consists of six items, and the score on each item ranges from 0 to 3.
+ A lower score indicates a greater degree of executive dysfunction.
+ The six subtests of the FAB explore (1) similarities (conceptualization), (2) lexical fluency (mental flexibility), (3) Luria motor sequences (programming), (4) conflicting instructions (sensitivity to interference), (5) a go/no-go test (inhibitory control), and (6) pre- hension behavior (environmental autonomy).
+ For this study, we used the Japanese version of the FAB described elsewhere (Dubois et al. 2000; Kugo et al. 2007).
+ The Physical Self-Maintenance Scale (PSMS) and the Instrumental Activities of Daily Living Scale (IADL) are validated scales for the assessment of activities of daily living (ADL) (Hokoishi et al., 2001).
+ The PSMS is a six-item scale that rates self-care ability in toileting, feeding, dressing, personal hygiene and grooming, locomotion (physical ambulation), and bathing.
+ The IADL scale assesses patients' ability to perform eight complex daily tasks: ability to use the telephone, shop, prepare meals, perform household tasks, do laundry, use transportation, take responsibility for medications, and manage finances.
+2.3.
+ Other instruments
+This study protocol was approved by the committee of Okayama University Hospital on human research.
+ After giving a complete description of the study to the subjects and their relatives, written informed consent was obtained.
+All subjects were examined by brain perfusion SPECT.
+ Patients were examined in a comfortable supine position with their eyes closed in quiet surroundings.
+ First, the passage from the heart to the brain was monitored after intravenous administration of 99m Tc-ethylcysteinate dimer (ECD, 600 MBq, Daiichi Radioisotope Laboratories Ltd., Tokyo, Japan).
+ Ten minutes after the angiography, SPECT images were obtained using a triple-head, rotating gamma camera interfaced to a minicomputer (GCA9300A/ DI; Toshiba, Tokyo, Japan) equipped with a fanbeam, low-energy, high-resolution collimator.
+ Sixty projection images over a 3601 angle in a 128 Â 128 matrix were acquired.
+ All images were reconstructed using ramp-filtered back-projection and then three-dimensionally smoothed with a Butterworth filter (order 8, cutoff 0.12 cycles/cm).
+ The reconstructed images were corrected for gamma ray attenuation using the Chang method (μ1⁄4 0.09).
+Spatial reprocessing and statistical analysis of images were performed on a voxel using Statistical Parametric Mapping 8 (SPM8, Wellcome Department of Imaging Neuroscience, UK) running on MATLAB (The Mathworks, Inc., Natick, MA, USA).
+ All SPECT images of each subject were normalized to the standard brain of the Montreal Neurological Institute (MNI), and spatial normalization was performed with 12-parameter affine and non-linear transformations (Friston et al., 1995).
+ The voxel sizes of the reslice option were 2 mm Â 2 mm Â 2 mm.
+ The non- linear parameter was set at 25 mm cut-off basis functions and 16 iterations.
+ All the normalized SPECT images were then smoothed with an isotropic gaussian kernel filter (12-mm full-width at half-maximum).
+ To examine the images for specific regions showing differences in perfusion, two-sample t-tests were performed.
+ Global normalization was performed by proportional scaling with the mean voxel value.
+ Masking was applied using the threshold method (0.8 times the global value).
+ The analysis used a threshold of po 0.001 (uncorrected) at the voxel level and results were considered significant at 800 voxels at the cluster level.
+ Comparison of rCBF between two selected groups is a case-control study, and it is difficult to exclude selection bias.
+ Therefore, we used a strict threshold (po 0.001).
+ Moreover, to show areas where the correlation between rCBF and TMT-B scores was significant among 63 AD or aMCI subjects whose TMT-A scores were within normal limits, multiple regression analysis was performed using SPM8.
+ The analysis used a threshold of p o0.01 (uncorrected) at the voxel level and results were considered significant at 800 voxels at the cluster level.
+Statistical analysis was performed using the SPSS 14.0J software program (SPSS Inc., Chicago, IL).
+ The two groups were compared using independent sample t-tests.
+ A value of po 0.05 was accepted as significant.
+3.1.
+ Clinical characteristics and neuropsychological tests No significant differences were found between good and poor TMT-B score groups with respect to age (p 1⁄40.944) or years of education (p 1⁄40.802) (Table 1).
+ With the exception of TMT-B scores, B-A time, and B/A ratio (p o0.001), no significant differences were found between good and poor TMT-B score groups in TMT-A scores (p1⁄4 0.582), ACE-R (p 1⁄40.826), MMSE (p 1⁄40.904), FAB (p 1⁄4 0.243), or PSMS subitems (Tables 1 and 2).
+ Comparison with IADL scales revealed that subjects with good TMT-B scores got higher scores than those with poor TMT- B scores in the subscale of food preparation (Table 2).
+ There were no significant differences between good and poor TMT-B score groups in the five subscale scores on the ACE-R (Table 1).
+ 3.2. rCBF The areas of hypoperfusion in the poor TMT-B score group that were not present in the good TMT-B score group according to the SPM analysis are shown in Fig. 1a and b and Table 3.
+ A similar test for areas of hypoperfusion in the good TMT-B score group that were not present in the poor TMT-B score group found no cluster of voxels. Fig. 1a shows the z score for each voxel in this cluster superimposed on a three-way glass brain view. Fig. 1a shows a significant cluster of voxels in the bilateral anterior cingulate extending to the posterior region in the right side, bilateral caudate nucleus and putamen, and bilateral thalamus. Table 3 shows the probability results of the SPM analysis and the location of peak z scores in terms of MNI coordinates. Fig. 1c and d and Table 4 show the SPM (z) map of significant correlation between rCBF and TMT-B scores among 63 AD and aMCI patients.
+ Correlation analysis shows a significant cluster of voxels in the right anterior cingulate extending to the posterior region.
+fMRI when comparing the TMT-B to the TMT-A among young healthy participants.
+ Near-infrared spectroscopy showed a greater increase in blood flow in the prefrontal cortex of normal subjects when evaluated during the TMT-B than the TMT-A (Shibuya- Tayoshi et al., 2007; Kubo et al., 2008).
+ Differences in subjects and methods might have caused the inconsistency of these results.
+ TMT B-A time reflects complex walking performance in elderly Japanese (Hirota et al., 2010) and is strongly correlated with performance of physical tasks using lower extremity functions (Ble et al., 2005; Vazzana et al., 2010).
+ Moreover, impaired performance on the TMT-B was a strong risk factor for worsening
+Table 1 Clinical characteristics and neuropsychological tests.
+            
+              
+                
+                  
+                     Group
+                     Poor score
+                     Good score
+                     t
+                     p
+                  
+                
+                
+                  
+                     Total (n)
+                     21
+                     21
+                    
+                    
+                  
+                  
+                     Sex (n) (male/female)
+                     6/15
+                     8/13
+                    
+                    
+                  
+                  
+                     AD/aMCI
+                     13/8
+                     12/9
+                    
+                    
+                  
+                  
+                     Age (mean years 7S.D.)
+                     77.9 7 4.3
+                     76.4 7 5.9
+                     0.934
+                     0.356
+                  
+                  
+                     Education (mean years7 S.D.)
+                     10.7 72.7
+                     10.8 72.4
+                     0.903
+                     0.780
+                  
+                  
+                     ACE-R score (mean7 S.D.)
+                     71.0 7 8.8
+                     72.7 7 8.3
+                     −0.650
+                     0.519
+                  
+                  
+                     Attention
+                     14.6 71.9
+                     15.17 1.9
+                     −0.964
+                     0.341
+                  
+                  
+                     Memory
+                     10.4 74.9
+                     12.2 7 4.9
+                     −1.192
+                     0.240
+                  
+                  
+                     Fluency
+                     7.7 7 3.1
+                     7.1 71.8
+                     0.664
+                     0.510
+                  
+                  
+                     Language
+                     23.6 7 2.4
+                     22.7 7 3.3
+                     0.867
+                     0.391
+                  
+                  
+                     Visuospatial
+                     14.8 71.2
+                     15.4 71.0
+                     −1.787
+                     0.081
+                  
+                  
+                     MMSE score (mean 7 S.D.)
+                     23.7 7 2.7
+                     24.072.5
+                     −0.296
+                     0.769
+                  
+                  
+                     FAB score (mean7 S.D.)
+                     11.8 7 2.3
+                     11.7 7 2.2
+                     0.136
+                     0.893
+                  
+                  
+                     TMT-A time (mean 7S.D.)
+                     587 15
+                     527 14
+                     1.372
+                     0.178
+                  
+                  
+                     TMT-B time
+                     360 7 131
+                     150 7 34
+                     7.121
+                     o 0.001
+                  
+                  
+                     TMT B–A time
+                     302 7 129
+                     987 32
+                     7.248
+                     o 0.001
+                  
+                  
+                     TMT B/A ratio
+                     6.3 7 2.1
+                     3.0 7 0.9
+                     6.661
+                     o 0.001
+                  
+                
+              
+            
+            Group Poor score Good score t p Total (n) 21 21 Sex (n) (male/female) 6/15 8/13 AD/aMCI 13/8 12/9 Age (mean years 7S.D.) 77.9 7 4.3 76.4 7 5.9 0.934 0.356 Education (mean years7 S.D.) 10.7 72.7 10.8 72.4 0.903 0.780 ACE-R score (mean7 S.D.) 71.0 7 8.8 72.7 7 8.3 −0.650 0.519 Attention 14.6 71.9 15.17 1.9 −0.964 0.341 Memory 10.4 74.9 12.2 7 4.9 −1.192 0.240 Fluency 7.7 7 3.1 7.1 71.8 0.664 0.510 Language 23.6 7 2.4 22.7 7 3.3 0.867 0.391 Visuospatial 14.8 71.2 15.4 71.0 −1.787 0.081 MMSE score (mean 7 S.D.) 23.7 7 2.7 24.072.5 −0.296 0.769 FAB score (mean7 S.D.) 11.8 7 2.3 11.7 7 2.2 0.136 0.893 TMT-A time (mean 7S.D.) 587 15 527 14 1.372 0.178 TMT-B time 360 7 131 150 7 34 7.121 o 0.001 TMT B–A time 302 7 129 987 32 7.248 o 0.001 TMT B/A ratio 6.3 7 2.1 3.0 7 0.9 6.661 o 0.001
+          
+AD, Alzheimer's disease; aMCI, amnestic mild cognitive impairment; S.D., standard deviation, TMT, Trail Making Test; TMT-A, TMT part A; TMT-B, TMT part B, TMT B–A time, (TMT-B time)—(TMT-A time); TMT B/A ratio; (TMT-B time)/(TMT-A time), Poor score, Alzheimer's disease patients with poor performance on the TMT-B, Good score, Alzheimer's disease patients with good performance on the TMT-B, ACE-R, Revised Addenbrook's Cognitive Examination; MMSE, Mini Mental State Examination, FAB, Frontal Assessment Battery.  TMT, Trail Making Test; S.D., standard deviation, Poor score, Alzheimer's disease patients with poor performance on the TMT-A, Good score, Alzheimer's disease patients with good performance on the TMT-A, PSMS, Physical Self-maintenance Scale; IADL, Instrumental Activities of Daily Living Scale.
+Table 2 Activities of Daily Living (ADL) and instrumental ADL
+            
+              
+                
+                  
+                     Group
+                     Poor
+                     Good
+                     t
+                     p
+                  
+                
+                
+                  
+                    
+                     score
+                     score
+                    
+                    
+                  
+                  
+                     PSMS (mean7 S.D.)
+                    
+                    
+                    
+                    
+                  
+                  
+                     Toileting
+                     1.0 7 0.0
+                     1.0 70.2
+                     1.000
+                     0.323
+                  
+                  
+                     Feeding
+                     1.0 7 0.0
+                     1.0 70.0
+                     o 0.001
+                     1.000
+                  
+                  
+                     Dressing
+                     1.0 7 0.0
+                     1.0 70.0
+                     o 0.001
+                     1.000
+                  
+                  
+                     Grooming
+                     1.0 7 0.0
+                     1.0 70.0
+                     o 0.001
+                     1.000
+                  
+                  
+                     Ambulation
+                     0.9 7 0.3
+                     1.0 70.0
+                     −1.451
+                     0.155
+                  
+                  
+                     Bathing
+                     1.0 7 0.0
+                     1.0 70.0
+                     o 0.001
+                     1.000
+                  
+                  
+                     IADL (mean7 S.D.)
+                    
+                    
+                    
+                    
+                  
+                  
+                     Ablity to use telephone
+                     1.0 7 0.0
+                     1.0 70.0
+                     o 0.001
+                     1.000
+                  
+                  
+                     Shopping
+                     0.8 7 0.4
+                     0.9 70.3
+                     −1.235
+                     0.224
+                  
+                  
+                     Food preparation
+                     0.5 7 0.5
+                     0.9 70.3
+                     −2.430
+                     0.022
+                  
+                  
+                     Housekeeping
+                     1.0 7 0.0
+                     1.0 70.0
+                     o 0.001
+                     1.000
+                  
+                  
+                     Laundry
+                     1.0 7 0.0
+                     1.0 70.0
+                     o 0.001
+                     1.000
+                  
+                  
+                     Mode of transportation
+                     1.0 7 0.0
+                     1.0 70.0
+                     o 0.001
+                     1.000
+                  
+                  
+                     Responsibility for own
+                     0.6 7 0.5
+                     0.8 70.4
+                     −0.989
+                     0.329
+                  
+                  
+                     medications
+                    
+                    
+                    
+                    
+                  
+                  
+                     Ability to handle finances
+                     1.0 7 0.2
+                     1.0 70.0
+                     −1.000
+                     0.323
+                  
+                
+              
+            
+            Group Poor Good t p score score PSMS (mean7 S.D.) Toileting 1.0 7 0.0 1.0 70.2 1.000 0.323 Feeding 1.0 7 0.0 1.0 70.0 o 0.001 1.000 Dressing 1.0 7 0.0 1.0 70.0 o 0.001 1.000 Grooming 1.0 7 0.0 1.0 70.0 o 0.001 1.000 Ambulation 0.9 7 0.3 1.0 70.0 −1.451 0.155 Bathing 1.0 7 0.0 1.0 70.0 o 0.001 1.000 IADL (mean7 S.D.) Ablity to use telephone 1.0 7 0.0 1.0 70.0 o 0.001 1.000 Shopping 0.8 7 0.4 0.9 70.3 −1.235 0.224 Food preparation 0.5 7 0.5 0.9 70.3 −2.430 0.022 Housekeeping 1.0 7 0.0 1.0 70.0 o 0.001 1.000 Laundry 1.0 7 0.0 1.0 70.0 o 0.001 1.000 Mode of transportation 1.0 7 0.0 1.0 70.0 o 0.001 1.000 Responsibility for own 0.6 7 0.5 0.8 70.4 −0.989 0.329 medications Ability to handle finances 1.0 7 0.2 1.0 70.0 −1.000 0.323
+          
+of ADL or IADL disability and mortality in the future (Johnson et al., 2007; Vazzana et al., 2010).
+ In this study, we found a difference between good and poor performance groups on the TMT-B in the “food preparation” subscale of the IADL.
+ The TMT-B is thought to be useful to detect some IADL dysfunctions.
+ Patients with poor and good TMT-B performance showed subcortical and cingulate perfusion differences, despite similar FAB scores.
+ In most studies on FAB scores and rCBF, rCBF in the left dorsolateral and medial prefrontal cortex (PFC) was significantly associated with the FAB score (Oshima et al., 2012).
+ These results suggest that the dorsolateral and medial PFC play an important
+
+            Fig. 1. (a) and (b) (upper). SPM (z) map of rCBF decrease in AD and aMCI patients with good scores on the TMT-B compared with AD and aMCI patients with poor TMT-B scores. Height threshold T1⁄4 3.306878 (p o0.001, uncorrected), Extent threshold k 1⁄4 800 voxels. (a) Three-way-glass view of the areas of significant hypoperfusion. (b) Three- way-sections. X 1⁄4 −10, Y 1⁄4 10, Z1⁄44. (c) and (d) (lower). SPM (z) map of significant correlation between rCBF and TMT-B scores among AD and aMCI patients. Height threshold T 1⁄4 2.389047 (p o 0.01, uncorrected), Extent threshold k 1⁄4 800 voxels. (c) Three-way-glass view of the areas of significant correlation. (d) Three-way-sections. X1⁄4 −16, Y 1⁄40, Z1⁄4 40.
+          
+Table 3 Significant regional uptake differences between patients with good and poor scores on the TMT-B.
+            
+               Direction of difference Number of voxels Peak Z scores p Coordinates (MNI) Anatomical location x y z
+              
+                
+                
+                  
+                     Decreased uptake in AD patients with low scores on TMT-A 6527
+                     6.00
+                     o 0.001
+                     −14
+                     −20
+                     48
+                     lt Cingulate
+                  
+                  
+                    
+                     5.41
+                     o 0.001
+                     −18
+                     −12
+                     48
+                     lt Cingulate
+                  
+                  
+                    
+                     5.26
+                     o 0.001
+                     10
+                     32
+                     16
+                     rt Anterior Cingulate
+                  
+                  
+                     MNI, Montreal Neurological Institute; TMT-B, Trail Making Test part B; lt, left; rt,
+                     right.
+                    
+                    
+                    
+                    
+                    
+                  
+                
+              
+            
+            Direction of difference Number of voxels Peak Z scores p Coordinates (MNI) Anatomical location x y z Decreased uptake in AD patients with low scores on TMT-A 6527 6.00 o 0.001 −14 −20 48 lt Cingulate 5.41 o 0.001 −18 −12 48 lt Cingulate 5.26 o 0.001 10 32 16 rt Anterior Cingulate MNI, Montreal Neurological Institute; TMT-B, Trail Making Test part B; lt, left; rt, right.
+          
+role in FAB performance and that medial PFC and basal ganglia play an important role in TMT-B performance.
+ 4.2.
+ Anterior cingulate, thalamus, and striatum in executive function Executive function is an umbrella term used to identify a set of self-regulatory processes (Tuchscherer et al., 2010).
+ They encompass behaviors such as initiation, planning, organization, purpo- sive actions, self-monitoring, and self-regulation and are viewed as critical skills that are associated with successful day-to-day functioning.
+ Three fronto-subcortical circuits, originating in the
+Table 4 Regions with significant correlations to scores on the TMT-B.
+          
+Number of voxels Regions with significant correlation to scores of TMT-B 891 MNI, Montreal Neurological Institute; TMT-B, Trail Making Test part B; lt, left; preCentral, sub-gyral white matter. prefrontal cortex, have been identified as responsible for executive control functions: i.e., the dorsolateral prefrontal cortex (working memory), lateral orbital cortex (inhibition), and anterior cingulate cortex (response conflict) (Cabeza and Nyberg, 2000; Cummings, 1993).
+ Therefore, the anterior cingulate is thought to belong to the network responsible for executive control function (Buckner et al., 2005).
+ The cognitive component of the anterior cingulate cortex has been studied in several neuroimaging studies focusing on the role of this area in executive functions (Carter et al., 1998; Botvinick et al., 1999; Barch et al., 2001).
+ In particular, it has been demonstrated that the anterior cingulate cortex is active during the execution of tasks in which a prepotent response has to be overcome, such as in go/no-go tasks (Carter et al., 1998; Botvinick et al., 1999; Barch et al., 2001).
+ Thus, in our study, the bilateral anterior cingulate is thought to be involved in the performance of the TMT-B.
+ The thalamus is a critical part of a functional system proposed to mediate frontal-subcortical interactions, which are presumed to play an important role in executive functions (Cummings, 1993).
+ Executive function has been linked to integrity of the thalamus in numerous clinical populations, such as those with infarction, trauma, and epilepsy (Annoni et al., 2003; Carrera and Bogousslavsky, 2006; Van der Werf et al., 2000; Pulsipher et al., 2009; Seidenberg et al., 2008).
+ Total thalamic volume significantly predicted subsequent performance on measures of executive functioning (Seidenberg et al., 2008; Tuchscherer et al., 2010), and these findings were maintained when both hippocampal volume and frontal lobe volume were taken into account (Tuchscherer et al., 2010).
+ Compelling evidence suggests that disturbances in the frontostriatal network might be a candidate mechanism, because these brain regions are critical for executive functioning (Alexander et al., 1986).
+ In functional imaging studies, tests of executive function consistently activate the prefrontal cortex and caudate nucleus (Postuma and Dagher, 2006).
+ Discrete lesions in the caudate nucleus also can produce isolated deficits in executive function (Divac et al., 1967; Nys et al., 2006; Mendez et al., 1989).
+ Moreover, caudate atrophy and impaired frontostriatal connections are linked to executive dysfunction in temporal lobe epilepsy (Riley et al., 2011).
+ Our study confirmed the importance of the thalamus and striatum in tests of executive function, such as the TMT-B.
+ 4.3.
+ Executive dysfunction in AD Patients with early Alzheimer's disease sometimes show impairments of the executive system (Sebastian et al., 2006).
+ This system is involved in controlling actions in situations where the routine control of behavior does not suffice, such as situations that require the suppression of habitual or dominant responses or novel situations. Perry et al. (2000) found that 15% of minimally impaired patients with AD (Mini Mental State Examination: MMSE score 24–30) and 50% of mildly demented patients with AD (MMSE score 18–23) were impaired on the modified Wisconsin Card Sorting Test (mWCST).
+ Executive dysfunction has also been
+Peak Z scores p Coordinates (MNI) Anatomical Location x y z 3.23 0.001 −8 −2 40 lt Cingulate 3.20 0.001 −14 12 38 lt Cingulate 3.05 0.001 −28 −4 40 lt preCentral* reported in patients with aMCI.
+ Patients with aMCI had a greater number of perseverations on the mWCST and lower performance on the Stroop Test than normal controls (Traykov et al., 2007).
+ In this study, we found that a group of AD or aMCI patients showed executive dysfunction.
+ Our results suggest that some AD patients suffer from frontal neuropsychological deficits and frontal hypoperfusion in the early stage, and that those patients might be included in a so-called frontal variant of AD (Johnson et al., 1999; Woodward et al., 2010).
+ Significant metabolic decreases in specific medial prefrontal areas, namely the subgenual and anterior cingulate cortices, are reported to be initiated early in the course of AD (Fouquet et al., 2009).
+ In support of this contention, the same two medial prefrontal areas showed a specific perfusion decrease from the entorhinal to the limbic neuropathologic Braak stages (Braak and Braak, 1991), corresponding to amnestic mild cognitive impairment and early AD, respectively (Bradley et al., 2002).
+ The thalamus and striatum are not thought to be vulnerable in the pathological process in AD (Braak and Braak, 1991).
+ Therefore, we cannot explain the detailed mechanism of hypoperfusion in the thalamus and striatum.
+ However, two possibilities can be pointed out.
+ Firstly, we excluded subjects with obvious lacunar infarction or cortical infarction, but subjects with chronic ischemic changes in head MRI or CT were included.
+ Moreover, the thalamus and striatum are favored sites for those ischemic lesions.
+ Such lesions might affect the lower perfusion among patients with poor performance on TMT-B.
+ Secondly, hypoperfusion of the medial frontal lobe in patients with poor TMT-B scores, as well as the close tract connection of the basal ganglia and the thalamus to the medial frontal lobe, might induce hypoperfusion in the basal ganglia and thalamus.
+ 4.4.
+ Conclusions We compared rCBF between patient groups with good and poor performance on the TMT-B, and found that the poor TMT-B score group showed lower rCBF in the bilateral anterior cingulate, bilateral thalamus, and left striatum.
+ Hypoperfusion in the anterior cingulate, thalamus, and striatum might therefore be related to executive dysfunction in AD patients.
+ 4.5.
+ Limitations of this study The results in this study should be interpreted with some caution for the following reasons.
+ (1) The relatively small sample size, comprising only 21 AD or aMCI patients with good performance and 21 AD or aMCI patients with poor performance on the TMT-B, may limit the sensitivity to actual group differences and associations between neuropsychological functions and neural activation.
+ (2) The low spatial resolution of SPECT scans may limit detection of alterations in small regions, thus increasing the risk of false negatives and interference from surrounding regions as well (Takeuchi et al., 2002).
+ (3) Detailed estimations of ADL and IADL were not performed.
+ Stereotypical behaviors among AD patients were not scored.
+ Future studies including such data will be
+important in relating or translating SPECT findings into a clinically relevant understanding of behavior.
+ (4) We should mention that the results are not significant using p o0.001 in the correlation analysis, and that a threshold of p o0.01 leads to a high rate of false positives, which is a limitation of our study.
+We thank Ms.
+ Horiuchi, Ms.
+ Imai, Ms.
+ Yabe, and Ms.
+ Tsuchiyama for their skillful assistance in the study.
+ This work was supported by a grant from the Japanese Ministry of Education, Culture, Sports, Science and Technology (21591517), and the Zikei Institute of Psychiatry.

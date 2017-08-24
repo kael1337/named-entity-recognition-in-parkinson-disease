@@ -1,0 +1,363 @@
+﻿Impulse control disorders in Parkinson’s disease: decreased striatal dopamine transporter levels
+1 Department of Psychiatry, ABSTRACT University of Cambridge, Objective Impulse control disorders are commonly Cambridge, UK 2 Behavioural and Clinical associated with dopaminergic therapy in Parkinson’s Neuroscience Institute, disease (PD).
+ PD patients with impulse control disorders University of Cambridge, demonstrate enhanced dopamine release to conditioned Cambridge, UK cues and a gambling task on [ 11 C]raclopride positron 3 Cambridgeshire and emission tomography (PET) imaging and enhanced Peterborough NHS Foundation Trust, Cambridge, UK ventral striatal activity to reward on functional MRI.
+ We 4 National Parkinson compared PD patients with impulse control disorders Foundation Centre of and age-matched and gender-matched controls without Excellence, Kings College impulse control disorders using [ 123 I]FP-CIT (2β- Hospital, and Kings College, carbomethoxy-3β-(4-iodophenyl)tropane) single photon London, UK 5 Department of Nuclear emission computed tomography (SPECT), to assess Imaging, Kings College striatal dopamine transporter (DAT) density.
+ Hospital, London, UK Methods The [ 123 I]FP-CIT binding data in the striatum 6 University of Toronto, were compared between 15 PD patients with and 15 Toronto, Canada 7 University of Sussex, without impulse control disorders using independent Brighton, UK t tests.
+ Results Those with impulse control disorders showed Correspondence to significantly lower DAT binding in the right striatum with Dr Valerie Voon, Department a trend in the left (right: F(1, 24)=5.93, p=0.02; left: of Psychiatry, University of Cambridge, Addenbrookes F(1, 24)=3.75, p=0.07) compared to controls.
+ Hospital, Level E4, Box 189, Conclusions Our findings suggest that greater Hills Road, Cambridge dopaminergic striatal activity in PD patients with impulse CB2 0QQ, UK; control disorders may be partly related to decreased voonval@gmail.com uptake and clearance of dopamine from the synaptic Received 14 March 2013 cleft.
+ Whether these findings are related to state or trait Revised 13 June 2013 effects is not known.
+ These findings dovetail with reports Accepted 18 June 2013 of lower DAT levels secondary to the effects of Published Online First 30 July 2013 methamphetamine and alcohol.
+ Although any regulation of DAT by antiparkinsonian medication appears to be modest, PD patients with impulse control disorders may be differentially sensitive to regulatory mechanisms of DAT expression by dopaminergic medications.
+Impulse control disorders (ICDs) are commonly associated with dopaminergic therapy and can occur in over 17% of those on dopamine agonists for Parkinson’s disease (PD).
+ 1 The behaviours, including pathological gambling, hypersexuality, binge eating, compulsive shopping and punding, can have significant financial and social consequences.
+ Why this subset of patients with PD develops these behaviours has been the focus of recent research.
+ Several lines of evidence point towards enhanced stri- To cite: Voon V, Rizos A, Chakravartty R, et al. atal dopaminergic activity in PD patients with ICDs J Neurol Neurosurg as compared to those without ICDs.
+ PD patients with Psychiatry 2014;85: pathological gambling as compared to PD controls 148–152. show greater ventral striatal dopamine release to a
+gambling task measured using [ 11 C]raclopride positron emission tomography (PET).
+ 2 [ 11 C]raclopride is a ligand-binding D2 and D3 receptors and can provide an index of presynaptic dopamine release or D2/D3 receptor density.
+ In this same study, PD patients with pathological gambling had lower [ 11 C] raclopride binding to a motor control task which the authors interpret as suggesting decreased expression of D2/D3 receptors.
+ Similarly, in response to visual cues, PD patients with mixed ICDs as compared to PD controls have greater ventral striatal and posterior putaminal dopamine release, consistent with a clas- sical cue-conditioning response.
+ 3 In contrast to the previous study, there were no differences at baseline between the two groups.
+ PD patients with mixed ICDs also show greater blood oxygen level–depend- ent ventral striatal activity in functional MRI (fMRI) in a probabilistic learning task to unexpected and expected reward.
+ 4 Similarly, PD patients with compulsive medication use or punding symptoms also have enhanced ventral striatal dopamine release to levodopa as measured using [ 11 C]raclopride PET.
+ 5 Whether this enhanced detection of striatal dopamine is solely related to greater dopamine release or whether dopamine might also be more likely to remain in the synaptic cleft due to decreased uptake and clearance via the dopamine transporter (DAT) remains unclear.
+ Using [ 123 I]FP- CIT (2β- carbomethoxy-3β-(4-iodophenyl)tropane) single photon emission computed tomography (SPECT), which binds dopamine and serotonin transporters, a small study with 8 PD patients with pathological gambling, 21 matched PD controls and 14 healthy controls demonstrated lower transporter density in the ventral striatum in PD+ICD patients.
+ 6 The authors suggest that rather than a reduction in mesolimbic dopaminergic projections, this decrease in DAT density is likely related to a downregulation of striatal DAT, consistent with the previous reports of greater striatal dopamine release.
+ Here, we study a much larger sample size of PD patients with ICDs and compare with age-matched (±5 years) and gender-matched PD controls using [ 123 I]FP-CIT SPECTand hypothesise a decrease in striatal DAT density in PD patients with ICDs.
+PD subjects were recruited from Kings College Hospital Movement Disorders clinic among patients who underwent routine [ 123 I]FP-CIT SPECT as part of the clinical assessment of PD to detect loss of functional dopaminergic neuron
+terminals.
+ Fifteen subjects were identified with a diagnosis of idiopathic PD and a current ICD at the time of scanning with diagnoses that fit established criteria for pathological gambling, compulsive shopping, binge eating, compulsive hypersexuality and punding (diagnostic criteria reviewed in ref.
+ 7).
+ Five subjects had punding or hobbyism as their sole behaviour.
+ No subject had compulsive medication use or a history of ICDs prior to the onset of dopaminergic medications.
+ From the same clinic, fifteen age-matched and gender-matched subjects with idiopathic PD without a history of ICDs were identified as controls.
+ SPECT studies were carried out at the Nuclear Medicine Department at Kings College Hospital in London, UK.
+ In compliance with the EANM 2010 Imaging Guidelines, patients were required to stop any medication that would bind to the DAT 7 days prior to the scan including amphetamine, benztro- pine, bupropion, cocaine, mazindol, methylphenidate, phenter- mine and sertraline.
+ None of the subjects were on these medications.
+ Subjects were continued on their dopaminergic medications.
+ Oral potassium iodate was administered for thyroid blockade 24 h prior to the study.
+ Patients were scanned 4 h after a slow intravenous injection of 185 MBq (5 mCi) [ 123 I]FP-CIT (Ioflupane, GE Healthcare, Arlington Heights, Illinois, USA).
+ The 40-min SPECT acquisition was performed with the patient supine on a Philips SKYLight dual-head gamma camera with a low-energy general purpose collimator; the patient’s head in the field of view being lightly restrained as to enable the smallest possible rotational radius.
+ Patients were not sedated for the imaging sequence.
+ Imaging parameters used included a clockwise step and shoot protocol of 40 s for each of the 120 azimuths, a 128×128×16 matrix, a 20% energy window centred at 159 keV with no zoom.
+ After ensuring the absence of patient’s motion and applying motion correction as required, images were reconstructed on a Adac Pegasus workstation using a filtered backprojection algo- rithm using a Butterworth low-pass filter (order=8, cut-off=0.7).
+ The software program BRAS on Hermes workstation was used to automatically delineate circular regions of interest (ROIs) over the caudate and putamina on the transaxial images and the overall striata on the coronal images.
+ A single ROI over the occipital lobe provides the background (non-specific) uptake area.
+ These ROIs were checked and realigned manually if needed.
+ Quantitation in the form of specific ratios for each caudate/ putamen and the overall striata were calculated as follows:  FP-CIT binding in area of uptake=[(mean counts per pixel in the ROI in area of uptake)−(mean counts per pixel in the occipital cortex)]/(mean counts per pixel in the occipital cortex).
+ These ratios were not adjusted for age or gender.
+ The images were viewed on a workstation by an experienced nuclear phys- ician blinded to the ICD status to assess the overall SPECT binding pattern.
+ Areas of reduced uptake within the striata were reported with description of the intensity and location as well as a comment on the quantitative value.
+ All subjects received informed consent, and the study was approved by the local research ethics committee.
+Table 1 Subject and disease characteristics PD−ICD
+          
+            
+              
+                
+                  
+                  
+                   PD+ICD
+                   df
+                   t
+                   p Value
+                
+              
+              
+                
+                   N
+                   15
+                   15
+                  
+                  
+                  
+                
+                
+                   Gender in No males (%)
+                   9 (60)
+                   9 (60)
+                  
+                  
+                  
+                
+                
+                   Age in years old
+                   60.13 (7.98)
+                   55.07 (8.91)
+                   28
+                   1.61
+                   0.12
+                
+                
+                   PD duration in years
+                   5.53 (5.21)
+                   7.54 (5.39)
+                   28
+                   −0.99
+                   0.33
+                
+                
+                   Median H+Y score
+                   3.00
+                   3.00
+                   28
+                   0.19
+                   0.86
+                
+                
+                   Total LEDD in mg/d (n)
+                   852.15 (520.37)
+                   785.80 (402.73)
+                   26
+                   0.32
+                   0.75
+                
+                
+                  
+                   (14)
+                   (13)
+                  
+                  
+                  
+                
+                
+                   No of dopamine agonist
+                   10
+                   13
+                  
+                  
+                  
+                
+                
+                   Dopamine agonist LEDD in mg/d
+                   384.33 (212.85)
+                   325.77 (156.10)
+                   22
+                   0.07
+                   0.94
+                
+                
+                   Behaviours
+                  
+                   CS: 5 HS: 4 PG: 3 Punding/hobbyism: 6
+                  
+                  
+                  
+                
+                
+                   All values reported as mean (SD) unless
+                   otherwise indicated.
+                  
+                  
+                  
+                  
+                
+                
+                   CS, compulsive shopping; HS, hypersexuality;
+                   ICD, impulse control disorders;
+                   LEDD, levodopa dose daily equivalent;
+                   mg/d, milligrams/day; n,
+                   number of subjects; PD,
+                  
+                
+                
+                   disease; PG, pathological gambling.
+                  
+                  
+                  
+                  
+                  
+                
+              
+            
+          
+          PD+ICD df t p Value
+          N 15 15 Gender in No males (%) 9 (60) 9 (60) Age in years old 60.13 (7.98) 55.07 (8.91) 28 1.61 0.12 PD duration in years 5.53 (5.21) 7.54 (5.39) 28 −0.99 0.33 Median H+Y score 3.00 3.00 28 0.19 0.86 Total LEDD in mg/d (n) 852.15 (520.37) 785.80 (402.73) 26 0.32 0.75 (14) (13) No of dopamine agonist 10 13 Dopamine agonist LEDD in mg/d 384.33 (212.85) 325.77 (156.10) 22 0.07 0.94 Behaviours CS: 5 HS: 4 PG: 3 Punding/hobbyism: 6 All values reported as mean (SD) unless otherwise indicated. CS, compulsive shopping; HS, hypersexuality; ICD, impulse control disorders; LEDD, levodopa dose daily equivalent; mg/d, milligrams/day; n, number of subjects; PD, Parkinson’s disease; PG, pathological gambling.
+        
+The binding data were compared between PD+ICD and PD −ICD groups.
+ Parametric tests were used after the data were tested for normal distribution using Shapiro–Wilk test.
+ The subject characteristics were compared using independent t tests.
+ The binding data in the right and left caudate and putamen were then compared using multivariate analyses between groups.
+Fifteen PD+ICD subjects were compared with 15 age-matched and gender-matched PD−ICD controls.
+ There were no differences in gender, age, PD duration, H+Y score or dopaminergic medication dose calculated as levodopa dose equivalence 8 between the groups ( table 1).
+ In the PD+ICD group, 13/14 were on dopamine agonists ( pramipexole=4, ropinirole=8, rotigotine=2) at the time of their ICD symptoms with one subject on amantadine.
+ The PD+ICD DAT binding data of one subject was not included as the scores were outliers (score >3 SD above group mean).
+ Compared to PD−ICD subjects, PD+ICD patients had lower DAT binding in bilateral striatum (table 2 and figure 1).
+ Although there were no differences in age or PD duration between groups, since age and PD duration are known to affect DAT expression, the group differences were also compared with univariate analysis using age and PD duration as covariates of no interest.
+ The difference in the right striatum remained significantly different in PD+ICD patients when covaried for age and PD duration with a trend in the left striatum (right: F(1, 24) =5.93, p=0.02; left: F(1, 24)=3.75, p=0.07).
+ The different striatal regions were also compared using a multivariate analysis using age and PD duration as covariates of no interest: the right caudate (F(1, 24)=8.91, p=0.006), right putamen (F(1, 24) =6.60, p=0.02) and left putamen (F(1, 24)=4.59, p=0.04) remained significant with a trend towards significance in the left caudate (F(1, 24)=4.18, p=0.052).
+ The binding data of the different striatal regions of the behaviour were then compared between PD−ICD, PD+ICD (n=9) and punding only (n=5) using multivariate analyses.
+ There were significant differences in the right caudate (F(2, 24)=3.65, p=0.04) and right putamen (F(2, 24)=3.64, p=0.04) but not in the left caudate (F(2, 24)=1.83, p=0.18) or the left putamen (F(2, 24)=2.48, p=0.10) (figure 1).
+ PD+ICD had significantly lower DAT binding compared to PD−ICD in the right caudate (mean difference 0.76 (SEM 0.28), p=0.01) and right putamen (0.64 (SEM 0.24), p=0.01) on post hoc analyses with no other significant differences documented.
+Table 2 Binding values PD−ICD
+          
+            
+              
+                
+                  
+                  
+                   PD+ICD
+                   Error
+                   F
+                   p Value
+                
+              
+              
+                
+                   R striatum
+                   1.43 (0.68)
+                   0.91 (0.41)
+                   27
+                   6.22
+                   0.02
+                
+                
+                   L striatum
+                   1.45 (0.67)
+                   0.98 (0.47)
+                   27
+                   4.87
+                   0.04
+                
+                
+                   R caudate
+                   1.68 (0.71)
+                   1.06 (0.63)
+                   27
+                   6.12
+                   0.02
+                
+                
+                   L caudate
+                   1.57 (0.60)
+                   1.13 (0.62)
+                   27
+                   3.77
+                   0.06
+                
+                
+                   R putamen
+                   1.14 (0.68)
+                   0.63 (0.41)
+                   27
+                   5.80
+                   0.02
+                
+                
+                   L putamen
+                   1.23 (0.75)
+                   0.70 (0.48)
+                   27
+                   5.14
+                   0.03
+                
+                
+                   R caudate:putamen ratio
+                   1.70 (0.55)
+                   1.78 (0.57)
+                   27
+                   0.15
+                   0.71
+                
+                
+                   L caudate:putamen ratio
+                   1.54 (0.56)
+                   1.81 (0.61)
+                   27
+                   1.45
+                   0.24
+                
+              
+              
+                
+                   All values reported as mean
+                   (SD).
+                  
+                  
+                  
+                  
+                
+              
+            
+          
+          PD+ICD Error F p Value R striatum 1.43 (0.68) 0.91 (0.41) 27 6.22 0.02 L striatum 1.45 (0.67) 0.98 (0.47) 27 4.87 0.04 R caudate 1.68 (0.71) 1.06 (0.63) 27 6.12 0.02 L caudate 1.57 (0.60) 1.13 (0.62) 27 3.77 0.06 R putamen 1.14 (0.68) 0.63 (0.41) 27 5.80 0.02 L putamen 1.23 (0.75) 0.70 (0.48) 27 5.14 0.03 R caudate:putamen ratio 1.70 (0.55) 1.78 (0.57) 27 0.15 0.71 L caudate:putamen ratio 1.54 (0.56) 1.81 (0.61) 27 1.45 0.24 All values reported as mean (SD).
+        
+We show that PD+ICD patients have lower striatal DAT levels relative to matched PD−ICDs controls with similar Hoehn and Yahr stage severity.
+ Dopamine reuptake via the sodium chloride- dependent DAT, a membrane-spanning protein located in the axon terminals, is the primary mechanism by which striatal dopamine is removed from the synaptic cleft and dopamine neurotransmission regulated and terminated.
+ These findings may help explain the observation of enhanced ventral striatal activity and enhanced dopamine release in PD+ICD patients.
+ In response to conditioned cues or to a gambling task, PD+ICD patients demonstrate increased ventral striatal dopamine release  as measured using [ 11 C]raclopride.
+ Similarly in response to conditioned cues or to unexpected and anticipated rewards, PD+ICD patients demonstrated increased ventral striatal activity.
+ 3 4 9 Our findings suggest that one possible explanation for the enhanced dopaminergic activity is that impaired clearance of dopamine may play a role in extending the physiological effect of dopamine at the synaptic terminal.
+ This finding extends previous observations of lower DAT ventral striatal expression in a smaller sample size of PD and gambling patients.
+ 6 Our findings also suggest that DAT density may be decreased in PD+ICD subjects but this observation may not hold for those with punding behaviours.
+ In the subanalysis, the differences between PD+ICD and PD−ICD remained significant and there were no differences in DAT binding between those with punding/hobbyism and PD−ICD.
+ Punding has been associated with levodopa 10 rather than dopamine agonists and underlying mechanisms may differ from that of ICDs.
+ Although our sample size of subjects with punding/hobbyism (n=5) was too small to draw any conclusions, our preliminary findings are indicative of differences between ICDs and punding.
+ The binding levels of [ 123 I]FP-CIT may reflect either lower DAT levels or greater dopaminergic nerve terminal degeneration.
+ There is no clear clinical evidence for a greater decrease in dopaminergic terminals in PD+ICD patients relative to PD controls.
+ In a large multicenter study, motor severity as measured using UPDRS III or H+Y staging was not different between PD+ICD and PD−ICD controls suggesting similar putaminal dopaminergic nerve terminal density.
+ 1 11 However, the association of PD+ICD with greater levodopa dose 1 sug- gests possibly the necessity for higher levodopa doses to main- tain a similar level of motor functioning.
+ As discussed, several lines of evidence have shown greater ventral striatal dopaminergic release to incentive cues and a gambling task and enhanced ventral striatal activity to reward.
+ 2–4 PD patients with mixed ICDs have also been shown to have a 35% increase in [ 18 F]flur- odopa uptake in the medial orbitofrontal cortex with no differences in striatal uptake compared to PD controls.
+ Together, these findings suggest that rather than the lower binding levels of [ 123 I]FP-CIT reflecting greater dopaminergic nerve terminal degeneration and hence lower dopaminergic activity, this sug- gests that the lower binding levels might either reflect greater sensitivity to medication-related DAT downregulation or baseline trait differences and hence higher dopaminergic activity.
+ Lower DAT levels with similar nerve terminal density suggest that extracellular dopamine neurotransmission can be enhanced in distance from the synaptic cleft and duration of action.
+ There are several reasons why DAT binding may be decreased.
+ In PD+ICD subjects, there may be underlying differences in genetic expression of DAT or alternatively, an inter- action between dopaminergic medications and DAT regulation.
+ For instance, differences in the variable number tandem repeat at the 3 0 end of the gene for DAT, DAT1, can affect basal transporter expression.
+ However, in a small study, no differences in DAT1 polymorphisms were noted between PD+ICD (n=41) and PD controls.
+ 12 Alternatively, multiple substances of abuse, such as methamphetamine, cocaine and alcohol, can differentially affect the regulation of DAT.
+ For instance, methamphetamine is associated with decreased DAT density as measured using PET imaging and DAT ligands.
+ 13 14 This decrease in DAT density has been shown in early abstinence (<6 months) with some degree of recovery after prolonged abstinence (12–16 months).
+ 15 However, given that cognitive deficits persist following prolonged abstinence from methamphetamine, the partial recovery was not suggested to be functionally sufficient.
+ 15 Similarly, alcohol-dependent subjects in early abstinence during detoxification and withdrawal have lower DAT levels as measured using [ 123 I]FP-CIT SPECT, which normalises at 4 weeks of abstinence.
+ 16 In contrast, cocaine, which acts directly to inhibit DAT, increases DAT in early abstinence as measured using [ 99m Tc]TRODAT and [ 123 I]FP-CIT SPECT 17–19 consistent with findings in postmortem studies.
+ This observation may also play a mechanistic role in the behavioural responses observed in PD+ICD subjects.
+ For instance, in cocaine depend- ence, which acts through DAT inhibition with subsequent increases in dopamine levels, the degree of DAT occupancy is associated with the subjective experience of a ‘high’.
+ 20 In contrast to the effects of substances of abuse, the effects of levodopa or dopamine agonists on DAT regulation in PD are less pronounced.
+ Short-term 6-week administration of either levodopa (−16% to −22%) or pramipexole (−15% to −20%) in early PD has been shown to modestly downregulate DAT compared to placebo (−12%) as measured using [ 11 C]RTI-32 PET imaging.
+ 21 In contrast, short-term 6-week pergolide co-administration with levodopa for dyskinesia in PD patients was associated with a trend towards DAT upregulation (8%) as measured using [ 123 I]FP-CIT SPECT.
+ 22 The trend normalised following a 4-week pergolide washout.
+ Short-term 6-week treatment with levodopa did not demonstrate any differences in DAT binding in early PD as measured using [ 123 I]FP-CIT SPECT.
+ 23 Thus, DAT regulation by levodopa or dopamine agonists, if any, appears to be modest and its effect might be dependent on its use in early versus late PD or as monotherapy versus co-therapy.
+ Although any regulation of DAT by antiparkinsonian medications appears to be modest, PD+ICD patients may be differentially sensitive to regulatory mechanisms of DAT expression (eg, D2 autoreceptor, TAAR1, protein kinase A and C, reviewed in ref.
+ 24) compared to PD controls.
+ A mechanism implicating DAT downregulation would also suggest that symptom improvement following discontinuation of the dopamine agonist would have a delayed timecourse.
+ This may also play a role in the observation of enhanced dopamine withdrawal symptoms observed following dopamine agonist discontinuation in PD patients with ICDs.
+ 25 Although we focus here on DAT levels and the role of impaired clearance from the synaptic cleft, other dopamine regulatory mechanisms may also be implicated in the observation of enhanced dopaminergic activity in PD+ICD patients.
+ 26 Although acute dopamine agonist ( pramipexole) administration in rodents has been shown to decrease the proportion of spontaneously firing dopaminergic neurons, chronic dopamine agonists normalise this proportion of firing neurons mediated via D2/D3 autoreceptor downregulation.
+ 27 Furthermore, chronic levodopa administration in a Parkinsonian rodent model has been shown to increase the proportion of spontaneously firing dopaminergic neurons, secondary to D2/D3 autoreceptor downregulation.
+ 28 These spontaneously firing dopaminergic neurons are the neurons that are capable of phasic activity in response to a stimulus (eg, the unconditioned rewarding stimulus, conditioned stimulus, a gambling task).
+ 29 Thus, increasing the proportion of spontaneously firing neurons effectively increases the gain and proportion of dopamine neurons capable of phasically responding to a stimulus.
+ Preliminary evidence exists that PD patients with ICDs have decreased sensitivity of the D2/D3 autoreceptor in the midbrain as measured using [ 11 C]FLB-457 PET.
+ 30 In this study, PD controls on dopamine agonists demonstrated decreased D2/D3 midbrain autoreceptor binding to a gamble task as compared to a control task, consistent with the feedback regulation of endogenous dopamine released in the gamble task.
+ In contrast, PD patients with ICDs on dopamine agonists failed to demonstrate a difference suggesting decreased sensitivity of the D2/D3 autoreceptor.
+ Thus, the enhanced dopamine levels observed in PD+ICD may be related to impaired regulatory feedback.
+ In the striatum, DAT is localised to the plasma membranes of axon varicosities and terminals that contain synaptic vesicles, thus supporting its role in regulating and terminating extracellular dopamine activity occurring via synaptic vesicular release.
+ 31 DAT is also localised to non-synaptic region which may play a role in regulation of extracellular dopamine associated with volume transmission in which dopamine may diffuse to act functionally across long ranges.
+ 32 DAT localisation in a non-synaptic region may also play a role in regulating dopamine activity associated with reverse transport of dopamine through the plasma membrane, a mechanism implicated in the actions of amphetamine.
+ 33 34 β-CIT is likely measuring plasmalemmal rather than intracellular DAT.
+ In primates, β-CIT is dramatically reduced following amphetamine.
+ Since amphetamine is a substrate of DAT, the observed reduced binding is likely reflecting DAT internalisation suggesting that β-CIT does not bind significantly to internalised DAT or that internalised DAT has lower binding affinity to β-CIT.
+ 35 This study is limited by the small sample size and mixed ICDs.
+ Larger studies specifically focusing on punding behaviours may be indicated to differentiate underlying mechanisms from ICDs.
+ As the study is cross sectional, we cannot determine whether the decreased DAT is secondary to the dopaminergic medication or is a predisposing risk factor.
+ Further research focusing on subtype differences or longitudinal studies is indicated.
+ Assessing the relative contribution of sensitivity of the D2 autoreceptor and DAT levels to the enhanced release of dopamine would also be indicated.
+ We show that PD+ICD subjects have lower DAT binding compared to PD−ICD subjects.
+ An effect on DAT regulation is consistent with observations in substance use disorders.
+ Decreased reuptake may account for some of the enhancement in dopamine activity beyond that of dopamine release and may also contribute to the behavioural effects.
+Figure 1 [ 123 I]FP-CIT single photon emission computed tomography (SPECT) binding values. PD, Parkinson’s disease; ICD, impulse control disorders; R, right; L, left.
+          
+        
+Contributors VV, AR and KRC were responsible for the conception and design, or analysis and interpretation of data, drafting the article and revising it critically for important intellectual content and final approval of the version to be published.
+ RC, NM, SR NAH, NH and GV were responsible for analysis and interpretation of data, revising it critically for important intellectual content and final approval of the version to be published.
+ Funding This paper presents independent research funded by the National Institute for Health Research (NIHR) Mental Health Biomedical Research Centre and Dementia Unit at South London and Maudsley NHS Foundation Trust and King's College
+London.
+ The views expressed are those of the authors and not necessarily those of the NHS, the NIHR or the Department of Health.
+ Wellcome Trust grant number WT093705MA.
+ Competing interests KRC is a consultant for Mundipharma, UCB Pharma, Medtronic, Boehringer Ingleheim, Britannia and Abbott.
+ He has received research support from UCB Pharma, Boehringer Ingleheim and Abbott.
+ He has received honoraria from Mundipharma, UCB Pharma, Medtronic, Boehringer Ingleheim, Britannia, Abbott, Teva, Otsuka.
+ VV, AR, RC, NM, SR, NAH, NH and VG do not have any conflict of interests to declare.
+ Ethics approval Local Research Ethics Committee (adopted by NIHR).
+ Provenance and peer review Not commissioned; externally peer reviewed.
+ Open Access This is an Open Access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY-NC 3.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially, and license their derivative works on different terms, provided the original work is properly cited and the use is non-commercial.

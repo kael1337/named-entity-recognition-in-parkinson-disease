@@ -1,0 +1,155 @@
+﻿Cerebral Blood Flow Reduction Associated with Orientation for Time in Amnesic Mild Cognitive Impairment and Alzheimer Disease Patients
+ABSTRACT
+Impairment of orientation for time (OT) is a characteristic symptom of Alzheimer disease (AD).
+ However, the brain regions underlying OT remain to be elucidated.
+ Using single photon emission computed tomography (SPECT), we examined the brain regions exhibiting hypoperfusion that were associated with OT.
+We compared regional cerebral blood flow (rCBF) differences between AD and amnesic mild cognitive impairment (aMCI) or normal subjects using 3-dimensional stereotactic surface projection (3D-SSP) analysis.
+ AD patients were divided into OT good and poor groups according to their mean OT scores, and rCBF then compared between the groups to elucidate OT-specific brain areas.
+3D-SSP analysis showed reduced rCBF in the left superior parietal lobule (SPL) and bilateral inferior parietal lobule (IPL) in AD patients.
+ In the poor OT group, 3D-SSP analysis revealed hypoperfusion in the bilateral SPL, IPL, posterior cingulated cortex (PCC), and precuneus.
+ Among these areas, region of interest analysis revealed a significant higher number of hypoperfused pixels in the left PCC in the OT poor AD group.
+Our SPECT study suggested that hypoperfusion in the left SPL and bilateral IPL was AD specific, and reduced rCBF in the left PCC was specifically associated with OT.
+Patients Twenty-two AD (8 males, 14 females; mean age 76.9 ± 10.4 years) and 21 aMCI (6 males, 15 females; mean age 76.3 ± 6.2 years) patients who visited from 2009 to 2012 at Department of Neurology, Fukuoka Sanno Hospital were enrolled in this study.
+ Ten age-matched normal controls (7 males, 3 females; mean age 75.1 ± 5.7 years) were also examined.
+ Diagnosis of aMCI and AD was made by two neu- rologists based on the Petersen criteria 13 and the National Institute of Neurological and Communicative Disorders and Stroke/The Alzheimer’s Disease and Related Disorders Asso- ciation (NINCDS-ADRDA) criteria, 14 respectively.
+ Brain mag- netic resonance imaging (MRI) of all subjects showed no ab- normalities, including lacuna infarcts, except for brain atrophy.
+ AD patients who had infarcts were not registered as AD with cerebrovascular disease from the beginning of the study.
+ Sub- jects had no past neurological disorders and were taking no psychological medication including acetylcholine esterase in- hibiters or memantine.
+ MMSE 15 was performed in all subjects, and its subscore of the OT scale (0-5) was used for later analysis.
+ AD, aMCI, and normal subjects were divided into the OT good group and OT poor group according to the mean OT scores.
+ The OT good group consisted of subjects with an OT score higher than the mean score, while the OT poor group consisted of subjects with a score lower than the mean in each disease group.
+ The MMSE and OT scores were evaluated with a Mann-Whitney U test to compare the significance of differences between AD patients and aMCI patients or normal controls.
+ Written informed consent was obtained from all subjects.  SPECT Imaging All subjects were injected with 222 MBq of N-isopropyl-p-[ 123 I] iodoamphetamine (IMP) intravenously.
+ SPECT image scan- ning was performed using a triple-head rotating gamma camera (Infinia Hawkeye4, GE Healthcare, Tokyo, Japan) with a fan- beam collimator (3.8 mm full width at half-maximum).
+ Contin- uous image acquisitions were collected (1.5 minutes/cycle), with a total acquisition time of 36 minutes.
+ The scanned images were reconstructed using a Butterworth filter (.
+45 cycle/cm) with a 64 × 64 image matrix and a slices thickness of 4.42 mm.
+ 3D-SSP Analysis From each subject, 3D-SSP images that represent the distri- bution of the rCBF calculated in each pixel as a Z-score map were collected using the iSSP35 of the Neurological Statisti- cal Image Analysis Software (NUROSTAT).
+ 16 Pixel-by-pixel two-sample t-test was made using iSSP 2tZ as part of the NEU- ROSTAT software for comparing brain perfusion between the two groups.
+ First, we made a subtraction map of the disease differences (Normal vs. aMCI, Normal vs. AD, and aMCI vs. AD) and OT score differences (good group vs. poor group in AD patients) to identify disease- or OT-specific regions.
+ Next, we performed a region of interest (ROI) analysis to investigate the pixel number of the hypoperfusion area detected in the contrast of the diseases or OT score differences.
+ This ROI analysis was performed in each subject using the SEE method, 17 which was
+Demographic Features of the Normal Controls and aMCI and AD Patients Normal aMCI AD Number 10 21 22 M:F 7:3 6:15 8:14 Age 75.1 ± 5.7 76.3 ± 6.2 76.9 ± 10.4 MMSE 28.4 ± 2.1 26.3 ± 2.5 19.8 ± 2.9 Orientation for time 4.8 ± .
+6 4.2 ± 1.3 2.2 ± 1.6 Data are shown as mean ± SD.
+ OT Scores of the Normal Controls, aMCI, and AD Patients (number in the parenthesis indicates the number of subjects) Normal aMCI AD
+Data are shown as mean ± SD.
+able to calculate the pixel number that exceed a threshold of Z > 1.96 (P .
+05) compared with the normal database pro- vided with this software.
+ The mean number of pixels in each disease subgroup was statistically analyzed using the Kruskal- Wallis test with the post hoc Steel-Dwass test.
+ To determine the relationship between OT specific brain areas, Hirono et al compared the OT score and rCBF of AD patients.
+ 12 Furthermore, the OT score was significantly correlated with Free and Cued Selective Reminding Test (FCSRT), 18 a valid test of episodic memory impairment of AD.
+ As such, we performed ROI analysis of areas of hypoperfusion in the contrast of the OT poor group versus the OT good group in AD patients only (in order to exclude confounding factors of disease differences).
+ We then compared the number of pixels that exceeded a threshold of Z > 1.96 between the OT good and OT poor groups using Mann-Whitney U test in order to identify OT specific brain areas.
+ Data are presented as mean ± SD.
+The MMSE/OT scores of the AD, aMCI, and normal subjects were 19.8 ± 2.9/2.2 ± 1.6, 26.3 ± 2.5/4.2 ± 1.3, and 28.4 ± 2.1/4.8 ± .
+6, respectively.
+ Compared with the normal controls, the AD patients had significantly lower MMSE (P < .
+01) and OT (P < .
+01) scores.
+ The aMCI patients also showed significantly decreased MMSE (P < .
+05), but not OT (P = .
+10), scores compared with normal controls.
+ AD patients had a significant reduction in MMSE (P < .
+01) and OT (P < .
+01) compared with aMCI patients (Table 1).
+ The mean OT good group and OT poor group scores of the AD, aMCI, and normal subjects were 3.7 ± .
+8/.
+9 ±.
+8, 5.0 ± .
+0/3.2 ± 1.4, and 5.0 ± .
+0/3.0 (Table 2).
+ The medial and lateral view of the 3D-SSP Z score map indicating hypoperfusion areas in AD patients compared with aMCI or normal controls is shown in Figure 1.
+ The aMCI patients showed a small decrease in rCBF in the bilateral parietal lobe and PCC compared with the normal controls (Fig 1A).
+ Severe rCBF reduction was seen in the bilateral temporopari- etal region, precuneus, and PCC in AD patients compared with aMCI and normal controls (Fig 1B and C).
+ Although these medial and lateral parietal regions are well-established AD
+
+            Fig 1. 3D-SSP Z-score map of (A) aMCI versus normal controls, (B)
+          
+AD patients versus aMCI patients, and (C) AD patients versus normal controls.
+ The color bar indicates the Z score of 0-4.5.
+ RT.
+LAT = right lateral; LT.
+LAT = left lateral; RT.
+MED = right medial; LT.
+MED = left medial.
+-specific hypoperfusion areas, it is unknown whether AD patients exhibited reduced rCBF in ROI analysis using the SEE method.
+ Therefore, we defined the ROIs in the bilateral SPL, IPL, precuneus, and PCC that showed severe hypoperfusion in AD patients compared with aMCI or normal controls.
+ Kruskal- Wallis test indicated significant group differences in the bilateral SPL (P < .
+01), bilateral IPL (P < .
+01), and left PCC (P < .
+01) ROIs.
+ The AD group possessed more pixels that represented hypoperfusion compared with the aMCI or normal controls in the posthoc Steel-Dwass test of the ROIs of the lateral parietal lobe, including the left SPL and bilateral IPL (Fig 2A and B).
+ Post hoc analysis revealed no significant difference in the number of pixels between aMCI and AD patients in the ROIs of the right SPL and left PCC, despite the group differences.
+ Other medial parietal ROIs including the right PCC and bilateral precuneus showed no difference between the disease subgroups (Fig 2C and D).
+ Although hypoperfusion in the lateral and medial part of the parietal lobe was common in AD patients, this result suggested that reduced rCBF in the lateral parietal lobe, including the left SPL and bilateral IPL, was specific for AD.
+ The Z-score map using 3D-SSP showed hypoperfusion in the bilateral lateral and medial parietal lobe in the poor OT group compared with the good OT group in AD patients.
+ In particular, the bilateral precuneus and PCC, which belong to the medial parietal lobe, exhibited severe hypoperfusion compared with the lateral part (SPL and IPL) of the parietal lobe (Fig 3).
+ In the ROI analysis of these areas (bilateral SPL, IPL, precuneus, and PCC) in the AD patients, the OT poor group had more pixels that exceeded the threshold of hypoperfusion when compared with the OT good group in the left PCC only (Fig 4).
+ Overall, these data suggest that hypoperfusion in the left PCC was associated with poor performance of OT.
+In this study, we found that AD patients exhibited a worse OT score than aMCI patients or normal controls, suggesting that OT score may be useful for diagnosis of AD.
+ 3D-SSP analysis revealed apparent hypoperfusion in the medial and lateral pari-
+
+            Fig 2. Bar graph indicates the pixel number that exceeds Z >
+          
+1.96 in each ROI.
+ End stopped lines in the graph bars show the standard error.
+ Analysis was performed using Kruskal-Wallis one- way analysis of variance by ranks with post hoc Steel-Dwass test. *P < .
+05, **P < .
+01.
+etal lobe in AD patients compared with aMCI or normal controls.
+ Although hypoperfusion in these brain areas was prominent in other kinds of neuroimaging studies, 11,19 ROI analysis using SEE showed that hypoperfusion in the lateral parietal lobe, especially in the left SPL and bilateral IPL, was more specific to AD.
+ Although reduced rCBF in the medial and lateral parietal lobe was also associated with impairment of OT performance in AD patients, ROI analysis using SEE revealed significant OT-associated hypoperfusion in the left PCC only.
+ The decline of total MMSE score from aMCI to AD was reported to be associated with hypoperfusion in the frontal,
+
+            Fig 3. 3D-SSP Z-score map of orientation for the time (OT) poor
+          
+group versus good group in AD patients.
+ The color bar indicates the Z score of 0-4.5.
+
+            Fig 4. Pixel number that exceeds Z > 1.96 of both OT good and
+          
+OT poor AD patients in each ROI.
+ End stopped lines in the graph bars show the standard error.
+ Analysis was performed using Mann- Whitney U test. *P < .
+05.
+temporal, and parietal lobes.
+ 11 For MMSE, OP, and OT were the most characteristic symptoms of AD, and were used to es- timate disease progression and severity.
+ 20 Although Guerrero- Berroa et al 21 reported that OP score was not correlated with total MMSE score, we found gradual deterioration of the OT score from aMCI to AD, as for MMSE.
+ Various animal exper- iments and neuroimaging studies have reported a hippocampal association with OP.
+ 22,23 Furthermore, the density of the neurofibrillary tangles in the hippocampus of AD patients was related to the severity of spatial disorientation.
+ 24 Nevertheless, despite evidence of a correlation between OP decline and hippocampal pathology, the brain region correlated with OT remains controversial.
+ The aMCI patients showed poor performance of OT and hypoperfusion in the lateral and medial parietal lobe compared to normal subjects, suggesting a potential for differentiating aMCI from normal subjects.
+ Moreover, many previous neuroimaging studies have suggested evidence of lateral and medial parietal lobe hypoperfusion in AD.
+ 25 In the present study, although comparisons of AD versus normal controls and AD versus the aMCI group elucidated a similar pattern of hypoperfusion, AD patients showed significant severe hypoperfusion in the lateral parietal lobe, including the left SPL and bilateral IPL.
+ One SPECT study reported that aMCI patients who converted to AD showed significant hypoperfusion only in the bilateral lateral parietal lobe.
+ 26 Therefore, we suggest that hypoperfusion in the lateral parietal lobe may be more specific for AD diagnosis than in the medial part of the parietal lobe.
+ On the other hand, the left PCC, which belongs to the medial part of the parietal lobe, showed significant hypoperfusion associated with deterioration of the OT score.
+ In a PET study, Hirono et al 12 reported that AD patients showed hypometabolism in the bilateral PCC associated with OT, which is consistent with our data.
+ Furthermore, the left SPL and bilateral IPL showed differences in the pixel number between AD and aMCI patients, unlike the left PCC.
+ Thus, we suggest that hypoperfusion in the lateral parietal lobe may be associated with AD pathology.
+ It is well established that OP disturbance can be caused by lesions in the parahippocampal gyrus, a structure containing neurons specific for spatial orientation (place cells).
+ 22,27 In a PET study, PCC was tightly connected with the parahippocampal gyrus, and there was an association of hypometabolism in the bilateral PCC with deterioration of OP.
+ 12 Although few studies have investigated the brain areas associated with OT, there is some evidence of OT impairment following multiple infarcts in the limbic system, especially in the thalamus.
+ 28,29 Left- sided thalamic lesions cause more prominent OT disturbance as well as verbal and visual memory impairment, 28 and this laterality was compatible with the hypoperfusion in left PCC of our data.
+ Moreover, a previous PET study found a significant correlation between hypometabolism in the left PCC and deterioration of OT.
+ 12 The anterior thalamus projects fibers to the PCC, 30 and both areas belong to the Papez circuit.
+ 31 Therefore, lesions in these areas may destroy the common network related to OT.
+ Although this SPECT study has some limitations like a small sample size and the nondirect investigation of hypometabolism  associated with OT or AD (unlike PET methods), AD specific hypoperfusion in the left SPL and bilateral IPL may contribute to the early diagnosis of AD.
+ Moreover, OT associated hypoperfusion in the left PCC of AD patients may become an appropriate indicator of medication or rehabilitation, such as for reality orientation.
+ In summary, in the present SPECT study, SEE analysis revealed that hypoperfusion in the lateral parietal lobe was more specific for AD than the medial part of the parietal lobe.
+ We also found an association between OT and the medial parietal lobe, especially the left PCC.
+ Our data suggest that hypoperfusion areas in AD patients may represent both disease specific regions and region associated with OT.
+This work was supported in part by a Grant-in-Aid for Scientific Research (C) to KY from the Japan Society for the Promotion of Science (JSPS), Japan.
+Alzheimer disease (AD) is the most frequent neurodegenerative disease exhibiting dementia.
+ Numerous cognitive dysfunctions have been reported in the course of AD progression, 1 including memory disturbance 2 and impairments of orientation for time (OT) and orientation for place (OP).
+ 3 Impairment of OT was reported in early stage AD patients, 4 although it remains unclear whether deterioration of OT parallels AD progression.
+ Furthermore, some amnesic mild cognitive impairment (aMCI) patients exhibit gradual worsening of their cognitive function and then conversion to AD, 5 although deterioration of OT in aMCI patients remains unclear.
+ Clinical and animal studies suggest that lesions in the medial temporal lobe (MTL), including the hippocampus and parietal lobe, can cause memory impairment in AD patients.
+ 6,7 Although dysfunction of OP was also related to brain atrophy in the MTL, 8 the brain region associated with OT deterioration remains controversial.
+ Using functional neuroimaging techniques such as single photon emission computed to-  mography (SPECT), AD patients were reported to exhibit hypoperfusion in the temporal lobe, medial (posterior cingulated cortex [PCC] and precuneus), and lateral part (superior parietal lobule [SPL] and inferior parietal lobule [IPL]) of the parietal lobe, 9,10 areas of β-amyloid deposition.
+ According to disease severity estimated by Mini Mental State Examina- tion (MMSE), these hypoperfusion areas are associated with worsening of AD.
+ 11 Although a positron emission tomography (PET) study in AD patients reported an association between hypometabolism in the bilateral posterior cingulated cortex (PCC) and dysfunction OP and OT, 12 it is unknown whether OT-associated hypoperfusion in these area parallels disease progression.
+ In this study, we performed 3-dimensional stereotactic surface projection (3D-SSP) analysis of SPECT imaging data and Stereotactic Extraction Estimation (SEE) analysis to determine and quantify AD-specific hypoperfusion areas, and examined the regional cerebral blood flow (rCBF) decline associated with OT.
+Keywords: Alzheimer disease, mild cognitive impairment, orientation for time, single photon emission computed tomography (SPECT), posterior cingulate cortex.
+ Acceptance: Received April 10, 2013, and in revised form September 22, 2013.
+ 

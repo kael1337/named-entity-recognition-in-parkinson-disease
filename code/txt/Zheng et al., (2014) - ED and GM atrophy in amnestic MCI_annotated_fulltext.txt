@@ -1,0 +1,551 @@
+﻿Executive dysfunction and gray matter atrophy in amnestic mild cognitive impairment
+Dongming Zheng a , Hongzan Sun b , Xiaoyu Dong a , Baiwei Liu a , Yongchuan Xu a , Sipan Chen b , Lichun Song a , Hong Zhang a , Xiaoming Wang b, * a Department of Neurology, Shengjing Hospital of China Medical University, Shenyang, China b Department of Radiology, Shengjing Hospital of China Medical University, Shenyang, China a r t i c l e i n f o a b s t r a c t Article history: Recent studies have shown that impairment in executive function (EF) is common in patients with Received 23 March 2013 amnestic mild cognitive impairment (aMCI).
+ However, the neuroanatomic basis of executive impairment Received in revised form 26 August 2013 in patients with aMCI remains unclear.
+ In this study, multiple regression voxel-based morphometry Accepted 6 September 2013 analyses were used to examine the relationship between regional gray matter volumes and EF perfor- Available online 9 October 2013 mance in 50 patients with aMCI and 48 healthy age-matched controls.
+ The core EF components (response inhibition, working memory and task switching, based on the EF model of Miyake et al) were Keywords: accessed with computerized tasks.
+ Atrophic brain areas related to decreases in the three EF components Mild cognitive impairment in patients with aMCI were located in the frontal and temporal cortices.
+ Within the frontal cortex, the Executive function Magnetic resonance imaging brain region related to response inhibition was identified in the right inferior frontal gyrus.
+ Brain regions Inhibition related to working memory were located in the left anterior cingulate gyrus, left premotor cortex, and Working memory right inferior frontal gyrus, and brain regions related to task shifting were distributed in the bilateral frontal cortex.
+ Atrophy in the right inferior frontal gyrus was most closely associated with a decrease in all three EF components in patients with aMCI.
+ Our data, from the perspective of brain morphology, contribute to a better understanding of the role of these brain areas in the neural network of EF. Ó 2014 The Authors.
+ Published by Elsevier Inc.
+ Open access under CC BY-NC-ND license.
+1. Introduction
+      
+Amnestic mild cognitive impairment (aMCI) is associated with an increased rate of conversion to Alzheimer’s disease (AD) and is generally considered to represent a transitional state between normal aging and AD (Petersen et al., 2001).
+ Although the impairment of memory is regarded as a hallmark of aMCI, recent studies have demonstrated that deficits in executive function (EF) may also be present (Brandt et al., 2009; Johns et al., 2012; Liu-Ambrose et al., 2008; Marshall et al., 2011; Saunders and Summers, 2011; Zheng et al., 2012a).
+ In the study by Johns et al., all patients with aMCI, independent of whether they were of single domain or multiple domain subtype, showed deficits in at least one sub-domain of EF (Johns et al., 2012).
+ Deficits in EF for patients with aMCI are not only
+* Corresponding author at: Department of Radiology, Shengjing Hospital of China Medical University, Sanhao Sreet 36, Shenyang 110004, China.
+ Tel.: þ86 24 96615 73261; fax: þ86 24 23929902.
+ E-mail address: wangxm024@yahoo.com.cn (X. Wang).
+ 0197-4580 Ó 2014 The Authors.
+ Published by Elsevier Inc.
+ Open access under CC BY-NC-ND license. http://dx.doi.org/10.1016/j.neurobiolaging.2013.09.007
+
+      
+a key contributor to the impairment of everyday function ( Marshall et al., 2011) but are also strong predictors of a conversion to AD (Chapman et al., 2011).
+ The neuroanatomic bases of executive dysfunction in patients with aMCI remain unclear.
+ It is well known that the prefrontal cortex (PFC) plays a crucial role in EF (Funahashi, 2001), and there is sub- stantial evidence that different areas of the PFC exert different roles in executive controls (Kesner and Churchwell, 2011; Petrides, 2005).
+ Numerous studies have demonstrated that aMCI-related regional gray matter (GM) atrophy is most significant in the medial temporal lobes (MTLs) and, to a lesser extent, in other brain structures, including the frontal cortex (Barbeau et al., 2008; Dos et al., 2011; Hamalainen et al., 2007a, 2007b; Schmidt-Wilcke et al., 2009; Spulber et al., 2012; Tondelli et al., 2012; Whitwell et al., 2008).
+ We hypothesized that the EF deficits of patients with aMCI would be correlated with the morphological changes in the PFC in patients with aMCI.
+ In addition, deficits of different core EF components might be associated with GM loss in distinct brain areas.
+ To test these hypotheses, we first evaluated the three core EF components (i.e., response inhibition, working memory and task switching) in patients with aMCI and age-matched healthy controls using computerized tasks.
+ Next, high-resolution brain magnetic resonance (MR) scans were performed in all of the participants.
+ Voxel-based morphometric (VBM) analysis was performed to explore the brain regions where atrophy might be associated with the declines of the core EF components in patients with aMCI, which was the main aim of this study.
+ Using multiple regression analyses between performance on cognitive tests and aspects of local morphology, VBM studies in patients with aMCI and AD have shown correlations between the GM volume of MTLs and the pa- tients’ performance in memory (Barbeau et al., 2008; Dos et al., 2011; Leube et al., 2008; Sarazin et al., 2010; Schmidt-Wilcke et al., 2009) and clock drawing tests (CDT) (Thomann et al., 2008).
+ In this study, we performed VBM analyses on EF in patients with aMCI and reveal data that provide a deeper understanding of the neural network of EF from a morphological perspective.
+This study included 50 patients with aMCI and 48 age-matched healthy controls who were recruited from the memory disorders clinic and the health examination center of Shengjing Hospital of China Medical University using advertisements between June 2010 and February 2013.
+ A detailed evaluation, including medical history, physical and neurological examinations, psychiatric and cognitive evaluations, laboratory tests, and brain magnetic resonance imaging (MRI) were performed in the participants.
+ The Mini-Mental State Examination (MMSE) ( Folstein et al., 1975), the Chinese version of the Activities of Daily Living Scale (Lawton and Brody, 1969), the Clinical Dementia Rating scale (CDR) (Hughes et al., 1982), the Montreal Cognitive Assessment (MoCA) (Nasreddine et al., 2005) Beijing version, the Chinese version of Auditory Verbal Learning Test (Guo et al., 2007) and the 30-item Geriatric Depression Scale (Yesavage et al., 1982) were used in the psychiatric and cognitive evaluations.
+ Laboratory follow-ups included in the following: a complete blood count and differential; serum elec- trolyte and glucose measures; liver and renal function tests; thyroid function tests; HIV and syphilis screening; and serum B12 and folate levels.
+ All of the participants metthe following criteria: (1) no history or evidence of psychiatric or neurological disease, cardio- vascular disease, diabetes, thyroid disease, vitamin B12 deficiency, alcoholism, or drug abuse; (2) an educational level of no less than 6 years; (3) right-handedness; and (4) no significant changes in conventional MRI of the brain, such as a cerebral infarct, hydro- cephalus, or leukoaraiosis.
+ In addition, all of the patients with aMCI received CDR scores of 0.5 and met Petersen’s criteria (Petersen, 2004) for amnestic MCI, which included the following: (1) memory complaint by the patient or a reliable informant; (2) objective memory impairment as demonstrated by scores of more than 1.5 SDs below the normative age and education values and; (3) no global cognitive impairment and no significant effect on daily functions.
+ For the normal control participants, further inclusion criteria included a CDR score of 0 and scores within normal ranges on all of the neuropsychological tests.
+ The demographic characteristics and neuropsychological assessments of the patients and control participants are presented in Table 1, including their performances on the 4 EF-related tests in MoCA (Alternating Trail Makingdan analog of the Trail Making Test part B (TMT-B); the Clock Drawing Test (CDT); Abstraction and Verbal fluency) which had shown good discriminating power for EF in normal individuals (Zheng et al., 2012b).
+ The study was approved by the Ethics Committee of the Shengjing Hospital of China Medical University.
+ Written informed consent was obtained from all of the participants.
+ Participant demographics aMCI Controls t or c 2 p (n 1⁄4 50) (n 1⁄4 48) Age, y 69.8 (6.8) 69.2 (5.1) 0.536 0.594 Sex (male/total) 16/50 19/48 0.613 0.528 Education, y 9.8 (3.5) 10.4 (3.2) À0.968 0.335 MMSE 27.9 (1.5) 29.5 (0.7) À6.608 <0.001 ADL 20.2 (0.5) 20.1 (0.3) 1.682 0.099 GDS 6.3 (1.2) 5.5 (1.0) 3.688 <0.001 AVLT Total immediate recall 15.2 (2.6) 18.6 (1.9) À7.037 <0.001 Long delayed recall 3.5 (0.6) 6.7 (1.3) À15.314 <0.001 MoCA total score 21.0 (2.9) 27.2 (1.7) À12.957 <0.001 Executive items of MoCA Alternating Trail Making 0.6 (0.5) 0.9 (0.3) À2.803 0.006 Clock Drawing Test 2.7 (0.5) 2.8 (0.4) À1.567 0.121 Abstraction 1.0 (0.6) 1.1 (0.6) À1.613 0.110 Verbal fluency 0.9 (0.3) 1 (0.1) À1.345 0.183 Data are Mean (standard deviation).
+ Key: ADL, Activitiesy of Daily Living; aMCI, amnestic mild cognitive impairment; AVLT, Auditory Verbal Learning Test; GDS, Geriatric Depression Scale; MMSE, Mini- Mental State Examination; MoCA, Montreal Cognitive Assessment.
+Table 1 Demographic characteristics and neuropsychological assessments of patients with aMCI and normal controls
+          
+Unlike previous studies of EF in patients with aMCI, in which the EF components examined were determined empirically, our study investigated the core EF components based on the model of Miyake et al. Using latent-variable analysis, Miyake et al. verified that although the three basic executive functions were moderately correlated with one another, they were still distinct.
+ Although there is controversy regarding the Miyake model, it has been validated by several studies using different sets of EF tasks in various ages of participants (Hedden and Yoon, 2006; Vaughan and Giovanello, 2010).
+ EF tasks were intentionally selected to be sensitive and specific for the evaluation of a single core EF component: response inhibition was assessed with a stop-signal task, working memory was assessed with a keep track task, and task switching was assessed with a more-odd shifting task.
+ These tasks were programmed with E-prime 2.0 (Psychology Software Tools, Pittsburg, PA).
+ The responses were logged using the buttons or vocal keys of the E-prime serial response box.
+ All of the stimuli in the experimental task were presented in font size 48 on a white background in the middle of a standard 15-inch CRT computer screen, and all of the participants were individually tested in a quiet room.
+ The participants sat at a comfortable distance from the screen (w 60 cm).
+ The order of the task administration was fixed for all of the participants (i.e., stop-signal task, more-odd shifting task and keep track task).
+ All of the participants received one 5-minute practice session for each task before the formal test to become familiar with the requirements of the task.
+ There was a 3-minute rest period between tasks.
+ The entire test lasted for approximately 1 hour.
+This study adopted a version of the stop-signal task used in our previous study ( Zheng et al., 2008).
+ On the Go trial, the participants were instructed to press a button when they saw the “go” signal (a circle).
+ The circle disappeared when the button was pressed or after 1000 millisecond had passed without a response, whichever came first.
+ On the Stop trial, a “stop” signal (a cross) appeared shortly after the “Go” signal.
+ The participants were instructed not to press the button on trials with a “stop” signal.
+ The Stop trial also termi- nated when a button was pressed or when 1000 millisecond had elapsed because the appearance of the “go” signal.
+ In every four trials, one Stop trial and three Go trials were presented in a random order.
+ It was emphasized to the participants that quick responses to “go” signals and withholding responses to “stop” signals were equally important.
+ A staircase-tracking algorithm was used to modify the time interval between the “stop” and “go” signals (stop- signal delay, SSD) according to the responses of the participants.
+ Using this algorithm, approximately 50% of all stop trials could be inhibited by participants, which yielded accurate estimates of stop- signal reaction time (SSRT).
+ The SSRT was the dependent measure in this task.
+ The formal test consisted of 2 blocks of 100 trials each.
+In the more-odd shifting task, adapted from Salthouse et al. (Salthouse et al., 1998), a series of numbers (1e4 and 6e9) were displayed at the center of the screen.
+ Each number appeared for 1000 millisecond.
+ There were 2 conditions in the task: (1) when the number was colored red, the participants were required to say “big” as quickly as possible if the number appearing on the screen was greater than 5 and “small” if the number was less than 5; (2) when the number was colored green, the participants were required to say “odd” or “even” depending on the parity of the number.
+ In the shifting block (S), which consisted of 48 trials, the participants regularly alternated between the 2 conditions, switching from 1 to the other at every 2-trial interval.
+ Thus, the shifting block consisted of 23 switch trials and 25 non-switch trials.
+ The control block (C) consisted of 24 trials of 1 condition and did not require a switch (all of the trials were non-switch trials).
+ The reaction times (RTs) were measured using a vocal key, and a tape recorder was used to record the answers.
+ The participants were required to finish 2 shifting blocks and 4 control blocks (2 blocks of each condition) in the order of CCSSCC.
+ The switch cost (Shift) was the difference between the average RTs of the switch trials in the shifting blocks and the average RTs of the non-switch trials in the control blocks.
+The keep track task was adapted from Miyake et al. (Miyake et al., 2000).
+ In each trial of the keep track task, the participants were first shown 3 target categories at the bottom of the computer screen.
+ A list of 2-character Chinese words from 4 possible categories (i.e., animals, countries, plants and relatives) was serially presented in a random order for 1500 milliseconds each, and the target categories remained at the bottom of the screen.
+ The task was to remember the last word presented in each of the target categories and then to write down these words at the end of the trial.
+ Three trials, consisting of 8, 12 or 16 words, were presented twice in a random order.
+ One point was awarded for each correctly recalled word, and the total possible score was 18.
+ The total score (K) was the dependent measure.
+MRI scans were obtained using a Philips Intera Achieva 3.0 Tesla scanner with an 8-channel brain phased array coil.
+ The high- resolution T1-weighted images were acquired using a 3D TFE (turbo field echo) sequence with the following parameters: TR/TE/ flip 1⁄4 9.5 ms/4.6 ms/20; acquisition matrix 1⁄4 256 Â 256 mm 2 ; field of view 1⁄4 220 mm; slice thickness 1⁄4 1.2 mm (182 horizontal slices).  Image processing was performed using SPM8 (Wellcome Trust Centre for Neuroimaging, London, http://www.fil.ion.ucl.ac.uk/ spm) running on Matlab 7.5.0 (Mathworks, Natick, MA).
+ Each in- dividual’s structural image was first coregistered to an ICBM152- space (i.e., Montreal Neurological Institute [MNI] space) average template distributed with SPM8 using normalized mutual information.
+ Structural images were then segmented into tissue classes using the “new segment” option of SPM8.
+ By increasing the number of tissue classes and using less age-biased templates, the “new segment” provided a more accurate segmentation of brain tissue compared with the previous unified segmentation method of SPM5 (Peelle et al., 2012).
+ Next, the DARTEL toolbox was used to derive a set of group specific templates following a method described in the SPM8 manual in its standard version.
+ The flow fields described the transformation from each native GM image to the template, which were then applied to each participant’s GM image.
+ To transform these template-space images into the MNI space, the DARTEL template was registered to the tissue probability maps using an affine transformation, and this transformation was then incorpo- rated into the warping process.
+ After warping, the segmented images were modulated using the Jacobian determinants derived from the spatial normalization.
+ These normalized and modulated images were then smoothed with an 8 mm full-width at half-maximum smoothing kernel for final statistical analyses.
+ SPSS for Windows version 11 (SPSS Inc, Chicago, IL) was used for statistical analysis; p-values less than 0.05 were considered significant.
+ To compare the demographic and clinical characteristics of the 2 groups, t tests and c 2 tests were used.
+ We performed a multivariate analysis of variance (MANOVA) on the 3 dependent measures to compare the overall executive function between the patients with aMCI and control participants.
+ If the MANOVA demonstrated a significant group effect, then post hoc analyses using analysis of variance (ANOVA) were conducted to examine the between-group differences on the individual EF measures.
+ The critical a -level was adjusted to 0.01 with Bonferroni correction in the post hoc comparisons.
+ Stepwise multivariate regression analyses were performed between the MoCA scores (as an index of disease severity) and the 3 EF measures in the aMCI group to test the independence of the three EF measures.
+ In VBM, regional GM differences between the 2 groups were first assessed using a 2-sample t test implemented in the general linear model approach of SPM8.
+ Statistical threshold for this analysis was set at p < 0.05 family-wise error (FWE) corrected for multiple comparisons and a spatial extension of 10 voxels.
+ All subsequent multiple regression analyses were limited to these areas of significant gray matter volume reduction.
+ Within these atrophic brain areas, we performed 4 regression analyses in the aMCI group to identify brain regions that were associated with impaired performances on measures of EF tasks (1 for each EF component and 1 for all of the 3 EF components). z-Sscores were used to determine the extent of the deficient EF performances of patients with aMCI in these regression analyses, which were obtained by subtracting the expected EF value from the observed EF measures in patients with aMCI.
+ The expected value of the EF measures was calculated using formulas obtained by polynomial regressions between the measures of the EF tasks and age in the control group.
+ Changes in these EF measures induced by aging may also be eliminated using this conversion, whereby the subsequent VBM analyses consist only of changes associated with the disease state.
+ The statistical threshold was also set at p < 0.05 FWE (family-wise error) corrected and a spatial extension of 10 voxels.
+ A less stringent threshold of p < 0.001 (uncorrected) was used if these analyses did not reveal any significant brain regions.
+ The atrophy of these regions was associated with the extent of EF decline in patients with aMCI.
+ In these VBM analyses, age, educational level and total intracranial volume (TIV) were included as covariates of no interest to avoid false- positive findings caused by potential confounding factors that are EF measure aMCI Controls F p K 8.9 (2.6) 12.1 (2.7) 36.198 <0.001 Shift 347.2 (86.9) 234.9 (87.9) 40.321 <0.001 SSRT 301.1 (33.2) 269.8 (34.5) 20.888 <0.001 Key: aMCI, amnestic mild cognitive impairment; EF, executive function; SSRT, stop- signal reaction time.
+ known to affect brain morphology.
+ The TIV was calculated using SPM8 from the unsmoothed, modulated gray matter, white matter, and cerebrospinal fluid images obtained from each patient.
+ Because brain atrophy is more prominent in the temporal lobes of patients with aMCI and because EF decreases as the disease progresses, there is a possibility that the temporal lobe volume may be quan- titatively correlated with the EF measures, which does not indicate a necessary connection between the temporal lobe and EF.
+ To control for this potential indirect correlation, we added a measure of episodic memory (the long delayed recall of the AVLT score), which was directly related to the volume of the temporal lobes, as a covariate in the multiple regression analysis of VBM.
+ The data were displayed using the xjView tool box (http://www.alivelearn.net/ xjview).
+2.4.
+ Voxel-based morphometry
+2.5.
+ Statistical analysis
+Table 2 Mean (and standard deviation) scores and group differences in EF measures between the patients with aMCI and controls
+          
+The demographic and clinical characteristics of patients with aMCI and controls are presented in Table 1.
+ There were no significant differences in age, sex, or educational level between the patients and controls.
+ In the clinical neuropsychological assessments, t tests showed that the 2 groups significantly differed on measures of Mini-Mental State Examination, Geriatric Depression Scale, AVLT (including the total immediate recall and long delayed recall), and MoCA, which all favored the control group (Table 1).
+ The Activities of Daily Living Scale scores did not differ between the 2 groups (t 1⁄4 1.682, p 1⁄4 0.099).
+ With regard to the 4 EF items of MoCA, the aMCI group showed lower scores than the control group on all these items, but only the difference of the Alternating Trail Making Test between the 2 groups reached statistical significance (t 1⁄4 À2.803, p 1⁄4 0.006).
+ The overall MANOVA on all of the task measures was significant (Wilks’ l 1⁄40.579, F 1⁄4 22.774, p 1⁄4 0.001).
+ Follow-up analysis of variance analyses revealed that the patients with aMCI exhibited a poorer performance on the 3 EF tasks compared with the controls (Table 2).
+ Stepwise multiple regression analysis was performed in the aMCI group and revealed that all 3 EF measures were independently correlated with the MoCA scores (Table 3).
+3.2.
+ Performance on EF tasks
+Table 3 Correlations between EF task measures and MoCA scores using stepwise multivariate linear regression analysis in patients with aMCI
+            
+              
+                
+                  
+                     Model
+                     B
+                     SE
+                     b
+                     t
+                     p
+                     R 2
+                  
+                
+                
+                  
+                     Constant
+                     32.511
+                     2.492
+                     38.741
+                     13.047
+                     <0.001
+                     0.77
+                  
+                  
+                     Shift
+                     À0.009
+                     0.004
+                     À0.267
+                     À2.190
+                     0.034
+                    
+                  
+                  
+                     SSRT
+                     À0.039
+                     0.01
+                     À0.439
+                     À4.057
+                     <0.001
+                    
+                  
+                  
+                     K
+                     0.363
+                     0.097
+                     0.328
+                     3.747
+                     <0.001
+                    
+                  
+                  
+                     Key: aMCI,
+                     amnestic mild
+                     cognitive
+                     impairment;
+                     B, non-standardized
+                     coefficients;
+                     coefficients; coefficients;
+                  
+                  
+                     , standardized
+                     coefficients;
+                     EF,
+                     executive
+                     function; MoCA,
+                     Montreal
+                     Cognitive
+                  
+                  
+                     Assessment;
+                     SE, standard
+                     error of
+                     non-standardized non-standardized
+                     coefficients;
+                     SSRT,
+                     stop-signal stop-signal
+                  
+                  
+                     reaction time.
+                    
+                    
+                    
+                    
+                    
+                    
+                  
+                
+              
+            
+            Model B SE b t p R 2 Constant 32.511 2.492 38.741 13.047 <0.001 0.77 Shift À0.009 0.004 À0.267 À2.190 0.034 SSRT À0.039 0.01 À0.439 À4.057 <0.001 K 0.363 0.097 0.328 3.747 <0.001 Key: aMCI, amnestic mild cognitive impairment; B, non-standardized coefficients; b , standardized coefficients; EF, executive function; MoCA, Montreal Cognitive Assessment; SE, standard error of non-standardized coefficients; SSRT, stop-signal reaction time.
+          
+Compared with the controls, the aMCI group showed a significant volume loss in the bilateral medial and lateral temporal regions, including the parahippocampal gyrus, hippocampus, amygdala, fusiform gyrus, superior, middle, and inferior temporal gyri (Fig. 1).
+ The frontal, parietal, and occipital lobes were also involved, but to a lesser extent.
+ No regions of increased GM values in the aMCI group compared with the control group were observed.
+Aging showed a significant effect on EF tasks.
+ In the control group, a linear model fitted the keep track task (K 1⁄4 À0.151 Â age þ 22.544, F 1⁄4 4.178, p 1⁄4 0.047), the more-odd shifting task (Shift 1⁄4 8.22 Â age À 333.76, F 1⁄4 13.407, p 1⁄4 0.001) and the stop-signal task (SSRT 1⁄4 3.729 Â age þ 11.827, F 1⁄4 19.981, p < 0.001). z-Scores were calculated by subtracting the expected value obtained using previously described formulas from the observed value.
+ For example, for the keep track task, the z score was obtained using the following adjustment: Z (K) 1⁄4 Observed K À ( À 0.151 Â age þ 22.544).
+ In the aforementioned atrophic brain regions of the aMCI group, there were GM regions showing significant correlations between the z scores of the EF measures and regional GM volume, which were adjusted for age, education level, and long delayed recall of AVLT and TIV (Table 4 and Fig. 2).
+ Lower GM volumes in these regions were associated with more declined EF performances on the corresponding EF task.
+ Negative correlations were not found.
+ These regions were predominantly located in the frontal and temporal cortex.
+ Within the frontal cortex, the 3 core EF components showed distinct patterns in the distribution of related brain regions.
+ The brain region related to response inhibition was located in the right inferior PFC (inferior frontal gyrus), although the brain regions related to working memory were located in the left anterior cingulate gyrus, left premotor cortex, and right inferior frontal gyrus.
+ Moreover, brain regions related to task shifting were distributed in the bilateral PFC.
+ We also performed an additional VBM multiple regression analysis using the long delayed recall of the AVLT score to identify atrophic brain regions related to episodic memory.
+ Brain areas located in the bilateral parahippocampal gyrus, right middle frontal gyrus, and cuneus were identified using this multiple regression analysis (Supplementary Table 1), although there was no direct overlap between the atrophic brain areas related to EF and episodic memory.
+ With the application of the conservative threshold (p < 0.05 with correction for multiple comparisons, family-wise error), no region was found that showed significant correlations between its GM volume and all 3 measurements of EF tasks simultaneously.
+ Using less stringent criteria (p < 0.001, uncorrected), only 1 region in the right inferior frontal gyrus (MNI coordinates: x 1⁄4 50, y 1⁄4 36, z 1⁄4 3, volume: 98 mm 3 , BA 45) showed significant correlations between its GM volume and all 3 EF task measures.
+This study revealed significant regional GM atrophy among patients with aMCI predominantly in the bilateral medial and lateral temporal regions and, to a much lesser extent, in the frontal, parietal, and occipital lobes, which is consistent with previous VBM  studies in patients with aMCI (Barbeau et al., 2008; Dos et al., 2011; Hamalainen et al., 2007a, 2007b; Schmidt-Wilcke et al., 2009; Spulber et al., 2012; Tondelli et al., 2012; Whitwell et al., 2008).
+ Using multiple regression analyses with VBM, some of these studies explored the relationship between brain morphology and brain function (mainly focusing on memory) and demonstrated a correlation between memory function and GM volume in MTLs, such as the hippocampus and entorhinal cortex (Barbeau et al., 2008; Dos et al., 2011; Leube et al., 2008; Sarazin et al., 2010; Schmidt- Wilcke et al., 2009).
+ These results are consistent with AD pathology (Duyckaerts et al., 2009) and also confirmed the validity of VBM as an alternative method in the study of brain function.
+ As a fully automated, rater-independent, easily applicable volume measure- ment across the entire brain, the VBM method is less affected by the subjective factors of researchers and participants compared with fMRI.
+ However, because the change in brain morphology usually appears later during the course of AD progression compared with the change in brain function, morphometric MRI studies are not as sensitive as fMRI studies for the interpretation of brain function.
+ In addition, it should be stressed that although the multiple regression analysis of VBM can provide potential brain morphologic correlates of a particular brain function, it cannot provide evidence regarding the necessity or specificity of functional roles within particular brain structures.
+ When interpreting the results of a VBM study, it is necessary to refer to the findings of studies using other functional techniques to ensure a comprehensive and complementary analysis.
+ Our study showed again that the overall EF and its core components were significantly impaired in patients with aMCI, which is consistent with the results reported in some recent studies (Brandt et al., 2009; Johns et al., 2012; Liu-Ambrose et al., 2008; Marshall et al., 2011; Saunders and Summers, 2011; Zheng et al., 2012a).
+ The multiple regression analyses of our study showed that the atrophic brain regions associated with the decline of the core EF components in patients with aMCI were mainly distributed in the PFC and temporal cortex.
+ Interestingly, different core EF components exhibit distinct patterns of distribution of the related brain regions within the PFC.
+ The brain region related to response inhibition was located in the right inferior PFC (inferior frontal gyrus), although brain regions related to working memory and task shifting were distributed in the bilateral PFC (Additional brain areas, particularly the PFC, were found to be related to deficient performances in EF tasks if the multiple regression analyses were not restricted to significant group differences; Supplementary Fig. 1).
+ These findings of the neural correlates of EF in the aMCI group using VBM analyses are consistent with the results obtained from previous EF studies using other methods such as fMRI in normal persons or in patients with other neurologic disease (Aron and Poldrack, 2006; Aron et al., 2003, 2004; Duann et al., 2009; Lenartowicz and McIntosh, 2005; Osaka et al., 2007; Owen et al., 2005; Pa et al., 2010).
+ Many fMRI studies and lesion studies using a conventional region of interest (ROI) method have suggested that the right inferior frontal gyrus (rIFG) plays a critical role in human response inhibition (Aron and Poldrack, 2006; Aron et al., 2003; Duann et al., 2009).
+ In an MRI study using an ROI analysis in patients with lesions of the PFC, Aron et al. found that only the volume of the lesion in rIFG (in particular, the pars triangularis, BA 45) was correlated with response inhibition (Aron et al., 2003).
+ The greater the damage to this region, the worse the response inhibition, as indexed by SSRT.
+ The results of our study, which was performed in patients with aMCI using VBM to analyze structural MRI data, were highly consistent with the lesion study of Aron et al. These 2 studies, which used different morphometric methods (ROI and VBM) in patients with different diseases, arrived at the same conclusion, which highly supports the rIFG as a key locus in the neural network of response inhibition.
+ In our VBM study, brain regions related to working memory impairment in patients with aMCI were located in the left anterior cingulate gyrus, left premotor cortex, and right inferior frontal gyrus.
+ Activation of the anterior cingulate cortex was frequently observed in fMRI studies of EF, including working memory (Lenartowicz and McIntosh, 2005; Osaka et al., 2007).
+ It is thought that in a neural network of EF, the ACC signals to the dorsolateral PFC via strong interconnections when higher-level modulation of lower-level processes is required (Gilbert and Burgess, 2008).
+ The premotor cortex (BA6) and inferior frontal gyrus (BA47) were among the brain regions that were consistently activated in many fMRI studies on working memory (Owen et al., 2005).
+ The premotor cortex is thought to maintain visuospatial attention during working memory, and the inferior frontal gyrus is involved in working memory when participants plan to remember or recall.
+ Our VBM study provides brain morphologic evidence on the role of these brain areas in working memory.
+ The involvement of the bilateral PFC in task switching, as shown in the present study, is consistent with several previous studies (Aron et al., 2004; Pa et al., 2010).
+ In a VBM study conducted by Pa et al. (Pa et al., 2010), a correlation between set-shifting performance and GM volume was investigated in 160 participants with neurodegenerative disease or MCI, as well as in healthy older adults.
+ The common sites across the 3 tasks for task switching were located mainly in the bilateral PFC.
+ The relatively wide distribution of related brain regions in task switching within the PFC is most likely due to the multiple cognitive processes involved in task switching.
+ The study by Aron et al. showed that the 2 components involved in the task-switching process (inhibition of task-sets and topedown control of the task-set) were controlled by brain regions in the right and left PFC, respectively (Aron et al., 2004).
+ However, the functional roles of the different parts of the PFC in task switching remain unclear.
+ In addition, another interesting finding of this study was that atrophy of the temporal lobes in patients with aMCI was correlated with a decline in the 3 core EF components, particularly the more- odd shifting task.
+ Unlike the PFC, the temporal lobe is not thought to play an important role in EF.
+ However, the temporal lobe has been shown to be involved in EF in several fMRI studies.
+ For example, in a study conducted by Karlsgodt et al., the temporal lobe, particularly the MTLs, participates in working memory when the brain is storing unfamiliar or new information (Karlsgodt et al., 2005).
+ Because the PFC has strong reciprocal connections with various cortical areas, including the temporal cortex, and brain atrophy in aMCI is most significant in the temporal lobes, it is possible that the pathologic changes in the temporal lobes impair the anatomic and functional connections between the PFC and temporal cortex, which may in turn affect the efficacy of the PFC in EF tasks.
+ In a study conducted by Kucukboyaci et al., significant correlations between frontotemporal fiber tract integrity and task- switching performance were found in healthy participants (Kucukboyaci et al., 2012).
+ However, because studies on the role of the temporal lobe in EF are limited, additional studies are required to further elucidate this issue.
+ Using less stringent statistical standards, this study showed that the gray matter volume in the right inferior frontal gyrus was associated with 3 core EF components, suggesting that the rIFG is a core neuroanatomic correlate of the EF.
+ As previously mentioned, this region controls response inhibition and is also involved in task switching.
+ Moreover, in an fMRI study conducted by McNab et al., the rIFG was a common region activated by 3 response inhibition tasks and 2 working memory tasks (McNab et al., 2008), suggesting that the rIFG is a common neural component of the inhibitory and working memory systems.
+ VBM studies in patients with AD and MCI have shown that among the brain regions in the frontal cortex, atrophy is the most prominent characteristic observed in IFG (Duarte et al., 2006).
+ Thus, it is easy to understand why our finding that atrophy of the right inferior frontal gyrus affects all 3 core EF components in patients with aMCI.
+ In this study, we did not divide the patients with aMCI into single-domain and multiple-domain subtypes based on the profile of the cognitive deficits.
+ The “single-domain” patients with aMCI should have an intact EF.
+ However, some recent studies have shown that clinically diagnosed single-domain patients with aMCI exhibited significant EF deficits when they performed detailed EF evaluations that were not included in the routine clinical neuropsychological assessment (Johns et al., 2012).
+ In our previous neuropsychological study, all of the patients with aMCI showed deficits in the core EF components, including those who obtained full scores in the EF tasks that are frequently used in clinical practice (Zheng et al., 2012a).
+ Single- and multiple-domain patients with aMCI share a common pattern of GM atrophy that differs only in severity (Brambati et al., 2009).
+ Thus, in the present study, which examined only the neural correlates of EF deficits in patients with aMCI, we did not classify the patients with aMCI into single- and multiple- domain subtypes.
+ There were several limitations in this study that should be considered when interpreting the results.
+ First, we used a relatively small number of patients with aMCI and age- and sex-matched control participants.
+ Second, we did not include fMRI data in this study to elucidate the role of brain regions that were associated with EF by VBM analysis.
+ Structural and fMRI studies performed in the same group of participants would provide more convincing evidence.
+ Third, only the age, education, and TIV were included in this study as moderating factors that may affect cognitive functions; however, other factors may also exist.
+ Thus, future studies using a longitudinal VBM approach may avoid this limitation.
+ Fourth, the white matter was not taken into account in the present study.
+ Although atrophy of white matter is not significant at the aMCI stage (Balthazar et al., 2009), the potential effect of white matter microstructural alterations on EF cannot be excluded.
+ Thus, future studies should adopt techniques, such as diffusion tensor imaging, to further investigate this issue.
+ In summary, we found that the impairments of 3 core EF components in patients with aMCI were correlated with regional atrophy of the temporal and prefrontal cortices.
+ The observations made in the prefrontal cortical brain areas regarding the 3core EF components were similar to the results obtained from previous fMRI and lesion studies performed in normal persons or in patients with other neurologic disease, which have long implicated the importance of these regions in EF.
+ Atrophy in the right inferior frontal gyrus is most closely associated with a decline in EF in patients with aMCI.
+ Taken together, our brain morphologic data contribute to a better understanding of the role of these brain areas in the neural network of executive functioning.
+
+          Fig. 1. Regions that showed a greater gray matter (GM) loss in the amnestic mild cognitive impairment (aMCI) group compared with the control group. Statistical maps threshold at p < 0.05 and more than 10 voxels for multiple comparisons, family-wise error (FWE) corrected. The left side of the image represents the left side of the brain. Slice positions are indicated in the Montreal Neurological Institute (MNI) coordinates. T value is indexed by the colourbar. Abbreviations: aMCI, amnestic mild cognitive impairment; FEW, family-wise error; GM, gray matter.
+        
+Table 4 Atrophic brain regions related to the decline of the 3 core EF components in patients with aMCI
+          
+             EF task Anatomical structure Volume (mm 3 ) MNI coordinates t x y z
+            
+              
+                
+                   Stop-signal task
+                   1. R inferior frontal gyrus (BA 45)
+                   47
+                   50
+                   24
+                   8
+                   5.63
+                
+              
+              
+                
+                  
+                   2. R fusiform /inferior temporal gyrus (BA 20)
+                   172
+                   52
+                   À9
+                   À33
+                   5.27
+                
+                
+                  
+                   3. R superior temporal gyrus (BA 38)
+                   37
+                   39
+                   14
+                   À20
+                   5.62
+                
+                
+                   Keep track task
+                   1. L anterior cingulate gyrus (BA 24/32)
+                   564
+                   À3
+                   42
+                   9
+                   5.24
+                
+                
+                  
+                   2. L superior frontal gyrus (BA 6)
+                   38
+                   À21
+                   À8
+                   68
+                   5.13
+                
+                
+                  
+                   3. R inferior frontal gyrus (BA 47)
+                   125
+                   43
+                   17
+                   À5
+                   5.23
+                
+                
+                  
+                   4. L superior temporal gyrus (BA 38)
+                   138
+                   À34
+                   15
+                   À27
+                   5.21
+                
+                
+                  
+                   5. R superior temporal gyrus (BA 38)
+                   74
+                   52
+                   17
+                   À30
+                   5.04
+                
+                
+                  
+                   6. R middle temporal gyrus (BA 21)
+                   581
+                   68
+                   À34
+                   À8
+                   5.09
+                
+                
+                   More-odd shifting task
+                   1. L middle frontal gyrus (BA 8)
+                   37
+                   À42
+                   27
+                   47
+                   5.23
+                
+                
+                  
+                   2. L anterior cingulate gyrus (BA 32)
+                   34
+                   À11
+                   43
+                   6
+                   5.33
+                
+                
+                  
+                   3. R superior frontal gyrus (BA10)
+                   165
+                   22
+                   65
+                   À3
+                   5.25
+                
+                
+                  
+                   4. R superior frontal gyrus (BA 6)
+                   84
+                   15
+                   À15
+                   69
+                   5.27
+                
+                
+                  
+                   5. R inferior frontal gyrus (BA 45)
+                   37
+                   50
+                   36
+                   3
+                   5.19
+                
+                
+                  
+                   6. L middle temporal gyrus (BA 21)
+                   260
+                   À65
+                   À53
+                   À6
+                   5.33
+                
+                
+                  
+                   7. L parahippocampal gyrus (BA 36)
+                   297
+                   À29
+                   À20
+                   À36
+                   5.07
+                
+                
+                  
+                   8. L hippocampus
+                   570
+                   À28
+                   À15
+                   À16
+                   5.31
+                
+                
+                  
+                   9. R superior temporal gyrus (BA 38)
+                   111
+                   39
+                   17
+                   À23
+                   5.09
+                
+                
+                  
+                   10. R fusiform /inferior temporal gyrus (BA 20)
+                   513
+                   56
+                   À9
+                   À26
+                   5.15
+                
+                
+                  
+                   11. R parahippocampal gyrus (BA 36)
+                   320
+                   28
+                   À18
+                   À32
+                   5.15
+                
+                
+                  
+                   12. R hippocampus
+                   361
+                   35
+                   À24
+                   À15
+                   5.02
+                
+                
+                  
+                   13. R amygdale
+                   310
+                   20
+                   À7
+                   À15
+                   5.28
+                
+                
+                  
+                   14. L posterior cingulate gyrus (BA 29)
+                   705
+                   À14
+                   À53
+                   5
+                   5.21
+                
+                
+                   Statistical maps thresholded at
+                   p < 0.05 and more than 10 voxels for multiple comparisons,
+                   FWE corrected.
+                   1 voxel 1⁄4 1.5 mm Â
+                   1.5 mm Â 1.5
+                   mm.
+                  
+                
+                
+                   Key: aMCI, amnestic mild
+                   cognitive impairment; BA, Brodmann area; EF, executive function;
+                   L, left; MNI,
+                   Montreal Neurological
+                   Institute; R, right.
+                  
+                  
+                
+              
+            
+          
+          EF task Anatomical structure Volume (mm 3 ) MNI coordinates t x y z Stop-signal task 1. R inferior frontal gyrus (BA 45) 47 50 24 8 5.63 2. R fusiform /inferior temporal gyrus (BA 20) 172 52 À9 À33 5.27 3. R superior temporal gyrus (BA 38) 37 39 14 À20 5.62 Keep track task 1. L anterior cingulate gyrus (BA 24/32) 564 À3 42 9 5.24 2. L superior frontal gyrus (BA 6) 38 À21 À8 68 5.13 3. R inferior frontal gyrus (BA 47) 125 43 17 À5 5.23 4. L superior temporal gyrus (BA 38) 138 À34 15 À27 5.21 5. R superior temporal gyrus (BA 38) 74 52 17 À30 5.04 6. R middle temporal gyrus (BA 21) 581 68 À34 À8 5.09 More-odd shifting task 1. L middle frontal gyrus (BA 8) 37 À42 27 47 5.23 2. L anterior cingulate gyrus (BA 32) 34 À11 43 6 5.33 3. R superior frontal gyrus (BA10) 165 22 65 À3 5.25 4. R superior frontal gyrus (BA 6) 84 15 À15 69 5.27 5. R inferior frontal gyrus (BA 45) 37 50 36 3 5.19 6. L middle temporal gyrus (BA 21) 260 À65 À53 À6 5.33 7. L parahippocampal gyrus (BA 36) 297 À29 À20 À36 5.07 8. L hippocampus 570 À28 À15 À16 5.31 9. R superior temporal gyrus (BA 38) 111 39 17 À23 5.09 10. R fusiform /inferior temporal gyrus (BA 20) 513 56 À9 À26 5.15 11. R parahippocampal gyrus (BA 36) 320 28 À18 À32 5.15 12. R hippocampus 361 35 À24 À15 5.02 13. R amygdale 310 20 À7 À15 5.28 14. L posterior cingulate gyrus (BA 29) 705 À14 À53 5 5.21 Statistical maps thresholded at p < 0.05 and more than 10 voxels for multiple comparisons, FWE corrected. 1 voxel 1⁄4 1.5 mm Â 1.5 mm Â 1.5 mm. Key: aMCI, amnestic mild cognitive impairment; BA, Brodmann area; EF, executive function; L, left; MNI, Montreal Neurological Institute; R, right.
+        
+
+          Fig. 2. Atrophic brain regions that showed significant correlations between their regional gray matter (GM) volumes and performances on executive function (EF) task measures in the amnestic mild cognitive impairment (aMCI) group. Statistical maps thresholded at p < 0.05 and more than 10 voxels for multiple comparisons, family-wise error (FWE) corrected. The left side of the image represents the left side of the brain. Slices containing the significant areas of correlations are displayed using xjView toolbox: (A) Stop-signal task; (B) Keep track task; (C) More-odd shifting task. Slice positions are indicated in the Montreal Neurological Institute (MNI) coordinates in the upper left corner of each slice. In the lower part of the slices, these brain regions are indicated using the same numbers as those for the corresponding regions in Table 4, in which the MNI coordinates and anatomical descriptions are presented in detail. Abbreviations: aMCI, amnestic mild cognitive impairment; EF, executive function; FEW, family-wise error; GM, gray matter.
+        
+The authors report no conflicts of interest.
+This study was supported by a grant from the National Natural Science Foundation of China (81000467), a grant from the Free Research Foundation of Shengjing Hospital (200802), and a grant from Liaoning province (2010-696).
+ The authors thank Dr Min Shi (Biostatistics Branch, National Institute of Environmental Health Sciences [NIEHS], National Institutes of Health [NIH]) for help with the statistical analyses and Yuzheng Hu (Neuroimaging Research Branch, National Institute on Drug Abuse, NIH) for help with the voxel-based morphometric analyses.

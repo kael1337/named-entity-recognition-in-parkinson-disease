@@ -1,0 +1,194 @@
+Significant correlation between cerebral hypoperfusion and neuropsychological assessment scores of patients with mild cognitive impairment
+The regions of significant correlation between cerebral hypoperfusion and neuropsychological assessment scores were evaluated using 99m Tc-HMPAO SPECT in patients with mild cognitive impairment (MCI) on the basis of its three subtypes, namely, single-domain amnestic MCI (aMCI-s), multiple-domain amnestic MCI (aMCI-m), and nonamnestic MCI (naMCI), following which comparisons were made among the three subtypes of MCI.
+Regions of hypoperfusion were determined by comparing the three groups with the normal group.
+ Neuropsychological assessment included tests to evaluate attention, language and related functions, visuospatial function, memory, frontal-executive function, and mini- mental state examination and depression scores.
+ Regions of cerebral hypoperfusion were identified by comparing the three groups of MCI patients with the normal group (P < 0.05, uncorrected).
+ One-way analysis of variance was used to examine differences across groups, and post-hoc a-priori pairwise comparisons were used for between- group analyses.
+ The regions of significant correlation, related to the neuropsychological assessment scores, were identified by simple regression of SPM8 within the masking image of the area of cerebral hypoperfusion (P < 0.05, uncorrected).
+The regions of cerebral hypoperfusion were identified by comparing members of the normal group with patients with aMCI-s, aMCI-m, and naMCI.
+ The patients with aMCI-m showed significant correlation with all neuropsychological assessment scores, but the patients with aMCI-s correlated with four neuropsychological assessment scores of attention.
+ The patients with naMCI revealed no significantly correlated regions (P < 0.05,
+Mild cognitive impairment (MCI) is an intermediate transitional state between cognitive changes of normal aging and mild dementia, with a variety of clinical outcomes [
+ MCI is an operational diagnostic term used to describe patients at risk of developing Alzheimer’s disease (AD) or those in the preclinical stage of another form of dementia [
+ They are classified on the basis of three subtypes of MCI, according to deficits in their cognitive domains: amnestic single-domain MCI (aMCI-s), amnestic multiple-domain MCI (aMCI-m), and nonamnestic MCI (naMCI) [
+ Brain perfusion
+uncorrected).
+ The regions that correlated with neuropsychological assessment scores in patients with aMCI-s were very small compared with those in patients with aMCI-m.
+ The correlated regions in patients with aMCI-m were restricted to the left cerebrum and cerebellum.
+ Brain areas showed significant correlation between neuropsychological assessment scores and hypoperfusion, which was evaluated by simple regression with the threshold being P less than 0.05, uncorrected.
+ Rey complex figure test 20 min delayed, Korean-color word stroop test word reading, and Korean mini-mental state examination scores correlated more strongly with cerebral hypoperfusion compared with other assessment scores.
+ The specific pattern of significant correlation of cerebral hypoperfusion with neuropsychological assessment scores was classified into three subtypes (aMCI-s, aMCI-m, and naMCI) according to the patients’ deficits in their cognitive domains.
+ Nucl Med Commun 33:848–858 c 2012 Wolters Kluwer Health | Lippincott Williams & Wilkins.
+Nuclear Medicine Communications 2012, 33:848–858 Keywords: cerebral hypoperfusion, mild cognitive impairment, neuropsychological assessment, single photon emission computed tomography, SPM8 Departments of a Nuclear Medicine and b Neurology, Dong-A University Medical Center, College of Medicine Dong-A University, 1, 3-Ga, Dongdaeshin-dong, Seo-gu, Busan, Republic of Korea Correspondence to Do-Young Kang, MD, PhD, Department of Nuclear Medicine, Dong-A University Medical Center, College of Medicine Dong-A University, 1, 3-Ga, Dongdaeshin-dong, Seo-gu, Busan 602-715, Republic of Korea Tel: + 82 10 92 109 931; fax: + 82 51 242 7237; e-mail: 
+single photon emission computed tomography (SPECT) has been used as an imaging biomarker for AD and offers the advantages of lower cost and ease of access.
+ It is an important analytical tool for functional neuroimaging that aids in diagnosing early-stage AD at the MCI stage, in differentiating AD from other types of dementia, and in predicting the progression from MCI to AD [ 
+ An average of 10–15% of patients with MCI transition to AD each year, as seen in short-term follow-up
+ The conversion rates of MCI, including all subtypes, to dementia were 31–44%/year, as seen in long- term (above 5 years) follow-up studies [
+ A patient with aMCI appears to be subject to a memory deficit and this may be a prelude to Alzheimer-type dementia [
+ A patient with naMCI appears to have deficits in other cognitive domains, which may be the presenting symptom of other types of dementia, such as vascular dementia, fronto-temporal dementia [
+ Making sharp demarcations between normal cognition and MCI and between MCI and dementia using neuropsychological assessment or conventional brain imaging is difficult because the standard score and the image may not match.
+ There are few studies on the analysis of regional cerebral blood flow (rCBF) using HMPAO SPECT in patients with MCI according to their subtypes.
+ The aim of this study was to investigate the brain area with rCBF related to the score of neuropsychological assessment in patients with aMCI and naMCI using 99m Tc-HMPAO SPECT imaging.
+ We assessed the specific patterns of rCBF in patients with MCI using 99m Tc- HMPAO SPECT and compared the differences in rCBF seen among the subtypes of MCI.
+ We investigated whether hypoperfusion detected using brain SPECT correlated with cognitive test performances, as this classification is based on the neuropsychological profile.
+ Cerebral correlation was calculated for the brain region from the score of neuropsychological assessments and cerebral hypoperfusion by the simple regression method of SPM8.
+ Automated anatomical labeling of activations in SPM was performed using the Talairach brain atlas.
+Patients A total of 81 patients (mean age 66.8±7.19 years, 50 women and 31 men) with MCI according to Petersen’s clinical diagnostic criteria were recruited and examined by neuropsychological assessment.
+ The patients with MCI were recruited during a period of 3 years, from January 2005 to December 2007, from the Memory Disorders and Alzheimer’s Disease Clinic at the Dong-A University Medical Center.
+ Patients included those with naMCI, aMCI-m, and aMCI-s.
+ MCI was diagnosed according to Petersen’s criteria [ 
+ The diagnosis was based on a clinical and neuropsychological examination, including the digit span test (forward and backward) for attention, the Korean version of the Boston Naming Test (K-BNT) for language function, the Rey complex figure test (Rey CFT) copy for visuospatial function, the Seoul verbal learning test (SVLT) and Rey CFT for memory function, the controlled oral word association test (COWAT) animal, the COWAT supermarket, the
+ The numbers of patients with aMCI-m, aMCI-s, and naMCI were 46, 23, and 12, respectively.
+ The normal control group consisted of 54 neurologically and cognitively normal people who were recruited from the Memory Disorders and Alzheimer’s Disease Clinic at the Dong-A University Medical Center.
+ Each individual showed normal findings on neurologic examination and no past or present symptoms of significant psychiatric conditions.
+ The participants selected for the present study had no overt cognitive dysfunction according to the criterion of Christensen et al. [
+ They revealed no abnormal findings on SPECT and MRI or computed tomography, except for age-related changes.
+ This group consisted of 39 women and 15 men with a mean age of 61.5±9.11 years.
+ Recently, the criteria for AD were well characterized and the current neuropsychological tests are used to determine the MCI subtype, as shown in 
+ The neuropsychological assessment included tests to evaluate attention, language and related functions, visuospatial function, memory function, frontal- executive function, K-MMSE and depression scores, and general cognition [
+ The neuropsychological tests as a covariate for simple regression in SPM8 used 16 articles for the MCI patients, as shown in 
+ Brain SPECT images were obtained for the patients using a two-head gamma camera (MultiSPECT II, ICON; Siemens, Hoff- man Estates, Illinois, USA) equipped with a fan-beam collimator.
+ The acquisition matrix was 128 Â 128 Â 47 with a voxel size of 2.1 Â 2.1 Â 3.9 mm, and the number of
+ Transaxial, sagittal, and coronal images were reconstructed using a filtered back-projection algorithm with a Butterworth filter at a cutoff frequency of 0.6 cycles/pixel and attenuation correction by Chang’s first-order technique and a linear attenuation coefficient of 0.12/cm [
+ The reconstructed images were converted from the Digital Imaging and Communications in Medicine format to the Neuro-imaging Informatics Technology Initiative format using MRIcroN for SPM8.
+ All images were spatially normalized into the Montreal Neurological Institute (MNI) of McGill University standard template provided with the SPM8 program to remove the intersubject anatomic variability [
+ The normalization in SPM leads to substantially different locations of the cerebellum in MNI average space [
+ Spatially normalized images were smoothed by convolution with an isotropic gaussian kernel with 16 mm full-width at half-max- imum [
+ The purpose of smoothing was to increase the signal-to-noise ratio and to account for variations in the subtle anatomic structures.
+ We analyzed the brain images of MCI patients using SPM8 and showed the
+ The SPM8 tool provided a correlation between neuropsychological assessment scores and cerebral hypoperfusion by a simple regression method.
+ The regions of cerebral hypoperfusion were identified by comparing the three groups of MCI patients with the normal group (P < 0.05, uncorrected).
+ One-way analysis of variance (ANOVA) was used to examine the differences across groups, and post-hoc a-priori pairwise comparisons were used for between-group analyses.
+ Each pairwise analysis was carried out in positive directions in order to observe changes in relative perfusion, which was found to be less in the second group compared with the first.
+ An ANOVA was then carried out to compare the four groups (control, aMCI-s, aMCI-m, and naMCI) with respect to this measure.
+ We tried to acquire masking images from the baseline cerebral hypoperfusion areas using the image calculation function of SPM8.
+ The regions of significant correlation, related to the neuropsychological assessment scores, were identified by simple regression of SPM8
+ We applied a simple regression method to obtain the correlation between neuropsychological scores and cerebral hypoperfusion imaging data obtained using SPECT.
+ Simple regression with covariance studies demonstrated the regions in the brain that showed a correlation between the scores of neuropsychological assessments [
+ To reveal regions in which hypoperfusion was significantly correlated with the score of neuropsychological assessment, the general linear model with the score of neuropsychological assessment as a covariate was tested at each voxel.
+ The brain T-maps of correlation and hypoperfusion regions were obtained using a threshold for statistical significance of P less than 0.05, uncorrected; clusters of fewer than 100 voxels were not considered.
+ These correlated regions analyzed by SPM8 analysis were related to the neuropsychological assessment scores.
+aMCI-s (23) aMCI-m (46) naMCI (12) Age 65.43±7.52 67.32±6.98 67.58±7.01 Sex (male : female) 10 : 13 18 : 28 3:9 Education period (years) 8.15±4.04 6.86±4.64 7.33±5.37 Duration of disease (months) 17.52±22.82 17.65±22.04 22.67±31.70
+The neuropsychological test results for the mild cognitive impairment patients when three subtypes were presented Assessment aMCI-s (23) aMCI-m (46) Attention Digit span (forward) 5.48±1.21 4.87±1.08 Digit span (backward) 3.48±0.77 3.13±0.97 Language and related functions K-BNT 45.26±7.04 36.20±9.97 Visuospatial function Rey CFT copy 33.30±3.84 28.15±8.00 Memory function SVLT Free recall 15.87±4.18 14.02±4.09 20 min delayed recall 3.00±2.52 2.63±2.00 Recognition 18.30±2.76 18.20±2.34 Rey CFT 20 min delayed recall 9.37±7.50 5.11±5.47 Frontal-executive function COWAT (animal) 12.26±3.73 10.74±3.72 COWAT (supermarket) 14.30±4.81 10.65±3.94 COWAT (phonemic) 19.61±7.78 11.72±7.80 K-CWST (word reading) 108.00±10.11 94.43±24.21 K-CWST (color reading) 82.91±14.79 49.65±24.99 MMSE K-MMSE 26.87±2.25 24.46±2.88 Depression score GeDepS 15.30±7.74 17.24±6.76 The number of voxels means the correlated area within hypoperfusion, which is calculated at a significance threshold of P < 0.05 with the uncorrected value. aMCI-m, multiple-domain amnestic mild cognitive impairment; aMCI-s, single-domain amnestic mild cognitive impairment; COWAT, Controlled Oral Word Association Test; K-BNT, Korean version of Boston Naming Test; K-CWST, Korean-color word stroop test; naMCI, nonamnestic mild cognitive impairment; Rey CFT, Rey complex figure test; SVLT, Seoul Verbal Learning Test.
+Number of voxels naMCI (12) aMCI-s aMCI-m naMCI 4.92±1.04 359 1663 0 3.25±0.92 0 1809 0 34.42±12.16 0 3709 0 30.96±7.93 500 3664 0 16.33±5.19 0 3667 0 4.92±2.06 0 1527 0 20.17±1.86 0 540 0 10.42±7.08 509 5510 0 11.42±4.41 0 410 0 14.58±6.36 384 519 0 14.00±8.19 0 3312 0 105.58±19.52 0 4500 0 68.00±27.16 0 1942 0 25.75±4.40 0 5515 0 18.50±4.65 0 287 0
+Demographic, clinical, and neuropsychological characteristics A total of 81 MCI patients underwent the brain SPECT scan with neuropsychological assessment.
+ They were considered for analysis and were subgrouped into aMCI-s, aMCI-m, and naMCI types, according to the follow-up clinical diagnosis.
+ The demographic and clinical characteristics of patients with MCI are reported in 
+ The results of comparison between global cognitive function and neuropsychological differences in the three subtypes of MCI patients are summarized in 
+ Patients with aMCI-s and naMCI showed statistically significantly lower scores (P < 0.01) compared with those with aMCI-m on Rey CFT (20 min delayed) for memory function and on K-CWST (word and color reading) for frontal-executive function, but the scores of K-BNT for language and related functions did not follow this tendency, as shown in 
+ The number of activated voxels indicates the correlated area within the hypoperfusion (P < 0.05, uncorrected) as shown in 
+ The region of hypoperfusion in the patients with aMCI-m also showed a larger area (more voxels) compared with those in patients with the other two types of MCI on Rey CFT and K-CWST, but the differences in hypoperfusion area (voxel number in 
+ The mean scores of the neuropsychological assessment for the three subtypes of MCI patients are shown in 
+ No statistically significant difference in the mean value of neuropsychological assessment scores was found among the aMCI-s, aMCI-m, and naMCI groups (P < 0.01) by SPSS 17.0.
+ A statistically significant difference in the mean scores was observed on comparison between two groups (aMCI-s vs. naMCI, aMCI-s vs.
+ A significant difference in the mean scores (P < 0.01) on comparing groups aMCI-s and naMCI was observed for only one test (K-BNT).
+ In addition, a significant difference (P < 0.01) between aMCI-m and naMCI groups was observed for five tests (SVLT 20 min delayed recall, SVLT recognition, Rey CFT 20 min delayed recall, COWAT supermarket, and color reading), and a significant difference (P < 0.01) between aMCI-s and aMCI-m groups was observed for eight tests (K-BNT, Rey CFT copy, Rey CFT 20 min delayed recall, COWAT supermarket, COWAT phonemic, K-CWST word reading, K-CWST color reading, and K-MMSE).
+ In addition, the regions of hypoperfusion in the aMCI-m group were observed in the left culmen and left declive in the cerebellum and in the left subcallosal gyrus (BA 34), left parahippocampal gyrus (hippocampus), left claustrum, left insula (BA 13) and left inferior temporal gyrus (BA 37), left middle temporal gyrus (BA 21), and left superior temporal gyrus (BA 22, 39) in the cerebrum.
+ However, the regions of hypoperfusion in the left and right cerebellum (anterior and posterior lobes) were observed in naMCI patients, as shown in 
+ The regions of correlation were calculated within the hypoperfusion region by comparison with the average image of the normal control group.
+ The correlations with the scores of the neuropsychological assessment in these regions of hypoperfusion were calculated according to each article, as shown in Figs 2 and 3.
+ The patients with aMCI-m showed significant correlation with all neuropsychological assessments, but the patients with aMCI-s had correlation with four neuropsychological assessments, namely, attention (digit span; forward), visuospatial function (Rey CFT copy), memory function (Rey CFT; 20 min delayed recall), and frontal-executive function (COWAT; supermarket), as shown in 
+ The regions of correlation in the aMCI-s group were observed in the posterior lobe of the left and right cerebellum with the digit span
+ The regions that correlated with neuropsychological assessment scores for the patients with aMCI-s were very small compared with those for patients with aMCI-m.
+ Further, correlated regions for the patients with aMCI-s were limited in the cerebellum, except for the region that correlated with COWAT (supermarket).
+ The correlated regions in aMCI-m patients are presented in 
+ The correlated regions for the patients with aMIC-m were restricted to the left cerebrum and cerebellum because the hypoperfusion occurred in the left region.
+ Brain areas showed significant correlations between neuropsychological assessment scores and hypoperfusion by simple regression in which the threshold of P less than 0.05 was uncorrected.
+ Rey CFT 20 min delayed, K-CWST word reading, and K-MMSE scores were found to be strongly correlated with cerebral hypoperfusion compared with other assessment scores, as shown in Figs 2 and 3.
+Glass and rendering view of the hypoperfusion regions between (a) aMCI-s and control groups, (b) aMCI-m and control groups, and (c) naMCI and control groups (P < 0.05, uncorrected).
+ Clusters of fewer than 100 voxels were not considered.
+ The areas of hypoperfusion were used to calculate the significant correlation as a template of masking. aMCI-m, multiple-domain amnestic mild cognitive impairment; aMCI-s, single-domain amnestic mild cognitive impairment; naMCI, nonamnestic mild cognitive impairment.
+aMCI-s aMCI-m
+Glass view of brain regions with a significant correlation between cerebral hypoperfusion and neuropsychological assessment by simple regression of SPM8.
+ The regions that correlated with (a, b) digit span (forward), (c, d) Rey CFT copy, (e, f) Rey CFT 20 min delayed recall, and (g, h) COWAT supermarket are shown as P < 0.05, uncorrected.
+ The correlated regions (a, c, e, and g) in aMCI-s patients were restricted to the cerebellum but the regions of correlation (b, d, f and h) in aMCI-m patients were found in the left cerebrum of the brain.
+ Check mark (red color) is the origin (0, 0, 0) of the MNI coordinate in SPM8. aMCI-m, multiple-domain amnestic mild cognitive impairment; aMCI-s, single-domain amnestic mild cognitive impairment; COWAT, controlled oral word association test; MNI, Montreal Neurological Institute; naMCI, nonamnestic mild cognitive impairment; Rey CFT, Rey complex figure test.
+Previous studies on the progression of MCI have shown that the condition of some patients with MCI deterio- 
+ The aMCI group exhibited a pattern that is typical of early AD [
+ Of the patients with MCI, 34.0% developed AD, compared with 7.2% of patients without cognitive impairment over an average of 4.5 years of observation, and patients with MCI were 3.17 times more likely to develop AD than those without cognitive impairment [
+ In this study, a region of significant correlation was found between neuropsychological assessment scores and cerebral blood perfusion, according to the three MCI subtypes (aMCI-s, aMIC-m, and naMCI).
+ MCI was classified not only on the basis of the mean value of various neuropsychological assessment scores but also on the basis of the statistical correlation between the score and SPECT image.
+ In this study, the classification was not more accurate than the classification based on the mean values obtained by neuropsychological assessment and on analyzing the significant correlation images.
+ A significant difference between the mean scores (P < 0.05) of the aMCI-s and naMCI groups was observed for only one test (K-BNT).
+ In addition, the difference (P < 0.05) between aMCI-m and naMCI groups was observed for five tests and between aMCI-s and aMCI-m groups for eight tests.
+ A region of significant correlation between cerebral hypoperfusion and neuropsychological scores was observed for four assessment tests in the group of patients with aMCIs and for all assessments in the group of patients with aMCI-m.
+ However, no regions of correlation were found for naMCI patients on any assessments (
+ From a comparison of the mean value of neuropsychological assessment scores, it was hard to draw clear lines of demarcation between the three groups of patients with MCI.
+ The patients with MCI were classified into three types based on the number of voxels from the correlated region within the hypoperfusion.
+ In SPECT studies using 99m Tc-HMPAO, significant clusters of hypoperfusion were detected in the left hippocampus and parahippocampus and in regions of the frontal, temporal, and parietal lobes [
+ In addition, a significant perfusion reduction was observed in the parahippocampus and posterior cingulate cortices in patients with PMCI, as compared with normal individuals, on 123 I-N-isopropyl-p-iodo-amphetamine SPECT [
+ In patients with MCI, 99m Tc-ECD SPECT has been
+ Significant hypometabolism in the bilateral temporoparietal, frontal, occipital, and posterior cingulate cortices is apparent on 18 F-FDG PET [
+ The region of the posterior cingulate cortex in each MCI patient has also been reported [
+ In addition, a significant reduction was found in the posterior cingulate cortex only [
+ In the naMCI group, hypoperfusion was found in the temporal cortex and right frontal cortex [
+ The hypoperfusion of three types (aMCI-s, aMCI-m, and naMCI), compared with the normal control group, is presented in 
+ The hypoperfusion area in a patient
+ In this study, the patient with aMCI-s showed hypoperfusion in the left middle occipital gyrus (BA 19) and left superior temporal gyrus (BA 39) in comparison with the healthy normal control group.
+ Most previous longitudinal studies on MCI compared con- verters with healthy controls.
+ Our findings are consistent with those of previous studies showing predominant hypoperfusion areas in MCI patients.
+ Further, the regions of hypoperfusion in the aMCI-m group were observed in the left subcallosal gyrus (BA 34), left parahippocampal gyrus (hippocampus), left claustrum, left insula (BA 13) and left inferior temporal gyrus (BA 37), left middle temporal gyrus (BA 21), and left superior temporal gyrus (BA 22, 39) in the cerebrum.
+ These results were consistent with those of previous SPECT studies covering most areas, as shown in 
+ Our results showed that the regions of hypoperfusion in patients of the aMCI-m group were relatively consistent with those seen in previous studies, showing areas with significant perfusion deficit in patients with aMCI.
+ In contrast to the aMCI-m group, however, the region of hypoperfusion in patients with aMCI-s was the occipital area, which is not frequently detected as an area with significant perfusion deficit.
+ This finding can be explained by functional connectivity between the occipital area and the medial temporal structures, which constitute
+ As another explanation, the group of patients with aMCI-s in the current study cannot represent the whole population of aMCI-s patients in the clinical situation.
+ A significant correlation (P < 0.01, corrected) was found between T- tau or P-tau concentrations and perfusion in the left angular, inferior parietal, and precuneus cortices [
+ A significant correlation was revealed between verbal and visual episodic memory scores and rCMRglu in the posterior cingulate gyrus in the SPECT study [
+ Higher perfusion in the rostral anterior cingulate and adjacent inferior frontal regions was associated with poorer performance on the trail-making test (P < 0.05) [
+ Significant correlation between hypoperfusion and the K-MMSE score was reported in the left inferior frontal gyrus, left middle temporal gyrus, cerebellum, anterior and posterior cingulate cortices, and precuneus, bilateral superior, and middle prefrontal frontal gyrus [
+ A correlation was found in the left and right superior orbitofrontal gyrus and left middle frontal gyrus with the Apathy Inventory total score, in the right anterior cingulate cortex with the lack of initiative score, in the
+ The correlation between cerebral hypoperfusion and neuropsychological assessment scores was observed in brain SPECT images in various studies.
+ In addition, the correlated brain region was related to the neuropsychological assessment scores.
+ In our study, regions of significant correlation according to various neuropsychological assessments were found by SPM8.
+ The anatomical labeling of the significantly correlated region was performed using the maximum point search method of TD Client software.
+ The most significant correlations were specifically related to the diffuse brain region for attention, to the medial temporal lobe and hippocampus for visuospatial function, to the parietal
+ Our results were consistent with previous neuropsychological correlation studies covering most areas, as shown in 
+ The correlated region for digit span forward was the frontal lobe (BA 34) and the parahippocampal gyrus (hippocampus, amygdala, BA 34) and that for digit span backward was the frontal lobe (BA 6) and temporal lobe (BA 21).
+ These scores of neuropsychological assessment for attention correlated with hypoperfusion.
+ The neuropsychological assessments by SVLT (free recall and 20 min delayed recall) and Rey CFT (20 min delayed recall) also correlated in the same region, as seen in previous reports.
+ Otherwise, the Rey CFT copy test for visuospatial function correlated with the temporal lobe and the K-CWST (word reading) test for frontal-executive function correlated with the frontal lobe (BA 47).
+ The other correlated area can be explained by the functional connectivity between the occipital lobe and the temporal lobe, similar to the hypoperfusion area.
+ There are limitations in this study in terms of the relatively small sample size, unevenly distributed patients according to the subtypes of MCI, and lack of longitudinal follow-up data.
+ The specific patterns of significant correlation between neuropsychological assessment scores and cerebral hypoperfusion were classified into three subtypes (aMCI-s, aMCI-m, and naMCI) according to the patients’ deficits in their cognitive domains.
+ The SPECT images were clearly classified into three subtypes of MCI by analysis of significant correlation between hypoperfusion and neuropsychological assessment scores (
+ The neuropsychological assessment scores of the patients with aMCI-m significantly correlated with hypoperfusion, but the score of patients with naMCI were not thus correlated.
+ In addition, the patients with aMCI-s were in an intermediate state between aMCI-m and naMCI.
+ In this study, the patients with MCI were clearly categor- ized into three groups (aMCI-s, aMCI-m, and naMCI) on the basis of significant correlation.
+ The assigned label is hierarchical and is composed of 1105 parts.
+ TD client 2.4.2 offered three search options: single point, nearest gray matter, and cube range.
+ A single-point search returns the label assigned to the given x, y, z coordinate.
+ Anatomical labeling by TD Client used the single-point search method.
+ Correlated domains, as shown in Tables 3 and 4, were found by the single-point search method.
+ The anatomical labels to all brain areas were found only at the maximum value in one cluster.
+ This single-point search method could not find all the labels with statistical
+ Our research has other limitations as well.
+ The starting limitations are introduced to the resolution of the image from the gamma camera and the normalized and statistical algorithm (SPM8).
+ Future work should develop standardized techniques to reduce the normalization error and should use a probability method to correlate the anatomical labeling of brain regions with the neuropsychological assessment scores of MCI patients.
+ Further, the significantly correlated regions within the hypoperfusion area were identified by simple regression of SPM8 with P less than 0.05, uncorrected.
+ The number of voxels of significantly correlated brain regions between the neuropsychological assessment score and cerebral hypoperfusion deficit was calculated, and the result is shown in Figs 2 and 3 with P less than 0.05, uncorrected.
+ In this calculation, we considered only significant hypoperfusion areas using the masking function of SPM8.
+ Only the regions of correlation with significantly decreased hypoperfusion were considered.
+ The regions without hypoperfusion (P < 0.05) were not considered in our simulation.
+ The numbers of voxels were used to determine the correlation degree with neuropsychological assessment scores, as seen in 
+ Rey CFT 20 min delayed recall of memory function, K-CWST word reading of frontal- executive function, and K-MMSE were more strongly correlated than the other 16 covariates in the patient group with aMCI-m.
+ The number of voxels was the most important criterion for the three types of classifications of patients with MCI seen on brain SPECT images.
+ The MCI patients were classified into three groups (aMCI-s, aMCI-m, and naMCI) on the basis of the significant correlation between cerebral hypoperfusion and neuropsychological assessment scores.
+Glass view of the correlated regions between cerebral hypoperfusion and neuropsychological assessment scores by simple regression.
+ The regions that correlated in aMCI-m patients on (a) the digit span test (backward), (b) the Korean version of Boston Naming Test (K-BNT), (c) the Seoul verbal learning test (SVLT) free recall, (d) the SVLT 20 min delayed recall, (e) the SVLT recognition test, (f) the controlled oral word association test (COWAT) animal, (g) the COWAT phonemic, (h) the Korean-color word stroop test (K-CWST) word reading, (i) the K-CWST color reading, (j) the Korean version of mini-mental state examination (K-MMSE), and (k) the geriatric depression scale (GeDepS) are shown as P < 0.05, uncorrected. aMCI-m, multiple-domain amnestic mild cognitive impairment.
+Level 3 Level 5 Range (mm)
+Cerebellar tonsil Declive Uvula of vermis Middle occipital gyrus Superior temporal gyrus Lentiform nucleus
+TD TD TD BA 19 BA 39 Putamen
+0 0 0 1 0 0
+Culmen Declive Subcallosal gyrus Parahippocampal gyrus Claustrum Insula Insula Inferior Temporal gyrus Middle temporal gyrus Superior temporal gyrus Superior temporal gyrus
+TD TD BA 34 Hippocampus TD TD BA 13 BA 37 BA 21 BA 22 BA 39
+0 0 2 2 2 0 1 2 4 0 0
+Cerebellar tonsil Inferior semilunar lobule Pyramis Tuber TD Cerebellar tonsil Inferior semilunar lobule Pyramis
+TD TD TD TD TD TD TD TD
+0 0 0 0 3 2 0 0
+The neuropsychological assessment scores correlated with hypoperfusion in the three subtypes of patients with MCI.
+ The specific pattern of significant correlation between neuropsychological assessment scores and cerebral hypoperfusion was classified into three subtypes (aMCI-s, aMCI-m, and naMCI) according to patients’ deficits in their cognitive domains.
+ Three subtypes of MCI were clearly classified by the analysis of significant correlation between hypoperfusion and neuropsychological assessment scores.
+This work was supported by the Dong-A University research fund.
+ The authors thank Dr Adrian Ankiewicz from ANU (Australia) and Dr Guillaume Flandin of 
+Conflicts of interest There are no conflicts of interest.
